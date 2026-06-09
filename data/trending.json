@@ -1,185 +1,167 @@
 {
-  "fetched_at": "2026-06-08T19:03:57.726Z",
+  "fetched_at": "2026-06-09T06:02:12.819Z",
   "repos": [
     {
-      "name": "cpaczek/skylight",
-      "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
-      "url": "https://github.com/cpaczek/skylight",
-      "stars": 2362,
-      "forks": 234,
+      "name": "diffusionstudio/lottie",
+      "description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
+      "url": "https://github.com/diffusionstudio/lottie",
+      "stars": 696,
+      "forks": 45,
       "language": "TypeScript",
-      "updated_at": "2026-06-08T18:27:18Z"
-    },
-    {
-      "name": "b-nnett/goose",
-      "description": "Goose Swift proof-of-concept README",
-      "url": "https://github.com/b-nnett/goose",
-      "stars": 2313,
-      "forks": 546,
-      "language": "Rust",
-      "updated_at": "2026-06-08T18:33:25Z"
-    },
-    {
-      "name": "jd-opensource/JoyAI-Echo",
-      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "url": "https://github.com/jd-opensource/JoyAI-Echo",
-      "stars": 1055,
-      "forks": 80,
-      "language": "Python",
-      "updated_at": "2026-06-08T18:55:45Z"
-    },
-    {
-      "name": "tastyeffectco/sandboxd",
-      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "url": "https://github.com/tastyeffectco/sandboxd",
-      "stars": 514,
-      "forks": 13,
-      "language": "Go",
-      "updated_at": "2026-06-08T18:35:36Z"
+      "updated_at": "2026-06-09T06:00:03Z"
     },
     {
       "name": "JimLiu/baoyu-design",
       "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
-      "stars": 506,
-      "forks": 36,
+      "stars": 554,
+      "forks": 41,
       "language": "JavaScript",
-      "updated_at": "2026-06-08T18:28:14Z"
+      "updated_at": "2026-06-09T05:54:47Z"
     },
     {
       "name": "NoopApp/noop",
       "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
       "url": "https://github.com/NoopApp/noop",
-      "stars": 502,
-      "forks": 464,
+      "stars": 549,
+      "forks": 506,
       "language": "Swift",
-      "updated_at": "2026-06-08T19:01:31Z"
+      "updated_at": "2026-06-09T06:00:09Z"
     },
     {
-      "name": "Jane-xiaoer/xiaoer-videolab",
-      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
-      "stars": 481,
-      "forks": 76,
-      "language": "JavaScript",
-      "updated_at": "2026-06-08T16:15:57Z"
-    },
-    {
-      "name": "amElnagdy/guard-skills",
-      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-      "url": "https://github.com/amElnagdy/guard-skills",
-      "stars": 451,
-      "forks": 55,
-      "language": null,
-      "updated_at": "2026-06-08T18:59:38Z"
-    },
-    {
-      "name": "zenhosta/9drive",
-      "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
-      "url": "https://github.com/zenhosta/9drive",
-      "stars": 444,
-      "forks": 155,
-      "language": "TypeScript",
-      "updated_at": "2026-06-08T18:29:53Z"
+      "name": "tastyeffectco/sandboxd",
+      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "url": "https://github.com/tastyeffectco/sandboxd",
+      "stars": 517,
+      "forks": 14,
+      "language": "Go",
+      "updated_at": "2026-06-09T05:23:58Z"
     },
     {
       "name": "nevertoday/zhongguo-traditional-colors",
       "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
       "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
-      "stars": 432,
-      "forks": 53,
+      "stars": 513,
+      "forks": 58,
       "language": "JavaScript",
-      "updated_at": "2026-06-08T18:10:13Z"
+      "updated_at": "2026-06-09T05:59:55Z"
     },
     {
-      "name": "jeff141/meatshell",
-      "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
-      "url": "https://github.com/jeff141/meatshell",
-      "stars": 420,
-      "forks": 48,
-      "language": "Rust",
-      "updated_at": "2026-06-08T18:45:12Z"
+      "name": "Jane-xiaoer/xiaoer-videolab",
+      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前��视频抓到本地。",
+      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+      "stars": 485,
+      "forks": 76,
+      "language": "JavaScript",
+      "updated_at": "2026-06-09T02:48:37Z"
     },
     {
-      "name": "wy51ai/edulab",
-      "description": null,
-      "url": "https://github.com/wy51ai/edulab",
-      "stars": 397,
-      "forks": 73,
-      "language": "HTML",
-      "updated_at": "2026-06-08T18:14:18Z"
+      "name": "amElnagdy/guard-skills",
+      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+      "url": "https://github.com/amElnagdy/guard-skills",
+      "stars": 475,
+      "forks": 55,
+      "language": null,
+      "updated_at": "2026-06-09T05:40:08Z"
     },
     {
       "name": "GordenSun/GordenSuperPPTSkills",
       "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-      "stars": 353,
-      "forks": 44,
+      "stars": 474,
+      "forks": 57,
       "language": "Python",
-      "updated_at": "2026-06-08T18:56:25Z"
+      "updated_at": "2026-06-09T05:56:10Z"
+    },
+    {
+      "name": "zenhosta/9drive",
+      "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
+      "url": "https://github.com/zenhosta/9drive",
+      "stars": 452,
+      "forks": 158,
+      "language": "TypeScript",
+      "updated_at": "2026-06-09T03:44:33Z"
+    },
+    {
+      "name": "jeff141/meatshell",
+      "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
+      "url": "https://github.com/jeff141/meatshell",
+      "stars": 436,
+      "forks": 48,
+      "language": "Rust",
+      "updated_at": "2026-06-09T05:49:28Z"
+    },
+    {
+      "name": "wy51ai/edulab",
+      "description": null,
+      "url": "https://github.com/wy51ai/edulab",
+      "stars": 424,
+      "forks": 77,
+      "language": "HTML",
+      "updated_at": "2026-06-09T05:57:14Z"
     },
     {
       "name": "mysk-research/loupe",
       "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
       "url": "https://github.com/mysk-research/loupe",
-      "stars": 347,
-      "forks": 17,
+      "stars": 375,
+      "forks": 18,
       "language": null,
-      "updated_at": "2026-06-08T18:59:57Z"
-    },
-    {
-      "name": "SenhorH/tab-labeler",
-      "description": "Rename browser tabs locally and bring order to chaotic sessions.",
-      "url": "https://github.com/SenhorH/tab-labeler",
-      "stars": 329,
-      "forks": 17,
-      "language": "TypeScript",
-      "updated_at": "2026-06-08T10:29:52Z"
+      "updated_at": "2026-06-09T05:34:44Z"
     },
     {
       "name": "razr001/align-dev",
       "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
       "url": "https://github.com/razr001/align-dev",
-      "stars": 320,
-      "forks": 4,
+      "stars": 346,
+      "forks": 7,
       "language": "TypeScript",
-      "updated_at": "2026-06-08T11:41:22Z"
+      "updated_at": "2026-06-09T04:18:12Z"
+    },
+    {
+      "name": "Unicornronote/Microsoft-Office-Activated",
+      "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)",
+      "url": "https://github.com/Unicornronote/Microsoft-Office-Activated",
+      "stars": 344,
+      "forks": 0,
+      "language": "C++",
+      "updated_at": "2026-06-08T23:40:43Z"
+    },
+    {
+      "name": "vorpus/performativeUI",
+      "description": null,
+      "url": "https://github.com/vorpus/performativeUI",
+      "stars": 337,
+      "forks": 9,
+      "language": "TypeScript",
+      "updated_at": "2026-06-09T06:01:27Z"
     },
     {
       "name": "YuvBindal/produck-oss",
       "description": "Great apps are built on good context",
       "url": "https://github.com/YuvBindal/produck-oss",
-      "stars": 307,
+      "stars": 322,
       "forks": 0,
       "language": null,
-      "updated_at": "2026-06-08T18:47:36Z"
+      "updated_at": "2026-06-09T05:53:55Z"
     },
     {
       "name": "Parcle-AI/parcle-memory",
       "description": null,
       "url": "https://github.com/Parcle-AI/parcle-memory",
-      "stars": 307,
+      "stars": 322,
       "forks": 0,
       "language": null,
-      "updated_at": "2026-06-08T18:47:36Z"
+      "updated_at": "2026-06-09T05:53:54Z"
     },
     {
       "name": "rednote-hilab/dots.tts",
       "description": null,
       "url": "https://github.com/rednote-hilab/dots.tts",
-      "stars": 298,
-      "forks": 18,
+      "stars": 322,
+      "forks": 21,
       "language": "Python",
-      "updated_at": "2026-06-08T18:54:33Z"
-    },
-    {
-      "name": "ni5arga/deanonymizer",
-      "description": "Deanonymize anyone based on their public commenting or posting history & pattern.",
-      "url": "https://github.com/ni5arga/deanonymizer",
-      "stars": 262,
-      "forks": 85,
-      "language": "TypeScript",
-      "updated_at": "2026-06-08T18:06:04Z"
+      "updated_at": "2026-06-09T05:54:53Z"
     },
     {
       "name": "CWS6206/ai-coding-starter-kit",
@@ -191,85 +173,103 @@
       "updated_at": "2026-06-08T05:34:08Z"
     },
     {
-      "name": "torvalds/ScrollWheel",
-      "description": "Minimalist RP2350 magnetic sensor scroll wheel toy project",
-      "url": "https://github.com/torvalds/ScrollWheel",
-      "stars": 251,
-      "forks": 9,
-      "language": "C",
-      "updated_at": "2026-06-08T18:22:03Z"
-    },
-    {
       "name": "FerroxLabs/wayland",
       "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
       "url": "https://github.com/FerroxLabs/wayland",
-      "stars": 241,
-      "forks": 42,
+      "stars": 257,
+      "forks": 45,
       "language": "TypeScript",
-      "updated_at": "2026-06-08T19:00:36Z"
-    },
-    {
-      "name": "Albert-Weasker/niubi_guard",
-      "description": "Open-source GitHub repository abuse detection and response system.",
-      "url": "https://github.com/Albert-Weasker/niubi_guard",
-      "stars": 234,
-      "forks": 113,
-      "language": "TypeScript",
-      "updated_at": "2026-06-08T16:38:18Z"
-    },
-    {
-      "name": "openai/role-specific-plugins",
-      "description": "Role-specific Codex plugin templates",
-      "url": "https://github.com/openai/role-specific-plugins",
-      "stars": 230,
-      "forks": 29,
-      "language": "Python",
-      "updated_at": "2026-06-08T18:59:05Z"
-    },
-    {
-      "name": "zonghaoyuan/infiplot",
-      "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot是全球首个由 AI 实时生成全部图文内容的交互式剧情游戏",
-      "url": "https://github.com/zonghaoyuan/infiplot",
-      "stars": 224,
-      "forks": 35,
-      "language": "TypeScript",
-      "updated_at": "2026-06-08T16:12:49Z"
+      "updated_at": "2026-06-09T05:24:55Z"
     },
     {
       "name": "IvanSobolev/Neo3dEngine",
       "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs.",
       "url": "https://github.com/IvanSobolev/Neo3dEngine",
-      "stars": 209,
+      "stars": 247,
       "forks": 1,
       "language": "C#",
-      "updated_at": "2026-06-08T18:45:05Z"
+      "updated_at": "2026-06-09T06:00:22Z"
     },
     {
-      "name": "Unicornronote/Microsoft-Office-Activated",
-      "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)",
-      "url": "https://github.com/Unicornronote/Microsoft-Office-Activated",
-      "stars": 202,
-      "forks": 0,
-      "language": "C++",
-      "updated_at": "2026-06-08T17:31:12Z"
+      "name": "Albert-Weasker/niubi_guard",
+      "description": "Open-source GitHub repository abuse detection and response system.",
+      "url": "https://github.com/Albert-Weasker/niubi_guard",
+      "stars": 236,
+      "forks": 113,
+      "language": "TypeScript",
+      "updated_at": "2026-06-09T05:43:54Z"
     },
     {
       "name": "JFGAtlas/aethergate-pro",
       "description": null,
       "url": "https://github.com/JFGAtlas/aethergate-pro",
-      "stars": 199,
-      "forks": 39,
+      "stars": 231,
+      "forks": 40,
       "language": "Python",
-      "updated_at": "2026-06-08T18:27:37Z"
+      "updated_at": "2026-06-09T05:56:54Z"
     },
     {
-      "name": "zaydmulani09/mnemo",
-      "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
-      "url": "https://github.com/zaydmulani09/mnemo",
-      "stars": 198,
-      "forks": 7,
-      "language": "Rust",
-      "updated_at": "2026-06-08T17:16:35Z"
+      "name": "hoolulu/deep-research",
+      "description": "深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages",
+      "url": "https://github.com/hoolulu/deep-research",
+      "stars": 224,
+      "forks": 20,
+      "language": "Python",
+      "updated_at": "2026-06-09T05:38:20Z"
+    },
+    {
+      "name": "wizenheimer/canary",
+      "description": "QA harness built for Claude Code | E2E testing with screen recordings, console logs, network HARs, and Playwright traces",
+      "url": "https://github.com/wizenheimer/canary",
+      "stars": 202,
+      "forks": 12,
+      "language": "TypeScript",
+      "updated_at": "2026-06-09T05:59:31Z"
+    },
+    {
+      "name": "xiaohuailabs/xiaohu-video-translate",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "stars": 197,
+      "forks": 20,
+      "language": "Python",
+      "updated_at": "2026-06-09T06:00:25Z"
+    },
+    {
+      "name": "lbq110/weread-exporter",
+      "description": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown",
+      "url": "https://github.com/lbq110/weread-exporter",
+      "stars": 193,
+      "forks": 51,
+      "language": "Python",
+      "updated_at": "2026-06-09T04:32:51Z"
+    },
+    {
+      "name": "beijingcao/binance-deribit-btc",
+      "description": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard.",
+      "url": "https://github.com/beijingcao/binance-deribit-btc",
+      "stars": 188,
+      "forks": 70,
+      "language": "Python",
+      "updated_at": "2026-06-09T05:55:59Z"
+    },
+    {
+      "name": "GalaxyGeneralRobotics/Humanoid-GPT",
+      "description": "[CVPR 2026] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking",
+      "url": "https://github.com/GalaxyGeneralRobotics/Humanoid-GPT",
+      "stars": 186,
+      "forks": 9,
+      "language": "Python",
+      "updated_at": "2026-06-09T05:38:05Z"
+    },
+    {
+      "name": "cellebrite-labs/ghidra-rpc",
+      "description": "A Ghidra agentic reverse engineering skill.",
+      "url": "https://github.com/cellebrite-labs/ghidra-rpc",
+      "stars": 185,
+      "forks": 14,
+      "language": "Python",
+      "updated_at": "2026-06-08T19:47:56Z"
     }
   ]
 }
