@@ -1,23 +1,23 @@
 {
-  "fetched_at": "2026-06-09T06:02:12.819Z",
+  "fetched_at": "2026-06-09T06:04:40.170Z",
   "repos": [
     {
       "name": "diffusionstudio/lottie",
       "description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
       "url": "https://github.com/diffusionstudio/lottie",
-      "stars": 696,
+      "stars": 697,
       "forks": 45,
       "language": "TypeScript",
-      "updated_at": "2026-06-09T06:00:03Z"
+      "updated_at": "2026-06-09T06:03:26Z"
     },
     {
       "name": "JimLiu/baoyu-design",
       "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "url": "https://github.com/JimLiu/baoyu-design",
-      "stars": 554,
+      "stars": 555,
       "forks": 41,
       "language": "JavaScript",
-      "updated_at": "2026-06-09T05:54:47Z"
+      "updated_at": "2026-06-09T06:03:03Z"
     },
     {
       "name": "NoopApp/noop",
@@ -48,7 +48,7 @@
     },
     {
       "name": "Jane-xiaoer/xiaoer-videolab",
-      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前��视频抓到本地。",
+      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
       "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
       "stars": 485,
       "forks": 76,
@@ -59,19 +59,19 @@
       "name": "amElnagdy/guard-skills",
       "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
       "url": "https://github.com/amElnagdy/guard-skills",
-      "stars": 475,
+      "stars": 476,
       "forks": 55,
       "language": null,
-      "updated_at": "2026-06-09T05:40:08Z"
+      "updated_at": "2026-06-09T06:03:56Z"
     },
     {
       "name": "GordenSun/GordenSuperPPTSkills",
       "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-      "stars": 474,
+      "stars": 475,
       "forks": 57,
       "language": "Python",
-      "updated_at": "2026-06-09T05:56:10Z"
+      "updated_at": "2026-06-09T06:03:53Z"
     },
     {
       "name": "zenhosta/9drive",
@@ -86,19 +86,19 @@
       "name": "jeff141/meatshell",
       "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
       "url": "https://github.com/jeff141/meatshell",
-      "stars": 436,
+      "stars": 438,
       "forks": 48,
       "language": "Rust",
-      "updated_at": "2026-06-09T05:49:28Z"
+      "updated_at": "2026-06-09T06:04:12Z"
     },
     {
       "name": "wy51ai/edulab",
       "description": null,
       "url": "https://github.com/wy51ai/edulab",
-      "stars": 424,
+      "stars": 425,
       "forks": 77,
       "language": "HTML",
-      "updated_at": "2026-06-09T05:57:14Z"
+      "updated_at": "2026-06-09T06:04:18Z"
     },
     {
       "name": "mysk-research/loupe",
@@ -131,10 +131,10 @@
       "name": "vorpus/performativeUI",
       "description": null,
       "url": "https://github.com/vorpus/performativeUI",
-      "stars": 337,
+      "stars": 338,
       "forks": 9,
       "language": "TypeScript",
-      "updated_at": "2026-06-09T06:01:27Z"
+      "updated_at": "2026-06-09T06:04:25Z"
     },
     {
       "name": "YuvBindal/produck-oss",
@@ -203,10 +203,10 @@
       "name": "JFGAtlas/aethergate-pro",
       "description": null,
       "url": "https://github.com/JFGAtlas/aethergate-pro",
-      "stars": 231,
+      "stars": 230,
       "forks": 40,
       "language": "Python",
-      "updated_at": "2026-06-09T05:56:54Z"
+      "updated_at": "2026-06-09T06:02:29Z"
     },
     {
       "name": "hoolulu/deep-research",
@@ -228,12 +228,12 @@
     },
     {
       "name": "xiaohuailabs/xiaohu-video-translate",
-      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转��零 API 费",
       "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "stars": 197,
+      "stars": 199,
       "forks": 20,
       "language": "Python",
-      "updated_at": "2026-06-09T06:00:25Z"
+      "updated_at": "2026-06-09T06:03:38Z"
     },
     {
       "name": "lbq110/weread-exporter",
