@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-06-09T06:04:40.170Z",
+  "fetched_at": "2026-06-10T01:58:15.635Z",
   "repos": [
     {
       "name": "diffusionstudio/lottie",
       "description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
       "url": "https://github.com/diffusionstudio/lottie",
-      "stars": 697,
-      "forks": 45,
+      "stars": 1509,
+      "forks": 77,
       "language": "TypeScript",
-      "updated_at": "2026-06-09T06:03:26Z"
-    },
-    {
-      "name": "JimLiu/baoyu-design",
-      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "url": "https://github.com/JimLiu/baoyu-design",
-      "stars": 555,
-      "forks": 41,
-      "language": "JavaScript",
-      "updated_at": "2026-06-09T06:03:03Z"
+      "updated_at": "2026-06-10T01:56:29Z"
     },
     {
       "name": "NoopApp/noop",
       "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
       "url": "https://github.com/NoopApp/noop",
-      "stars": 549,
-      "forks": 506,
+      "stars": 1033,
+      "forks": 574,
       "language": "Swift",
-      "updated_at": "2026-06-09T06:00:09Z"
+      "updated_at": "2026-06-10T01:55:02Z"
     },
     {
-      "name": "tastyeffectco/sandboxd",
-      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "url": "https://github.com/tastyeffectco/sandboxd",
-      "stars": 517,
-      "forks": 14,
-      "language": "Go",
-      "updated_at": "2026-06-09T05:23:58Z"
-    },
-    {
-      "name": "nevertoday/zhongguo-traditional-colors",
-      "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
-      "stars": 513,
-      "forks": 58,
+      "name": "JimLiu/baoyu-design",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "stars": 640,
+      "forks": 48,
       "language": "JavaScript",
-      "updated_at": "2026-06-09T05:59:55Z"
-    },
-    {
-      "name": "Jane-xiaoer/xiaoer-videolab",
-      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
-      "stars": 485,
-      "forks": 76,
-      "language": "JavaScript",
-      "updated_at": "2026-06-09T02:48:37Z"
-    },
-    {
-      "name": "amElnagdy/guard-skills",
-      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-      "url": "https://github.com/amElnagdy/guard-skills",
-      "stars": 476,
-      "forks": 55,
-      "language": null,
-      "updated_at": "2026-06-09T06:03:56Z"
+      "updated_at": "2026-06-10T01:44:49Z"
     },
     {
       "name": "GordenSun/GordenSuperPPTSkills",
-      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全���编辑的PPTX文件。",
       "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-      "stars": 475,
-      "forks": 57,
+      "stars": 616,
+      "forks": 69,
       "language": "Python",
-      "updated_at": "2026-06-09T06:03:53Z"
-    },
-    {
-      "name": "zenhosta/9drive",
-      "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
-      "url": "https://github.com/zenhosta/9drive",
-      "stars": 452,
-      "forks": 158,
-      "language": "TypeScript",
-      "updated_at": "2026-06-09T03:44:33Z"
-    },
-    {
-      "name": "jeff141/meatshell",
-      "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
-      "url": "https://github.com/jeff141/meatshell",
-      "stars": 438,
-      "forks": 48,
-      "language": "Rust",
-      "updated_at": "2026-06-09T06:04:12Z"
-    },
-    {
-      "name": "wy51ai/edulab",
-      "description": null,
-      "url": "https://github.com/wy51ai/edulab",
-      "stars": 425,
-      "forks": 77,
-      "language": "HTML",
-      "updated_at": "2026-06-09T06:04:18Z"
-    },
-    {
-      "name": "mysk-research/loupe",
-      "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
-      "url": "https://github.com/mysk-research/loupe",
-      "stars": 375,
-      "forks": 18,
-      "language": null,
-      "updated_at": "2026-06-09T05:34:44Z"
-    },
-    {
-      "name": "razr001/align-dev",
-      "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
-      "url": "https://github.com/razr001/align-dev",
-      "stars": 346,
-      "forks": 7,
-      "language": "TypeScript",
-      "updated_at": "2026-06-09T04:18:12Z"
-    },
-    {
-      "name": "Unicornronote/Microsoft-Office-Activated",
-      "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)",
-      "url": "https://github.com/Unicornronote/Microsoft-Office-Activated",
-      "stars": 344,
-      "forks": 0,
-      "language": "C++",
-      "updated_at": "2026-06-08T23:40:43Z"
+      "updated_at": "2026-06-10T01:57:54Z"
     },
     {
       "name": "vorpus/performativeUI",
       "description": null,
       "url": "https://github.com/vorpus/performativeUI",
-      "stars": 338,
-      "forks": 9,
+      "stars": 522,
+      "forks": 13,
       "language": "TypeScript",
-      "updated_at": "2026-06-09T06:04:25Z"
+      "updated_at": "2026-06-10T01:48:27Z"
     },
     {
-      "name": "YuvBindal/produck-oss",
-      "description": "Great apps are built on good context",
-      "url": "https://github.com/YuvBindal/produck-oss",
-      "stars": 322,
-      "forks": 0,
+      "name": "amElnagdy/guard-skills",
+      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+      "url": "https://github.com/amElnagdy/guard-skills",
+      "stars": 517,
+      "forks": 59,
       "language": null,
-      "updated_at": "2026-06-09T05:53:55Z"
+      "updated_at": "2026-06-10T01:35:39Z"
     },
     {
-      "name": "Parcle-AI/parcle-memory",
+      "name": "Jane-xiaoer/xiaoer-videolab",
+      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+      "stars": 493,
+      "forks": 76,
+      "language": "JavaScript",
+      "updated_at": "2026-06-10T01:41:48Z"
+    },
+    {
+      "name": "zenhosta/9drive",
+      "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
+      "url": "https://github.com/zenhosta/9drive",
+      "stars": 473,
+      "forks": 160,
+      "language": "TypeScript",
+      "updated_at": "2026-06-10T01:24:59Z"
+    },
+    {
+      "name": "jeff141/meatshell",
+      "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
+      "url": "https://github.com/jeff141/meatshell",
+      "stars": 471,
+      "forks": 50,
+      "language": "Rust",
+      "updated_at": "2026-06-10T01:42:04Z"
+    },
+    {
+      "name": "wy51ai/edulab",
       "description": null,
-      "url": "https://github.com/Parcle-AI/parcle-memory",
-      "stars": 322,
-      "forks": 0,
+      "url": "https://github.com/wy51ai/edulab",
+      "stars": 457,
+      "forks": 83,
+      "language": "HTML",
+      "updated_at": "2026-06-10T01:54:47Z"
+    },
+    {
+      "name": "mysk-research/loupe",
+      "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "stars": 425,
+      "forks": 20,
       "language": null,
-      "updated_at": "2026-06-09T05:53:54Z"
+      "updated_at": "2026-06-10T01:53:17Z"
     },
     {
       "name": "rednote-hilab/dots.tts",
       "description": null,
       "url": "https://github.com/rednote-hilab/dots.tts",
-      "stars": 322,
-      "forks": 21,
+      "stars": 388,
+      "forks": 22,
       "language": "Python",
-      "updated_at": "2026-06-09T05:54:53Z"
+      "updated_at": "2026-06-10T01:51:51Z"
     },
     {
-      "name": "CWS6206/ai-coding-starter-kit",
-      "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
-      "url": "https://github.com/CWS6206/ai-coding-starter-kit",
-      "stars": 262,
-      "forks": 21,
+      "name": "Unicornronote/Microsoft-Office-Activated",
+      "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)",
+      "url": "https://github.com/Unicornronote/Microsoft-Office-Activated",
+      "stars": 382,
+      "forks": 1,
+      "language": "C++",
+      "updated_at": "2026-06-10T00:39:10Z"
+    },
+    {
+      "name": "Parcle-AI/parcle-memory",
+      "description": null,
+      "url": "https://github.com/Parcle-AI/parcle-memory",
+      "stars": 360,
+      "forks": 0,
       "language": null,
-      "updated_at": "2026-06-08T05:34:08Z"
+      "updated_at": "2026-06-10T01:56:06Z"
     },
     {
-      "name": "FerroxLabs/wayland",
-      "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-      "url": "https://github.com/FerroxLabs/wayland",
-      "stars": 257,
-      "forks": 45,
-      "language": "TypeScript",
-      "updated_at": "2026-06-09T05:24:55Z"
+      "name": "apple/coreai-models",
+      "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "url": "https://github.com/apple/coreai-models",
+      "stars": 358,
+      "forks": 12,
+      "language": "Python",
+      "updated_at": "2026-06-10T01:49:32Z"
     },
     {
       "name": "IvanSobolev/Neo3dEngine",
       "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs.",
       "url": "https://github.com/IvanSobolev/Neo3dEngine",
-      "stars": 247,
-      "forks": 1,
+      "stars": 350,
+      "forks": 4,
       "language": "C#",
-      "updated_at": "2026-06-09T06:00:22Z"
+      "updated_at": "2026-06-10T01:31:18Z"
     },
     {
-      "name": "Albert-Weasker/niubi_guard",
-      "description": "Open-source GitHub repository abuse detection and response system.",
-      "url": "https://github.com/Albert-Weasker/niubi_guard",
-      "stars": 236,
-      "forks": 113,
+      "name": "xiaohuailabs/xiaohu-video-translate",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "stars": 344,
+      "forks": 50,
+      "language": "Python",
+      "updated_at": "2026-06-10T01:55:59Z"
+    },
+    {
+      "name": "FerroxLabs/wayland",
+      "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+      "url": "https://github.com/FerroxLabs/wayland",
+      "stars": 331,
+      "forks": 50,
       "language": "TypeScript",
-      "updated_at": "2026-06-09T05:43:54Z"
+      "updated_at": "2026-06-10T00:54:31Z"
+    },
+    {
+      "name": "Tencent-Hunyuan/UniRL",
+      "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+      "url": "https://github.com/Tencent-Hunyuan/UniRL",
+      "stars": 280,
+      "forks": 13,
+      "language": "Python",
+      "updated_at": "2026-06-10T01:54:22Z"
     },
     {
       "name": "JFGAtlas/aethergate-pro",
       "description": null,
       "url": "https://github.com/JFGAtlas/aethergate-pro",
-      "stars": 230,
-      "forks": 40,
+      "stars": 276,
+      "forks": 45,
       "language": "Python",
-      "updated_at": "2026-06-09T06:02:29Z"
+      "updated_at": "2026-06-10T01:47:53Z"
+    },
+    {
+      "name": "CWS6206/ai-coding-starter-kit",
+      "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+      "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+      "stars": 260,
+      "forks": 21,
+      "language": null,
+      "updated_at": "2026-06-09T23:47:02Z"
     },
     {
       "name": "hoolulu/deep-research",
       "description": "深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages",
       "url": "https://github.com/hoolulu/deep-research",
-      "stars": 224,
-      "forks": 20,
+      "stars": 252,
+      "forks": 23,
       "language": "Python",
-      "updated_at": "2026-06-09T05:38:20Z"
+      "updated_at": "2026-06-10T01:53:45Z"
     },
     {
-      "name": "wizenheimer/canary",
-      "description": "QA harness built for Claude Code | E2E testing with screen recordings, console logs, network HARs, and Playwright traces",
-      "url": "https://github.com/wizenheimer/canary",
-      "stars": 202,
+      "name": "jmmy9609-design/gpt-pp",
+      "description": null,
+      "url": "https://github.com/jmmy9609-design/gpt-pp",
+      "stars": 250,
+      "forks": 148,
+      "language": "Python",
+      "updated_at": "2026-06-10T01:53:13Z"
+    },
+    {
+      "name": "tryproduck/produck-oss",
+      "description": "Helping startups accelerate PMF",
+      "url": "https://github.com/tryproduck/produck-oss",
+      "stars": 219,
+      "forks": 0,
+      "language": null,
+      "updated_at": "2026-06-10T01:56:06Z"
+    },
+    {
+      "name": "PlummersSoftwareLLC/TinyRetroPad",
+      "description": null,
+      "url": "https://github.com/PlummersSoftwareLLC/TinyRetroPad",
+      "stars": 213,
       "forks": 12,
-      "language": "TypeScript",
-      "updated_at": "2026-06-09T05:59:31Z"
-    },
-    {
-      "name": "xiaohuailabs/xiaohu-video-translate",
-      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转��零 API 费",
-      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "stars": 199,
-      "forks": 20,
-      "language": "Python",
-      "updated_at": "2026-06-09T06:03:38Z"
-    },
-    {
-      "name": "lbq110/weread-exporter",
-      "description": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown",
-      "url": "https://github.com/lbq110/weread-exporter",
-      "stars": 193,
-      "forks": 51,
-      "language": "Python",
-      "updated_at": "2026-06-09T04:32:51Z"
+      "language": "Assembly",
+      "updated_at": "2026-06-10T01:16:55Z"
     },
     {
       "name": "beijingcao/binance-deribit-btc",
       "description": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard.",
       "url": "https://github.com/beijingcao/binance-deribit-btc",
-      "stars": 188,
-      "forks": 70,
+      "stars": 208,
+      "forks": 76,
       "language": "Python",
-      "updated_at": "2026-06-09T05:55:59Z"
+      "updated_at": "2026-06-10T01:48:03Z"
     },
     {
-      "name": "GalaxyGeneralRobotics/Humanoid-GPT",
-      "description": "[CVPR 2026] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking",
-      "url": "https://github.com/GalaxyGeneralRobotics/Humanoid-GPT",
-      "stars": 186,
-      "forks": 9,
+      "name": "MSNightmare/RoguePlanet",
+      "description": "RoguePlanet Windows Defender Vulnerability",
+      "url": "https://github.com/MSNightmare/RoguePlanet",
+      "stars": 205,
+      "forks": 70,
+      "language": "C++",
+      "updated_at": "2026-06-10T01:56:47Z"
+    },
+    {
+      "name": "lbq110/weread-exporter",
+      "description": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown",
+      "url": "https://github.com/lbq110/weread-exporter",
+      "stars": 202,
+      "forks": 52,
       "language": "Python",
-      "updated_at": "2026-06-09T05:38:05Z"
+      "updated_at": "2026-06-09T20:47:38Z"
     },
     {
       "name": "cellebrite-labs/ghidra-rpc",
       "description": "A Ghidra agentic reverse engineering skill.",
       "url": "https://github.com/cellebrite-labs/ghidra-rpc",
-      "stars": 185,
+      "stars": 188,
       "forks": 14,
       "language": "Python",
-      "updated_at": "2026-06-08T19:47:56Z"
+      "updated_at": "2026-06-09T17:43:57Z"
+    },
+    {
+      "name": "secret-tools/secret-tool",
+      "description": "Secret-Tools — classified discord utilities. Star the repo.",
+      "url": "https://github.com/secret-tools/secret-tool",
+      "stars": 186,
+      "forks": 0,
+      "language": null,
+      "updated_at": "2026-06-10T01:36:24Z"
     }
   ]
 }
