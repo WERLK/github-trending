@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-06-13T01:59:05.434Z",
+  "fetched_at": "2026-06-14T02:08:19.848Z",
   "repos": [
     {
       "name": "XiaomiMiMo/MiMo-Code",
       "description": null,
       "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-      "stars": 6902,
-      "forks": 549,
+      "stars": 7958,
+      "forks": 658,
       "language": "TypeScript",
-      "updated_at": "2026-06-13T01:57:35Z"
+      "updated_at": "2026-06-14T02:05:52Z"
     },
     {
       "name": "shadcn/improve",
       "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "url": "https://github.com/shadcn/improve",
-      "stars": 2446,
-      "forks": 87,
+      "stars": 3436,
+      "forks": 120,
       "language": null,
-      "updated_at": "2026-06-13T01:52:09Z"
-    },
-    {
-      "name": "NoopApp/noop",
-      "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-      "url": "https://github.com/NoopApp/noop",
-      "stars": 1544,
-      "forks": 691,
-      "language": "Swift",
-      "updated_at": "2026-06-13T01:28:38Z"
-    },
-    {
-      "name": "MSNightmare/RoguePlanet",
-      "description": "RoguePlanet Windows Defender Vulnerability",
-      "url": "https://github.com/MSNightmare/RoguePlanet",
-      "stars": 1218,
-      "forks": 509,
-      "language": "C++",
-      "updated_at": "2026-06-13T00:54:43Z"
+      "updated_at": "2026-06-14T02:08:18Z"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 941,
-      "forks": 42,
+      "stars": 1552,
+      "forks": 70,
       "language": "JavaScript",
-      "updated_at": "2026-06-13T01:57:44Z"
+      "updated_at": "2026-06-14T02:07:54Z"
     },
     {
-      "name": "GordenSun/GordenSuperPPTSkills",
-      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后��换为完全可编辑的PPTX文件。",
-      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-      "stars": 846,
-      "forks": 88,
-      "language": "Python",
-      "updated_at": "2026-06-13T01:20:19Z"
-    },
-    {
-      "name": "apple/coreai-models",
-      "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-      "url": "https://github.com/apple/coreai-models",
-      "stars": 834,
-      "forks": 61,
-      "language": "Swift",
-      "updated_at": "2026-06-13T01:35:53Z"
-    },
-    {
-      "name": "JimLiu/baoyu-design",
-      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "url": "https://github.com/JimLiu/baoyu-design",
-      "stars": 830,
-      "forks": 65,
-      "language": "JavaScript",
-      "updated_at": "2026-06-13T01:20:52Z"
-    },
-    {
-      "name": "vorpus/performativeUI",
-      "description": null,
-      "url": "https://github.com/vorpus/performativeUI",
-      "stars": 661,
-      "forks": 16,
-      "language": "TypeScript",
-      "updated_at": "2026-06-13T01:57:15Z"
+      "name": "MSNightmare/RoguePlanet",
+      "description": "RoguePlanet Windows Defender Vulnerability",
+      "url": "https://github.com/MSNightmare/RoguePlanet",
+      "stars": 1253,
+      "forks": 519,
+      "language": "C++",
+      "updated_at": "2026-06-14T01:56:04Z"
     },
     {
       "name": "SkyBlue997/enableMacosAI",
       "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
       "url": "https://github.com/SkyBlue997/enableMacosAI",
-      "stars": 559,
-      "forks": 21,
+      "stars": 999,
+      "forks": 51,
       "language": "Shell",
-      "updated_at": "2026-06-13T01:56:50Z"
+      "updated_at": "2026-06-14T02:03:33Z"
     },
     {
-      "name": "Tencent-Hunyuan/UniRL",
-      "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
-      "url": "https://github.com/Tencent-Hunyuan/UniRL",
-      "stars": 550,
-      "forks": 31,
-      "language": "Python",
-      "updated_at": "2026-06-12T20:10:26Z"
+      "name": "apple/coreai-models",
+      "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "url": "https://github.com/apple/coreai-models",
+      "stars": 873,
+      "forks": 64,
+      "language": "Swift",
+      "updated_at": "2026-06-14T02:02:57Z"
     },
     {
       "name": "plannotator/effective-html",
       "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
       "url": "https://github.com/plannotator/effective-html",
-      "stars": 486,
-      "forks": 25,
+      "stars": 753,
+      "forks": 48,
       "language": "HTML",
-      "updated_at": "2026-06-13T01:54:19Z"
-    },
-    {
-      "name": "xiaohuailabs/xiaohu-video-translate",
-      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "stars": 481,
-      "forks": 75,
-      "language": "Python",
-      "updated_at": "2026-06-13T00:10:01Z"
-    },
-    {
-      "name": "levy-street/world-of-claudecraft",
-      "description": null,
-      "url": "https://github.com/levy-street/world-of-claudecraft",
-      "stars": 440,
-      "forks": 86,
-      "language": "TypeScript",
-      "updated_at": "2026-06-13T01:52:04Z"
-    },
-    {
-      "name": "khrisat/text-humanizer",
-      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
-      "url": "https://github.com/khrisat/text-humanizer",
-      "stars": 436,
-      "forks": 54,
-      "language": "Python",
-      "updated_at": "2026-06-13T01:44:41Z"
-    },
-    {
-      "name": "jwangkun/claude-for-financial-services-cn",
-      "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
-      "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
-      "stars": 424,
-      "forks": 64,
-      "language": "Python",
-      "updated_at": "2026-06-13T00:29:26Z"
-    },
-    {
-      "name": "MSNightmare/GreatXML",
-      "description": "GreatXML bitlocker bypass vulnerability",
-      "url": "https://github.com/MSNightmare/GreatXML",
-      "stars": 424,
-      "forks": 177,
-      "language": null,
-      "updated_at": "2026-06-13T01:40:40Z"
-    },
-    {
-      "name": "ziqihe10-droid/xuefeng-agent",
-      "description": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
-      "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
-      "stars": 394,
-      "forks": 53,
-      "language": "HTML",
-      "updated_at": "2026-06-13T01:58:10Z"
-    },
-    {
-      "name": "jmmy9609-design/gpt-pp",
-      "description": null,
-      "url": "https://github.com/jmmy9609-design/gpt-pp",
-      "stars": 374,
-      "forks": 199,
-      "language": "Python",
-      "updated_at": "2026-06-12T19:32:02Z"
-    },
-    {
-      "name": "JFGAtlas/aethergate-pro",
-      "description": null,
-      "url": "https://github.com/JFGAtlas/aethergate-pro",
-      "stars": 345,
-      "forks": 49,
-      "language": "Python",
-      "updated_at": "2026-06-12T17:07:36Z"
-    },
-    {
-      "name": "secret-tools/secret-tool",
-      "description": "Secret-Tools — classified discord utilities. Star the repo.",
-      "url": "https://github.com/secret-tools/secret-tool",
-      "stars": 329,
-      "forks": 0,
-      "language": null,
-      "updated_at": "2026-06-11T20:22:05Z"
-    },
-    {
-      "name": "joeseesun/qiaomu-goal-meta-skill",
-      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
-      "stars": 306,
-      "forks": 26,
-      "language": "Python",
-      "updated_at": "2026-06-13T01:53:22Z"
-    },
-    {
-      "name": "NuvioMedia/NuvioDesktop",
-      "description": null,
-      "url": "https://github.com/NuvioMedia/NuvioDesktop",
-      "stars": 295,
-      "forks": 14,
-      "language": "Kotlin",
-      "updated_at": "2026-06-13T01:36:05Z"
-    },
-    {
-      "name": "Danilaa1/slot-text",
-      "description": "Dependency-free text roll animation for vanilla JS, React, and Vue.",
-      "url": "https://github.com/Danilaa1/slot-text",
-      "stars": 279,
-      "forks": 4,
-      "language": "TypeScript",
-      "updated_at": "2026-06-13T01:45:29Z"
-    },
-    {
-      "name": "XBuilderLAB/cheat-on-money",
-      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
-      "url": "https://github.com/XBuilderLAB/cheat-on-money",
-      "stars": 275,
-      "forks": 32,
-      "language": "JavaScript",
-      "updated_at": "2026-06-12T21:13:20Z"
-    },
-    {
-      "name": "coder/boo",
-      "description": "A GNU screen style terminal multiplexer built on libghostty.",
-      "url": "https://github.com/coder/boo",
-      "stars": 273,
-      "forks": 7,
-      "language": "Zig",
-      "updated_at": "2026-06-13T01:28:36Z"
-    },
-    {
-      "name": "BuilderIO/skills",
-      "description": "Skills for coding agents",
-      "url": "https://github.com/BuilderIO/skills",
-      "stars": 266,
-      "forks": 15,
-      "language": "JavaScript",
-      "updated_at": "2026-06-13T01:42:53Z"
-    },
-    {
-      "name": "valkor-ai/loom",
-      "description": "Loop engineering for agentic software delivery.",
-      "url": "https://github.com/valkor-ai/loom",
-      "stars": 248,
-      "forks": 13,
-      "language": "TypeScript",
-      "updated_at": "2026-06-13T00:59:33Z"
-    },
-    {
-      "name": "beijingcao/binance-deribit-btc",
-      "description": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard.",
-      "url": "https://github.com/beijingcao/binance-deribit-btc",
-      "stars": 235,
-      "forks": 85,
-      "language": "Python",
-      "updated_at": "2026-06-12T07:23:58Z"
+      "updated_at": "2026-06-14T00:54:46Z"
     },
     {
       "name": "lenucksi/aur-malware-check",
       "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
       "url": "https://github.com/lenucksi/aur-malware-check",
-      "stars": 225,
-      "forks": 1,
+      "stars": 605,
+      "forks": 15,
       "language": "Shell",
-      "updated_at": "2026-06-13T01:56:01Z"
+      "updated_at": "2026-06-14T02:07:30Z"
+    },
+    {
+      "name": "levy-street/world-of-claudecraft",
+      "description": null,
+      "url": "https://github.com/levy-street/world-of-claudecraft",
+      "stars": 600,
+      "forks": 133,
+      "language": "TypeScript",
+      "updated_at": "2026-06-14T01:33:28Z"
+    },
+    {
+      "name": "Tencent-Hunyuan/UniRL",
+      "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+      "url": "https://github.com/Tencent-Hunyuan/UniRL",
+      "stars": 580,
+      "forks": 32,
+      "language": "Python",
+      "updated_at": "2026-06-14T00:26:59Z"
+    },
+    {
+      "name": "khrisat/text-humanizer",
+      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+      "url": "https://github.com/khrisat/text-humanizer",
+      "stars": 570,
+      "forks": 54,
+      "language": "Python",
+      "updated_at": "2026-06-14T01:23:54Z"
+    },
+    {
+      "name": "omnigent-ai/omnigent",
+      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "stars": 503,
+      "forks": 63,
+      "language": "Python",
+      "updated_at": "2026-06-14T02:08:08Z"
+    },
+    {
+      "name": "xiaohuailabs/xiaohu-video-translate",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "stars": 491,
+      "forks": 76,
+      "language": "Python",
+      "updated_at": "2026-06-13T14:35:55Z"
+    },
+    {
+      "name": "joeseesun/qiaomu-goal-meta-skill",
+      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "stars": 461,
+      "forks": 37,
+      "language": "Python",
+      "updated_at": "2026-06-14T02:03:16Z"
+    },
+    {
+      "name": "MSNightmare/GreatXML",
+      "description": "GreatXML bitlocker bypass vulnerability",
+      "url": "https://github.com/MSNightmare/GreatXML",
+      "stars": 457,
+      "forks": 189,
+      "language": null,
+      "updated_at": "2026-06-14T00:10:43Z"
+    },
+    {
+      "name": "alchaincyf/fanbox",
+      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "url": "https://github.com/alchaincyf/fanbox",
+      "stars": 437,
+      "forks": 58,
+      "language": "JavaScript",
+      "updated_at": "2026-06-14T01:39:26Z"
+    },
+    {
+      "name": "orange2ai/renwei-writing",
+      "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "url": "https://github.com/orange2ai/renwei-writing",
+      "stars": 425,
+      "forks": 43,
+      "language": null,
+      "updated_at": "2026-06-14T01:52:21Z"
+    },
+    {
+      "name": "jmmy9609-design/gpt-pp",
+      "description": null,
+      "url": "https://github.com/jmmy9609-design/gpt-pp",
+      "stars": 396,
+      "forks": 203,
+      "language": "Python",
+      "updated_at": "2026-06-13T18:26:56Z"
+    },
+    {
+      "name": "Danilaa1/slot-text",
+      "description": "Dependency-free text roll animation for vanilla JS, React, and Vue.",
+      "url": "https://github.com/Danilaa1/slot-text",
+      "stars": 368,
+      "forks": 6,
+      "language": "TypeScript",
+      "updated_at": "2026-06-14T02:04:00Z"
+    },
+    {
+      "name": "coder/boo",
+      "description": "A GNU screen style terminal multiplexer built on libghostty.",
+      "url": "https://github.com/coder/boo",
+      "stars": 358,
+      "forks": 8,
+      "language": "Zig",
+      "updated_at": "2026-06-14T01:19:56Z"
+    },
+    {
+      "name": "secret-tools/secret-tool",
+      "description": "Secret-Tools — classified discord utilities. Star the repo.",
+      "url": "https://github.com/secret-tools/secret-tool",
+      "stars": 331,
+      "forks": 0,
+      "language": null,
+      "updated_at": "2026-06-13T21:26:28Z"
+    },
+    {
+      "name": "DanMcInerney/architect-loop",
+      "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+      "url": "https://github.com/DanMcInerney/architect-loop",
+      "stars": 322,
+      "forks": 22,
+      "language": "HTML",
+      "updated_at": "2026-06-14T02:06:28Z"
+    },
+    {
+      "name": "NuvioMedia/NuvioDesktop",
+      "description": null,
+      "url": "https://github.com/NuvioMedia/NuvioDesktop",
+      "stars": 318,
+      "forks": 15,
+      "language": "Kotlin",
+      "updated_at": "2026-06-14T02:03:21Z"
+    },
+    {
+      "name": "kadevin/ilab-gpt-conjure",
+      "description": "面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
+      "url": "https://github.com/kadevin/ilab-gpt-conjure",
+      "stars": 306,
+      "forks": 26,
+      "language": "Python",
+      "updated_at": "2026-06-14T02:06:03Z"
+    },
+    {
+      "name": "inbrainfun/inbrain",
+      "description": null,
+      "url": "https://github.com/inbrainfun/inbrain",
+      "stars": 304,
+      "forks": 196,
+      "language": "TypeScript",
+      "updated_at": "2026-06-14T02:07:30Z"
+    },
+    {
+      "name": "XBuilderLAB/cheat-on-money",
+      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+      "url": "https://github.com/XBuilderLAB/cheat-on-money",
+      "stars": 297,
+      "forks": 38,
+      "language": "JavaScript",
+      "updated_at": "2026-06-13T19:58:15Z"
+    },
+    {
+      "name": "BuilderIO/skills",
+      "description": "Skills for coding agents",
+      "url": "https://github.com/BuilderIO/skills",
+      "stars": 290,
+      "forks": 16,
+      "language": "JavaScript",
+      "updated_at": "2026-06-13T21:04:36Z"
+    },
+    {
+      "name": "eli-labz/Third-Eye",
+      "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "url": "https://github.com/eli-labz/Third-Eye",
+      "stars": 285,
+      "forks": 1,
+      "language": "TypeScript",
+      "updated_at": "2026-06-13T19:57:59Z"
+    },
+    {
+      "name": "valkor-ai/loom",
+      "description": "Loop engineering for agentic software delivery.",
+      "url": "https://github.com/valkor-ai/loom",
+      "stars": 258,
+      "forks": 13,
+      "language": "TypeScript",
+      "updated_at": "2026-06-14T01:14:10Z"
+    },
+    {
+      "name": "MiniMax-AI/MSA",
+      "description": null,
+      "url": "https://github.com/MiniMax-AI/MSA",
+      "stars": 251,
+      "forks": 18,
+      "language": "Python",
+      "updated_at": "2026-06-13T22:24:50Z"
     }
   ]
 }
