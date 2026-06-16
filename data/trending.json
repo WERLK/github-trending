@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-06-15T02:12:35.287Z",
+  "fetched_at": "2026-06-16T02:16:17.771Z",
   "repos": [
-    {
-      "name": "XiaomiMiMo/MiMo-Code",
-      "description": null,
-      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-      "stars": 8478,
-      "forks": 720,
-      "language": "TypeScript",
-      "updated_at": "2026-06-15T02:00:30Z"
-    },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 8348,
-      "forks": 363,
+      "stars": 16805,
+      "forks": 709,
       "language": "JavaScript",
-      "updated_at": "2026-06-15T02:12:13Z"
+      "updated_at": "2026-06-16T02:16:15Z"
+    },
+    {
+      "name": "XiaomiMiMo/MiMo-Code",
+      "description": null,
+      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+      "stars": 9048,
+      "forks": 798,
+      "language": "TypeScript",
+      "updated_at": "2026-06-16T02:11:07Z"
     },
     {
       "name": "shadcn/improve",
       "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "url": "https://github.com/shadcn/improve",
-      "stars": 4371,
-      "forks": 155,
+      "stars": 4883,
+      "forks": 168,
       "language": null,
-      "updated_at": "2026-06-15T02:12:00Z"
-    },
-    {
-      "name": "MSNightmare/RoguePlanet",
-      "description": "RoguePlanet Windows Defender Vulnerability",
-      "url": "https://github.com/MSNightmare/RoguePlanet",
-      "stars": 1275,
-      "forks": 527,
-      "language": "C++",
-      "updated_at": "2026-06-15T00:17:13Z"
+      "updated_at": "2026-06-16T02:14:06Z"
     },
     {
       "name": "omnigent-ai/omnigent",
       "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
       "url": "https://github.com/omnigent-ai/omnigent",
-      "stars": 1234,
-      "forks": 139,
+      "stars": 1953,
+      "forks": 238,
       "language": "Python",
-      "updated_at": "2026-06-15T02:11:10Z"
-    },
-    {
-      "name": "SkyBlue997/enableMacosAI",
-      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-      "url": "https://github.com/SkyBlue997/enableMacosAI",
-      "stars": 1194,
-      "forks": 63,
-      "language": "Shell",
-      "updated_at": "2026-06-15T02:11:49Z"
-    },
-    {
-      "name": "lenucksi/aur-malware-check",
-      "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
-      "url": "https://github.com/lenucksi/aur-malware-check",
-      "stars": 890,
-      "forks": 23,
-      "language": "Shell",
-      "updated_at": "2026-06-15T01:49:53Z"
-    },
-    {
-      "name": "plannotator/effective-html",
-      "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
-      "url": "https://github.com/plannotator/effective-html",
-      "stars": 834,
-      "forks": 57,
-      "language": "HTML",
-      "updated_at": "2026-06-15T01:35:04Z"
-    },
-    {
-      "name": "levy-street/world-of-claudecraft",
-      "description": null,
-      "url": "https://github.com/levy-street/world-of-claudecraft",
-      "stars": 701,
-      "forks": 182,
-      "language": "TypeScript",
-      "updated_at": "2026-06-15T01:40:52Z"
+      "updated_at": "2026-06-16T02:13:01Z"
     },
     {
       "name": "tamnd/kage",
       "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
       "url": "https://github.com/tamnd/kage",
-      "stars": 658,
-      "forks": 12,
+      "stars": 1554,
+      "forks": 36,
       "language": "Go",
-      "updated_at": "2026-06-15T02:12:14Z"
+      "updated_at": "2026-06-16T02:12:16Z"
     },
     {
-      "name": "khrisat/text-humanizer",
-      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
-      "url": "https://github.com/khrisat/text-humanizer",
-      "stars": 579,
-      "forks": 54,
-      "language": "Python",
-      "updated_at": "2026-06-15T01:19:28Z"
+      "name": "SkyBlue997/enableMacosAI",
+      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "url": "https://github.com/SkyBlue997/enableMacosAI",
+      "stars": 1288,
+      "forks": 69,
+      "language": "Shell",
+      "updated_at": "2026-06-16T02:15:26Z"
     },
     {
-      "name": "joeseesun/qiaomu-goal-meta-skill",
-      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
-      "stars": 578,
-      "forks": 43,
-      "language": "Python",
-      "updated_at": "2026-06-15T02:09:40Z"
+      "name": "lenucksi/aur-malware-check",
+      "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+      "url": "https://github.com/lenucksi/aur-malware-check",
+      "stars": 1183,
+      "forks": 30,
+      "language": "Shell",
+      "updated_at": "2026-06-16T02:02:57Z"
+    },
+    {
+      "name": "levy-street/world-of-claudecraft",
+      "description": null,
+      "url": "https://github.com/levy-street/world-of-claudecraft",
+      "stars": 795,
+      "forks": 216,
+      "language": "TypeScript",
+      "updated_at": "2026-06-16T01:42:35Z"
     },
     {
       "name": "orange2ai/renwei-writing",
       "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
       "url": "https://github.com/orange2ai/renwei-writing",
-      "stars": 575,
-      "forks": 59,
+      "stars": 676,
+      "forks": 64,
       "language": null,
-      "updated_at": "2026-06-15T02:08:04Z"
-    },
-    {
-      "name": "Danilaa1/slot-text",
-      "description": "Dependency-free text roll animation for vanilla JS, React, and Vue.",
-      "url": "https://github.com/Danilaa1/slot-text",
-      "stars": 571,
-      "forks": 9,
-      "language": "TypeScript",
-      "updated_at": "2026-06-15T02:11:33Z"
-    },
-    {
-      "name": "alchaincyf/fanbox",
-      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "url": "https://github.com/alchaincyf/fanbox",
-      "stars": 525,
-      "forks": 72,
-      "language": "JavaScript",
-      "updated_at": "2026-06-15T01:16:37Z"
-    },
-    {
-      "name": "MSNightmare/GreatXML",
-      "description": "GreatXML bitlocker bypass vulnerability",
-      "url": "https://github.com/MSNightmare/GreatXML",
-      "stars": 475,
-      "forks": 198,
-      "language": null,
-      "updated_at": "2026-06-15T01:57:32Z"
-    },
-    {
-      "name": "coder/boo",
-      "description": "A GNU screen style terminal multiplexer built on libghostty.",
-      "url": "https://github.com/coder/boo",
-      "stars": 467,
-      "forks": 11,
-      "language": "Zig",
-      "updated_at": "2026-06-15T02:11:46Z"
-    },
-    {
-      "name": "jmmy9609-design/gpt-pp",
-      "description": null,
-      "url": "https://github.com/jmmy9609-design/gpt-pp",
-      "stars": 395,
-      "forks": 203,
-      "language": "Python",
-      "updated_at": "2026-06-14T10:15:55Z"
-    },
-    {
-      "name": "DanMcInerney/architect-loop",
-      "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
-      "url": "https://github.com/DanMcInerney/architect-loop",
-      "stars": 393,
-      "forks": 31,
-      "language": "HTML",
-      "updated_at": "2026-06-15T02:01:22Z"
-    },
-    {
-      "name": "EEliberto/IPA-Download",
-      "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
-      "url": "https://github.com/EEliberto/IPA-Download",
-      "stars": 375,
-      "forks": 22,
-      "language": "Swift",
-      "updated_at": "2026-06-15T02:11:23Z"
-    },
-    {
-      "name": "inbrainfun/inbrain",
-      "description": null,
-      "url": "https://github.com/inbrainfun/inbrain",
-      "stars": 356,
-      "forks": 216,
-      "language": "TypeScript",
-      "updated_at": "2026-06-15T02:00:28Z"
-    },
-    {
-      "name": "mrtooher/fable-mode",
-      "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
-      "url": "https://github.com/mrtooher/fable-mode",
-      "stars": 335,
-      "forks": 41,
-      "language": null,
-      "updated_at": "2026-06-15T02:03:12Z"
+      "updated_at": "2026-06-16T02:12:24Z"
     },
     {
       "name": "loc567/loc567",
       "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
       "url": "https://github.com/loc567/loc567",
-      "stars": 324,
-      "forks": 31,
+      "stars": 658,
+      "forks": 75,
       "language": "C",
-      "updated_at": "2026-06-15T02:08:08Z"
+      "updated_at": "2026-06-16T02:12:53Z"
+    },
+    {
+      "name": "joeseesun/qiaomu-goal-meta-skill",
+      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "stars": 615,
+      "forks": 45,
+      "language": "Python",
+      "updated_at": "2026-06-16T01:45:20Z"
+    },
+    {
+      "name": "coder/boo",
+      "description": "A GNU screen style terminal multiplexer built on libghostty.",
+      "url": "https://github.com/coder/boo",
+      "stars": 602,
+      "forks": 15,
+      "language": "Zig",
+      "updated_at": "2026-06-16T02:10:39Z"
+    },
+    {
+      "name": "alchaincyf/fanbox",
+      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "url": "https://github.com/alchaincyf/fanbox",
+      "stars": 578,
+      "forks": 82,
+      "language": "JavaScript",
+      "updated_at": "2026-06-16T01:35:02Z"
+    },
+    {
+      "name": "EEliberto/IPA-Download",
+      "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+      "url": "https://github.com/EEliberto/IPA-Download",
+      "stars": 500,
+      "forks": 30,
+      "language": "Swift",
+      "updated_at": "2026-06-16T01:54:22Z"
+    },
+    {
+      "name": "MSNightmare/GreatXML",
+      "description": "GreatXML bitlocker bypass vulnerability",
+      "url": "https://github.com/MSNightmare/GreatXML",
+      "stars": 498,
+      "forks": 208,
+      "language": null,
+      "updated_at": "2026-06-16T01:21:40Z"
     },
     {
       "name": "nolangz/pixel2motion",
       "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
       "url": "https://github.com/nolangz/pixel2motion",
-      "stars": 321,
-      "forks": 33,
+      "stars": 485,
+      "forks": 40,
       "language": "Python",
-      "updated_at": "2026-06-15T02:11:12Z"
+      "updated_at": "2026-06-16T02:16:02Z"
     },
     {
-      "name": "BuilderIO/skills",
-      "description": "Skills for coding agents",
-      "url": "https://github.com/BuilderIO/skills",
-      "stars": 307,
-      "forks": 16,
-      "language": "JavaScript",
-      "updated_at": "2026-06-15T01:37:41Z"
+      "name": "DanMcInerney/architect-loop",
+      "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+      "url": "https://github.com/DanMcInerney/architect-loop",
+      "stars": 456,
+      "forks": 35,
+      "language": "HTML",
+      "updated_at": "2026-06-16T01:53:22Z"
     },
     {
-      "name": "eli-labz/Third-Eye",
-      "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
-      "url": "https://github.com/eli-labz/Third-Eye",
-      "stars": 287,
-      "forks": 1,
+      "name": "mrtooher/fable-mode",
+      "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+      "url": "https://github.com/mrtooher/fable-mode",
+      "stars": 406,
+      "forks": 51,
+      "language": null,
+      "updated_at": "2026-06-16T02:10:29Z"
+    },
+    {
+      "name": "vorssaint/vorssaint-utils",
+      "description": null,
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "stars": 401,
+      "forks": 18,
+      "language": "Swift",
+      "updated_at": "2026-06-16T02:16:01Z"
+    },
+    {
+      "name": "inbrainfun/inbrain",
+      "description": null,
+      "url": "https://github.com/inbrainfun/inbrain",
+      "stars": 385,
+      "forks": 218,
       "language": "TypeScript",
-      "updated_at": "2026-06-15T02:07:32Z"
+      "updated_at": "2026-06-16T01:56:34Z"
+    },
+    {
+      "name": "SunJaycy/GoldenEye-Recomp",
+      "description": null,
+      "url": "https://github.com/SunJaycy/GoldenEye-Recomp",
+      "stars": 372,
+      "forks": 12,
+      "language": "C++",
+      "updated_at": "2026-06-16T02:07:34Z"
     },
     {
       "name": "royalbhati/sqltoerdiagram",
       "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
       "url": "https://github.com/royalbhati/sqltoerdiagram",
-      "stars": 281,
-      "forks": 17,
-      "language": "JavaScript",
-      "updated_at": "2026-06-15T02:07:28Z"
-    },
-    {
-      "name": "skydoves/compose-nav-graph",
-      "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
-      "url": "https://github.com/skydoves/compose-nav-graph",
-      "stars": 275,
-      "forks": 7,
-      "language": "Kotlin",
-      "updated_at": "2026-06-15T01:54:19Z"
-    },
-    {
-      "name": "MiniMax-AI/MSA",
-      "description": null,
-      "url": "https://github.com/MiniMax-AI/MSA",
-      "stars": 273,
+      "stars": 357,
       "forks": 22,
-      "language": "Python",
-      "updated_at": "2026-06-15T01:37:48Z"
+      "language": "JavaScript",
+      "updated_at": "2026-06-16T01:21:25Z"
     },
     {
       "name": "LearnPrompt/luban-skill",
       "description": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉",
       "url": "https://github.com/LearnPrompt/luban-skill",
-      "stars": 271,
-      "forks": 41,
+      "stars": 339,
+      "forks": 60,
       "language": "Shell",
-      "updated_at": "2026-06-15T02:06:17Z"
+      "updated_at": "2026-06-16T02:13:52Z"
+    },
+    {
+      "name": "skydoves/compose-nav-graph",
+      "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
+      "url": "https://github.com/skydoves/compose-nav-graph",
+      "stars": 327,
+      "forks": 15,
+      "language": "Kotlin",
+      "updated_at": "2026-06-16T01:33:31Z"
+    },
+    {
+      "name": "BuilderIO/skills",
+      "description": "Skills for coding agents",
+      "url": "https://github.com/BuilderIO/skills",
+      "stars": 325,
+      "forks": 18,
+      "language": "JavaScript",
+      "updated_at": "2026-06-16T01:41:58Z"
+    },
+    {
+      "name": "alchaincyf/loop-engineering-orange-book",
+      "description": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+      "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+      "stars": 322,
+      "forks": 17,
+      "language": null,
+      "updated_at": "2026-06-16T02:15:59Z"
+    },
+    {
+      "name": "fguzman82/gateGPT",
+      "description": "Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second.",
+      "url": "https://github.com/fguzman82/gateGPT",
+      "stars": 312,
+      "forks": 59,
+      "language": "Verilog",
+      "updated_at": "2026-06-16T02:10:49Z"
+    },
+    {
+      "name": "duolahypercho/fusion-fable",
+      "description": "Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
+      "url": "https://github.com/duolahypercho/fusion-fable",
+      "stars": 297,
+      "forks": 46,
+      "language": "Shell",
+      "updated_at": "2026-06-16T00:36:57Z"
+    },
+    {
+      "name": "MiniMax-AI/MSA",
+      "description": null,
+      "url": "https://github.com/MiniMax-AI/MSA",
+      "stars": 295,
+      "forks": 27,
+      "language": "Python",
+      "updated_at": "2026-06-16T01:38:32Z"
+    },
+    {
+      "name": "eli-labz/Third-Eye",
+      "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "url": "https://github.com/eli-labz/Third-Eye",
+      "stars": 291,
+      "forks": 1,
+      "language": "TypeScript",
+      "updated_at": "2026-06-16T02:10:50Z"
     }
   ]
 }
