@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-06-16T02:16:17.771Z",
+  "fetched_at": "2026-06-17T02:11:54.825Z",
   "repos": [
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 16805,
-      "forks": 709,
+      "stars": 25474,
+      "forks": 1122,
       "language": "JavaScript",
-      "updated_at": "2026-06-16T02:16:15Z"
-    },
-    {
-      "name": "XiaomiMiMo/MiMo-Code",
-      "description": null,
-      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-      "stars": 9048,
-      "forks": 798,
-      "language": "TypeScript",
-      "updated_at": "2026-06-16T02:11:07Z"
-    },
-    {
-      "name": "shadcn/improve",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "url": "https://github.com/shadcn/improve",
-      "stars": 4883,
-      "forks": 168,
-      "language": null,
-      "updated_at": "2026-06-16T02:14:06Z"
+      "updated_at": "2026-06-17T02:11:37Z"
     },
     {
       "name": "omnigent-ai/omnigent",
       "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
       "url": "https://github.com/omnigent-ai/omnigent",
-      "stars": 1953,
-      "forks": 238,
+      "stars": 2833,
+      "forks": 330,
       "language": "Python",
-      "updated_at": "2026-06-16T02:13:01Z"
+      "updated_at": "2026-06-17T02:10:41Z"
     },
     {
       "name": "tamnd/kage",
       "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
       "url": "https://github.com/tamnd/kage",
-      "stars": 1554,
-      "forks": 36,
+      "stars": 1763,
+      "forks": 50,
       "language": "Go",
-      "updated_at": "2026-06-16T02:12:16Z"
-    },
-    {
-      "name": "SkyBlue997/enableMacosAI",
-      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-      "url": "https://github.com/SkyBlue997/enableMacosAI",
-      "stars": 1288,
-      "forks": 69,
-      "language": "Shell",
-      "updated_at": "2026-06-16T02:15:26Z"
+      "updated_at": "2026-06-17T01:53:09Z"
     },
     {
       "name": "lenucksi/aur-malware-check",
       "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
       "url": "https://github.com/lenucksi/aur-malware-check",
-      "stars": 1183,
+      "stars": 1349,
       "forks": 30,
       "language": "Shell",
-      "updated_at": "2026-06-16T02:02:57Z"
-    },
-    {
-      "name": "levy-street/world-of-claudecraft",
-      "description": null,
-      "url": "https://github.com/levy-street/world-of-claudecraft",
-      "stars": 795,
-      "forks": 216,
-      "language": "TypeScript",
-      "updated_at": "2026-06-16T01:42:35Z"
-    },
-    {
-      "name": "orange2ai/renwei-writing",
-      "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-      "url": "https://github.com/orange2ai/renwei-writing",
-      "stars": 676,
-      "forks": 64,
-      "language": null,
-      "updated_at": "2026-06-16T02:12:24Z"
-    },
-    {
-      "name": "loc567/loc567",
-      "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
-      "url": "https://github.com/loc567/loc567",
-      "stars": 658,
-      "forks": 75,
-      "language": "C",
-      "updated_at": "2026-06-16T02:12:53Z"
-    },
-    {
-      "name": "joeseesun/qiaomu-goal-meta-skill",
-      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
-      "stars": 615,
-      "forks": 45,
-      "language": "Python",
-      "updated_at": "2026-06-16T01:45:20Z"
-    },
-    {
-      "name": "coder/boo",
-      "description": "A GNU screen style terminal multiplexer built on libghostty.",
-      "url": "https://github.com/coder/boo",
-      "stars": 602,
-      "forks": 15,
-      "language": "Zig",
-      "updated_at": "2026-06-16T02:10:39Z"
-    },
-    {
-      "name": "alchaincyf/fanbox",
-      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "url": "https://github.com/alchaincyf/fanbox",
-      "stars": 578,
-      "forks": 82,
-      "language": "JavaScript",
-      "updated_at": "2026-06-16T01:35:02Z"
+      "updated_at": "2026-06-17T02:09:48Z"
     },
     {
       "name": "EEliberto/IPA-Download",
       "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
       "url": "https://github.com/EEliberto/IPA-Download",
-      "stars": 500,
-      "forks": 30,
+      "stars": 837,
+      "forks": 45,
       "language": "Swift",
-      "updated_at": "2026-06-16T01:54:22Z"
+      "updated_at": "2026-06-17T02:09:45Z"
     },
     {
-      "name": "MSNightmare/GreatXML",
-      "description": "GreatXML bitlocker bypass vulnerability",
-      "url": "https://github.com/MSNightmare/GreatXML",
-      "stars": 498,
-      "forks": 208,
+      "name": "loc567/loc567",
+      "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
+      "url": "https://github.com/loc567/loc567",
+      "stars": 782,
+      "forks": 91,
+      "language": "C",
+      "updated_at": "2026-06-17T01:51:47Z"
+    },
+    {
+      "name": "orange2ai/renwei-writing",
+      "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "url": "https://github.com/orange2ai/renwei-writing",
+      "stars": 722,
+      "forks": 73,
       "language": null,
-      "updated_at": "2026-06-16T01:21:40Z"
+      "updated_at": "2026-06-17T02:06:30Z"
+    },
+    {
+      "name": "joeseesun/qiaomu-goal-meta-skill",
+      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "stars": 632,
+      "forks": 47,
+      "language": "Python",
+      "updated_at": "2026-06-17T01:11:55Z"
     },
     {
       "name": "nolangz/pixel2motion",
       "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
       "url": "https://github.com/nolangz/pixel2motion",
-      "stars": 485,
-      "forks": 40,
+      "stars": 603,
+      "forks": 53,
       "language": "Python",
-      "updated_at": "2026-06-16T02:16:02Z"
-    },
-    {
-      "name": "DanMcInerney/architect-loop",
-      "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
-      "url": "https://github.com/DanMcInerney/architect-loop",
-      "stars": 456,
-      "forks": 35,
-      "language": "HTML",
-      "updated_at": "2026-06-16T01:53:22Z"
-    },
-    {
-      "name": "mrtooher/fable-mode",
-      "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
-      "url": "https://github.com/mrtooher/fable-mode",
-      "stars": 406,
-      "forks": 51,
-      "language": null,
-      "updated_at": "2026-06-16T02:10:29Z"
+      "updated_at": "2026-06-17T02:03:13Z"
     },
     {
       "name": "vorssaint/vorssaint-utils",
       "description": null,
       "url": "https://github.com/vorssaint/vorssaint-utils",
-      "stars": 401,
-      "forks": 18,
+      "stars": 514,
+      "forks": 25,
       "language": "Swift",
-      "updated_at": "2026-06-16T02:16:01Z"
+      "updated_at": "2026-06-17T02:02:41Z"
     },
     {
-      "name": "inbrainfun/inbrain",
-      "description": null,
-      "url": "https://github.com/inbrainfun/inbrain",
-      "stars": 385,
-      "forks": 218,
-      "language": "TypeScript",
-      "updated_at": "2026-06-16T01:56:34Z"
+      "name": "MSNightmare/GreatXML",
+      "description": "GreatXML bitlocker bypass vulnerability",
+      "url": "https://github.com/MSNightmare/GreatXML",
+      "stars": 505,
+      "forks": 216,
+      "language": null,
+      "updated_at": "2026-06-16T19:39:18Z"
     },
     {
       "name": "SunJaycy/GoldenEye-Recomp",
       "description": null,
       "url": "https://github.com/SunJaycy/GoldenEye-Recomp",
-      "stars": 372,
-      "forks": 12,
+      "stars": 494,
+      "forks": 16,
       "language": "C++",
-      "updated_at": "2026-06-16T02:07:34Z"
+      "updated_at": "2026-06-17T02:03:20Z"
     },
     {
-      "name": "royalbhati/sqltoerdiagram",
-      "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
-      "url": "https://github.com/royalbhati/sqltoerdiagram",
-      "stars": 357,
-      "forks": 22,
-      "language": "JavaScript",
-      "updated_at": "2026-06-16T01:21:25Z"
-    },
-    {
-      "name": "LearnPrompt/luban-skill",
-      "description": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉",
-      "url": "https://github.com/LearnPrompt/luban-skill",
-      "stars": 339,
-      "forks": 60,
-      "language": "Shell",
-      "updated_at": "2026-06-16T02:13:52Z"
-    },
-    {
-      "name": "skydoves/compose-nav-graph",
-      "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
-      "url": "https://github.com/skydoves/compose-nav-graph",
-      "stars": 327,
-      "forks": 15,
-      "language": "Kotlin",
-      "updated_at": "2026-06-16T01:33:31Z"
-    },
-    {
-      "name": "BuilderIO/skills",
-      "description": "Skills for coding agents",
-      "url": "https://github.com/BuilderIO/skills",
-      "stars": 325,
-      "forks": 18,
-      "language": "JavaScript",
-      "updated_at": "2026-06-16T01:41:58Z"
+      "name": "DanMcInerney/architect-loop",
+      "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+      "url": "https://github.com/DanMcInerney/architect-loop",
+      "stars": 485,
+      "forks": 41,
+      "language": "HTML",
+      "updated_at": "2026-06-17T01:35:17Z"
     },
     {
       "name": "alchaincyf/loop-engineering-orange-book",
       "description": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
       "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
-      "stars": 322,
-      "forks": 17,
+      "stars": 470,
+      "forks": 34,
       "language": null,
-      "updated_at": "2026-06-16T02:15:59Z"
+      "updated_at": "2026-06-17T02:01:27Z"
     },
     {
       "name": "fguzman82/gateGPT",
       "description": "Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second.",
       "url": "https://github.com/fguzman82/gateGPT",
-      "stars": 312,
-      "forks": 59,
+      "stars": 447,
+      "forks": 78,
       "language": "Verilog",
-      "updated_at": "2026-06-16T02:10:49Z"
+      "updated_at": "2026-06-17T01:00:06Z"
+    },
+    {
+      "name": "mrtooher/fable-mode",
+      "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+      "url": "https://github.com/mrtooher/fable-mode",
+      "stars": 434,
+      "forks": 53,
+      "language": null,
+      "updated_at": "2026-06-17T01:23:56Z"
+    },
+    {
+      "name": "royalbhati/sqltoerdiagram",
+      "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
+      "url": "https://github.com/royalbhati/sqltoerdiagram",
+      "stars": 394,
+      "forks": 29,
+      "language": "JavaScript",
+      "updated_at": "2026-06-17T02:10:33Z"
+    },
+    {
+      "name": "LearnPrompt/luban-skill",
+      "description": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉",
+      "url": "https://github.com/LearnPrompt/luban-skill",
+      "stars": 369,
+      "forks": 64,
+      "language": "Shell",
+      "updated_at": "2026-06-17T01:37:57Z"
+    },
+    {
+      "name": "fivetaku/fablize",
+      "description": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
+      "url": "https://github.com/fivetaku/fablize",
+      "stars": 358,
+      "forks": 63,
+      "language": "Shell",
+      "updated_at": "2026-06-17T01:57:56Z"
+    },
+    {
+      "name": "skydoves/compose-nav-graph",
+      "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
+      "url": "https://github.com/skydoves/compose-nav-graph",
+      "stars": 358,
+      "forks": 15,
+      "language": "Kotlin",
+      "updated_at": "2026-06-17T00:34:59Z"
+    },
+    {
+      "name": "Nanako0129/coralline",
+      "description": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+      "url": "https://github.com/Nanako0129/coralline",
+      "stars": 323,
+      "forks": 25,
+      "language": "Shell",
+      "updated_at": "2026-06-17T01:51:52Z"
     },
     {
       "name": "duolahypercho/fusion-fable",
       "description": "Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
       "url": "https://github.com/duolahypercho/fusion-fable",
-      "stars": 297,
-      "forks": 46,
+      "stars": 319,
+      "forks": 51,
       "language": "Shell",
-      "updated_at": "2026-06-16T00:36:57Z"
+      "updated_at": "2026-06-17T00:34:14Z"
+    },
+    {
+      "name": "NO6KIKO/gorest-2d-animation-spritesheet-generator",
+      "description": "Codex-assisted local 2D animation spritesheet generator and scene compositing workspace.",
+      "url": "https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator",
+      "stars": 314,
+      "forks": 46,
+      "language": "TypeScript",
+      "updated_at": "2026-06-17T01:49:12Z"
     },
     {
       "name": "MiniMax-AI/MSA",
       "description": null,
       "url": "https://github.com/MiniMax-AI/MSA",
-      "stars": 295,
-      "forks": 27,
+      "stars": 313,
+      "forks": 29,
       "language": "Python",
-      "updated_at": "2026-06-16T01:38:32Z"
+      "updated_at": "2026-06-17T00:54:34Z"
+    },
+    {
+      "name": "TestSprite/testsprite-cli",
+      "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
+      "url": "https://github.com/TestSprite/testsprite-cli",
+      "stars": 311,
+      "forks": 13,
+      "language": "TypeScript",
+      "updated_at": "2026-06-17T02:00:28Z"
+    },
+    {
+      "name": "bjarneo/ku",
+      "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.",
+      "url": "https://github.com/bjarneo/ku",
+      "stars": 299,
+      "forks": 10,
+      "language": "Go",
+      "updated_at": "2026-06-17T01:49:30Z"
     },
     {
       "name": "eli-labz/Third-Eye",
       "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
       "url": "https://github.com/eli-labz/Third-Eye",
-      "stars": 291,
+      "stars": 292,
       "forks": 1,
       "language": "TypeScript",
-      "updated_at": "2026-06-16T02:10:50Z"
+      "updated_at": "2026-06-16T13:41:34Z"
+    },
+    {
+      "name": "buynao/aipath",
+      "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "url": "https://github.com/buynao/aipath",
+      "stars": 282,
+      "forks": 30,
+      "language": "JavaScript",
+      "updated_at": "2026-06-17T01:57:34Z"
+    },
+    {
+      "name": "rotejin/tomari-guruguru",
+      "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
+      "url": "https://github.com/rotejin/tomari-guruguru",
+      "stars": 255,
+      "forks": 45,
+      "language": "JavaScript",
+      "updated_at": "2026-06-17T01:40:55Z"
+    },
+    {
+      "name": "joeseesun/qiaomu-novel-generator",
+      "description": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
+      "url": "https://github.com/joeseesun/qiaomu-novel-generator",
+      "stars": 252,
+      "forks": 29,
+      "language": "Python",
+      "updated_at": "2026-06-17T02:10:50Z"
     }
   ]
 }
