@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-06-20T01:59:05.732Z",
+  "fetched_at": "2026-06-21T02:11:07.813Z",
   "repos": [
-    {
-      "name": "tamnd/kage",
-      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
-      "url": "https://github.com/tamnd/kage",
-      "stars": 2098,
-      "forks": 63,
-      "language": "Go",
-      "updated_at": "2026-06-20T01:15:10Z"
-    },
     {
       "name": "vercel/eve",
       "description": "The Framework for Building Agents",
       "url": "https://github.com/vercel/eve",
-      "stars": 1649,
-      "forks": 106,
+      "stars": 1869,
+      "forks": 121,
       "language": "TypeScript",
-      "updated_at": "2026-06-20T01:55:40Z"
-    },
-    {
-      "name": "Waishnav/devspace",
-      "description": "Turn ChatGPT into Codex",
-      "url": "https://github.com/Waishnav/devspace",
-      "stars": 1411,
-      "forks": 126,
-      "language": "TypeScript",
-      "updated_at": "2026-06-20T01:58:50Z"
+      "updated_at": "2026-06-21T01:56:33Z"
     },
     {
       "name": "alchaincyf/loop-engineering-orange-book",
       "description": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
       "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
-      "stars": 702,
-      "forks": 60,
+      "stars": 716,
+      "forks": 62,
       "language": null,
-      "updated_at": "2026-06-20T01:01:43Z"
-    },
-    {
-      "name": "Plaer1/junction",
-      "description": "VS Code chat sidebar for local AI coding agents",
-      "url": "https://github.com/Plaer1/junction",
-      "stars": 513,
-      "forks": 6,
-      "language": "TypeScript",
-      "updated_at": "2026-06-20T01:34:15Z"
-    },
-    {
-      "name": "fivetaku/fablize",
-      "description": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
-      "url": "https://github.com/fivetaku/fablize",
-      "stars": 505,
-      "forks": 73,
-      "language": "Python",
-      "updated_at": "2026-06-20T01:58:39Z"
-    },
-    {
-      "name": "royalbhati/sqltoerdiagram",
-      "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
-      "url": "https://github.com/royalbhati/sqltoerdiagram",
-      "stars": 483,
-      "forks": 39,
-      "language": "HTML",
-      "updated_at": "2026-06-20T01:31:08Z"
+      "updated_at": "2026-06-21T00:07:24Z"
     },
     {
       "name": "rebel0789/codexpro",
       "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "url": "https://github.com/rebel0789/codexpro",
-      "stars": 446,
-      "forks": 40,
+      "stars": 544,
+      "forks": 48,
+      "language": "JavaScript",
+      "updated_at": "2026-06-21T02:07:20Z"
+    },
+    {
+      "name": "Forsy-AI/agent-apprenticeship",
+      "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+      "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+      "stars": 530,
+      "forks": 0,
+      "language": null,
+      "updated_at": "2026-06-21T01:56:58Z"
+    },
+    {
+      "name": "Plaer1/junction",
+      "description": "VS Code chat sidebar for local AI coding agents",
+      "url": "https://github.com/Plaer1/junction",
+      "stars": 516,
+      "forks": 7,
       "language": "TypeScript",
-      "updated_at": "2026-06-20T01:40:52Z"
+      "updated_at": "2026-06-20T09:40:48Z"
     },
     {
       "name": "dongshuyan/compass-skills",
       "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
       "url": "https://github.com/dongshuyan/compass-skills",
-      "stars": 347,
-      "forks": 27,
+      "stars": 397,
+      "forks": 34,
       "language": "Python",
-      "updated_at": "2026-06-20T01:58:20Z"
+      "updated_at": "2026-06-20T18:29:43Z"
     },
     {
-      "name": "majidmanzarpour/threejs-game-skills",
-      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-      "stars": 344,
-      "forks": 37,
-      "language": "Python",
-      "updated_at": "2026-06-20T01:21:47Z"
-    },
-    {
-      "name": "boogu-project/Boogu-Image",
-      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-      "url": "https://github.com/boogu-project/Boogu-Image",
-      "stars": 325,
-      "forks": 14,
-      "language": "Python",
-      "updated_at": "2026-06-19T21:51:46Z"
-    },
-    {
-      "name": "ApothecarySeize/Maya-2026-Animation-Workflow",
-      "description": null,
-      "url": "https://github.com/ApothecarySeize/Maya-2026-Animation-Workflow",
-      "stars": 321,
-      "forks": 0,
-      "language": null,
-      "updated_at": "2026-06-19T21:14:05Z"
-    },
-    {
-      "name": "baskduf/FableCodex",
-      "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
-      "url": "https://github.com/baskduf/FableCodex",
-      "stars": 316,
-      "forks": 41,
-      "language": "Python",
-      "updated_at": "2026-06-20T00:50:10Z"
+      "name": "ngrok/webernetes",
+      "description": "Kubernetes in the browser.",
+      "url": "https://github.com/ngrok/webernetes",
+      "stars": 360,
+      "forks": 22,
+      "language": "TypeScript",
+      "updated_at": "2026-06-21T01:59:16Z"
     },
     {
       "name": "MstKail/polymarket-trading-bot-services-polyedge365",
       "description": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot",
       "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
-      "stars": 303,
+      "stars": 354,
       "forks": 710,
       "language": null,
-      "updated_at": "2026-06-20T01:43:23Z"
+      "updated_at": "2026-06-21T00:53:41Z"
     },
     {
-      "name": "nnecrkvenuOX/formcms",
-      "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-      "url": "https://github.com/nnecrkvenuOX/formcms",
-      "stars": 283,
-      "forks": 1,
-      "language": "C#",
-      "updated_at": "2026-06-20T01:46:46Z"
+      "name": "boogu-project/Boogu-Image",
+      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "url": "https://github.com/boogu-project/Boogu-Image",
+      "stars": 353,
+      "forks": 16,
+      "language": "Python",
+      "updated_at": "2026-06-21T01:27:28Z"
     },
     {
       "name": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
       "description": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
       "url": "https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
-      "stars": 283,
-      "forks": 1,
+      "stars": 336,
+      "forks": 273,
       "language": null,
-      "updated_at": "2026-06-20T01:46:00Z"
+      "updated_at": "2026-06-21T00:44:37Z"
     },
     {
-      "name": "rotejin/tomari-guruguru",
-      "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
-      "url": "https://github.com/rotejin/tomari-guruguru",
-      "stars": 275,
-      "forks": 48,
-      "language": "JavaScript",
-      "updated_at": "2026-06-20T00:14:32Z"
-    },
-    {
-      "name": "gykim80/perfectpixel-studio",
-      "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-      "url": "https://github.com/gykim80/perfectpixel-studio",
-      "stars": 262,
-      "forks": 43,
-      "language": "Go",
-      "updated_at": "2026-06-20T01:25:31Z"
-    },
-    {
-      "name": "fendouai/best-humanizer-handbook",
-      "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
-      "url": "https://github.com/fendouai/best-humanizer-handbook",
-      "stars": 256,
-      "forks": 3,
-      "language": null,
-      "updated_at": "2026-06-20T01:58:11Z"
-    },
-    {
-      "name": "Jeidoban/Ironsmith",
-      "description": "Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs",
-      "url": "https://github.com/Jeidoban/Ironsmith",
-      "stars": 241,
-      "forks": 17,
-      "language": "Swift",
-      "updated_at": "2026-06-20T00:53:58Z"
-    },
-    {
-      "name": "Tyxy-R/codex-referral-risk-research",
-      "description": null,
-      "url": "https://github.com/Tyxy-R/codex-referral-risk-research",
-      "stars": 223,
-      "forks": 132,
-      "language": "Python",
-      "updated_at": "2026-06-19T14:14:18Z"
-    },
-    {
-      "name": "rpanigrahi222/intruth-factcheck",
-      "description": null,
-      "url": "https://github.com/rpanigrahi222/intruth-factcheck",
-      "stars": 211,
-      "forks": 35,
-      "language": "JavaScript",
-      "updated_at": "2026-06-19T22:08:57Z"
-    },
-    {
-      "name": "SubBoost/subboost",
-      "description": "Clash/Mihomo 订阅转换、增强和管理工具。通过 UI 可视化，一键实现链式代理、精确分流、防 DNS 泄露和多订阅聚合等高级功能。",
-      "url": "https://github.com/SubBoost/subboost",
-      "stars": 209,
-      "forks": 42,
-      "language": "TypeScript",
-      "updated_at": "2026-06-19T23:49:49Z"
-    },
-    {
-      "name": "FeijiangHan/PaperForge",
-      "description": "An active paper-reading skill that reconstructs author reasoning, explains methods mechanistically, stress-tests assumptions, and generates follow-up research ideas.",
-      "url": "https://github.com/FeijiangHan/PaperForge",
-      "stars": 207,
-      "forks": 15,
-      "language": null,
-      "updated_at": "2026-06-19T19:41:31Z"
-    },
-    {
-      "name": "aresyn/codex-control-plane-mcp",
-      "description": "Durable MCP control plane for long-running Codex Desktop tasks",
-      "url": "https://github.com/aresyn/codex-control-plane-mcp",
-      "stars": 207,
-      "forks": 4,
-      "language": "Python",
-      "updated_at": "2026-06-20T01:24:46Z"
-    },
-    {
-      "name": "leyten/shard",
-      "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
-      "url": "https://github.com/leyten/shard",
-      "stars": 204,
-      "forks": 18,
-      "language": "Python",
-      "updated_at": "2026-06-20T01:51:38Z"
-    },
-    {
-      "name": "Liunian06/ko-lesson",
-      "description": "一个期末赶制的一个屎山skill，将清朝老PPT复活为能看的资料",
-      "url": "https://github.com/Liunian06/ko-lesson",
-      "stars": 199,
-      "forks": 3,
-      "language": null,
-      "updated_at": "2026-06-20T01:20:07Z"
+      "name": "nnecrkvenuOX/formcms",
+      "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
+      "url": "https://github.com/nnecrkvenuOX/formcms",
+      "stars": 335,
+      "forks": 262,
+      "language": "C#",
+      "updated_at": "2026-06-21T00:44:57Z"
     },
     {
       "name": "MstKail/wc2026-crypto-sportsbook",
       "description": "2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlement engine | world cup 2026 betting | WC2026 predictions odds markets | blockchain crypto wallet sportsbook",
       "url": "https://github.com/MstKail/wc2026-crypto-sportsbook",
-      "stars": 196,
-      "forks": 1273,
+      "stars": 309,
+      "forks": 1295,
       "language": "TypeScript",
-      "updated_at": "2026-06-20T01:43:03Z"
+      "updated_at": "2026-06-21T02:01:39Z"
     },
     {
-      "name": "joeseesun/qiaomu-app-review-insights",
-      "description": "把 App Store 评价��成产品研究证据，发现痛点、机会和版本风险 | Turn App Store reviews into product research evidence: pain points, opportunities, and version risks.",
-      "url": "https://github.com/joeseesun/qiaomu-app-review-insights",
-      "stars": 189,
-      "forks": 34,
+      "name": "fendouai/best-humanizer-handbook",
+      "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
+      "url": "https://github.com/fendouai/best-humanizer-handbook",
+      "stars": 269,
+      "forks": 4,
+      "language": null,
+      "updated_at": "2026-06-21T02:10:32Z"
+    },
+    {
+      "name": "leyten/shard",
+      "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
+      "url": "https://github.com/leyten/shard",
+      "stars": 266,
+      "forks": 27,
+      "language": "Python",
+      "updated_at": "2026-06-21T01:41:32Z"
+    },
+    {
+      "name": "anthropics/launch-your-agent",
+      "description": "Claude Code skills that take a founder from idea to a live Claude Managed Agent: interview, scope a v0, launch in their own account, grade it, iterate, and schedule it",
+      "url": "https://github.com/anthropics/launch-your-agent",
+      "stars": 254,
+      "forks": 61,
+      "language": "HTML",
+      "updated_at": "2026-06-21T02:02:15Z"
+    },
+    {
+      "name": "aidenybai/cnfast",
+      "description": "Fast drop in replacement for `cn`",
+      "url": "https://github.com/aidenybai/cnfast",
+      "stars": 232,
+      "forks": 1,
       "language": "TypeScript",
-      "updated_at": "2026-06-20T00:03:42Z"
+      "updated_at": "2026-06-21T01:57:42Z"
+    },
+    {
+      "name": "rpanigrahi222/intruth-factcheck",
+      "description": null,
+      "url": "https://github.com/rpanigrahi222/intruth-factcheck",
+      "stars": 231,
+      "forks": 39,
+      "language": "JavaScript",
+      "updated_at": "2026-06-20T23:57:12Z"
+    },
+    {
+      "name": "SubBoost/subboost",
+      "description": "Clash/Mihomo 订阅转换、增强和管理工具。通过 UI 可视化，一键实现链式代理、精确分流、防 DNS 泄露和多订阅聚合等高级功能。",
+      "url": "https://github.com/SubBoost/subboost",
+      "stars": 229,
+      "forks": 46,
+      "language": "TypeScript",
+      "updated_at": "2026-06-21T02:10:36Z"
+    },
+    {
+      "name": "Tyxy-R/codex-referral-risk-research",
+      "description": null,
+      "url": "https://github.com/Tyxy-R/codex-referral-risk-research",
+      "stars": 227,
+      "forks": 132,
+      "language": "Python",
+      "updated_at": "2026-06-20T22:44:58Z"
+    },
+    {
+      "name": "Liunian06/ko-lesson",
+      "description": "一个期末赶制的一个屎山skill，将清朝老PPT复活为能看的资料",
+      "url": "https://github.com/Liunian06/ko-lesson",
+      "stars": 220,
+      "forks": 4,
+      "language": null,
+      "updated_at": "2026-06-20T17:51:17Z"
+    },
+    {
+      "name": "aresyn/codex-control-plane-mcp",
+      "description": "Durable MCP control plane for long-running Codex Desktop tasks",
+      "url": "https://github.com/aresyn/codex-control-plane-mcp",
+      "stars": 218,
+      "forks": 4,
+      "language": "Python",
+      "updated_at": "2026-06-21T00:15:14Z"
+    },
+    {
+      "name": "FeijiangHan/PaperForge",
+      "description": "An active paper-reading skill that reconstructs author reasoning, explains methods mechanistically, stress-tests assumptions, and generates follow-up research ideas.",
+      "url": "https://github.com/FeijiangHan/PaperForge",
+      "stars": 215,
+      "forks": 16,
+      "language": null,
+      "updated_at": "2026-06-20T19:23:05Z"
     },
     {
       "name": "world-action-models/awesome-world-action-models",
       "description": null,
       "url": "https://github.com/world-action-models/awesome-world-action-models",
-      "stars": 185,
+      "stars": 196,
       "forks": 2,
       "language": null,
-      "updated_at": "2026-06-19T17:33:57Z"
+      "updated_at": "2026-06-21T01:02:07Z"
+    },
+    {
+      "name": "joeseesun/qiaomu-app-review-insights",
+      "description": "把 App Store 评价变成产品研究证据，发现痛点、机会和版本风险 | Turn App Store reviews into product research evidence: pain points, opportunities, and version risks.",
+      "url": "https://github.com/joeseesun/qiaomu-app-review-insights",
+      "stars": 192,
+      "forks": 35,
+      "language": "TypeScript",
+      "updated_at": "2026-06-20T16:52:01Z"
+    },
+    {
+      "name": "halfof8/patterngen-oss",
+      "description": null,
+      "url": "https://github.com/halfof8/patterngen-oss",
+      "stars": 189,
+      "forks": 13,
+      "language": "TypeScript",
+      "updated_at": "2026-06-21T01:52:01Z"
+    },
+    {
+      "name": "Verdi38/Silent-Crypto-Miner",
+      "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows.",
+      "url": "https://github.com/Verdi38/Silent-Crypto-Miner",
+      "stars": 183,
+      "forks": 35,
+      "language": "Python",
+      "updated_at": "2026-06-20T03:46:32Z"
+    },
+    {
+      "name": "Sorathiya123/claude-ai-free-desktop-app",
+      "description": "free claude code ai github  desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
+      "url": "https://github.com/Sorathiya123/claude-ai-free-desktop-app",
+      "stars": 179,
+      "forks": 1,
+      "language": "TypeScript",
+      "updated_at": "2026-06-21T00:23:45Z"
+    },
+    {
+      "name": "r3xmax/PhantomCtx",
+      "description": "Activation Context Hijacking Evasion Tool",
+      "url": "https://github.com/r3xmax/PhantomCtx",
+      "stars": 178,
+      "forks": 23,
+      "language": "C",
+      "updated_at": "2026-06-20T18:26:24Z"
+    },
+    {
+      "name": "dososo/chinese-traditional-patterns",
+      "description": "开源的中国传���纹样图录项目 · 100 高清纹样(规划 800) · 中英日韩双语 · CC BY-NC 4.0 · https://wenyang.net",
+      "url": "https://github.com/dososo/chinese-traditional-patterns",
+      "stars": 177,
+      "forks": 17,
+      "language": null,
+      "updated_at": "2026-06-21T00:31:55Z"
+    },
+    {
+      "name": "EURICO55/download-tor-browser",
+      "description": "tor browser github onion  vpn brave  official download onion routing dark web privacy anonymity security censorship circumvention tracker blocker encrypted traffic .onion sites open source firefox based windows macos linux android portable secure web browsing",
+      "url": "https://github.com/EURICO55/download-tor-browser",
+      "stars": 176,
+      "forks": 0,
+      "language": "C#",
+      "updated_at": "2026-06-21T00:23:37Z"
     }
   ]
 }
