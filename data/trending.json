@@ -1,167 +1,176 @@
 {
-  "fetched_at": "2026-06-24T01:51:58.556Z",
+  "fetched_at": "2026-06-25T01:56:00.279Z",
   "repos": [
     {
-      "name": "baidu/Unlimited-OCR",
-      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "stars": 3743,
-      "forks": 243,
-      "language": "Python",
-      "updated_at": "2026-06-24T01:51:54Z"
-    },
-    {
-      "name": "zhongerxin/Cowart",
-      "description": null,
-      "url": "https://github.com/zhongerxin/Cowart",
-      "stars": 2378,
-      "forks": 181,
-      "language": "JavaScript",
-      "updated_at": "2026-06-24T01:50:23Z"
+      "name": "bozhouDev/codex-orange-book",
+      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开���，含可下载 PDF）",
+      "url": "https://github.com/bozhouDev/codex-orange-book",
+      "stars": 1463,
+      "forks": 152,
+      "language": "HTML",
+      "updated_at": "2026-06-25T01:55:46Z"
     },
     {
       "name": "lyra81604/zhengxi-views",
       "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "url": "https://github.com/lyra81604/zhengxi-views",
-      "stars": 921,
-      "forks": 114,
+      "stars": 990,
+      "forks": 123,
       "language": "Python",
-      "updated_at": "2026-06-24T01:44:22Z"
+      "updated_at": "2026-06-25T01:46:56Z"
     },
     {
       "name": "Forsy-AI/agent-apprenticeship",
       "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
       "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-      "stars": 859,
+      "stars": 909,
       "forks": 46,
       "language": null,
-      "updated_at": "2026-06-24T01:21:41Z"
+      "updated_at": "2026-06-25T01:27:50Z"
     },
     {
       "name": "aidenybai/cnfast",
       "description": "Fast drop in replacement for `cn`",
       "url": "https://github.com/aidenybai/cnfast",
-      "stars": 792,
+      "stars": 881,
       "forks": 8,
       "language": "TypeScript",
-      "updated_at": "2026-06-24T01:44:20Z"
+      "updated_at": "2026-06-25T01:54:23Z"
     },
     {
       "name": "kanavtwtgg/birds.cafe",
       "description": null,
       "url": "https://github.com/kanavtwtgg/birds.cafe",
-      "stars": 717,
+      "stars": 767,
       "forks": 1,
       "language": "JavaScript",
-      "updated_at": "2026-06-24T01:37:45Z"
-    },
-    {
-      "name": "bozhouDev/codex-orange-book",
-      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "url": "https://github.com/bozhouDev/codex-orange-book",
-      "stars": 538,
-      "forks": 60,
-      "language": "HTML",
-      "updated_at": "2026-06-24T01:51:16Z"
+      "updated_at": "2026-06-25T00:32:18Z"
     },
     {
       "name": "sums001/Windows-Copilot-API",
       "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
       "url": "https://github.com/sums001/Windows-Copilot-API",
-      "stars": 535,
-      "forks": 201,
+      "stars": 664,
+      "forks": 238,
       "language": "Python",
-      "updated_at": "2026-06-24T01:43:15Z"
-    },
-    {
-      "name": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 493,
-      "forks": 41,
-      "language": "JavaScript",
-      "updated_at": "2026-06-24T01:49:22Z"
+      "updated_at": "2026-06-25T01:39:58Z"
     },
     {
       "name": "raiyanyahya/recall",
       "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "url": "https://github.com/raiyanyahya/recall",
-      "stars": 416,
-      "forks": 14,
+      "stars": 480,
+      "forks": 18,
       "language": "Python",
-      "updated_at": "2026-06-24T01:43:10Z"
+      "updated_at": "2026-06-25T01:54:45Z"
     },
     {
       "name": "yo-WASSUP/Good-Badminton",
       "description": "🏸  AI Badminton Hawk-Eye System",
       "url": "https://github.com/yo-WASSUP/Good-Badminton",
-      "stars": 413,
-      "forks": 136,
+      "stars": 479,
+      "forks": 151,
       "language": "Python",
-      "updated_at": "2026-06-24T01:33:41Z"
+      "updated_at": "2026-06-25T01:02:16Z"
     },
     {
       "name": "overflowy/make-look-scanned",
       "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
       "url": "https://github.com/overflowy/make-look-scanned",
-      "stars": 380,
-      "forks": 16,
+      "stars": 403,
+      "forks": 19,
       "language": "Go",
-      "updated_at": "2026-06-24T01:41:34Z"
-    },
-    {
-      "name": "eooce/transfer-api",
-      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
-      "url": "https://github.com/eooce/transfer-api",
-      "stars": 323,
-      "forks": 1504,
-      "language": "JavaScript",
-      "updated_at": "2026-06-24T01:10:41Z"
+      "updated_at": "2026-06-25T00:27:07Z"
     },
     {
       "name": "HKUDS/AgentSpace",
       "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
       "url": "https://github.com/HKUDS/AgentSpace",
-      "stars": 309,
-      "forks": 29,
+      "stars": 355,
+      "forks": 37,
       "language": "TypeScript",
-      "updated_at": "2026-06-24T01:49:45Z"
+      "updated_at": "2026-06-25T01:43:24Z"
     },
     {
-      "name": "ksimback/looper",
-      "description": "Design visual, review-gated agent loops for Claude Code before you run them.",
-      "url": "https://github.com/ksimback/looper",
-      "stars": 227,
-      "forks": 20,
+      "name": "eooce/transfer-api",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "url": "https://github.com/eooce/transfer-api",
+      "stars": 351,
+      "forks": 1645,
+      "language": "JavaScript",
+      "updated_at": "2026-06-25T00:55:14Z"
+    },
+    {
+      "name": "QwenLM/Qwen-AgentWorld",
+      "description": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+      "stars": 309,
+      "forks": 27,
       "language": "Python",
-      "updated_at": "2026-06-24T01:51:46Z"
+      "updated_at": "2026-06-25T01:36:45Z"
     },
     {
       "name": "samasante/liquid-glass",
       "description": "Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies.",
       "url": "https://github.com/samasante/liquid-glass",
-      "stars": 223,
-      "forks": 20,
+      "stars": 289,
+      "forks": 23,
       "language": "TypeScript",
-      "updated_at": "2026-06-24T01:34:09Z"
-    },
-    {
-      "name": "SarkAzia/baiyueguang-learning-skill",
-      "description": "用视奸��任白月光的方式学数学以及任何学科",
-      "url": "https://github.com/SarkAzia/baiyueguang-learning-skill",
-      "stars": 212,
-      "forks": 4,
-      "language": null,
-      "updated_at": "2026-06-24T01:45:08Z"
+      "updated_at": "2026-06-25T01:48:56Z"
     },
     {
       "name": "goehou/tabbit-toy",
       "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
       "url": "https://github.com/goehou/tabbit-toy",
-      "stars": 194,
-      "forks": 498,
+      "stars": 272,
+      "forks": 653,
       "language": "JavaScript",
-      "updated_at": "2026-06-24T01:27:32Z"
+      "updated_at": "2026-06-25T01:01:13Z"
+    },
+    {
+      "name": "BohemiaInteractive/CWR",
+      "description": "Arma: Cold War Assault Remastered Source Code Repository.",
+      "url": "https://github.com/BohemiaInteractive/CWR",
+      "stars": 255,
+      "forks": 45,
+      "language": "C++",
+      "updated_at": "2026-06-25T01:06:29Z"
+    },
+    {
+      "name": "SarkAzia/baiyueguang-learning-skill",
+      "description": "用视奸前任白月光的方式学数学以及任何学科",
+      "url": "https://github.com/SarkAzia/baiyueguang-learning-skill",
+      "stars": 242,
+      "forks": 5,
+      "language": null,
+      "updated_at": "2026-06-25T00:58:07Z"
+    },
+    {
+      "name": "nova452/ComfyUI-ConditioningKrea2Rebalance",
+      "description": "A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance",
+      "stars": 203,
+      "forks": 25,
+      "language": "Python",
+      "updated_at": "2026-06-25T01:50:47Z"
+    },
+    {
+      "name": "Yu9191/wloc",
+      "description": "Apple WLOC Location Spoofer",
+      "url": "https://github.com/Yu9191/wloc",
+      "stars": 198,
+      "forks": 27,
+      "language": "JavaScript",
+      "updated_at": "2026-06-25T01:55:39Z"
+    },
+    {
+      "name": "krea-ai/krea-2",
+      "description": "Official inference code for Krea 2",
+      "url": "https://github.com/krea-ai/krea-2",
+      "stars": 182,
+      "forks": 14,
+      "language": "Python",
+      "updated_at": "2026-06-25T01:16:34Z"
     },
     {
       "name": "pixelgridhub-coder/Gothic-Remake-Lockpick-Solver",
@@ -173,103 +182,94 @@
       "updated_at": "2026-06-23T22:55:14Z"
     },
     {
-      "name": "yin-yizhen/sonic-topography",
-      "description": "随音乐产生交互的棋盘式海浪，支持网易云搜索",
-      "url": "https://github.com/yin-yizhen/sonic-topography",
+      "name": "benchflow-ai/awesome-evals",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "url": "https://github.com/benchflow-ai/awesome-evals",
       "stars": 178,
-      "forks": 28,
-      "language": "TypeScript",
-      "updated_at": "2026-06-24T01:14:58Z"
+      "forks": 7,
+      "language": null,
+      "updated_at": "2026-06-25T01:34:30Z"
     },
     {
-      "name": "BohemiaInteractive/CWR",
-      "description": "Arma: Cold War Assault Remastered Source Code Repository.",
-      "url": "https://github.com/BohemiaInteractive/CWR",
-      "stars": 176,
-      "forks": 35,
-      "language": "C++",
-      "updated_at": "2026-06-24T00:57:22Z"
+      "name": "iart-ai/motion-skills",
+      "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
+      "url": "https://github.com/iart-ai/motion-skills",
+      "stars": 175,
+      "forks": 17,
+      "language": "HTML",
+      "updated_at": "2026-06-25T01:55:37Z"
     },
     {
-      "name": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-      "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-      "url": "https://github.com/ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-      "stars": 154,
-      "forks": 0,
+      "name": "Karovia/fullstack-ai-agent-roadmap",
+      "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
+      "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+      "stars": 175,
+      "forks": 11,
+      "language": null,
+      "updated_at": "2026-06-25T01:37:35Z"
+    },
+    {
+      "name": "FFF686868/proxypin-wloc-spoofer",
+      "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
+      "url": "https://github.com/FFF686868/proxypin-wloc-spoofer",
+      "stars": 170,
+      "forks": 23,
+      "language": "JavaScript",
+      "updated_at": "2026-06-25T01:46:39Z"
+    },
+    {
+      "name": "i5ting/learn-ai-practice",
+      "description": null,
+      "url": "https://github.com/i5ting/learn-ai-practice",
+      "stars": 169,
+      "forks": 6,
+      "language": null,
+      "updated_at": "2026-06-25T01:49:49Z"
+    },
+    {
+      "name": "Th0rgal/open_oura",
+      "description": "Reverse-engineering notes and tooling for Oura Ring 3, 4, 5 BLE protocol",
+      "url": "https://github.com/Th0rgal/open_oura",
+      "stars": 166,
+      "forks": 20,
+      "language": "Rust",
+      "updated_at": "2026-06-25T01:54:38Z"
+    },
+    {
+      "name": "QuantML-Research/wq-alpha-research",
+      "description": "A self-evolving WorldQuant BRAIN alpha research skill.",
+      "url": "https://github.com/QuantML-Research/wq-alpha-research",
+      "stars": 164,
+      "forks": 57,
       "language": "Python",
-      "updated_at": "2026-06-23T20:40:14Z"
-    },
-    {
-      "name": "bonhs1983/Peace-Equalizer-Apo",
-      "description": "peace equalizer apo gui system wide parametric equalizer windows 11 windows 10 audio configuration tool sourceforge download bass boost preamp sound booster headphones calibration microphone setup gaming audio interface gui vst plugins open source desktop utility pc audio enhancement profile manager audio effects",
-      "url": "https://github.com/bonhs1983/Peace-Equalizer-Apo",
-      "stars": 153,
-      "forks": 0,
-      "language": "C#",
-      "updated_at": "2026-06-23T23:31:16Z"
-    },
-    {
-      "name": "SamAun1234/auto-2026",
-      "description": " dwg download 2d drafting 3d modeling design software autolisp specialized toolsets smart blocks architecture mechanical electrical",
-      "url": "https://github.com/SamAun1234/auto-2026",
-      "stars": 151,
-      "forks": 0,
-      "language": "C#",
-      "updated_at": "2026-06-23T23:31:20Z"
-    },
-    {
-      "name": "ma7mod7/Paralives-Ultimate-Trainer-2026_v_2",
-      "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
-      "url": "https://github.com/ma7mod7/Paralives-Ultimate-Trainer-2026_v_2",
-      "stars": 150,
-      "forks": 0,
-      "language": "Python",
-      "updated_at": "2026-06-23T20:40:15Z"
-    },
-    {
-      "name": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
-      "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
-      "url": "https://github.com/we9lii/Paralives-Ultimate-Trainer-2026_v_2",
-      "stars": 149,
-      "forks": 0,
-      "language": "Python",
-      "updated_at": "2026-06-23T20:40:23Z"
-    },
-    {
-      "name": "we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-      "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-      "url": "https://github.com/we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-      "stars": 148,
-      "forks": 0,
-      "language": "Python",
-      "updated_at": "2026-06-23T20:40:22Z"
-    },
-    {
-      "name": "we9lii/007-First-Light-Trainer-And-Optimizer_v_2",
-      "description": "Advanced trainer and performance utility for 007 First Light. Features God Mode, stealth mechanics, instant gadget/outfit unlocks, map intel reveal, and deep FPS/stutter optimization.",
-      "url": "https://github.com/we9lii/007-First-Light-Trainer-And-Optimizer_v_2",
-      "stars": 147,
-      "forks": 0,
-      "language": "Python",
-      "updated_at": "2026-06-23T20:40:24Z"
-    },
-    {
-      "name": "ma7mod7/007-First-Light-Trainer-And-Optimizer_v_2",
-      "description": "Advanced trainer and performance utility for 007 First Light. Features God Mode, stealth mechanics, instant gadget/outfit unlocks, map intel reveal, and deep FPS/stutter optimization.",
-      "url": "https://github.com/ma7mod7/007-First-Light-Trainer-And-Optimizer_v_2",
-      "stars": 147,
-      "forks": 0,
-      "language": "Python",
-      "updated_at": "2026-06-23T20:40:20Z"
+      "updated_at": "2026-06-25T01:52:37Z"
     },
     {
       "name": "qwer-xyz/incudal",
       "description": "基于 Incus 的 LXC / KVM NAT VPS 销售、交付与管理面板。",
       "url": "https://github.com/qwer-xyz/incudal",
-      "stars": 146,
-      "forks": 115,
+      "stars": 163,
+      "forks": 126,
       "language": "TypeScript",
-      "updated_at": "2026-06-24T00:26:07Z"
+      "updated_at": "2026-06-24T15:59:46Z"
+    },
+    {
+      "name": "Johell1NS/browser-search",
+      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+      "url": "https://github.com/Johell1NS/browser-search",
+      "stars": 161,
+      "forks": 18,
+      "language": "JavaScript",
+      "updated_at": "2026-06-25T01:30:11Z"
+    },
+    {
+      "name": "manojd23625/Steam-Tools",
+      "description": "steamtools steam download manifest steamtools manifest steamdb steamtools lua steamtools games steam download manifest steam steam manifest client tool utility script file manager app library pc game",
+      "url": "https://github.com/manojd23625/Steam-Tools",
+      "stars": 161,
+      "forks": 0,
+      "language": "C#",
+      "updated_at": "2026-06-24T22:57:18Z"
     }
   ]
 }
