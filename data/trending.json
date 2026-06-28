@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-06-27T01:51:10.251Z",
+  "fetched_at": "2026-06-28T02:01:15.117Z",
   "repos": [
     {
       "name": "bozhouDev/codex-orange-book",
-      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开��，含可下载 PDF）",
+      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开���，含可下载 PDF）",
       "url": "https://github.com/bozhouDev/codex-orange-book",
-      "stars": 2142,
-      "forks": 218,
+      "stars": 2215,
+      "forks": 221,
       "language": "HTML",
-      "updated_at": "2026-06-27T01:46:21Z"
+      "updated_at": "2026-06-28T00:54:46Z"
     },
     {
-      "name": "kanavtwtgg/birds.cafe",
-      "description": null,
-      "url": "https://github.com/kanavtwtgg/birds.cafe",
-      "stars": 735,
-      "forks": 2,
-      "language": "JavaScript",
-      "updated_at": "2026-06-26T21:59:54Z"
+      "name": "deepseek-ai/DeepSpec",
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "stars": 1353,
+      "forks": 115,
+      "language": "Python",
+      "updated_at": "2026-06-28T02:01:01Z"
+    },
+    {
+      "name": "bikini/exploitarium",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "url": "https://github.com/bikini/exploitarium",
+      "stars": 1225,
+      "forks": 254,
+      "language": "Python",
+      "updated_at": "2026-06-28T02:00:29Z"
     },
     {
       "name": "BohemiaInteractive/CWR",
       "description": "Arma: Cold War Assault Remastered Source Code Repository.",
       "url": "https://github.com/BohemiaInteractive/CWR",
-      "stars": 624,
-      "forks": 71,
+      "stars": 662,
+      "forks": 77,
       "language": "C++",
-      "updated_at": "2026-06-27T01:19:27Z"
-    },
-    {
-      "name": "QwenLM/Qwen-AgentWorld",
-      "description": "Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://github.com/QwenLM/Qwen-AgentWorld",
-      "stars": 568,
-      "forks": 51,
-      "language": "Python",
-      "updated_at": "2026-06-27T01:24:29Z"
-    },
-    {
-      "name": "benchflow-ai/awesome-evals",
-      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "url": "https://github.com/benchflow-ai/awesome-evals",
-      "stars": 465,
-      "forks": 33,
-      "language": null,
-      "updated_at": "2026-06-27T01:41:39Z"
+      "updated_at": "2026-06-28T01:32:31Z"
     },
     {
       "name": "Yu9191/wloc",
       "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "url": "https://github.com/Yu9191/wloc",
-      "stars": 461,
-      "forks": 71,
+      "stars": 647,
+      "forks": 91,
       "language": "JavaScript",
-      "updated_at": "2026-06-27T01:50:21Z"
+      "updated_at": "2026-06-28T01:54:46Z"
     },
     {
       "name": "winsznx/theeleven",
       "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
       "url": "https://github.com/winsznx/theeleven",
-      "stars": 457,
-      "forks": 0,
+      "stars": 642,
+      "forks": 2,
       "language": "TypeScript",
-      "updated_at": "2026-06-27T01:37:39Z"
+      "updated_at": "2026-06-28T01:56:04Z"
+    },
+    {
+      "name": "QwenLM/Qwen-AgentWorld",
+      "description": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+      "stars": 595,
+      "forks": 53,
+      "language": "Python",
+      "updated_at": "2026-06-28T01:24:04Z"
+    },
+    {
+      "name": "benchflow-ai/awesome-evals",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "url": "https://github.com/benchflow-ai/awesome-evals",
+      "stars": 533,
+      "forks": 39,
+      "language": null,
+      "updated_at": "2026-06-28T01:58:40Z"
     },
     {
       "name": "HKUDS/AgentSpace",
       "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
       "url": "https://github.com/HKUDS/AgentSpace",
-      "stars": 453,
-      "forks": 48,
+      "stars": 479,
+      "forks": 53,
       "language": "TypeScript",
-      "updated_at": "2026-06-26T18:40:13Z"
-    },
-    {
-      "name": "m1ckc3s/claude-status-bar",
-      "description": "A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.",
-      "url": "https://github.com/m1ckc3s/claude-status-bar",
-      "stars": 359,
-      "forks": 24,
-      "language": "Swift",
-      "updated_at": "2026-06-27T01:48:05Z"
-    },
-    {
-      "name": "Th0rgal/open_oura",
-      "description": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally.",
-      "url": "https://github.com/Th0rgal/open_oura",
-      "stars": 342,
-      "forks": 50,
-      "language": "Rust",
-      "updated_at": "2026-06-27T01:46:38Z"
+      "updated_at": "2026-06-28T01:33:15Z"
     },
     {
       "name": "goehou/tabbit-toy",
-      "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快��使用claude gpt等模型",
       "url": "https://github.com/goehou/tabbit-toy",
-      "stars": 319,
-      "forks": 725,
+      "stars": 365,
+      "forks": 751,
       "language": "JavaScript",
-      "updated_at": "2026-06-27T01:41:13Z"
+      "updated_at": "2026-06-28T00:37:54Z"
     },
     {
-      "name": "samasante/liquid-glass",
-      "description": "Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies.",
-      "url": "https://github.com/samasante/liquid-glass",
-      "stars": 318,
-      "forks": 24,
-      "language": "TypeScript",
-      "updated_at": "2026-06-27T01:03:34Z"
-    },
-    {
-      "name": "krea-ai/krea-2",
-      "description": "Official inference code for Krea 2",
-      "url": "https://github.com/krea-ai/krea-2",
-      "stars": 304,
-      "forks": 23,
-      "language": "Python",
-      "updated_at": "2026-06-26T22:26:12Z"
+      "name": "playPlumtown/Plumtown",
+      "description": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
+      "url": "https://github.com/playPlumtown/Plumtown",
+      "stars": 356,
+      "forks": 1,
+      "language": "JavaScript",
+      "updated_at": "2026-06-28T01:13:51Z"
     },
     {
       "name": "WangJunqing-coder/huasheng13-skill",
       "description": "基于花生十三公开教学体系、课程资料、历年正题整理得到的skill。",
       "url": "https://github.com/WangJunqing-coder/huasheng13-skill",
-      "stars": 303,
-      "forks": 65,
+      "stars": 352,
+      "forks": 69,
       "language": null,
-      "updated_at": "2026-06-27T00:12:41Z"
+      "updated_at": "2026-06-28T01:35:03Z"
+    },
+    {
+      "name": "samasante/liquid-glass",
+      "description": "Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies.",
+      "url": "https://github.com/samasante/liquid-glass",
+      "stars": 340,
+      "forks": 24,
+      "language": "TypeScript",
+      "updated_at": "2026-06-27T23:07:52Z"
+    },
+    {
+      "name": "AlexandrosGounis/pdfx",
+      "description": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
+      "url": "https://github.com/AlexandrosGounis/pdfx",
+      "stars": 336,
+      "forks": 37,
+      "language": "TypeScript",
+      "updated_at": "2026-06-28T01:54:43Z"
     },
     {
       "name": "amplifthq/opentag",
       "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
       "url": "https://github.com/amplifthq/opentag",
-      "stars": 297,
-      "forks": 28,
+      "stars": 332,
+      "forks": 31,
       "language": "TypeScript",
-      "updated_at": "2026-06-27T01:43:34Z"
+      "updated_at": "2026-06-28T01:11:18Z"
     },
     {
-      "name": "SarkAzia/baiyueguang-learning-skill",
-      "description": "用视奸前任白月光的方式学数学以及任何学科",
-      "url": "https://github.com/SarkAzia/baiyueguang-learning-skill",
-      "stars": 291,
-      "forks": 7,
-      "language": null,
-      "updated_at": "2026-06-26T20:07:44Z"
-    },
-    {
-      "name": "PMTraderAdam/pm-adam-trader",
-      "description": null,
-      "url": "https://github.com/PMTraderAdam/pm-adam-trader",
-      "stars": 283,
-      "forks": 1,
-      "language": "TypeScript",
-      "updated_at": "2026-06-27T00:57:44Z"
-    },
-    {
-      "name": "nova452/ComfyUI-ConditioningKrea2Rebalance",
-      "description": "Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
-      "url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance",
-      "stars": 263,
-      "forks": 36,
+      "name": "krea-ai/krea-2",
+      "description": "Official inference code for Krea 2",
+      "url": "https://github.com/krea-ai/krea-2",
+      "stars": 331,
+      "forks": 24,
       "language": "Python",
-      "updated_at": "2026-06-26T23:15:54Z"
-    },
-    {
-      "name": "trotsky1997/OpenFugu",
-      "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-      "url": "https://github.com/trotsky1997/OpenFugu",
-      "stars": 251,
-      "forks": 47,
-      "language": "Python",
-      "updated_at": "2026-06-26T21:57:24Z"
-    },
-    {
-      "name": "iebb/mithka",
-      "description": null,
-      "url": "https://github.com/iebb/mithka",
-      "stars": 221,
-      "forks": 4,
-      "language": "Dart",
-      "updated_at": "2026-06-27T01:47:10Z"
-    },
-    {
-      "name": "byJoey/cfnew-deployer",
-      "description": null,
-      "url": "https://github.com/byJoey/cfnew-deployer",
-      "stars": 220,
-      "forks": 146,
-      "language": "JavaScript",
-      "updated_at": "2026-06-27T00:57:34Z"
-    },
-    {
-      "name": "dama-cyber/Casting-Workflow",
-      "description": null,
-      "url": "https://github.com/dama-cyber/Casting-Workflow",
-      "stars": 215,
-      "forks": 56,
-      "language": "Python",
-      "updated_at": "2026-06-26T19:59:49Z"
-    },
-    {
-      "name": "iart-ai/motion-skills",
-      "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
-      "url": "https://github.com/iart-ai/motion-skills",
-      "stars": 213,
-      "forks": 17,
-      "language": "HTML",
-      "updated_at": "2026-06-27T00:44:07Z"
+      "updated_at": "2026-06-28T01:37:12Z"
     },
     {
       "name": "Pluviobyte/video-production-skills",
       "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
       "url": "https://github.com/Pluviobyte/video-production-skills",
-      "stars": 212,
-      "forks": 21,
+      "stars": 330,
+      "forks": 37,
       "language": "Python",
-      "updated_at": "2026-06-27T01:48:48Z"
+      "updated_at": "2026-06-28T01:48:59Z"
+    },
+    {
+      "name": "PMTraderAdam/pm-adam-trader",
+      "description": null,
+      "url": "https://github.com/PMTraderAdam/pm-adam-trader",
+      "stars": 306,
+      "forks": 1,
+      "language": "TypeScript",
+      "updated_at": "2026-06-28T01:27:04Z"
+    },
+    {
+      "name": "nova452/ComfyUI-Conditioning-Rebalance",
+      "description": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "url": "https://github.com/nova452/ComfyUI-Conditioning-Rebalance",
+      "stars": 278,
+      "forks": 38,
+      "language": "Python",
+      "updated_at": "2026-06-27T19:03:52Z"
+    },
+    {
+      "name": "iebb/mithka",
+      "description": null,
+      "url": "https://github.com/iebb/mithka",
+      "stars": 274,
+      "forks": 6,
+      "language": "Dart",
+      "updated_at": "2026-06-28T01:58:20Z"
+    },
+    {
+      "name": "trotsky1997/OpenFugu",
+      "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+      "url": "https://github.com/trotsky1997/OpenFugu",
+      "stars": 266,
+      "forks": 48,
+      "language": "Python",
+      "updated_at": "2026-06-27T21:21:34Z"
+    },
+    {
+      "name": "PMTraderAdam/pm-copy-trader",
+      "description": null,
+      "url": "https://github.com/PMTraderAdam/pm-copy-trader",
+      "stars": 252,
+      "forks": 596,
+      "language": "TypeScript",
+      "updated_at": "2026-06-28T01:28:20Z"
+    },
+    {
+      "name": "byJoey/cfnew-deployer",
+      "description": null,
+      "url": "https://github.com/byJoey/cfnew-deployer",
+      "stars": 252,
+      "forks": 162,
+      "language": "JavaScript",
+      "updated_at": "2026-06-28T01:46:37Z"
+    },
+    {
+      "name": "slimopump/sillygoose",
+      "description": null,
+      "url": "https://github.com/slimopump/sillygoose",
+      "stars": 251,
+      "forks": 0,
+      "language": null,
+      "updated_at": "2026-06-28T01:45:38Z"
+    },
+    {
+      "name": "dama-cyber/Casting-Workflow",
+      "description": null,
+      "url": "https://github.com/dama-cyber/Casting-Workflow",
+      "stars": 249,
+      "forks": 57,
+      "language": "Python",
+      "updated_at": "2026-06-28T01:44:56Z"
+    },
+    {
+      "name": "MalcolmMcGough/polymarket-trading-bot-scalping",
+      "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot ",
+      "url": "https://github.com/MalcolmMcGough/polymarket-trading-bot-scalping",
+      "stars": 248,
+      "forks": 390,
+      "language": "TypeScript",
+      "updated_at": "2026-06-28T01:47:05Z"
+    },
+    {
+      "name": "abundantbeing/hermes-browser-extension",
+      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "url": "https://github.com/abundantbeing/hermes-browser-extension",
+      "stars": 248,
+      "forks": 21,
+      "language": "JavaScript",
+      "updated_at": "2026-06-28T00:57:22Z"
+    },
+    {
+      "name": "xxniiinxx/coinflip-casino-game",
+      "description": "A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB. ",
+      "url": "https://github.com/xxniiinxx/coinflip-casino-game",
+      "stars": 246,
+      "forks": 202,
+      "language": "TypeScript",
+      "updated_at": "2026-06-28T01:48:46Z"
+    },
+    {
+      "name": "eli-labz/Godcoder",
+      "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider",
+      "url": "https://github.com/eli-labz/Godcoder",
+      "stars": 240,
+      "forks": 0,
+      "language": "Rust",
+      "updated_at": "2026-06-28T00:40:01Z"
     },
     {
       "name": "maria-rcks/dinorip",
       "description": "Free & Open Source Texture Ripper",
       "url": "https://github.com/maria-rcks/dinorip",
-      "stars": 205,
-      "forks": 8,
+      "stars": 224,
+      "forks": 9,
       "language": "TypeScript",
-      "updated_at": "2026-06-27T01:21:01Z"
-    },
-    {
-      "name": "JayWebtech/autoshorts",
-      "description": null,
-      "url": "https://github.com/JayWebtech/autoshorts",
-      "stars": 196,
-      "forks": 48,
-      "language": "Rust",
-      "updated_at": "2026-06-26T21:47:36Z"
-    },
-    {
-      "name": "FlavioAdamo/openfit",
-      "description": "Desktop dashboard and Codex-powered assistant for Fitbit data",
-      "url": "https://github.com/FlavioAdamo/openfit",
-      "stars": 193,
-      "forks": 25,
-      "language": "TypeScript",
-      "updated_at": "2026-06-26T19:09:44Z"
-    },
-    {
-      "name": "i5ting/learn-ai-practice",
-      "description": null,
-      "url": "https://github.com/i5ting/learn-ai-practice",
-      "stars": 189,
-      "forks": 5,
-      "language": null,
-      "updated_at": "2026-06-26T15:44:45Z"
-    },
-    {
-      "name": "haowang02/codex-candy-eval",
-      "description": "Codex 降智测试",
-      "url": "https://github.com/haowang02/codex-candy-eval",
-      "stars": 185,
-      "forks": 14,
-      "language": "Python",
-      "updated_at": "2026-06-27T01:36:16Z"
-    },
-    {
-      "name": "manojd23625/Steam-Tools",
-      "description": "steamtools steam download manifest steamtools manifest steamdb steamtools lua steamtools games steam download manifest steam steam manifest client tool utility script file manager app library pc game",
-      "url": "https://github.com/manojd23625/Steam-Tools",
-      "stars": 180,
-      "forks": 0,
-      "language": "C#",
-      "updated_at": "2026-06-26T22:24:22Z"
+      "updated_at": "2026-06-28T01:36:51Z"
     }
   ]
 }
