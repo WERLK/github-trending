@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-06-30T01:56:33.698Z",
+  "fetched_at": "2026-07-01T02:02:07.161Z",
   "repos": [
     {
       "name": "deepseek-ai/DeepSpec",
       "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "url": "https://github.com/deepseek-ai/DeepSpec",
-      "stars": 3900,
-      "forks": 329,
+      "stars": 5309,
+      "forks": 424,
       "language": "Python",
-      "updated_at": "2026-06-30T01:55:53Z"
-    },
-    {
-      "name": "Yu9191/wloc",
-      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "url": "https://github.com/Yu9191/wloc",
-      "stars": 1515,
-      "forks": 197,
-      "language": "JavaScript",
-      "updated_at": "2026-06-30T01:52:04Z"
-    },
-    {
-      "name": "Krishnagangwal/CS-Fundamentals",
-      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
-      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
-      "stars": 959,
-      "forks": 70,
-      "language": null,
-      "updated_at": "2026-06-30T01:50:46Z"
-    },
-    {
-      "name": "winsznx/theeleven",
-      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "url": "https://github.com/winsznx/theeleven",
-      "stars": 715,
-      "forks": 2,
-      "language": "TypeScript",
-      "updated_at": "2026-06-30T01:45:15Z"
+      "updated_at": "2026-07-01T02:01:46Z"
     },
     {
       "name": "baairon/torlink",
       "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
       "url": "https://github.com/baairon/torlink",
-      "stars": 671,
-      "forks": 38,
+      "stars": 1700,
+      "forks": 105,
       "language": "TypeScript",
-      "updated_at": "2026-06-30T01:54:51Z"
+      "updated_at": "2026-07-01T02:01:38Z"
     },
     {
-      "name": "benchflow-ai/awesome-evals",
-      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "url": "https://github.com/benchflow-ai/awesome-evals",
-      "stars": 589,
-      "forks": 42,
+      "name": "Krishnagangwal/CS-Fundamentals",
+      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+      "stars": 1218,
+      "forks": 95,
       "language": null,
-      "updated_at": "2026-06-30T00:42:33Z"
-    },
-    {
-      "name": "AlexandrosGounis/pdfx",
-      "description": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
-      "url": "https://github.com/AlexandrosGounis/pdfx",
-      "stars": 564,
-      "forks": 64,
-      "language": "TypeScript",
-      "updated_at": "2026-06-30T01:24:58Z"
+      "updated_at": "2026-07-01T01:54:37Z"
     },
     {
       "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "description": null,
       "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "stars": 512,
-      "forks": 174,
+      "stars": 818,
+      "forks": 256,
       "language": "Python",
-      "updated_at": "2026-06-30T01:52:28Z"
+      "updated_at": "2026-07-01T02:01:05Z"
+    },
+    {
+      "name": "winsznx/theeleven",
+      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "url": "https://github.com/winsznx/theeleven",
+      "stars": 691,
+      "forks": 2,
+      "language": "TypeScript",
+      "updated_at": "2026-06-30T21:10:04Z"
+    },
+    {
+      "name": "TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "stars": 602,
+      "forks": 58,
+      "language": "Python",
+      "updated_at": "2026-07-01T01:52:55Z"
     },
     {
       "name": "Pluviobyte/video-production-skills",
       "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
       "url": "https://github.com/Pluviobyte/video-production-skills",
-      "stars": 445,
-      "forks": 54,
+      "stars": 483,
+      "forks": 58,
       "language": "Python",
-      "updated_at": "2026-06-30T01:43:45Z"
+      "updated_at": "2026-07-01T00:28:28Z"
     },
     {
       "name": "CopilotKit/OpenTag",
       "description": "OpenTag",
       "url": "https://github.com/CopilotKit/OpenTag",
-      "stars": 408,
-      "forks": 46,
+      "stars": 462,
+      "forks": 51,
       "language": "TypeScript",
-      "updated_at": "2026-06-30T01:43:48Z"
+      "updated_at": "2026-06-30T23:00:36Z"
     },
     {
       "name": "tdeverx/contained-app",
       "description": "A native macOS app for Apple's Container CLI",
       "url": "https://github.com/tdeverx/contained-app",
-      "stars": 406,
-      "forks": 17,
+      "stars": 433,
+      "forks": 18,
       "language": "Swift",
-      "updated_at": "2026-06-30T01:55:34Z"
-    },
-    {
-      "name": "ricccrd/dd",
-      "description": null,
-      "url": "https://github.com/ricccrd/dd",
-      "stars": 373,
-      "forks": 0,
-      "language": "C",
-      "updated_at": "2026-06-30T01:43:50Z"
-    },
-    {
-      "name": "amplifthq/opentag",
-      "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-      "url": "https://github.com/amplifthq/opentag",
-      "stars": 371,
-      "forks": 34,
-      "language": "TypeScript",
-      "updated_at": "2026-06-30T00:46:27Z"
-    },
-    {
-      "name": "downclash/clash",
-      "description": null,
-      "url": "https://github.com/downclash/clash",
-      "stars": 369,
-      "forks": 0,
-      "language": "JavaScript",
-      "updated_at": "2026-06-30T01:43:53Z"
-    },
-    {
-      "name": "blknoiz0632/CandyDrop",
-      "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
-      "url": "https://github.com/blknoiz0632/CandyDrop",
-      "stars": 358,
-      "forks": 3,
-      "language": "JavaScript",
-      "updated_at": "2026-06-30T01:43:56Z"
+      "updated_at": "2026-07-01T01:51:01Z"
     },
     {
       "name": "cclank/lanshu-animated-architecture-diagram",
       "description": "Premium hand-drawn animated architecture diagram Codex skill",
       "url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
-      "stars": 347,
-      "forks": 45,
+      "stars": 388,
+      "forks": 47,
       "language": "Python",
-      "updated_at": "2026-06-30T01:43:58Z"
-    },
-    {
-      "name": "slimopump/sillygoose",
-      "description": null,
-      "url": "https://github.com/slimopump/sillygoose",
-      "stars": 327,
-      "forks": 1,
-      "language": null,
-      "updated_at": "2026-06-30T00:41:12Z"
-    },
-    {
-      "name": "PMTraderAdam/pm-copy-trader",
-      "description": "polymarket copytrading bot || polymarket copytradingbot || polymarket copy trading bot || polymarket copytrading bot || polymarket trading bot || polymarket trading bot",
-      "url": "https://github.com/PMTraderAdam/pm-copy-trader",
-      "stars": 316,
-      "forks": 596,
-      "language": "TypeScript",
-      "updated_at": "2026-06-30T00:44:26Z"
-    },
-    {
-      "name": "abundantbeing/hermes-browser-extension",
-      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "url": "https://github.com/abundantbeing/hermes-browser-extension",
-      "stars": 314,
-      "forks": 25,
-      "language": "JavaScript",
-      "updated_at": "2026-06-30T00:49:40Z"
-    },
-    {
-      "name": "xxniiinxx/coinflip-casino-game",
-      "description": "A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB. ",
-      "url": "https://github.com/xxniiinxx/coinflip-casino-game",
-      "stars": 312,
-      "forks": 202,
-      "language": "TypeScript",
-      "updated_at": "2026-06-30T01:44:01Z"
-    },
-    {
-      "name": "tutusagi/ai-fishing-game",
-      "description": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
-      "url": "https://github.com/tutusagi/ai-fishing-game",
-      "stars": 311,
-      "forks": 40,
-      "language": "Python",
-      "updated_at": "2026-06-30T01:32:50Z"
-    },
-    {
-      "name": "Einsia/Browser-BC",
-      "description": "Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting.",
-      "url": "https://github.com/Einsia/Browser-BC",
-      "stars": 306,
-      "forks": 27,
-      "language": "TypeScript",
-      "updated_at": "2026-06-30T01:51:41Z"
-    },
-    {
-      "name": "offchainthoughts/Amber",
-      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
-      "url": "https://github.com/offchainthoughts/Amber",
-      "stars": 305,
-      "forks": 151,
-      "language": "Python",
-      "updated_at": "2026-06-30T01:25:12Z"
-    },
-    {
-      "name": "uphiago/recon-skills",
-      "description": "144 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with web enum, email sec, google dorks, cloud IAM, WordPress full compromise chains.",
-      "url": "https://github.com/uphiago/recon-skills",
-      "stars": 277,
-      "forks": 50,
-      "language": "Python",
-      "updated_at": "2026-06-30T01:10:57Z"
+      "updated_at": "2026-07-01T01:34:08Z"
     },
     {
       "name": "wlzh/dji-4g-vohive-mac",
       "description": "在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤",
       "url": "https://github.com/wlzh/dji-4g-vohive-mac",
-      "stars": 277,
-      "forks": 48,
+      "stars": 357,
+      "forks": 65,
       "language": null,
-      "updated_at": "2026-06-30T01:54:55Z"
+      "updated_at": "2026-07-01T01:55:44Z"
     },
     {
-      "name": "ivorpad/mercadona-cli",
+      "name": "ricccrd/dd",
       "description": null,
-      "url": "https://github.com/ivorpad/mercadona-cli",
-      "stars": 256,
-      "forks": 24,
-      "language": "Go",
-      "updated_at": "2026-06-29T22:57:40Z"
+      "url": "https://github.com/ricccrd/dd",
+      "stars": 355,
+      "forks": 0,
+      "language": "C",
+      "updated_at": "2026-06-30T22:15:21Z"
     },
     {
-      "name": "eli-labz/Godcoder",
-      "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "url": "https://github.com/eli-labz/Godcoder",
-      "stars": 251,
-      "forks": 1,
-      "language": "Rust",
-      "updated_at": "2026-06-29T17:56:09Z"
+      "name": "downclash/clash",
+      "description": null,
+      "url": "https://github.com/downclash/clash",
+      "stars": 350,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2026-06-30T19:15:23Z"
+    },
+    {
+      "name": "Jia-Ethan/codex-keysmith",
+      "description": "Codex CLI instruction-file installer for local configuration",
+      "url": "https://github.com/Jia-Ethan/codex-keysmith",
+      "stars": 342,
+      "forks": 62,
+      "language": "Python",
+      "updated_at": "2026-07-01T01:53:52Z"
+    },
+    {
+      "name": "blknoiz0632/CandyDrop",
+      "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
+      "url": "https://github.com/blknoiz0632/CandyDrop",
+      "stars": 341,
+      "forks": 3,
+      "language": "JavaScript",
+      "updated_at": "2026-06-30T20:07:47Z"
+    },
+    {
+      "name": "Einsia/Browser-BC",
+      "description": "Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting.",
+      "url": "https://github.com/Einsia/Browser-BC",
+      "stars": 340,
+      "forks": 33,
+      "language": "TypeScript",
+      "updated_at": "2026-07-01T01:52:02Z"
+    },
+    {
+      "name": "lycorp-jp/sim-use",
+      "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+      "url": "https://github.com/lycorp-jp/sim-use",
+      "stars": 336,
+      "forks": 15,
+      "language": "Swift",
+      "updated_at": "2026-07-01T01:45:34Z"
+    },
+    {
+      "name": "xxniiinxx/coinflip-casino-game",
+      "description": "A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB. ",
+      "url": "https://github.com/xxniiinxx/coinflip-casino-game",
+      "stars": 336,
+      "forks": 202,
+      "language": "TypeScript",
+      "updated_at": "2026-07-01T01:45:26Z"
     },
     {
       "name": "diinki/linux-antiquity",
       "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.",
       "url": "https://github.com/diinki/linux-antiquity",
-      "stars": 244,
-      "forks": 2,
+      "stars": 332,
+      "forks": 5,
       "language": "QML",
-      "updated_at": "2026-06-30T01:47:35Z"
+      "updated_at": "2026-07-01T01:39:41Z"
+    },
+    {
+      "name": "offchainthoughts/Amber",
+      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "url": "https://github.com/offchainthoughts/Amber",
+      "stars": 322,
+      "forks": 201,
+      "language": "Python",
+      "updated_at": "2026-07-01T01:01:04Z"
+    },
+    {
+      "name": "ivorpad/mercadona-cli",
+      "description": null,
+      "url": "https://github.com/ivorpad/mercadona-cli",
+      "stars": 279,
+      "forks": 24,
+      "language": "Go",
+      "updated_at": "2026-07-01T01:31:06Z"
+    },
+    {
+      "name": "eli-labz/Godcoder",
+      "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+      "url": "https://github.com/eli-labz/Godcoder",
+      "stars": 255,
+      "forks": 1,
+      "language": "Rust",
+      "updated_at": "2026-07-01T01:47:09Z"
     },
     {
       "name": "maria-rcks/dinorip",
       "description": "Free & Open Source Texture Ripper",
       "url": "https://github.com/maria-rcks/dinorip",
-      "stars": 243,
-      "forks": 9,
+      "stars": 248,
+      "forks": 10,
       "language": "TypeScript",
-      "updated_at": "2026-06-29T22:35:28Z"
+      "updated_at": "2026-06-30T23:58:15Z"
     },
     {
       "name": "FossPrime/Steam-Controller-Auto-Charge",
       "description": "Slam the controller into the magnetic puck until it charges",
       "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-      "stars": 235,
+      "stars": 238,
       "forks": 9,
       "language": "TypeScript",
-      "updated_at": "2026-06-29T22:47:01Z"
+      "updated_at": "2026-06-30T20:04:39Z"
+    },
+    {
+      "name": "flebonan/WeatherMaster",
+      "description": "A Weather app for android with multiple sources 🌦🌞☔",
+      "url": "https://github.com/flebonan/WeatherMaster",
+      "stars": 237,
+      "forks": 114,
+      "language": "Kotlin",
+      "updated_at": "2026-06-30T21:23:14Z"
+    },
+    {
+      "name": "ravsindong/Nim",
+      "description": "Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).",
+      "url": "https://github.com/ravsindong/Nim",
+      "stars": 232,
+      "forks": 1330,
+      "language": "Nim",
+      "updated_at": "2026-06-30T05:50:30Z"
+    },
+    {
+      "name": "ik190/macos-chatgpt-overlay-bar",
+      "description": "ChatGPT for Mac, living in your menubar.",
+      "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
+      "stars": 232,
+      "forks": 16,
+      "language": null,
+      "updated_at": "2026-06-30T16:29:38Z"
+    },
+    {
+      "name": "Zeeshan2899/System_Backup___Restore",
+      "description": "Create system images, backup files, and restore when needed. Protect your data from crashes and malware. Full system backup.",
+      "url": "https://github.com/Zeeshan2899/System_Backup___Restore",
+      "stars": 223,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-07-01T01:48:08Z"
+    },
+    {
+      "name": "zhujingqi/Twitter_Engagement_Tool",
+      "description": "Auto-tweet, follow/unfollow, and like/retweet scheduler. Schedule tweets, gain followers, like tweets, and reply to mentions. Grow your Twitter audience.",
+      "url": "https://github.com/zhujingqi/Twitter_Engagement_Tool",
+      "stars": 223,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-07-01T01:48:41Z"
+    },
+    {
+      "name": "SrSCK/Virtual_Machine_Manager",
+      "description": "Run and manage virtual machines with ease. Supports VMware, VirtualBox, and Hyper-V. Create, start, and stop VMs.",
+      "url": "https://github.com/SrSCK/Virtual_Machine_Manager",
+      "stars": 223,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-07-01T01:49:05Z"
     }
   ]
 }
