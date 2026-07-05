@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-07-04T01:25:25.389Z",
+  "fetched_at": "2026-07-05T01:30:58.813Z",
   "repos": [
-    {
-      "name": "Krishnagangwal/CS-Fundamentals",
-      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
-      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
-      "stars": 1509,
-      "forks": 127,
-      "language": null,
-      "updated_at": "2026-07-03T22:36:16Z"
-    },
-    {
-      "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "description": null,
-      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "stars": 1291,
-      "forks": 374,
-      "language": "Python",
-      "updated_at": "2026-07-04T01:11:16Z"
-    },
     {
       "name": "mekos2772/ios-location-spoofer",
       "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
-      "stars": 1249,
-      "forks": 182,
+      "stars": 1285,
+      "forks": 191,
       "language": "JavaScript",
-      "updated_at": "2026-07-04T00:52:44Z"
-    },
-    {
-      "name": "Kulaxyz/self-learning-skills",
-      "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
-      "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "stars": 797,
-      "forks": 23,
-      "language": null,
-      "updated_at": "2026-07-04T00:53:47Z"
-    },
-    {
-      "name": "TianhangZhuzth/Fundamental-Ava",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "stars": 519,
-      "forks": 52,
-      "language": "Python",
-      "updated_at": "2026-07-03T20:29:42Z"
-    },
-    {
-      "name": "HUANGCHIHHUNGLeo/claude-real-video",
-      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "stars": 516,
-      "forks": 20,
-      "language": "Python",
-      "updated_at": "2026-07-04T01:24:39Z"
-    },
-    {
-      "name": "xuchonglang/investing-for-beginners",
-      "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-      "url": "https://github.com/xuchonglang/investing-for-beginners",
-      "stars": 476,
-      "forks": 24,
-      "language": null,
-      "updated_at": "2026-07-04T01:21:46Z"
-    },
-    {
-      "name": "uzairansaruzi/hermex",
-      "description": "Native iPhone app for your Hermes agent",
-      "url": "https://github.com/uzairansaruzi/hermex",
-      "stars": 444,
-      "forks": 49,
-      "language": "Swift",
-      "updated_at": "2026-07-04T00:59:27Z"
-    },
-    {
-      "name": "Jia-Ethan/codex-keysmith",
-      "description": "Codex CLI instruction-file installer for local configuration",
-      "url": "https://github.com/Jia-Ethan/codex-keysmith",
-      "stars": 411,
-      "forks": 70,
-      "language": "Python",
-      "updated_at": "2026-07-03T23:39:27Z"
-    },
-    {
-      "name": "asz798838958/FrciblyK12",
-      "description": "多线程全自动注册free 强上K12空间",
-      "url": "https://github.com/asz798838958/FrciblyK12",
-      "stars": 377,
-      "forks": 154,
-      "language": "Python",
-      "updated_at": "2026-07-03T16:34:05Z"
-    },
-    {
-      "name": "spiritov/ds.css",
-      "description": "A css framework recreating the DS / DS Lite's UI",
-      "url": "https://github.com/spiritov/ds.css",
-      "stars": 376,
-      "forks": 2,
-      "language": "CSS",
-      "updated_at": "2026-07-04T01:13:42Z"
+      "updated_at": "2026-07-05T01:19:30Z"
     },
     {
       "name": "jamesob/local-llm",
       "description": "Everything I know about running LLMs locally",
       "url": "https://github.com/jamesob/local-llm",
-      "stars": 342,
-      "forks": 9,
+      "stars": 753,
+      "forks": 35,
       "language": "Shell",
-      "updated_at": "2026-07-04T01:25:18Z"
+      "updated_at": "2026-07-05T01:24:23Z"
+    },
+    {
+      "name": "HUANGCHIHHUNGLeo/claude-real-video",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "stars": 745,
+      "forks": 38,
+      "language": "Python",
+      "updated_at": "2026-07-05T01:06:15Z"
+    },
+    {
+      "name": "xuchonglang/investing-for-beginners",
+      "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "url": "https://github.com/xuchonglang/investing-for-beginners",
+      "stars": 649,
+      "forks": 36,
+      "language": null,
+      "updated_at": "2026-07-05T01:30:27Z"
     },
     {
       "name": "jmerelnyc/Talos",
       "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "url": "https://github.com/jmerelnyc/Talos",
-      "stars": 318,
+      "stars": 585,
       "forks": 12,
       "language": "Python",
-      "updated_at": "2026-07-04T01:20:27Z"
+      "updated_at": "2026-07-05T01:21:27Z"
     },
     {
-      "name": "lingbol088-spec/reverse-flow-skill",
-      "description": "面向 AI Agent / Codex ��本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-      "stars": 315,
-      "forks": 177,
+      "name": "uzairansaruzi/hermex",
+      "description": "Native iPhone app for your Hermes agent",
+      "url": "https://github.com/uzairansaruzi/hermex",
+      "stars": 552,
+      "forks": 56,
+      "language": "Swift",
+      "updated_at": "2026-07-05T01:24:31Z"
+    },
+    {
+      "name": "TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "stars": 523,
+      "forks": 53,
       "language": "Python",
-      "updated_at": "2026-07-04T01:05:41Z"
+      "updated_at": "2026-07-04T19:42:13Z"
     },
     {
-      "name": "FractalFir/crustc",
-      "description": "Entirety of `rustc`, translated to C. ",
-      "url": "https://github.com/FractalFir/crustc",
-      "stars": 308,
-      "forks": 4,
-      "language": "C",
-      "updated_at": "2026-07-04T01:13:30Z"
+      "name": "Kulaxyz/token-diet",
+      "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+      "url": "https://github.com/Kulaxyz/token-diet",
+      "stars": 457,
+      "forks": 0,
+      "language": "Shell",
+      "updated_at": "2026-07-05T01:14:41Z"
     },
     {
-      "name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-      "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
-      "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-      "stars": 293,
-      "forks": 24,
+      "name": "spiritov/ds.css",
+      "description": "A css framework recreating the DS / DS Lite's UI",
+      "url": "https://github.com/spiritov/ds.css",
+      "stars": 424,
+      "forks": 3,
+      "language": "CSS",
+      "updated_at": "2026-07-05T00:53:29Z"
+    },
+    {
+      "name": "asz798838958/FrciblyK12",
+      "description": "多线程全自动注册free 强上K12空间",
+      "url": "https://github.com/asz798838958/FrciblyK12",
+      "stars": 413,
+      "forks": 158,
       "language": "Python",
-      "updated_at": "2026-07-03T12:39:04Z"
+      "updated_at": "2026-07-05T00:12:04Z"
     },
     {
       "name": "LinXiaoTao/FuckClaude",
       "description": null,
       "url": "https://github.com/LinXiaoTao/FuckClaude",
-      "stars": 269,
-      "forks": 30,
+      "stars": 372,
+      "forks": 36,
       "language": "Astro",
-      "updated_at": "2026-07-04T00:56:51Z"
+      "updated_at": "2026-07-04T23:39:37Z"
     },
     {
-      "name": "maaslalani/fast",
-      "description": "Internet speed test in your terminal",
-      "url": "https://github.com/maaslalani/fast",
-      "stars": 254,
-      "forks": 13,
-      "language": "Go",
-      "updated_at": "2026-07-03T23:33:52Z"
-    },
-    {
-      "name": "revfactory/webtoon-harness",
-      "description": "트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
-      "url": "https://github.com/revfactory/webtoon-harness",
-      "stars": 250,
-      "forks": 89,
-      "language": "HTML",
-      "updated_at": "2026-07-03T15:41:06Z"
-    },
-    {
-      "name": "prathoshap/vagdhenu",
-      "description": "Vāgdhenu — metered Sanskrit/Vedic chant text-to-speech (DiT + BigVGAN). Apache-2.0.",
-      "url": "https://github.com/prathoshap/vagdhenu",
-      "stars": 217,
-      "forks": 41,
+      "name": "lingbol088-spec/reverse-flow-skill",
+      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "stars": 349,
+      "forks": 189,
       "language": "Python",
-      "updated_at": "2026-07-03T22:11:17Z"
+      "updated_at": "2026-07-05T01:16:04Z"
     },
     {
-      "name": "meituan-longcat/LongCat-2.0",
-      "description": null,
-      "url": "https://github.com/meituan-longcat/LongCat-2.0",
-      "stars": 216,
-      "forks": 19,
+      "name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
+      "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "stars": 298,
+      "forks": 24,
+      "language": "Python",
+      "updated_at": "2026-07-04T21:08:20Z"
+    },
+    {
+      "name": "CalmNoteDepot/MECCHA-CHAMELEON-VISION",
+      "description": "🎨 Meccha Chameleon Vision — Desktop Tool 2026",
+      "url": "https://github.com/CalmNoteDepot/MECCHA-CHAMELEON-VISION",
+      "stars": 251,
+      "forks": 0,
       "language": null,
-      "updated_at": "2026-07-03T21:18:58Z"
+      "updated_at": "2026-07-04T21:38:55Z"
     },
     {
-      "name": "offchainthoughts/Amber",
-      "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
-      "url": "https://github.com/offchainthoughts/Amber",
-      "stars": 206,
-      "forks": 198,
-      "language": "Python",
-      "updated_at": "2026-07-03T19:22:09Z"
-    },
-    {
-      "name": "Ssupercoder/Salary-Negotiation-Skill",
-      "description": "谈薪skill--自动化谈薪的开拓者与领跑者",
-      "url": "https://github.com/Ssupercoder/Salary-Negotiation-Skill",
-      "stars": 203,
-      "forks": 5,
-      "language": "Python",
-      "updated_at": "2026-07-04T00:06:17Z"
+      "name": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+      "stars": 246,
+      "forks": 13,
+      "language": "C++",
+      "updated_at": "2026-07-05T01:30:25Z"
     },
     {
       "name": "xt4d/GameBlocks",
       "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
       "url": "https://github.com/xt4d/GameBlocks",
-      "stars": 180,
-      "forks": 17,
+      "stars": 227,
+      "forks": 23,
       "language": "JavaScript",
-      "updated_at": "2026-07-04T01:14:58Z"
+      "updated_at": "2026-07-05T01:12:59Z"
     },
     {
-      "name": "JimLiu/science-skills",
+      "name": "meituan-longcat/LongCat-2.0",
       "description": null,
-      "url": "https://github.com/JimLiu/science-skills",
-      "stars": 178,
-      "forks": 45,
-      "language": "HTML",
-      "updated_at": "2026-07-04T00:25:24Z"
+      "url": "https://github.com/meituan-longcat/LongCat-2.0",
+      "stars": 223,
+      "forks": 19,
+      "language": null,
+      "updated_at": "2026-07-04T20:21:01Z"
+    },
+    {
+      "name": "SuperJJ007/CSSwitch",
+      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "stars": 222,
+      "forks": 32,
+      "language": "Rust",
+      "updated_at": "2026-07-05T01:23:53Z"
     },
     {
       "name": "mistydew/tokenicode-deepseek-alpha",
       "description": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork",
       "url": "https://github.com/mistydew/tokenicode-deepseek-alpha",
-      "stars": 173,
-      "forks": 8,
+      "stars": 199,
+      "forks": 9,
       "language": "TypeScript",
-      "updated_at": "2026-07-03T22:38:52Z"
+      "updated_at": "2026-07-05T00:48:15Z"
     },
     {
-      "name": "Mayuqi-crypto/HowToGetAlongWithGirls",
-      "description": "Dating coach skills and references",
-      "url": "https://github.com/Mayuqi-crypto/HowToGetAlongWithGirls",
-      "stars": 167,
-      "forks": 24,
-      "language": "Shell",
-      "updated_at": "2026-07-04T01:18:25Z"
+      "name": "antiwork/chromeless",
+      "description": "The browser that isn't there — zero-chrome macOS browser for clean screenshots and fullscreen video. One Swift file.",
+      "url": "https://github.com/antiwork/chromeless",
+      "stars": 191,
+      "forks": 11,
+      "language": "Swift",
+      "updated_at": "2026-07-05T00:15:15Z"
     },
     {
-      "name": "haiou-666/haiou2.0-Claude-Code-",
-      "description": "海鸥 2.0 — Claude Code 人格重塑配置包。让 Claude 摆脱客服腔和过度谨慎，化身一位嘴硬心软、直来直往的资深中文安全研究员\"海鸥\"——专注技术，不废话，不绕弯子，不说\"作为AI\"，直接给代码不给免责声明。标志性问候\"海鸥在线，你要整点薯条吗？\"。1700+ few-shot 示例锁定人格防脱壳，200+ 安全/游戏术语映射覆盖渗透测试、逆向工程、游戏开发等技术场景。一键部署，跨平台支持 Windows/macOS/Linux，自动备份原配置，可一键卸载恢复，无侵入式安装。MIT License，仅供学习交流。",
-      "url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
-      "stars": 166,
-      "forks": 26,
-      "language": "Shell",
-      "updated_at": "2026-07-03T16:27:21Z"
-    },
-    {
-      "name": "SuperJJ007/CSswitch",
-      "description": "让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通��千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。",
-      "url": "https://github.com/SuperJJ007/CSswitch",
-      "stars": 164,
-      "forks": 21,
-      "language": "Rust",
-      "updated_at": "2026-07-04T01:04:51Z"
+      "name": "BenMakesEverything/Pocket-Lab-Power-Supply",
+      "description": "A lab bench power supply, but pocket-sized and battery powered.",
+      "url": "https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply",
+      "stars": 190,
+      "forks": 15,
+      "language": "C++",
+      "updated_at": "2026-07-05T01:09:50Z"
     },
     {
       "name": "akihitohyh/chatgpt-register-sub2api",
       "description": null,
       "url": "https://github.com/akihitohyh/chatgpt-register-sub2api",
-      "stars": 161,
-      "forks": 77,
+      "stars": 188,
+      "forks": 89,
       "language": "Python",
-      "updated_at": "2026-07-04T00:49:31Z"
+      "updated_at": "2026-07-04T19:06:59Z"
+    },
+    {
+      "name": "JimLiu/science-skills",
+      "description": null,
+      "url": "https://github.com/JimLiu/science-skills",
+      "stars": 185,
+      "forks": 48,
+      "language": "HTML",
+      "updated_at": "2026-07-04T13:18:11Z"
+    },
+    {
+      "name": "yynxxxxx/Codex-X",
+      "description": "Codex Switch & Instruct desktop manager",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "stars": 181,
+      "forks": 37,
+      "language": "TypeScript",
+      "updated_at": "2026-07-05T01:23:57Z"
+    },
+    {
+      "name": "lzh-phd/topic-feasibility-screener",
+      "description": "有大致的想法不知道怎么选题？只要给这个skills扔点数据，他能自动帮你延伸出多个idea，检索文献，并帮你跑初步回归验证实证可行性和理论可行性，最后打分排名，让你的科研第一步不再难堪！",
+      "url": "https://github.com/lzh-phd/topic-feasibility-screener",
+      "stars": 171,
+      "forks": 6,
+      "language": "Python",
+      "updated_at": "2026-07-05T01:10:20Z"
+    },
+    {
+      "name": "frankchiu-dev/claude-codex-usage-dashboard",
+      "description": "A local Windows dashboard for Claude Code and Codex usage limits.",
+      "url": "https://github.com/frankchiu-dev/claude-codex-usage-dashboard",
+      "stars": 159,
+      "forks": 30,
+      "language": "JavaScript",
+      "updated_at": "2026-07-03T15:18:34Z"
+    },
+    {
+      "name": "Archive228/loopkit",
+      "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
+      "url": "https://github.com/Archive228/loopkit",
+      "stars": 154,
+      "forks": 34,
+      "language": "JavaScript",
+      "updated_at": "2026-07-05T01:27:02Z"
+    },
+    {
+      "name": "Het-soni556/Blue-Lock-Rivals-Toolkit",
+      "description": "Advanced customization & enhancement toolkit for Blue Lock Rivals PC 2026",
+      "url": "https://github.com/Het-soni556/Blue-Lock-Rivals-Toolkit",
+      "stars": 151,
+      "forks": 0,
+      "language": null,
+      "updated_at": "2026-06-30T22:25:54Z"
+    },
+    {
+      "name": "frecodecasti/gem5-branchpred",
+      "description": "This is an read-only mirror of the gem5 simulator. The upstream repository is stored in https://gem5.googlesource.com, code reviews should be submitted to https://gem5-review.googlesource.com/. The mirrors are synchronized every 15 minutes.",
+      "url": "https://github.com/frecodecasti/gem5-branchpred",
+      "stars": 148,
+      "forks": 2007,
+      "language": "C++",
+      "updated_at": "2026-07-05T01:01:39Z"
+    },
+    {
+      "name": "rolekkona/bghira-bark",
+      "description": "A 🍴 of a 🔊 Text-Prompted Generative Audio Model",
+      "url": "https://github.com/rolekkona/bghira-bark",
+      "stars": 147,
+      "forks": 2005,
+      "language": "Python",
+      "updated_at": "2026-07-05T01:01:48Z"
     }
   ]
 }
