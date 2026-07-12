@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-07-11T01:15:40.510Z",
+  "fetched_at": "2026-07-12T01:17:33.625Z",
   "repos": [
     {
       "name": "withmarbleapp/os-taxonomy",
       "description": null,
       "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "stars": 2131,
-      "forks": 380,
+      "stars": 2401,
+      "forks": 448,
       "language": "JavaScript",
-      "updated_at": "2026-07-11T01:09:33Z"
+      "updated_at": "2026-07-12T01:16:27Z"
     },
     {
       "name": "Shpigford/knockoff",
       "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
       "url": "https://github.com/Shpigford/knockoff",
-      "stars": 1704,
-      "forks": 54,
+      "stars": 1772,
+      "forks": 58,
       "language": "JavaScript",
-      "updated_at": "2026-07-11T01:00:17Z"
-    },
-    {
-      "name": "MaximeRivest/riddle",
-      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
-      "url": "https://github.com/MaximeRivest/riddle",
-      "stars": 1338,
-      "forks": 111,
-      "language": "Rust",
-      "updated_at": "2026-07-11T00:45:34Z"
-    },
-    {
-      "name": "514-labs/dnsglobe",
-      "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
-      "url": "https://github.com/514-labs/dnsglobe",
-      "stars": 794,
-      "forks": 20,
-      "language": "Rust",
-      "updated_at": "2026-07-10T22:46:16Z"
-    },
-    {
-      "name": "Robbyant/lingbot-world-v2",
-      "description": "Infinite Worlds with Versatile Interactions",
-      "url": "https://github.com/Robbyant/lingbot-world-v2",
-      "stars": 701,
-      "forks": 17,
-      "language": "Python",
-      "updated_at": "2026-07-11T01:14:35Z"
-    },
-    {
-      "name": "simonlin1212/Vibe-Research",
-      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "url": "https://github.com/simonlin1212/Vibe-Research",
-      "stars": 671,
-      "forks": 128,
-      "language": "TypeScript",
-      "updated_at": "2026-07-11T01:11:17Z"
-    },
-    {
-      "name": "Robbyant/lingbot-video",
-      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "url": "https://github.com/Robbyant/lingbot-video",
-      "stars": 643,
-      "forks": 19,
-      "language": "Python",
-      "updated_at": "2026-07-10T23:39:15Z"
+      "updated_at": "2026-07-12T00:53:48Z"
     },
     {
       "name": "oso95/scroll-world",
       "description": "A skill that turn any brand into a scrollable 3D world",
       "url": "https://github.com/oso95/scroll-world",
-      "stars": 622,
-      "forks": 54,
+      "stars": 889,
+      "forks": 92,
       "language": "JavaScript",
-      "updated_at": "2026-07-11T01:15:24Z"
-    },
-    {
-      "name": "Robbyant/lingbot-vision",
-      "description": "Self-supervised learning for spatial perception",
-      "url": "https://github.com/Robbyant/lingbot-vision",
-      "stars": 616,
-      "forks": 20,
-      "language": "Python",
-      "updated_at": "2026-07-11T00:12:49Z"
+      "updated_at": "2026-07-12T01:17:13Z"
     },
     {
       "name": "x4gKing/3x-ui-Upgrade",
       "description": null,
       "url": "https://github.com/x4gKing/3x-ui-Upgrade",
-      "stars": 606,
-      "forks": 1193,
+      "stars": 799,
+      "forks": 1634,
       "language": "HTML",
-      "updated_at": "2026-07-11T01:00:11Z"
+      "updated_at": "2026-07-12T01:03:05Z"
+    },
+    {
+      "name": "Robbyant/lingbot-world-v2",
+      "description": "Infinite Worlds with Versatile Interactions",
+      "url": "https://github.com/Robbyant/lingbot-world-v2",
+      "stars": 795,
+      "forks": 31,
+      "language": "Python",
+      "updated_at": "2026-07-12T01:08:57Z"
+    },
+    {
+      "name": "Robbyant/lingbot-video",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "stars": 679,
+      "forks": 24,
+      "language": "Python",
+      "updated_at": "2026-07-12T01:10:09Z"
+    },
+    {
+      "name": "Robbyant/lingbot-vision",
+      "description": "Self-supervised learning for spatial perception",
+      "url": "https://github.com/Robbyant/lingbot-vision",
+      "stars": 634,
+      "forks": 20,
+      "language": "Python",
+      "updated_at": "2026-07-12T00:36:23Z"
     },
     {
       "name": "op7418/guizang-material-illustration",
       "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "url": "https://github.com/op7418/guizang-material-illustration",
-      "stars": 526,
-      "forks": 49,
+      "stars": 557,
+      "forks": 58,
       "language": null,
-      "updated_at": "2026-07-11T01:00:13Z"
-    },
-    {
-      "name": "nagisanzenin/engram",
-      "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
-      "url": "https://github.com/nagisanzenin/engram",
-      "stars": 493,
-      "forks": 60,
-      "language": "Python",
-      "updated_at": "2026-07-11T00:48:11Z"
+      "updated_at": "2026-07-11T17:37:39Z"
     },
     {
       "name": "V4bel/Januscape",
       "description": null,
       "url": "https://github.com/V4bel/Januscape",
-      "stars": 462,
-      "forks": 60,
+      "stars": 472,
+      "forks": 62,
       "language": "C",
-      "updated_at": "2026-07-10T23:02:19Z"
-    },
-    {
-      "name": "x4gKing/PasarGuard",
-      "description": null,
-      "url": "https://github.com/x4gKing/PasarGuard",
-      "stars": 429,
-      "forks": 963,
-      "language": "Dockerfile",
-      "updated_at": "2026-07-11T01:06:31Z"
+      "updated_at": "2026-07-12T00:13:16Z"
     },
     {
       "name": "Robbyant/lingbot-vla-v2",
       "description": "From Foundation to Application",
       "url": "https://github.com/Robbyant/lingbot-vla-v2",
-      "stars": 428,
-      "forks": 21,
+      "stars": 449,
+      "forks": 23,
       "language": "Python",
-      "updated_at": "2026-07-11T00:19:28Z"
-    },
-    {
-      "name": "xiaotianfotos/homerail",
-      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
-      "url": "https://github.com/xiaotianfotos/homerail",
-      "stars": 414,
-      "forks": 94,
-      "language": "TypeScript",
-      "updated_at": "2026-07-11T01:09:31Z"
+      "updated_at": "2026-07-11T23:51:24Z"
     },
     {
       "name": "x4gKing/PasarGuard-Node",
       "description": null,
       "url": "https://github.com/x4gKing/PasarGuard-Node",
-      "stars": 398,
-      "forks": 871,
+      "stars": 448,
+      "forks": 972,
       "language": "Dockerfile",
-      "updated_at": "2026-07-10T23:24:43Z"
+      "updated_at": "2026-07-12T01:08:06Z"
     },
     {
-      "name": "majidmanzarpour/threejs-procedural-dungeon",
-      "description": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
-      "url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
-      "stars": 379,
-      "forks": 66,
-      "language": "JavaScript",
-      "updated_at": "2026-07-10T19:30:22Z"
+      "name": "xiaotianfotos/homerail",
+      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
+      "url": "https://github.com/xiaotianfotos/homerail",
+      "stars": 447,
+      "forks": 105,
+      "language": "TypeScript",
+      "updated_at": "2026-07-11T21:17:30Z"
     },
     {
       "name": "nexu-io/motion-anything",
       "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
       "url": "https://github.com/nexu-io/motion-anything",
-      "stars": 367,
-      "forks": 32,
+      "stars": 392,
+      "forks": 34,
       "language": "JavaScript",
-      "updated_at": "2026-07-11T00:35:23Z"
+      "updated_at": "2026-07-12T01:08:21Z"
     },
     {
       "name": "jiguang132/storyai-3d-director-desk",
       "description": "A browser-based 3D director desk demo built with React, Vite, and Three.js.",
       "url": "https://github.com/jiguang132/storyai-3d-director-desk",
-      "stars": 365,
-      "forks": 91,
+      "stars": 387,
+      "forks": 94,
       "language": "TypeScript",
-      "updated_at": "2026-07-10T16:44:18Z"
-    },
-    {
-      "name": "mira-wm/mira",
-      "description": "Code for MIRA: Multiplayer Interactive World Models with Representation Autoencoders",
-      "url": "https://github.com/mira-wm/mira",
-      "stars": 349,
-      "forks": 17,
-      "language": "Python",
-      "updated_at": "2026-07-10T22:16:34Z"
+      "updated_at": "2026-07-12T01:07:23Z"
     },
     {
       "name": "Nanako0129/pilotfish",
       "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
       "url": "https://github.com/Nanako0129/pilotfish",
-      "stars": 325,
+      "stars": 356,
       "forks": 26,
       "language": null,
-      "updated_at": "2026-07-11T00:47:18Z"
+      "updated_at": "2026-07-12T00:28:28Z"
     },
     {
       "name": "Doriandarko/texts-to-transformer",
       "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
       "url": "https://github.com/Doriandarko/texts-to-transformer",
-      "stars": 313,
-      "forks": 28,
+      "stars": 352,
+      "forks": 31,
       "language": "Python",
-      "updated_at": "2026-07-11T00:55:49Z"
+      "updated_at": "2026-07-11T23:16:28Z"
     },
     {
       "name": "SmtimesIWndr/gdid-reversal",
       "description": null,
       "url": "https://github.com/SmtimesIWndr/gdid-reversal",
-      "stars": 313,
-      "forks": 20,
+      "stars": 340,
+      "forks": 21,
       "language": null,
-      "updated_at": "2026-07-11T00:41:25Z"
+      "updated_at": "2026-07-12T00:46:48Z"
     },
     {
       "name": "ronak-create/FableCut",
       "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
       "url": "https://github.com/ronak-create/FableCut",
-      "stars": 306,
-      "forks": 15,
+      "stars": 339,
+      "forks": 22,
       "language": "JavaScript",
-      "updated_at": "2026-07-11T01:09:25Z"
-    },
-    {
-      "name": "WeZZard/jlens-qwen36",
-      "description": "J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX",
-      "url": "https://github.com/WeZZard/jlens-qwen36",
-      "stars": 299,
-      "forks": 18,
-      "language": "Python",
-      "updated_at": "2026-07-10T22:52:01Z"
+      "updated_at": "2026-07-12T00:01:24Z"
     },
     {
       "name": "gostonx/uninstally",
       "description": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.",
       "url": "https://github.com/gostonx/uninstally",
-      "stars": 276,
-      "forks": 10,
+      "stars": 335,
+      "forks": 14,
       "language": "Swift",
-      "updated_at": "2026-07-11T00:51:54Z"
+      "updated_at": "2026-07-12T01:16:55Z"
+    },
+    {
+      "name": "yusukebe/ax",
+      "description": "The AI-era curl",
+      "url": "https://github.com/yusukebe/ax",
+      "stars": 330,
+      "forks": 5,
+      "language": "TypeScript",
+      "updated_at": "2026-07-12T01:08:51Z"
+    },
+    {
+      "name": "WeZZard/jlens-qwen36",
+      "description": "J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX",
+      "url": "https://github.com/WeZZard/jlens-qwen36",
+      "stars": 305,
+      "forks": 20,
+      "language": "Python",
+      "updated_at": "2026-07-11T23:07:49Z"
     },
     {
       "name": "wassermanproductions/motion-previs-studio",
       "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
       "url": "https://github.com/wassermanproductions/motion-previs-studio",
-      "stars": 275,
+      "stars": 279,
       "forks": 40,
-      "language": "TypeScript",
-      "updated_at": "2026-07-11T00:06:04Z"
+      "language": "JavaScript",
+      "updated_at": "2026-07-11T22:10:07Z"
     },
     {
-      "name": "eli-labz/Cognitive-Core-Skills",
-      "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
-      "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
-      "stars": 273,
-      "forks": 77,
+      "name": "DexCrancer/pm-ninesoulx",
+      "description": null,
+      "url": "https://github.com/DexCrancer/pm-ninesoulx",
+      "stars": 272,
+      "forks": 87,
+      "language": null,
+      "updated_at": "2026-07-11T13:57:54Z"
+    },
+    {
+      "name": "Raymondhou0917/speak-human-tw",
+      "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
+      "url": "https://github.com/Raymondhou0917/speak-human-tw",
+      "stars": 272,
+      "forks": 39,
+      "language": null,
+      "updated_at": "2026-07-12T01:01:20Z"
+    },
+    {
+      "name": "bkingfilm/lapian-notes",
+      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "url": "https://github.com/bkingfilm/lapian-notes",
+      "stars": 270,
+      "forks": 34,
+      "language": "TypeScript",
+      "updated_at": "2026-07-12T00:05:11Z"
+    },
+    {
+      "name": "Liquid4All/antidoom",
+      "description": null,
+      "url": "https://github.com/Liquid4All/antidoom",
+      "stars": 269,
+      "forks": 23,
       "language": "Python",
-      "updated_at": "2026-07-09T18:02:40Z"
+      "updated_at": "2026-07-12T00:39:35Z"
+    },
+    {
+      "name": "zerosupercycIe/risk-free-sniper",
+      "description": null,
+      "url": "https://github.com/zerosupercycIe/risk-free-sniper",
+      "stars": 267,
+      "forks": 409,
+      "language": "Python",
+      "updated_at": "2026-07-12T00:53:32Z"
+    },
+    {
+      "name": "kuskhan/jetendard",
+      "description": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering.",
+      "url": "https://github.com/kuskhan/jetendard",
+      "stars": 267,
+      "forks": 9,
+      "language": "Python",
+      "updated_at": "2026-07-11T23:49:26Z"
     },
     {
       "name": "PitShipwrightGraph/MecchaPhantom",
       "description": "🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!",
       "url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
-      "stars": 268,
-      "forks": 96,
+      "stars": 248,
+      "forks": 91,
       "language": "Python",
-      "updated_at": "2026-07-11T01:13:23Z"
+      "updated_at": "2026-07-11T21:56:37Z"
+    },
+    {
+      "name": "OmarH-creator/Autonomous-Forge",
+      "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
+      "url": "https://github.com/OmarH-creator/Autonomous-Forge",
+      "stars": 247,
+      "forks": 9,
+      "language": "Python",
+      "updated_at": "2026-07-11T21:27:12Z"
     }
   ]
 }
