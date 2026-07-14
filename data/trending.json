@@ -1,257 +1,239 @@
 {
-  "fetched_at": "2026-07-13T01:18:39.018Z",
+  "fetched_at": "2026-07-14T01:09:04.092Z",
   "repos": [
     {
       "name": "withmarbleapp/os-taxonomy",
       "description": null,
       "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "stars": 2701,
-      "forks": 490,
+      "stars": 2919,
+      "forks": 519,
       "language": "JavaScript",
-      "updated_at": "2026-07-13T01:18:27Z"
+      "updated_at": "2026-07-14T01:06:24Z"
     },
     {
       "name": "Robbyant/lingbot-world-v2",
       "description": "Infinite Worlds with Versatile Interactions",
       "url": "https://github.com/Robbyant/lingbot-world-v2",
-      "stars": 926,
-      "forks": 48,
+      "stars": 1032,
+      "forks": 59,
       "language": "Python",
-      "updated_at": "2026-07-13T01:17:57Z"
+      "updated_at": "2026-07-14T00:58:19Z"
     },
     {
       "name": "x4gKing/3x-ui-Upgrade",
       "description": null,
       "url": "https://github.com/x4gKing/3x-ui-Upgrade",
-      "stars": 890,
-      "forks": 1850,
+      "stars": 955,
+      "forks": 1966,
       "language": "HTML",
-      "updated_at": "2026-07-13T00:54:43Z"
-    },
-    {
-      "name": "Robbyant/lingbot-video",
-      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "url": "https://github.com/Robbyant/lingbot-video",
-      "stars": 711,
-      "forks": 26,
-      "language": "Python",
-      "updated_at": "2026-07-13T00:02:14Z"
-    },
-    {
-      "name": "mereyabdenbekuly-ctrl/clodex-ide",
-      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "stars": 639,
-      "forks": 136,
-      "language": "TypeScript",
-      "updated_at": "2026-07-13T00:00:41Z"
+      "updated_at": "2026-07-14T00:55:13Z"
     },
     {
       "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
       "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
       "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "stars": 606,
-      "forks": 79,
+      "stars": 853,
+      "forks": 102,
       "language": "Python",
-      "updated_at": "2026-07-13T01:18:05Z"
+      "updated_at": "2026-07-14T00:40:29Z"
     },
     {
-      "name": "op7418/guizang-material-illustration",
-      "description": "归藏的材质插画 skill：生成带字��释图、图表美化和参考辅助配图。",
-      "url": "https://github.com/op7418/guizang-material-illustration",
-      "stars": 588,
-      "forks": 63,
-      "language": null,
-      "updated_at": "2026-07-13T01:15:07Z"
+      "name": "Robbyant/lingbot-video",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "stars": 755,
+      "forks": 29,
+      "language": "Python",
+      "updated_at": "2026-07-14T00:30:20Z"
     },
     {
-      "name": "xiaotianfotos/homerail",
-      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
-      "url": "https://github.com/xiaotianfotos/homerail",
-      "stars": 487,
-      "forks": 111,
+      "name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "stars": 696,
+      "forks": 148,
       "language": "TypeScript",
-      "updated_at": "2026-07-12T22:19:58Z"
+      "updated_at": "2026-07-13T16:05:44Z"
     },
     {
-      "name": "Robbyant/lingbot-vla-v2",
-      "description": "From Foundation to Application",
-      "url": "https://github.com/Robbyant/lingbot-vla-v2",
-      "stars": 472,
-      "forks": 27,
+      "name": "littledivy/mimic",
+      "description": "Intercept any app, then call it from Python like a library",
+      "url": "https://github.com/littledivy/mimic",
+      "stars": 679,
+      "forks": 21,
       "language": "Python",
-      "updated_at": "2026-07-13T01:12:16Z"
+      "updated_at": "2026-07-14T01:07:32Z"
     },
     {
-      "name": "gostonx/uninstally",
-      "description": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.",
-      "url": "https://github.com/gostonx/uninstally",
-      "stars": 418,
-      "forks": 14,
-      "language": "Swift",
-      "updated_at": "2026-07-13T01:07:52Z"
-    },
-    {
-      "name": "Raymondhou0917/speak-human-tw",
-      "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
-      "url": "https://github.com/Raymondhou0917/speak-human-tw",
-      "stars": 388,
-      "forks": 50,
-      "language": null,
-      "updated_at": "2026-07-13T01:17:47Z"
-    },
-    {
-      "name": "Nanako0129/pilotfish",
-      "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-      "url": "https://github.com/Nanako0129/pilotfish",
-      "stars": 387,
-      "forks": 28,
-      "language": null,
-      "updated_at": "2026-07-13T00:57:17Z"
-    },
-    {
-      "name": "CoscoAI/luxy-aisre",
-      "description": "AISRE for Cosco",
-      "url": "https://github.com/CoscoAI/luxy-aisre",
-      "stars": 376,
-      "forks": 12,
+      "name": "MDX-Tom/gpt-5.6-instruct",
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "stars": 668,
+      "forks": 157,
       "language": "Python",
-      "updated_at": "2026-07-13T01:18:26Z"
+      "updated_at": "2026-07-14T01:07:39Z"
     },
     {
-      "name": "Doriandarko/texts-to-transformer",
-      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "url": "https://github.com/Doriandarko/texts-to-transformer",
-      "stars": 367,
-      "forks": 36,
+      "name": "William-Lu-stack/LuxyAI",
+      "description": "AgenticOps for Kubernetes and cloud infrastructure.",
+      "url": "https://github.com/William-Lu-stack/LuxyAI",
+      "stars": 547,
+      "forks": 69,
       "language": "Python",
-      "updated_at": "2026-07-13T00:41:29Z"
+      "updated_at": "2026-07-14T01:03:21Z"
     },
     {
       "name": "cosmtrek/mindwalk",
       "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
       "url": "https://github.com/cosmtrek/mindwalk",
-      "stars": 319,
-      "forks": 10,
+      "stars": 487,
+      "forks": 26,
       "language": "Go",
-      "updated_at": "2026-07-13T01:09:33Z"
+      "updated_at": "2026-07-14T01:05:39Z"
+    },
+    {
+      "name": "AlephAITech/WorkBuddyGuide",
+      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+      "stars": 486,
+      "forks": 66,
+      "language": "Python",
+      "updated_at": "2026-07-14T01:03:44Z"
+    },
+    {
+      "name": "Raymondhou0917/speak-human-tw",
+      "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
+      "url": "https://github.com/Raymondhou0917/speak-human-tw",
+      "stars": 478,
+      "forks": 57,
+      "language": null,
+      "updated_at": "2026-07-14T01:03:42Z"
+    },
+    {
+      "name": "x4gKing/Marzban-Panel",
+      "description": null,
+      "url": "https://github.com/x4gKing/Marzban-Panel",
+      "stars": 457,
+      "forks": 820,
+      "language": "Dockerfile",
+      "updated_at": "2026-07-14T01:02:17Z"
+    },
+    {
+      "name": "gostonx/uninstally",
+      "description": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.",
+      "url": "https://github.com/gostonx/uninstally",
+      "stars": 452,
+      "forks": 17,
+      "language": "Swift",
+      "updated_at": "2026-07-14T00:48:47Z"
+    },
+    {
+      "name": "Nanako0129/pilotfish",
+      "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+      "url": "https://github.com/Nanako0129/pilotfish",
+      "stars": 426,
+      "forks": 31,
+      "language": "Python",
+      "updated_at": "2026-07-14T00:04:10Z"
     },
     {
       "name": "yetone/kill-ai-slop",
       "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
       "url": "https://github.com/yetone/kill-ai-slop",
-      "stars": 314,
-      "forks": 12,
+      "stars": 399,
+      "forks": 14,
       "language": "TypeScript",
-      "updated_at": "2026-07-13T01:18:18Z"
+      "updated_at": "2026-07-13T23:03:21Z"
     },
     {
-      "name": "WeZZard/jlens-qwen36",
-      "description": "J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX",
-      "url": "https://github.com/WeZZard/jlens-qwen36",
-      "stars": 310,
-      "forks": 20,
+      "name": "Doriandarko/texts-to-transformer",
+      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "url": "https://github.com/Doriandarko/texts-to-transformer",
+      "stars": 386,
+      "forks": 37,
       "language": "Python",
-      "updated_at": "2026-07-12T18:38:44Z"
+      "updated_at": "2026-07-14T00:51:31Z"
+    },
+    {
+      "name": "x4gKing/Marzban-Node",
+      "description": null,
+      "url": "https://github.com/x4gKing/Marzban-Node",
+      "stars": 385,
+      "forks": 744,
+      "language": "Dockerfile",
+      "updated_at": "2026-07-14T01:04:13Z"
     },
     {
       "name": "bkingfilm/lapian-notes",
       "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
       "url": "https://github.com/bkingfilm/lapian-notes",
-      "stars": 286,
-      "forks": 36,
+      "stars": 310,
+      "forks": 40,
       "language": "TypeScript",
-      "updated_at": "2026-07-13T00:36:24Z"
+      "updated_at": "2026-07-13T17:28:49Z"
     },
     {
-      "name": "Liquid4All/antidoom",
-      "description": null,
-      "url": "https://github.com/Liquid4All/antidoom",
-      "stars": 281,
-      "forks": 24,
+      "name": "Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "stars": 301,
+      "forks": 27,
       "language": "Python",
-      "updated_at": "2026-07-12T23:58:15Z"
+      "updated_at": "2026-07-14T01:04:53Z"
     },
     {
-      "name": "AlayaLab/AlayaWorld",
-      "description": "Full-stack open-source interactive long-horizon world model.",
-      "url": "https://github.com/AlayaLab/AlayaWorld",
-      "stars": 276,
-      "forks": 5,
+      "name": "pengchujin/jzsub",
+      "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "url": "https://github.com/pengchujin/jzsub",
+      "stars": 290,
+      "forks": 31,
+      "language": "Python",
+      "updated_at": "2026-07-14T01:05:27Z"
+    },
+    {
+      "name": "jakubkrehel/skills",
+      "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
+      "url": "https://github.com/jakubkrehel/skills",
+      "stars": 282,
+      "forks": 7,
       "language": null,
-      "updated_at": "2026-07-13T00:36:51Z"
-    },
-    {
-      "name": "DexCrancer/pm-ninesoulx",
-      "description": null,
-      "url": "https://github.com/DexCrancer/pm-ninesoulx",
-      "stars": 272,
-      "forks": 87,
-      "language": "Python",
-      "updated_at": "2026-07-12T12:27:05Z"
-    },
-    {
-      "name": "zerosupercycIe/risk-free-sniper",
-      "description": null,
-      "url": "https://github.com/zerosupercycIe/risk-free-sniper",
-      "stars": 267,
-      "forks": 822,
-      "language": "Python",
-      "updated_at": "2026-07-12T00:53:32Z"
+      "updated_at": "2026-07-14T00:31:08Z"
     },
     {
       "name": "thatmagicalcat/txm",
       "description": "Terminal Math rendering engine",
       "url": "https://github.com/thatmagicalcat/txm",
-      "stars": 263,
-      "forks": 16,
+      "stars": 281,
+      "forks": 19,
       "language": "Rust",
-      "updated_at": "2026-07-13T01:05:50Z"
-    },
-    {
-      "name": "osama-fawad/Pekingman",
-      "description": null,
-      "url": "https://github.com/osama-fawad/Pekingman",
-      "stars": 253,
-      "forks": 5,
-      "language": "HTML",
-      "updated_at": "2026-07-13T01:06:20Z"
+      "updated_at": "2026-07-14T00:40:23Z"
     },
     {
       "name": "Moore-developers/moore-wechat-article-downloader",
       "description": "本地优先的微信内容情报库：同步公众号文章，保存精选评论和互动数据，供 Codex/Claude Code 做内容研究。",
       "url": "https://github.com/Moore-developers/moore-wechat-article-downloader",
-      "stars": 250,
-      "forks": 35,
+      "stars": 255,
+      "forks": 37,
       "language": "Python",
-      "updated_at": "2026-07-12T15:43:10Z"
-    },
-    {
-      "name": "PitShipwrightGraph/MecchaPhantom",
-      "description": "🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!",
-      "url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
-      "stars": 248,
-      "forks": 91,
-      "language": "Python",
-      "updated_at": "2026-07-11T21:56:37Z"
+      "updated_at": "2026-07-14T00:51:09Z"
     },
     {
       "name": "opencoredev/login-with-chatgpt",
       "description": "A simple SDK that lets your users log in with their ChatGPT account.",
       "url": "https://github.com/opencoredev/login-with-chatgpt",
-      "stars": 240,
-      "forks": 39,
+      "stars": 248,
+      "forks": 40,
       "language": "TypeScript",
-      "updated_at": "2026-07-12T21:53:40Z"
+      "updated_at": "2026-07-13T21:31:03Z"
     },
     {
-      "name": "sunflower-of-parchman/codex-hygiene",
-      "description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces",
-      "url": "https://github.com/sunflower-of-parchman/codex-hygiene",
-      "stars": 235,
-      "forks": 7,
-      "language": "Shell",
-      "updated_at": "2026-07-13T00:03:19Z"
+      "name": "DexCrancer/AdelanSoulx-PM-Trading-Bot",
+      "description": "PM: tail-end / endcycle sniper opportunities",
+      "url": "https://github.com/DexCrancer/AdelanSoulx-PM-Trading-Bot",
+      "stars": 248,
+      "forks": 171,
+      "language": "Python",
+      "updated_at": "2026-07-13T20:05:38Z"
     },
     {
       "name": "CWS6206/EasyLastSkill",
@@ -260,16 +242,34 @@
       "stars": 234,
       "forks": 32,
       "language": "Python",
-      "updated_at": "2026-07-13T00:00:27Z"
+      "updated_at": "2026-07-13T09:20:50Z"
     },
     {
-      "name": "adriflex/autoremesher-blender-bridge",
-      "description": "Blender bridge for AutoRemesher",
-      "url": "https://github.com/adriflex/autoremesher-blender-bridge",
-      "stars": 208,
-      "forks": 20,
-      "language": "Python",
-      "updated_at": "2026-07-12T22:55:01Z"
+      "name": "Jane-xiaoer/paper-collage-ad-codex",
+      "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
+      "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
+      "stars": 225,
+      "forks": 30,
+      "language": "JavaScript",
+      "updated_at": "2026-07-13T23:07:57Z"
+    },
+    {
+      "name": "BloxHubSSS/Game-Copier",
+      "description": null,
+      "url": "https://github.com/BloxHubSSS/Game-Copier",
+      "stars": 221,
+      "forks": 8,
+      "language": null,
+      "updated_at": "2026-07-13T11:57:38Z"
+    },
+    {
+      "name": "change-42-yhmm/quota-float",
+      "description": "A plug-in for easy viewing of credit limits",
+      "url": "https://github.com/change-42-yhmm/quota-float",
+      "stars": 219,
+      "forks": 12,
+      "language": "TypeScript",
+      "updated_at": "2026-07-13T23:56:05Z"
     }
   ]
 }
