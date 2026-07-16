@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-07-15T01:05:47.913Z",
+  "fetched_at": "2026-07-16T01:14:24.127Z",
   "repos": [
     {
-      "name": "MDX-Tom/gpt-5.6-instruct",
-      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测���包。",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "stars": 1006,
-      "forks": 198,
-      "language": "Python",
-      "updated_at": "2026-07-15T01:05:44Z"
+      "name": "xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 2922,
+      "forks": 415,
+      "language": "Rust",
+      "updated_at": "2026-07-16T01:14:23Z"
     },
     {
-      "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "stars": 965,
-      "forks": 113,
+      "name": "MDX-Tom/gpt-5.6-instruct",
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "stars": 1337,
+      "forks": 260,
       "language": "Python",
-      "updated_at": "2026-07-15T00:34:33Z"
+      "updated_at": "2026-07-16T01:13:22Z"
     },
     {
       "name": "littledivy/mimic",
       "description": "Intercept any app, then call it from Python like a library",
       "url": "https://github.com/littledivy/mimic",
-      "stars": 909,
-      "forks": 32,
+      "stars": 1020,
+      "forks": 41,
       "language": "Python",
-      "updated_at": "2026-07-14T23:54:32Z"
+      "updated_at": "2026-07-16T00:57:01Z"
     },
     {
       "name": "mereyabdenbekuly-ctrl/clodex-ide",
       "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "stars": 801,
+      "stars": 810,
       "forks": 148,
       "language": "TypeScript",
-      "updated_at": "2026-07-15T00:46:43Z"
+      "updated_at": "2026-07-15T22:04:03Z"
     },
     {
       "name": "AlephAITech/WorkBuddyGuide",
       "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-      "stars": 686,
-      "forks": 95,
+      "stars": 801,
+      "forks": 114,
       "language": "Python",
-      "updated_at": "2026-07-15T01:00:57Z"
+      "updated_at": "2026-07-16T01:14:18Z"
     },
     {
       "name": "x4gKing/Marzban-Panel",
       "description": null,
       "url": "https://github.com/x4gKing/Marzban-Panel",
-      "stars": 668,
-      "forks": 1168,
+      "stars": 775,
+      "forks": 1405,
       "language": "Dockerfile",
-      "updated_at": "2026-07-15T00:52:17Z"
-    },
-    {
-      "name": "William-Lu-stack/Flawless",
-      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "url": "https://github.com/William-Lu-stack/Flawless",
-      "stars": 616,
-      "forks": 95,
-      "language": "Python",
-      "updated_at": "2026-07-14T21:52:18Z"
+      "updated_at": "2026-07-16T00:23:23Z"
     },
     {
       "name": "Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-      "stars": 599,
-      "forks": 54,
+      "stars": 707,
+      "forks": 67,
       "language": "Python",
-      "updated_at": "2026-07-15T01:00:47Z"
-    },
-    {
-      "name": "cosmtrek/mindwalk",
-      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "stars": 577,
-      "forks": 33,
-      "language": "Go",
-      "updated_at": "2026-07-15T00:52:44Z"
-    },
-    {
-      "name": "x4gKing/Marzban-Node",
-      "description": null,
-      "url": "https://github.com/x4gKing/Marzban-Node",
-      "stars": 566,
-      "forks": 1052,
-      "language": "Dockerfile",
-      "updated_at": "2026-07-15T00:51:24Z"
+      "updated_at": "2026-07-16T00:02:40Z"
     },
     {
       "name": "pengchujin/jzsub",
       "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
       "url": "https://github.com/pengchujin/jzsub",
-      "stars": 530,
-      "forks": 62,
+      "stars": 675,
+      "forks": 74,
       "language": "Python",
-      "updated_at": "2026-07-15T00:58:03Z"
+      "updated_at": "2026-07-16T00:54:25Z"
     },
     {
-      "name": "yetone/kill-ai-slop",
-      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "url": "https://github.com/yetone/kill-ai-slop",
-      "stars": 435,
-      "forks": 18,
-      "language": "TypeScript",
-      "updated_at": "2026-07-14T21:37:55Z"
-    },
-    {
-      "name": "jakubkrehel/skills",
-      "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
-      "url": "https://github.com/jakubkrehel/skills",
-      "stars": 328,
-      "forks": 8,
-      "language": null,
-      "updated_at": "2026-07-15T00:36:11Z"
-    },
-    {
-      "name": "thatmagicalcat/txm",
-      "description": "Terminal Math rendering engine",
-      "url": "https://github.com/thatmagicalcat/txm",
-      "stars": 290,
-      "forks": 19,
-      "language": "Rust",
-      "updated_at": "2026-07-15T00:17:32Z"
-    },
-    {
-      "name": "JexTradesLab/scaling-octo-engine",
+      "name": "x4gKing/Marzban-Node",
       "description": null,
-      "url": "https://github.com/JexTradesLab/scaling-octo-engine",
-      "stars": 288,
-      "forks": 344,
+      "url": "https://github.com/x4gKing/Marzban-Node",
+      "stars": 666,
+      "forks": 1274,
+      "language": "Dockerfile",
+      "updated_at": "2026-07-16T00:16:21Z"
+    },
+    {
+      "name": "William-Lu-stack/Flawless",
+      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "url": "https://github.com/William-Lu-stack/Flawless",
+      "stars": 636,
+      "forks": 113,
+      "language": "Python",
+      "updated_at": "2026-07-16T00:42:27Z"
+    },
+    {
+      "name": "pixel-point/aval",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "url": "https://github.com/pixel-point/aval",
+      "stars": 553,
+      "forks": 27,
       "language": "TypeScript",
-      "updated_at": "2026-07-15T00:59:35Z"
-    },
-    {
-      "name": "opencoredev/domain-sdk",
-      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
-      "url": "https://github.com/opencoredev/domain-sdk",
-      "stars": 275,
-      "forks": 12,
-      "language": "TypeScript",
-      "updated_at": "2026-07-15T00:22:07Z"
-    },
-    {
-      "name": "Git-creat7/grokRegister-cpa",
-      "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
-      "url": "https://github.com/Git-creat7/grokRegister-cpa",
-      "stars": 263,
-      "forks": 100,
-      "language": "Python",
-      "updated_at": "2026-07-14T22:02:44Z"
-    },
-    {
-      "name": "Jane-xiaoer/paper-collage-ad-codex",
-      "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
-      "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
-      "stars": 250,
-      "forks": 33,
-      "language": "JavaScript",
-      "updated_at": "2026-07-15T00:39:05Z"
-    },
-    {
-      "name": "Intuition-Lab/personal-model",
-      "description": "Build your HUMAN.md.",
-      "url": "https://github.com/Intuition-Lab/personal-model",
-      "stars": 238,
-      "forks": 21,
-      "language": "Python",
-      "updated_at": "2026-07-15T00:14:01Z"
-    },
-    {
-      "name": "change-42-yhmm/quota-float",
-      "description": "A plug-in for easy viewing of credit limits",
-      "url": "https://github.com/change-42-yhmm/quota-float",
-      "stars": 232,
-      "forks": 14,
-      "language": "TypeScript",
-      "updated_at": "2026-07-14T17:27:20Z"
-    },
-    {
-      "name": "Cjbuilds/Codex-Orchestration",
-      "description": "Bring any model to Codex, assign them any role, use them in /goal or any workflow.",
-      "url": "https://github.com/Cjbuilds/Codex-Orchestration",
-      "stars": 226,
-      "forks": 8,
-      "language": "Python",
-      "updated_at": "2026-07-15T01:03:53Z"
-    },
-    {
-      "name": "dongguatanglinux/grok-build-auth",
-      "description": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-      "url": "https://github.com/dongguatanglinux/grok-build-auth",
-      "stars": 224,
-      "forks": 100,
-      "language": "Python",
-      "updated_at": "2026-07-14T18:35:11Z"
-    },
-    {
-      "name": "BloxHubSSS/Game-Copier",
-      "description": null,
-      "url": "https://github.com/BloxHubSSS/Game-Copier",
-      "stars": 220,
-      "forks": 7,
-      "language": null,
-      "updated_at": "2026-07-14T08:14:43Z"
-    },
-    {
-      "name": "BryanLunduke/LCOS",
-      "description": "The Lunduke Computer Operating System",
-      "url": "https://github.com/BryanLunduke/LCOS",
-      "stars": 210,
-      "forks": 10,
-      "language": null,
-      "updated_at": "2026-07-15T00:19:59Z"
+      "updated_at": "2026-07-16T01:12:21Z"
     },
     {
       "name": "oil-oil/beautify-github-readme",
       "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
       "url": "https://github.com/oil-oil/beautify-github-readme",
-      "stars": 209,
-      "forks": 17,
+      "stars": 552,
+      "forks": 31,
       "language": "Python",
-      "updated_at": "2026-07-15T01:05:16Z"
+      "updated_at": "2026-07-16T00:50:03Z"
     },
     {
-      "name": "WAYLON/ashare-quant-strategies",
-      "description": "A-share quant strategies research corpus: 119 Python strategy articles for learning",
-      "url": "https://github.com/WAYLON/ashare-quant-strategies",
-      "stars": 206,
-      "forks": 151,
+      "name": "CluvexStudio/Aether",
+      "description": null,
+      "url": "https://github.com/CluvexStudio/Aether",
+      "stars": 544,
+      "forks": 19,
+      "language": "Rust",
+      "updated_at": "2026-07-16T01:09:11Z"
+    },
+    {
+      "name": "yetone/kill-ai-slop",
+      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "stars": 464,
+      "forks": 19,
+      "language": "TypeScript",
+      "updated_at": "2026-07-16T01:02:24Z"
+    },
+    {
+      "name": "jakubkrehel/skills",
+      "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
+      "url": "https://github.com/jakubkrehel/skills",
+      "stars": 403,
+      "forks": 9,
+      "language": null,
+      "updated_at": "2026-07-16T01:11:48Z"
+    },
+    {
+      "name": "MatinSenPai/Aether-GUI",
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "url": "https://github.com/MatinSenPai/Aether-GUI",
+      "stars": 370,
+      "forks": 15,
+      "language": "TypeScript",
+      "updated_at": "2026-07-16T01:10:15Z"
+    },
+    {
+      "name": "Intuition-Lab/personal-model",
+      "description": "Build your HUMAN.md.",
+      "url": "https://github.com/Intuition-Lab/personal-model",
+      "stars": 335,
+      "forks": 29,
       "language": "Python",
-      "updated_at": "2026-07-15T01:05:26Z"
+      "updated_at": "2026-07-16T01:10:45Z"
     },
     {
       "name": "QuantumByteOSS/quantumbyte",
       "description": "Open-source app builder engine — intent to working app",
       "url": "https://github.com/QuantumByteOSS/quantumbyte",
-      "stars": 200,
-      "forks": 40,
+      "stars": 311,
+      "forks": 42,
       "language": "Python",
-      "updated_at": "2026-07-15T01:03:48Z"
+      "updated_at": "2026-07-16T00:06:58Z"
     },
     {
-      "name": "OpenEnvision/WorldFoundry",
-      "description": "Unified World Model Inference & Evaluation Infrastructure",
-      "url": "https://github.com/OpenEnvision/WorldFoundry",
-      "stars": 198,
-      "forks": 10,
+      "name": "Git-creat7/grokRegister-cpa",
+      "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+      "url": "https://github.com/Git-creat7/grokRegister-cpa",
+      "stars": 299,
+      "forks": 106,
       "language": "Python",
-      "updated_at": "2026-07-15T00:00:56Z"
+      "updated_at": "2026-07-16T01:04:28Z"
     },
     {
-      "name": "xiaolongbao0709/ai-virtual-phone",
-      "description": null,
-      "url": "https://github.com/xiaolongbao0709/ai-virtual-phone",
-      "stars": 197,
-      "forks": 371,
+      "name": "opencoredev/domain-sdk",
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "url": "https://github.com/opencoredev/domain-sdk",
+      "stars": 294,
+      "forks": 12,
       "language": "TypeScript",
-      "updated_at": "2026-07-14T20:38:34Z"
+      "updated_at": "2026-07-15T22:38:01Z"
     },
     {
-      "name": "liangdabiao/liurun-bookwriter-skills",
-      "description": "蒸馏skill : 基于刘润28 年商业写作经验的完整复刻。基于其《我这28年的写作心法》提炼的 8 大心法、3 种结构、SCQA 逻辑势能、5商派 SCA++ 模板、7 种 callout，专为商业长文创作设计。你让它随便写任何 东西的 商业评论，都没有问题，都有意思，有洞见。",
-      "url": "https://github.com/liangdabiao/liurun-bookwriter-skills",
-      "stars": 192,
-      "forks": 24,
+      "name": "WAYLON/ashare-quant-strategies",
+      "description": "A-share quant strategies research corpus: 119 Python strategy articles for learning",
+      "url": "https://github.com/WAYLON/ashare-quant-strategies",
+      "stars": 280,
+      "forks": 184,
       "language": "Python",
-      "updated_at": "2026-07-14T13:42:53Z"
+      "updated_at": "2026-07-15T21:42:28Z"
+    },
+    {
+      "name": "BloxHubSSS/Game-Copier",
+      "description": null,
+      "url": "https://github.com/BloxHubSSS/Game-Copier",
+      "stars": 277,
+      "forks": 6,
+      "language": null,
+      "updated_at": "2026-07-15T15:47:12Z"
+    },
+    {
+      "name": "Cjbuilds/Codex-Orchestration",
+      "description": "Bring any model to Codex, assign them any role, use them in /goal or any workflow.",
+      "url": "https://github.com/Cjbuilds/Codex-Orchestration",
+      "stars": 273,
+      "forks": 15,
+      "language": "Python",
+      "updated_at": "2026-07-15T22:11:21Z"
+    },
+    {
+      "name": "Jane-xiaoer/paper-collage-ad-codex",
+      "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
+      "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
+      "stars": 270,
+      "forks": 36,
+      "language": "JavaScript",
+      "updated_at": "2026-07-16T00:57:33Z"
+    },
+    {
+      "name": "TobiasLee/Rebuttal-Skill",
+      "description": null,
+      "url": "https://github.com/TobiasLee/Rebuttal-Skill",
+      "stars": 257,
+      "forks": 10,
+      "language": null,
+      "updated_at": "2026-07-16T01:12:14Z"
+    },
+    {
+      "name": "gabriel-azara/hyperliquid-tracker",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "url": "https://github.com/gabriel-azara/hyperliquid-tracker",
+      "stars": 256,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T16:45:22Z"
+    },
+    {
+      "name": "my-take-dev/inspired-mino-design-skills",
+      "description": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル",
+      "url": "https://github.com/my-take-dev/inspired-mino-design-skills",
+      "stars": 242,
+      "forks": 9,
+      "language": "Shell",
+      "updated_at": "2026-07-16T00:56:37Z"
+    },
+    {
+      "name": "dongguatanglinux/grok-build-auth",
+      "description": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
+      "url": "https://github.com/dongguatanglinux/grok-build-auth",
+      "stars": 240,
+      "forks": 109,
+      "language": "Python",
+      "updated_at": "2026-07-16T00:59:22Z"
+    },
+    {
+      "name": "KubeezMedia/kubeez-scroll-world-video",
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "stars": 237,
+      "forks": 1,
+      "language": "JavaScript",
+      "updated_at": "2026-07-16T01:04:18Z"
+    },
+    {
+      "name": "vybenetwork/solana-pyth-api",
+      "description": "Solana Pyth API",
+      "url": "https://github.com/vybenetwork/solana-pyth-api",
+      "stars": 221,
+      "forks": 85,
+      "language": "CSS",
+      "updated_at": "2026-07-15T21:50:27Z"
     }
   ]
 }
