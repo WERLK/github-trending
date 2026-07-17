@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-07-16T01:14:24.127Z",
+  "fetched_at": "2026-07-17T01:18:09.655Z",
   "repos": [
     {
       "name": "xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "stars": 2922,
-      "forks": 415,
+      "stars": 12270,
+      "forks": 2116,
       "language": "Rust",
-      "updated_at": "2026-07-16T01:14:23Z"
+      "updated_at": "2026-07-17T01:18:06Z"
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 5474,
+      "forks": 638,
+      "language": "JavaScript",
+      "updated_at": "2026-07-17T01:17:57Z"
     },
     {
       "name": "MDX-Tom/gpt-5.6-instruct",
       "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "stars": 1337,
-      "forks": 260,
+      "stars": 1673,
+      "forks": 326,
       "language": "Python",
-      "updated_at": "2026-07-16T01:13:22Z"
+      "updated_at": "2026-07-17T01:13:37Z"
     },
     {
       "name": "littledivy/mimic",
       "description": "Intercept any app, then call it from Python like a library",
       "url": "https://github.com/littledivy/mimic",
-      "stars": 1020,
-      "forks": 41,
+      "stars": 1104,
+      "forks": 56,
       "language": "Python",
-      "updated_at": "2026-07-16T00:57:01Z"
-    },
-    {
-      "name": "mereyabdenbekuly-ctrl/clodex-ide",
-      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "stars": 810,
-      "forks": 148,
-      "language": "TypeScript",
-      "updated_at": "2026-07-15T22:04:03Z"
-    },
-    {
-      "name": "AlephAITech/WorkBuddyGuide",
-      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-      "stars": 801,
-      "forks": 114,
-      "language": "Python",
-      "updated_at": "2026-07-16T01:14:18Z"
-    },
-    {
-      "name": "x4gKing/Marzban-Panel",
-      "description": null,
-      "url": "https://github.com/x4gKing/Marzban-Panel",
-      "stars": 775,
-      "forks": 1405,
-      "language": "Dockerfile",
-      "updated_at": "2026-07-16T00:23:23Z"
-    },
-    {
-      "name": "Kappaemme-git/codex-first-customer-finder-skill",
-      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-      "stars": 707,
-      "forks": 67,
-      "language": "Python",
-      "updated_at": "2026-07-16T00:02:40Z"
-    },
-    {
-      "name": "pengchujin/jzsub",
-      "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
-      "url": "https://github.com/pengchujin/jzsub",
-      "stars": 675,
-      "forks": 74,
-      "language": "Python",
-      "updated_at": "2026-07-16T00:54:25Z"
-    },
-    {
-      "name": "x4gKing/Marzban-Node",
-      "description": null,
-      "url": "https://github.com/x4gKing/Marzban-Node",
-      "stars": 666,
-      "forks": 1274,
-      "language": "Dockerfile",
-      "updated_at": "2026-07-16T00:16:21Z"
-    },
-    {
-      "name": "William-Lu-stack/Flawless",
-      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "url": "https://github.com/William-Lu-stack/Flawless",
-      "stars": 636,
-      "forks": 113,
-      "language": "Python",
-      "updated_at": "2026-07-16T00:42:27Z"
+      "updated_at": "2026-07-17T01:01:42Z"
     },
     {
       "name": "pixel-point/aval",
       "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "url": "https://github.com/pixel-point/aval",
-      "stars": 553,
-      "forks": 27,
+      "stars": 1047,
+      "forks": 61,
       "language": "TypeScript",
-      "updated_at": "2026-07-16T01:12:21Z"
-    },
-    {
-      "name": "oil-oil/beautify-github-readme",
-      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
-      "url": "https://github.com/oil-oil/beautify-github-readme",
-      "stars": 552,
-      "forks": 31,
-      "language": "Python",
-      "updated_at": "2026-07-16T00:50:03Z"
+      "updated_at": "2026-07-17T01:16:15Z"
     },
     {
       "name": "CluvexStudio/Aether",
       "description": null,
       "url": "https://github.com/CluvexStudio/Aether",
-      "stars": 544,
-      "forks": 19,
+      "stars": 935,
+      "forks": 44,
       "language": "Rust",
-      "updated_at": "2026-07-16T01:09:11Z"
+      "updated_at": "2026-07-17T01:15:39Z"
     },
     {
-      "name": "yetone/kill-ai-slop",
-      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "url": "https://github.com/yetone/kill-ai-slop",
-      "stars": 464,
-      "forks": 19,
-      "language": "TypeScript",
-      "updated_at": "2026-07-16T01:02:24Z"
-    },
-    {
-      "name": "jakubkrehel/skills",
-      "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
-      "url": "https://github.com/jakubkrehel/skills",
-      "stars": 403,
-      "forks": 9,
-      "language": null,
-      "updated_at": "2026-07-16T01:11:48Z"
-    },
-    {
-      "name": "MatinSenPai/Aether-GUI",
-      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
-      "url": "https://github.com/MatinSenPai/Aether-GUI",
-      "stars": 370,
-      "forks": 15,
-      "language": "TypeScript",
-      "updated_at": "2026-07-16T01:10:15Z"
-    },
-    {
-      "name": "Intuition-Lab/personal-model",
-      "description": "Build your HUMAN.md.",
-      "url": "https://github.com/Intuition-Lab/personal-model",
-      "stars": 335,
-      "forks": 29,
-      "language": "Python",
-      "updated_at": "2026-07-16T01:10:45Z"
-    },
-    {
-      "name": "QuantumByteOSS/quantumbyte",
-      "description": "Open-source app builder engine — intent to working app",
-      "url": "https://github.com/QuantumByteOSS/quantumbyte",
-      "stars": 311,
-      "forks": 42,
-      "language": "Python",
-      "updated_at": "2026-07-16T00:06:58Z"
-    },
-    {
-      "name": "Git-creat7/grokRegister-cpa",
-      "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
-      "url": "https://github.com/Git-creat7/grokRegister-cpa",
-      "stars": 299,
-      "forks": 106,
-      "language": "Python",
-      "updated_at": "2026-07-16T01:04:28Z"
-    },
-    {
-      "name": "opencoredev/domain-sdk",
-      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
-      "url": "https://github.com/opencoredev/domain-sdk",
-      "stars": 294,
-      "forks": 12,
-      "language": "TypeScript",
-      "updated_at": "2026-07-15T22:38:01Z"
-    },
-    {
-      "name": "WAYLON/ashare-quant-strategies",
-      "description": "A-share quant strategies research corpus: 119 Python strategy articles for learning",
-      "url": "https://github.com/WAYLON/ashare-quant-strategies",
-      "stars": 280,
-      "forks": 184,
-      "language": "Python",
-      "updated_at": "2026-07-15T21:42:28Z"
-    },
-    {
-      "name": "BloxHubSSS/Game-Copier",
+      "name": "x4gKing/Marzban-Panel",
       "description": null,
-      "url": "https://github.com/BloxHubSSS/Game-Copier",
-      "stars": 277,
-      "forks": 6,
-      "language": null,
-      "updated_at": "2026-07-15T15:47:12Z"
+      "url": "https://github.com/x4gKing/Marzban-Panel",
+      "stars": 845,
+      "forks": 1569,
+      "language": "Dockerfile",
+      "updated_at": "2026-07-17T00:09:33Z"
     },
     {
-      "name": "Cjbuilds/Codex-Orchestration",
-      "description": "Bring any model to Codex, assign them any role, use them in /goal or any workflow.",
-      "url": "https://github.com/Cjbuilds/Codex-Orchestration",
-      "stars": 273,
-      "forks": 15,
+      "name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "stars": 829,
+      "forks": 148,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T00:31:38Z"
+    },
+    {
+      "name": "Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "stars": 761,
+      "forks": 78,
       "language": "Python",
-      "updated_at": "2026-07-15T22:11:21Z"
+      "updated_at": "2026-07-17T00:58:27Z"
     },
     {
-      "name": "Jane-xiaoer/paper-collage-ad-codex",
-      "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
-      "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
-      "stars": 270,
-      "forks": 36,
+      "name": "x4gKing/Marzban-Node",
+      "description": null,
+      "url": "https://github.com/x4gKing/Marzban-Node",
+      "stars": 726,
+      "forks": 1429,
+      "language": "Dockerfile",
+      "updated_at": "2026-07-17T00:00:32Z"
+    },
+    {
+      "name": "oil-oil/beautify-github-readme",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "stars": 691,
+      "forks": 40,
+      "language": "Python",
+      "updated_at": "2026-07-17T01:08:15Z"
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "stars": 636,
+      "forks": 86,
       "language": "JavaScript",
-      "updated_at": "2026-07-16T00:57:33Z"
-    },
-    {
-      "name": "TobiasLee/Rebuttal-Skill",
-      "description": null,
-      "url": "https://github.com/TobiasLee/Rebuttal-Skill",
-      "stars": 257,
-      "forks": 10,
-      "language": null,
-      "updated_at": "2026-07-16T01:12:14Z"
-    },
-    {
-      "name": "gabriel-azara/hyperliquid-tracker",
-      "description": "Get notified when big trades happen on Hyperliquid.",
-      "url": "https://github.com/gabriel-azara/hyperliquid-tracker",
-      "stars": 256,
-      "forks": 0,
-      "language": "TypeScript",
-      "updated_at": "2026-07-15T16:45:22Z"
-    },
-    {
-      "name": "my-take-dev/inspired-mino-design-skills",
-      "description": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル",
-      "url": "https://github.com/my-take-dev/inspired-mino-design-skills",
-      "stars": 242,
-      "forks": 9,
-      "language": "Shell",
-      "updated_at": "2026-07-16T00:56:37Z"
-    },
-    {
-      "name": "dongguatanglinux/grok-build-auth",
-      "description": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-      "url": "https://github.com/dongguatanglinux/grok-build-auth",
-      "stars": 240,
-      "forks": 109,
-      "language": "Python",
-      "updated_at": "2026-07-16T00:59:22Z"
+      "updated_at": "2026-07-17T01:18:06Z"
     },
     {
       "name": "KubeezMedia/kubeez-scroll-world-video",
       "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
       "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
-      "stars": 237,
+      "stars": 580,
       "forks": 1,
       "language": "JavaScript",
-      "updated_at": "2026-07-16T01:04:18Z"
+      "updated_at": "2026-07-17T00:59:58Z"
     },
     {
-      "name": "vybenetwork/solana-pyth-api",
-      "description": "Solana Pyth API",
-      "url": "https://github.com/vybenetwork/solana-pyth-api",
-      "stars": 221,
-      "forks": 85,
-      "language": "CSS",
-      "updated_at": "2026-07-15T21:50:27Z"
+      "name": "MatinSenPai/Aether-GUI",
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "url": "https://github.com/MatinSenPai/Aether-GUI",
+      "stars": 480,
+      "forks": 21,
+      "language": "TypeScript",
+      "updated_at": "2026-07-16T23:59:28Z"
+    },
+    {
+      "name": "Git-creat7/grokRegister-cpa",
+      "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+      "url": "https://github.com/Git-creat7/grokRegister-cpa",
+      "stars": 338,
+      "forks": 118,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:56:59Z"
+    },
+    {
+      "name": "QuantumByteOSS/quantumbyte",
+      "description": "Open-source app builder engine — intent to working app",
+      "url": "https://github.com/QuantumByteOSS/quantumbyte",
+      "stars": 316,
+      "forks": 42,
+      "language": "Python",
+      "updated_at": "2026-07-16T21:59:32Z"
+    },
+    {
+      "name": "opencoredev/domain-sdk",
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "url": "https://github.com/opencoredev/domain-sdk",
+      "stars": 312,
+      "forks": 13,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:06:44Z"
+    },
+    {
+      "name": "vshulcz/deja-vu",
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "stars": 303,
+      "forks": 12,
+      "language": "Go",
+      "updated_at": "2026-07-17T01:11:39Z"
+    },
+    {
+      "name": "TobiasLee/Rebuttal-Skill",
+      "description": null,
+      "url": "https://github.com/TobiasLee/Rebuttal-Skill",
+      "stars": 298,
+      "forks": 11,
+      "language": null,
+      "updated_at": "2026-07-16T22:31:24Z"
+    },
+    {
+      "name": "WAYLON/ashare-quant-strategies",
+      "description": "A-share quant strategies research corpus: 119 Python strategy articles for learning",
+      "url": "https://github.com/WAYLON/ashare-quant-strategies",
+      "stars": 289,
+      "forks": 191,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:53:30Z"
+    },
+    {
+      "name": "PengZhang64/circuit-framework",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "url": "https://github.com/PengZhang64/circuit-framework",
+      "stars": 285,
+      "forks": 17,
+      "language": "Python",
+      "updated_at": "2026-07-17T01:13:39Z"
+    },
+    {
+      "name": "Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "stars": 285,
+      "forks": 60,
+      "language": "JavaScript",
+      "updated_at": "2026-07-17T01:16:28Z"
+    },
+    {
+      "name": "my-take-dev/inspired-mino-design-skills",
+      "description": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル",
+      "url": "https://github.com/my-take-dev/inspired-mino-design-skills",
+      "stars": 283,
+      "forks": 9,
+      "language": "Shell",
+      "updated_at": "2026-07-16T22:18:47Z"
+    },
+    {
+      "name": "Wan-Video/Wan-Dancer",
+      "description": null,
+      "url": "https://github.com/Wan-Video/Wan-Dancer",
+      "stars": 282,
+      "forks": 19,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:45:56Z"
+    },
+    {
+      "name": "Shadow-Weave/HMS",
+      "description": null,
+      "url": "https://github.com/Shadow-Weave/HMS",
+      "stars": 281,
+      "forks": 29,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:59:47Z"
+    },
+    {
+      "name": "BloxHubSSS/Game-Copier",
+      "description": null,
+      "url": "https://github.com/BloxHubSSS/Game-Copier",
+      "stars": 263,
+      "forks": 6,
+      "language": null,
+      "updated_at": "2026-07-16T20:59:47Z"
+    },
+    {
+      "name": "gabriel-azara/hyperliquid-tracker",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "url": "https://github.com/gabriel-azara/hyperliquid-tracker",
+      "stars": 257,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2026-07-16T02:30:24Z"
+    },
+    {
+      "name": "robinhood-ape/robinhood-sniper-bot",
+      "description": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
+      "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
+      "stars": 254,
+      "forks": 257,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T00:29:39Z"
+    },
+    {
+      "name": "robinhood-ape/robinhood-noxa-bundler",
+      "description": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
+      "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
+      "stars": 253,
+      "forks": 184,
+      "language": "TypeScript",
+      "updated_at": "2026-07-16T20:37:16Z"
+    },
+    {
+      "name": "BryanLunduke/LCOS",
+      "description": "The Lunduke Computer Operating System",
+      "url": "https://github.com/BryanLunduke/LCOS",
+      "stars": 227,
+      "forks": 13,
+      "language": null,
+      "updated_at": "2026-07-16T22:31:49Z"
     }
   ]
 }
