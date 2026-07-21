@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-07-20T01:18:39.906Z",
+  "fetched_at": "2026-07-21T01:15:34.546Z",
   "repos": [
-    {
-      "name": "xai-org/grok-build",
-      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "url": "https://github.com/xai-org/grok-build",
-      "stars": 20071,
-      "forks": 3635,
-      "language": "Rust",
-      "updated_at": "2026-07-20T01:17:03Z"
-    },
     {
       "name": "Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-      "stars": 10319,
-      "forks": 1072,
+      "stars": 11072,
+      "forks": 1137,
       "language": "JavaScript",
-      "updated_at": "2026-07-20T01:17:06Z"
-    },
-    {
-      "name": "CluvexStudio/Aether",
-      "description": null,
-      "url": "https://github.com/CluvexStudio/Aether",
-      "stars": 1316,
-      "forks": 78,
-      "language": "Rust",
-      "updated_at": "2026-07-20T01:00:20Z"
+      "updated_at": "2026-07-21T01:11:35Z"
     },
     {
       "name": "tandpfun/wardrobe",
       "description": "Your clothes, extracted and organized with gpt-image.",
       "url": "https://github.com/tandpfun/wardrobe",
-      "stars": 1155,
-      "forks": 167,
+      "stars": 1218,
+      "forks": 174,
       "language": "JavaScript",
-      "updated_at": "2026-07-20T01:06:56Z"
-    },
-    {
-      "name": "nethical6/conversation-steganography",
-      "description": "Use LLMs to hide messages inside normal looking conversations",
-      "url": "https://github.com/nethical6/conversation-steganography",
-      "stars": 826,
-      "forks": 48,
-      "language": "Go",
-      "updated_at": "2026-07-20T01:17:56Z"
-    },
-    {
-      "name": "pablostanley/yoinks",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "url": "https://github.com/pablostanley/yoinks",
-      "stars": 742,
-      "forks": 76,
-      "language": "TypeScript",
-      "updated_at": "2026-07-20T01:03:03Z"
-    },
-    {
-      "name": "MatinSenPai/Aether-GUI",
-      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
-      "url": "https://github.com/MatinSenPai/Aether-GUI",
-      "stars": 626,
-      "forks": 28,
-      "language": "TypeScript",
-      "updated_at": "2026-07-20T00:21:53Z"
-    },
-    {
-      "name": "Blueturboguy07/cue",
-      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "url": "https://github.com/Blueturboguy07/cue",
-      "stars": 614,
-      "forks": 133,
-      "language": "JavaScript",
-      "updated_at": "2026-07-20T01:07:56Z"
-    },
-    {
-      "name": "v-modal/vmodal_sdk_flutter",
-      "description": "V- Modal AI: Search anything anywhere SDK Flutter",
-      "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-      "stars": 586,
-      "forks": 1,
-      "language": "Dart",
-      "updated_at": "2026-07-20T00:56:34Z"
-    },
-    {
-      "name": "lopopolo/harness-engineering",
-      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-      "url": "https://github.com/lopopolo/harness-engineering",
-      "stars": 579,
-      "forks": 24,
-      "language": "Python",
-      "updated_at": "2026-07-20T01:08:14Z"
-    },
-    {
-      "name": "PengZhang64/circuit-framework",
-      "description": "Circuit Framework — multi-agent LLM trading research system",
-      "url": "https://github.com/PengZhang64/circuit-framework",
-      "stars": 485,
-      "forks": 19,
-      "language": "Python",
-      "updated_at": "2026-07-19T22:07:24Z"
+      "updated_at": "2026-07-21T00:51:09Z"
     },
     {
       "name": "hoainho/img2threejs",
       "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
       "url": "https://github.com/hoainho/img2threejs",
-      "stars": 473,
-      "forks": 36,
+      "stars": 1016,
+      "forks": 87,
       "language": "Python",
-      "updated_at": "2026-07-20T01:17:37Z"
+      "updated_at": "2026-07-21T01:12:22Z"
     },
     {
-      "name": "stackblitz/bolt-slides",
-      "description": "Use any agent to create stunning, interactive presentations",
-      "url": "https://github.com/stackblitz/bolt-slides",
-      "stars": 447,
-      "forks": 59,
-      "language": "TypeScript",
-      "updated_at": "2026-07-20T01:16:47Z"
-    },
-    {
-      "name": "pyang5166/gbro-collage-broll",
-      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-      "url": "https://github.com/pyang5166/gbro-collage-broll",
-      "stars": 409,
-      "forks": 45,
-      "language": "Python",
-      "updated_at": "2026-07-20T01:14:40Z"
-    },
-    {
-      "name": "vshulcz/deja-vu",
-      "description": "Your agents already solved this. deja finds it — retroactive search and MCP recall over the session logs your coding agents already wrote. Cross-agent, SSH-portable, one zero-dep binary, fully local.",
-      "url": "https://github.com/vshulcz/deja-vu",
-      "stars": 382,
-      "forks": 20,
+      "name": "nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "stars": 881,
+      "forks": 53,
       "language": "Go",
-      "updated_at": "2026-07-20T01:02:58Z"
+      "updated_at": "2026-07-21T01:13:36Z"
     },
     {
-      "name": "andyhuo520/MacCheck",
-      "description": "MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具",
-      "url": "https://github.com/andyhuo520/MacCheck",
-      "stars": 366,
-      "forks": 27,
-      "language": "Swift",
-      "updated_at": "2026-07-20T01:16:17Z"
+      "name": "pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "url": "https://github.com/pablostanley/yoinks",
+      "stars": 865,
+      "forks": 93,
+      "language": "TypeScript",
+      "updated_at": "2026-07-21T01:06:35Z"
+    },
+    {
+      "name": "lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "stars": 770,
+      "forks": 35,
+      "language": "Python",
+      "updated_at": "2026-07-21T01:15:19Z"
+    },
+    {
+      "name": "Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "stars": 659,
+      "forks": 143,
+      "language": "JavaScript",
+      "updated_at": "2026-07-21T00:10:05Z"
+    },
+    {
+      "name": "v-modal/vmodal_sdk_flutter",
+      "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+      "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+      "stars": 622,
+      "forks": 1,
+      "language": "Dart",
+      "updated_at": "2026-07-21T00:23:28Z"
     },
     {
       "name": "xiejunjie524/handdraw-story-video",
       "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
       "url": "https://github.com/xiejunjie524/handdraw-story-video",
-      "stars": 357,
-      "forks": 62,
+      "stars": 497,
+      "forks": 81,
       "language": "Python",
-      "updated_at": "2026-07-20T00:36:35Z"
+      "updated_at": "2026-07-21T01:14:20Z"
+    },
+    {
+      "name": "EthanXiang777/circuit-framework",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "url": "https://github.com/EthanXiang777/circuit-framework",
+      "stars": 486,
+      "forks": 19,
+      "language": "Python",
+      "updated_at": "2026-07-20T05:34:45Z"
+    },
+    {
+      "name": "pyang5166/gbro-collage-broll",
+      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "url": "https://github.com/pyang5166/gbro-collage-broll",
+      "stars": 473,
+      "forks": 50,
+      "language": "Python",
+      "updated_at": "2026-07-21T00:38:04Z"
     },
     {
       "name": "MIgHTy-alIeN/Trading-Bot",
       "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
       "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-      "stars": 351,
-      "forks": 193,
+      "stars": 467,
+      "forks": 285,
       "language": "Solidity",
-      "updated_at": "2026-07-20T01:17:32Z"
-    },
-    {
-      "name": "JustinGamer191/Holo",
-      "description": null,
-      "url": "https://github.com/JustinGamer191/Holo",
-      "stars": 350,
-      "forks": 49,
-      "language": "Swift",
-      "updated_at": "2026-07-19T23:20:07Z"
-    },
-    {
-      "name": "erickong/penecho",
-      "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-      "url": "https://github.com/erickong/penecho",
-      "stars": 334,
-      "forks": 41,
-      "language": "JavaScript",
-      "updated_at": "2026-07-20T01:07:43Z"
+      "updated_at": "2026-07-21T01:14:53Z"
     },
     {
       "name": "Icex0/wp2shell-poc",
       "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
       "url": "https://github.com/Icex0/wp2shell-poc",
-      "stars": 333,
-      "forks": 78,
+      "stars": 418,
+      "forks": 100,
       "language": "Python",
-      "updated_at": "2026-07-20T01:18:09Z"
+      "updated_at": "2026-07-21T00:37:24Z"
     },
     {
-      "name": "QuantumByteOSS/quantumbyte",
-      "description": "Open-source app builder engine — intent to working app",
-      "url": "https://github.com/QuantumByteOSS/quantumbyte",
-      "stars": 331,
-      "forks": 46,
-      "language": "Python",
-      "updated_at": "2026-07-19T21:14:23Z"
-    },
-    {
-      "name": "OlegSotnikov/sallyport",
+      "name": "JustinGamer191/Holo",
       "description": null,
-      "url": "https://github.com/OlegSotnikov/sallyport",
-      "stars": 321,
-      "forks": 10,
+      "url": "https://github.com/JustinGamer191/Holo",
+      "stars": 380,
+      "forks": 57,
       "language": "Swift",
-      "updated_at": "2026-07-19T17:59:57Z"
-    },
-    {
-      "name": "TobiasLee/Rebuttal-Skill",
-      "description": null,
-      "url": "https://github.com/TobiasLee/Rebuttal-Skill",
-      "stars": 316,
-      "forks": 12,
-      "language": null,
-      "updated_at": "2026-07-19T23:39:24Z"
+      "updated_at": "2026-07-21T00:26:53Z"
     },
     {
       "name": "yuwen-cool/yuwen-publish-precheck",
       "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
       "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-      "stars": 314,
-      "forks": 31,
+      "stars": 350,
+      "forks": 32,
       "language": "Python",
-      "updated_at": "2026-07-20T01:10:53Z"
+      "updated_at": "2026-07-21T00:55:20Z"
     },
     {
       "name": "PromptPartner/agentsmith",
       "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
       "url": "https://github.com/PromptPartner/agentsmith",
-      "stars": 309,
+      "stars": 311,
       "forks": 17,
       "language": "Shell",
-      "updated_at": "2026-07-19T18:15:28Z"
-    },
-    {
-      "name": "my-take-dev/inspired-mino-design-skills",
-      "description": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル",
-      "url": "https://github.com/my-take-dev/inspired-mino-design-skills",
-      "stars": 294,
-      "forks": 9,
-      "language": "Shell",
-      "updated_at": "2026-07-19T06:03:28Z"
+      "updated_at": "2026-07-20T23:29:57Z"
     },
     {
       "name": "thesysdev/appless",
       "description": "What if your phone had no apps",
       "url": "https://github.com/thesysdev/appless",
-      "stars": 270,
-      "forks": 44,
+      "stars": 300,
+      "forks": 43,
       "language": "TypeScript",
-      "updated_at": "2026-07-20T01:06:37Z"
+      "updated_at": "2026-07-20T23:45:21Z"
+    },
+    {
+      "name": "my-take-dev/inspired-mino-design-skills",
+      "description": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル",
+      "url": "https://github.com/my-take-dev/inspired-mino-design-skills",
+      "stars": 295,
+      "forks": 9,
+      "language": "Shell",
+      "updated_at": "2026-07-20T14:14:29Z"
+    },
+    {
+      "name": "thebuggeddev/football-stadium",
+      "description": "A 3D football stadium to visualize where you sit in the seat before you buy it",
+      "url": "https://github.com/thebuggeddev/football-stadium",
+      "stars": 290,
+      "forks": 62,
+      "language": "HTML",
+      "updated_at": "2026-07-21T01:06:57Z"
     },
     {
       "name": "HeiGeAi/heige-codex-skin-studio",
       "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
       "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-      "stars": 268,
-      "forks": 45,
+      "stars": 285,
+      "forks": 46,
       "language": "JavaScript",
-      "updated_at": "2026-07-19T15:59:42Z"
+      "updated_at": "2026-07-20T16:49:52Z"
+    },
+    {
+      "name": "smixs/pohuy",
+      "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+      "url": "https://github.com/smixs/pohuy",
+      "stars": 276,
+      "forks": 3,
+      "language": null,
+      "updated_at": "2026-07-21T01:04:45Z"
     },
     {
       "name": "oversecured/Samsung_Vulnerabilities",
       "description": "176 vulnerabilities in Samsung preinstalled Android apps",
       "url": "https://github.com/oversecured/Samsung_Vulnerabilities",
-      "stars": 260,
-      "forks": 63,
+      "stars": 273,
+      "forks": 66,
       "language": "Java",
-      "updated_at": "2026-07-19T10:44:29Z"
+      "updated_at": "2026-07-20T20:16:50Z"
+    },
+    {
+      "name": "paxlabs-inc/machine-genome",
+      "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
+      "url": "https://github.com/paxlabs-inc/machine-genome",
+      "stars": 270,
+      "forks": 7,
+      "language": "Go",
+      "updated_at": "2026-07-21T00:50:42Z"
+    },
+    {
+      "name": "robinhood-ape/robinhood-sniper-bot",
+      "description": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
+      "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
+      "stars": 252,
+      "forks": 258,
+      "language": "TypeScript",
+      "updated_at": "2026-07-20T17:58:11Z"
+    },
+    {
+      "name": "robinhood-ape/robinhood-noxa-bundler",
+      "description": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
+      "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
+      "stars": 250,
+      "forks": 184,
+      "language": "TypeScript",
+      "updated_at": "2026-07-20T17:58:03Z"
+    },
+    {
+      "name": "kitlangton/skills",
+      "description": "Here are some skills I use. Maybe you'll find them useful. Maybe not. Goodbye.",
+      "url": "https://github.com/kitlangton/skills",
+      "stars": 243,
+      "forks": 1,
+      "language": null,
+      "updated_at": "2026-07-21T00:47:38Z"
+    },
+    {
+      "name": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "description": "he optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+      "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+      "stars": 231,
+      "forks": 44,
+      "language": null,
+      "updated_at": "2026-07-21T01:12:53Z"
+    },
+    {
+      "name": "h9-tec/Awesome_ai_learning",
+      "description": null,
+      "url": "https://github.com/h9-tec/Awesome_ai_learning",
+      "stars": 222,
+      "forks": 28,
+      "language": null,
+      "updated_at": "2026-07-20T22:41:46Z"
+    },
+    {
+      "name": "CodeDrobe/skills",
+      "description": "Agent Skills for theming AI desktop apps: reference image → reversible Codex/WorkBuddy skin → verify, repair, publish. | 给 AI 桌面应用换肤的 Agent Skills：参考图 → 可逆皮肤 → 验证、修复、发布。",
+      "url": "https://github.com/CodeDrobe/skills",
+      "stars": 215,
+      "forks": 17,
+      "language": "CSS",
+      "updated_at": "2026-07-20T12:01:18Z"
+    },
+    {
+      "name": "CyberSunil/LLMVault",
+      "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+      "url": "https://github.com/CyberSunil/LLMVault",
+      "stars": 214,
+      "forks": 53,
+      "language": "Python",
+      "updated_at": "2026-07-21T01:02:58Z"
     }
   ]
 }
