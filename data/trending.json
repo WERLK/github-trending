@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-07-22T01:14:23.200Z",
+  "fetched_at": "2026-07-23T01:21:24.471Z",
   "repos": [
     {
       "name": "lopopolo/harness-engineering",
       "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "stars": 1601,
-      "forks": 141,
+      "stars": 2192,
+      "forks": 221,
       "language": "Python",
-      "updated_at": "2026-07-22T01:14:18Z"
-    },
-    {
-      "name": "tandpfun/wardrobe",
-      "description": "Your clothes, extracted and organized with gpt-image.",
-      "url": "https://github.com/tandpfun/wardrobe",
-      "stars": 1285,
-      "forks": 186,
-      "language": "JavaScript",
-      "updated_at": "2026-07-22T01:03:45Z"
-    },
-    {
-      "name": "pablostanley/yoinks",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "url": "https://github.com/pablostanley/yoinks",
-      "stars": 962,
-      "forks": 100,
-      "language": "TypeScript",
-      "updated_at": "2026-07-22T00:52:27Z"
+      "updated_at": "2026-07-23T01:00:44Z"
     },
     {
       "name": "nethical6/conversation-steganography",
       "description": "Use LLMs to hide messages inside normal looking conversations",
       "url": "https://github.com/nethical6/conversation-steganography",
-      "stars": 911,
-      "forks": 55,
+      "stars": 984,
+      "forks": 65,
       "language": "Go",
-      "updated_at": "2026-07-21T23:19:00Z"
-    },
-    {
-      "name": "v-modal/vmodal_sdk_flutter",
-      "description": "V- Modal AI: Search anything anywhere SDK Flutter",
-      "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-      "stars": 777,
-      "forks": 2,
-      "language": "Dart",
-      "updated_at": "2026-07-22T00:16:58Z"
+      "updated_at": "2026-07-23T01:21:19Z"
     },
     {
       "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
       "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
       "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
-      "stars": 739,
-      "forks": 497,
+      "stars": 920,
+      "forks": 650,
       "language": "Solidity",
-      "updated_at": "2026-07-22T01:13:55Z"
+      "updated_at": "2026-07-23T01:20:27Z"
     },
     {
       "name": "Blaizzy/nativ",
       "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
       "url": "https://github.com/Blaizzy/nativ",
-      "stars": 620,
-      "forks": 35,
+      "stars": 760,
+      "forks": 39,
       "language": "Swift",
-      "updated_at": "2026-07-22T01:06:49Z"
+      "updated_at": "2026-07-23T01:10:32Z"
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "stars": 621,
+      "forks": 41,
+      "language": "TypeScript",
+      "updated_at": "2026-07-23T01:13:19Z"
     },
     {
       "name": "xiejunjie524/handdraw-story-video",
       "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
       "url": "https://github.com/xiejunjie524/handdraw-story-video",
-      "stars": 584,
-      "forks": 88,
+      "stars": 620,
+      "forks": 95,
       "language": "Python",
-      "updated_at": "2026-07-22T01:10:09Z"
-    },
-    {
-      "name": "EthanXiang777/circuit-framework",
-      "description": "Circuit Framework — multi-agent LLM trading research system",
-      "url": "https://github.com/EthanXiang777/circuit-framework",
-      "stars": 487,
-      "forks": 19,
-      "language": "Python",
-      "updated_at": "2026-07-21T06:25:26Z"
+      "updated_at": "2026-07-22T22:47:20Z"
     },
     {
       "name": "smixs/pohuy",
       "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
       "url": "https://github.com/smixs/pohuy",
-      "stars": 468,
-      "forks": 7,
+      "stars": 538,
+      "forks": 9,
       "language": null,
-      "updated_at": "2026-07-22T00:43:36Z"
-    },
-    {
-      "name": "Icex0/wp2shell-poc",
-      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
-      "url": "https://github.com/Icex0/wp2shell-poc",
-      "stars": 461,
-      "forks": 107,
-      "language": "Python",
-      "updated_at": "2026-07-22T01:07:34Z"
-    },
-    {
-      "name": "Vincentwei1021/video-shotcraft",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "stars": 419,
-      "forks": 31,
-      "language": "TypeScript",
-      "updated_at": "2026-07-22T01:12:10Z"
-    },
-    {
-      "name": "JustinGamer191/Holo",
-      "description": null,
-      "url": "https://github.com/JustinGamer191/Holo",
-      "stars": 407,
-      "forks": 61,
-      "language": "Swift",
-      "updated_at": "2026-07-21T23:53:13Z"
-    },
-    {
-      "name": "mesamirh/MovieBox-Tui",
-      "description": "A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
-      "url": "https://github.com/mesamirh/MovieBox-Tui",
-      "stars": 361,
-      "forks": 26,
-      "language": "Rust",
-      "updated_at": "2026-07-21T22:52:41Z"
+      "updated_at": "2026-07-22T23:14:59Z"
     },
     {
       "name": "powerycy/goutoujunshi",
       "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
       "url": "https://github.com/powerycy/goutoujunshi",
-      "stars": 344,
-      "forks": 52,
+      "stars": 520,
+      "forks": 68,
       "language": "Python",
-      "updated_at": "2026-07-22T01:10:05Z"
+      "updated_at": "2026-07-23T01:16:02Z"
+    },
+    {
+      "name": "Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "stars": 520,
+      "forks": 37,
+      "language": "TypeScript",
+      "updated_at": "2026-07-23T01:16:48Z"
+    },
+    {
+      "name": "0xhype/hyperliquid-tracker",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "url": "https://github.com/0xhype/hyperliquid-tracker",
+      "stars": 503,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2026-07-22T19:47:34Z"
+    },
+    {
+      "name": "Icex0/wp2shell-poc",
+      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "url": "https://github.com/Icex0/wp2shell-poc",
+      "stars": 488,
+      "forks": 113,
+      "language": "Python",
+      "updated_at": "2026-07-22T18:55:42Z"
+    },
+    {
+      "name": "JustinGamer191/Holo",
+      "description": null,
+      "url": "https://github.com/JustinGamer191/Holo",
+      "stars": 443,
+      "forks": 63,
+      "language": "Swift",
+      "updated_at": "2026-07-23T01:19:58Z"
+    },
+    {
+      "name": "nyblnet/bento",
+      "description": null,
+      "url": "https://github.com/nyblnet/bento",
+      "stars": 438,
+      "forks": 25,
+      "language": "TypeScript",
+      "updated_at": "2026-07-23T01:21:08Z"
+    },
+    {
+      "name": "pireel/pireel",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "url": "https://github.com/pireel/pireel",
+      "stars": 435,
+      "forks": 32,
+      "language": "TypeScript",
+      "updated_at": "2026-07-23T01:17:09Z"
+    },
+    {
+      "name": "gnipbao/story-to-handdrawn-video",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "stars": 396,
+      "forks": 49,
+      "language": "JavaScript",
+      "updated_at": "2026-07-23T01:19:40Z"
     },
     {
       "name": "KinetiNode/claude-fable-5-system-prompt-clean",
       "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
       "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
-      "stars": 343,
-      "forks": 71,
+      "stars": 377,
+      "forks": 75,
       "language": null,
-      "updated_at": "2026-07-22T00:43:08Z"
-    },
-    {
-      "name": "thesysdev/appless",
-      "description": "What if your phone had no apps",
-      "url": "https://github.com/thesysdev/appless",
-      "stars": 316,
-      "forks": 44,
-      "language": "TypeScript",
-      "updated_at": "2026-07-22T00:10:25Z"
-    },
-    {
-      "name": "PromptPartner/agentsmith",
-      "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
-      "url": "https://github.com/PromptPartner/agentsmith",
-      "stars": 314,
-      "forks": 18,
-      "language": "Shell",
-      "updated_at": "2026-07-21T09:43:50Z"
-    },
-    {
-      "name": "thebuggeddev/football-stadium",
-      "description": "A 3D football stadium to visualize where you sit in the seat before you buy it",
-      "url": "https://github.com/thebuggeddev/football-stadium",
-      "stars": 311,
-      "forks": 65,
-      "language": "HTML",
-      "updated_at": "2026-07-22T00:54:03Z"
-    },
-    {
-      "name": "paxlabs-inc/machine-genome",
-      "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
-      "url": "https://github.com/paxlabs-inc/machine-genome",
-      "stars": 284,
-      "forks": 48,
-      "language": "Go",
-      "updated_at": "2026-07-21T18:20:37Z"
+      "updated_at": "2026-07-22T21:47:54Z"
     },
     {
       "name": "yc-duan/fastctx",
       "description": "Fast, context-efficient repository tools for AI agents (MCP)",
       "url": "https://github.com/yc-duan/fastctx",
-      "stars": 259,
-      "forks": 9,
+      "stars": 334,
+      "forks": 11,
       "language": "Rust",
-      "updated_at": "2026-07-22T01:04:52Z"
+      "updated_at": "2026-07-23T01:14:52Z"
+    },
+    {
+      "name": "thebuggeddev/football-stadium",
+      "description": "A 3D football stadium to visualize where you sit in the seat before you buy it",
+      "url": "https://github.com/thebuggeddev/football-stadium",
+      "stars": 324,
+      "forks": 67,
+      "language": "HTML",
+      "updated_at": "2026-07-22T18:24:13Z"
     },
     {
       "name": "Kritt-ai/open-kritt",
       "description": "Orchestrate AI agents to find real vulnerabilities in code.",
       "url": "https://github.com/Kritt-ai/open-kritt",
-      "stars": 257,
-      "forks": 48,
+      "stars": 321,
+      "forks": 70,
       "language": "JavaScript",
-      "updated_at": "2026-07-22T00:56:43Z"
+      "updated_at": "2026-07-23T01:02:17Z"
     },
     {
-      "name": "robinhood-ape/robinhood-sniper-bot",
-      "description": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
-      "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
-      "stars": 253,
-      "forks": 259,
-      "language": "TypeScript",
-      "updated_at": "2026-07-21T16:54:58Z"
+      "name": "chartup-solana-volume-bot/solanavolumebot",
+      "description": "Top-rated Solana volume bot and developer tools for DEX liquidity, maker activity, and holder management.",
+      "url": "https://github.com/chartup-solana-volume-bot/solanavolumebot",
+      "stars": 305,
+      "forks": 0,
+      "language": null,
+      "updated_at": "2026-07-22T15:21:21Z"
+    },
+    {
+      "name": "AdelanSoulX/PM-Sniper",
+      "description": null,
+      "url": "https://github.com/AdelanSoulX/PM-Sniper",
+      "stars": 295,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-07-23T00:30:26Z"
+    },
+    {
+      "name": "AdelanSupport/adelan-support",
+      "description": null,
+      "url": "https://github.com/AdelanSupport/adelan-support",
+      "stars": 289,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-07-23T00:30:49Z"
+    },
+    {
+      "name": "paxlabs-inc/machine-genome",
+      "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
+      "url": "https://github.com/paxlabs-inc/machine-genome",
+      "stars": 283,
+      "forks": 47,
+      "language": "Go",
+      "updated_at": "2026-07-22T15:21:21Z"
+    },
+    {
+      "name": "livetennisapi/livetennisapi-mcp",
+      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+      "stars": 271,
+      "forks": 125,
+      "language": "JavaScript",
+      "updated_at": "2026-07-22T16:12:36Z"
+    },
+    {
+      "name": "Gheat1/tuistore",
+      "description": "🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome-tuis.",
+      "url": "https://github.com/Gheat1/tuistore",
+      "stars": 264,
+      "forks": 10,
+      "language": "Python",
+      "updated_at": "2026-07-22T23:31:02Z"
     },
     {
       "name": "eli-labz/Agent-Execution-Partnership",
       "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
       "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
       "stars": 251,
-      "forks": 75,
+      "forks": 74,
       "language": "Python",
-      "updated_at": "2026-07-21T17:12:12Z"
+      "updated_at": "2026-07-22T15:21:21Z"
     },
     {
-      "name": "robinhood-ape/robinhood-noxa-bundler",
-      "description": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
-      "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
+      "name": "SeanJ1ang/design-judge-skills",
+      "description": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness.",
+      "url": "https://github.com/SeanJ1ang/design-judge-skills",
       "stars": 250,
-      "forks": 185,
-      "language": "TypeScript",
-      "updated_at": "2026-07-21T16:54:57Z"
-    },
-    {
-      "name": "livetennisapi/livetennisapi-mcp",
-      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
-      "stars": 249,
       "forks": 11,
-      "language": "JavaScript",
-      "updated_at": "2026-07-21T12:36:04Z"
-    },
-    {
-      "name": "Gheat1/tuistore",
-      "description": "🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome-tuis.",
-      "url": "https://github.com/Gheat1/tuistore",
-      "stars": 234,
-      "forks": 10,
       "language": "Python",
-      "updated_at": "2026-07-22T00:31:15Z"
+      "updated_at": "2026-07-23T01:17:02Z"
     },
     {
-      "name": "h9-tec/Awesome_ai_learning",
-      "description": null,
-      "url": "https://github.com/h9-tec/Awesome_ai_learning",
-      "stars": 228,
-      "forks": 29,
-      "language": null,
-      "updated_at": "2026-07-21T23:57:33Z"
+      "name": "KlaatAI/klaatcode",
+      "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+      "url": "https://github.com/KlaatAI/klaatcode",
+      "stars": 248,
+      "forks": 86,
+      "language": "TypeScript",
+      "updated_at": "2026-07-23T00:32:28Z"
     },
     {
       "name": "realfishsam/agent-notch",
       "description": "The open-source alternative to vibe-island",
       "url": "https://github.com/realfishsam/agent-notch",
-      "stars": 222,
-      "forks": 28,
+      "stars": 246,
+      "forks": 30,
       "language": "Swift",
-      "updated_at": "2026-07-22T01:12:16Z"
+      "updated_at": "2026-07-23T00:16:19Z"
     },
     {
-      "name": "joeseesun/qiaomu-cut-skill",
-      "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
-      "url": "https://github.com/joeseesun/qiaomu-cut-skill",
-      "stars": 217,
-      "forks": 29,
+      "name": "lyu0805/OpenBrowser",
+      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "url": "https://github.com/lyu0805/OpenBrowser",
+      "stars": 243,
+      "forks": 52,
       "language": "JavaScript",
-      "updated_at": "2026-07-21T23:46:21Z"
+      "updated_at": "2026-07-23T00:46:23Z"
     }
   ]
 }
