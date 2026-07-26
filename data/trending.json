@@ -1,230 +1,230 @@
 {
-  "fetched_at": "2026-07-25T01:18:22.100Z",
+  "fetched_at": "2026-07-26T01:21:27.661Z",
   "repos": [
     {
       "name": "andrewyng/openworker",
       "description": null,
       "url": "https://github.com/andrewyng/openworker",
-      "stars": 3408,
-      "forks": 456,
+      "stars": 5005,
+      "forks": 661,
       "language": "Python",
-      "updated_at": "2026-07-25T01:17:39Z"
-    },
-    {
-      "name": "Vincentwei1021/video-shotcraft",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "stars": 1437,
-      "forks": 114,
-      "language": "TypeScript",
-      "updated_at": "2026-07-25T01:14:26Z"
+      "updated_at": "2026-07-26T01:19:40Z"
     },
     {
       "name": "Jakubantalik/thinking-orbs",
       "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
       "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "stars": 931,
-      "forks": 69,
+      "stars": 1006,
+      "forks": 75,
       "language": "TypeScript",
-      "updated_at": "2026-07-24T23:36:34Z"
+      "updated_at": "2026-07-26T01:20:23Z"
     },
     {
       "name": "Blaizzy/nativ",
       "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
       "url": "https://github.com/Blaizzy/nativ",
-      "stars": 860,
-      "forks": 45,
+      "stars": 884,
+      "forks": 46,
       "language": "Swift",
-      "updated_at": "2026-07-24T23:44:24Z"
+      "updated_at": "2026-07-25T23:20:42Z"
     },
     {
       "name": "powerycy/goutoujunshi",
-      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、���文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学��识库，支持多元关系。",
       "url": "https://github.com/powerycy/goutoujunshi",
-      "stars": 801,
-      "forks": 90,
+      "stars": 876,
+      "forks": 96,
       "language": "Python",
-      "updated_at": "2026-07-25T00:07:48Z"
-    },
-    {
-      "name": "pireel/pireel",
-      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "url": "https://github.com/pireel/pireel",
-      "stars": 710,
-      "forks": 55,
-      "language": "TypeScript",
-      "updated_at": "2026-07-25T00:37:41Z"
-    },
-    {
-      "name": "gnipbao/story-to-handdrawn-video",
-      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
-      "stars": 608,
-      "forks": 69,
-      "language": "JavaScript",
-      "updated_at": "2026-07-25T00:34:10Z"
-    },
-    {
-      "name": "CatsJuice/sticker-forge",
-      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
-      "url": "https://github.com/CatsJuice/sticker-forge",
-      "stars": 522,
-      "forks": 46,
-      "language": "JavaScript",
-      "updated_at": "2026-07-25T01:12:50Z"
-    },
-    {
-      "name": "0xhype/hyperliquid-tracker",
-      "description": "Get notified when big trades happen on Hyperliquid.",
-      "url": "https://github.com/0xhype/hyperliquid-tracker",
-      "stars": 509,
-      "forks": 1,
-      "language": "TypeScript",
-      "updated_at": "2026-07-24T19:10:24Z"
-    },
-    {
-      "name": "Charles-0509/Grok-Register",
-      "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
-      "url": "https://github.com/Charles-0509/Grok-Register",
-      "stars": 428,
-      "forks": 148,
-      "language": "Go",
-      "updated_at": "2026-07-25T00:36:09Z"
+      "updated_at": "2026-07-26T00:57:57Z"
     },
     {
       "name": "slvDev/esp32-ai",
       "description": null,
       "url": "https://github.com/slvDev/esp32-ai",
-      "stars": 409,
-      "forks": 53,
+      "stars": 806,
+      "forks": 91,
       "language": "Python",
-      "updated_at": "2026-07-25T01:11:47Z"
+      "updated_at": "2026-07-26T01:21:14Z"
     },
     {
-      "name": "KinetiNode/claude-fable-5-system-prompt-clean",
-      "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
-      "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
-      "stars": 407,
-      "forks": 84,
-      "language": null,
-      "updated_at": "2026-07-25T01:17:39Z"
-    },
-    {
-      "name": "berabuddies/redis-poc",
-      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
-      "url": "https://github.com/berabuddies/redis-poc",
-      "stars": 386,
-      "forks": 100,
-      "language": "Python",
-      "updated_at": "2026-07-25T01:07:03Z"
-    },
-    {
-      "name": "AdelanSupport/adelan-support",
-      "description": null,
-      "url": "https://github.com/AdelanSupport/adelan-support",
-      "stars": 385,
-      "forks": 0,
-      "language": "Python",
-      "updated_at": "2026-07-25T00:53:39Z"
-    },
-    {
-      "name": "AdelanSoulX/PM-Sniper",
-      "description": null,
-      "url": "https://github.com/AdelanSoulX/PM-Sniper",
-      "stars": 384,
-      "forks": 0,
-      "language": "Python",
-      "updated_at": "2026-07-25T00:53:08Z"
-    },
-    {
-      "name": "Kritt-ai/open-kritt",
-      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "url": "https://github.com/Kritt-ai/open-kritt",
-      "stars": 374,
-      "forks": 78,
-      "language": "JavaScript",
-      "updated_at": "2026-07-24T23:40:24Z"
-    },
-    {
-      "name": "dacnay816y62-hub/cinema-dna-21x9x3",
-      "description": "高级感电影画面生成",
-      "url": "https://github.com/dacnay816y62-hub/cinema-dna-21x9x3",
-      "stars": 319,
-      "forks": 28,
-      "language": null,
-      "updated_at": "2026-07-24T21:29:19Z"
-    },
-    {
-      "name": "lyu0805/OpenBrowser",
-      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-      "url": "https://github.com/lyu0805/OpenBrowser",
-      "stars": 306,
-      "forks": 65,
-      "language": "JavaScript",
-      "updated_at": "2026-07-24T17:57:51Z"
-    },
-    {
-      "name": "melloworchid8rr6g/TG-Polymarket-bot",
-      "description": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
-      "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
-      "stars": 267,
-      "forks": 159,
-      "language": "JavaScript",
-      "updated_at": "2026-07-25T01:17:33Z"
-    },
-    {
-      "name": "realfishsam/agent-notch",
-      "description": "The open-source alternative to vibe-island",
-      "url": "https://github.com/realfishsam/agent-notch",
-      "stars": 266,
-      "forks": 33,
-      "language": "Swift",
-      "updated_at": "2026-07-24T18:23:02Z"
-    },
-    {
-      "name": "RongleCat/grok-app",
-      "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
-      "url": "https://github.com/RongleCat/grok-app",
-      "stars": 241,
-      "forks": 24,
+      "name": "pireel/pireel",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "url": "https://github.com/pireel/pireel",
+      "stars": 753,
+      "forks": 61,
       "language": "TypeScript",
-      "updated_at": "2026-07-25T00:01:37Z"
+      "updated_at": "2026-07-26T01:20:56Z"
+    },
+    {
+      "name": "gnipbao/story-to-handdrawn-video",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "stars": 624,
+      "forks": 70,
+      "language": "JavaScript",
+      "updated_at": "2026-07-26T01:14:01Z"
+    },
+    {
+      "name": "mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "stars": 586,
+      "forks": 7,
+      "language": "Python",
+      "updated_at": "2026-07-26T01:18:26Z"
+    },
+    {
+      "name": "CatsJuice/sticker-forge",
+      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "url": "https://github.com/CatsJuice/sticker-forge",
+      "stars": 573,
+      "forks": 51,
+      "language": "JavaScript",
+      "updated_at": "2026-07-26T00:28:12Z"
     },
     {
       "name": "zeus-panel/ZEUS-PANEL",
       "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
       "url": "https://github.com/zeus-panel/ZEUS-PANEL",
-      "stars": 230,
-      "forks": 18,
+      "stars": 537,
+      "forks": 30,
       "language": "JavaScript",
-      "updated_at": "2026-07-25T01:17:06Z"
+      "updated_at": "2026-07-26T00:54:24Z"
     },
     {
-      "name": "rjx18/codor",
-      "description": null,
-      "url": "https://github.com/rjx18/codor",
-      "stars": 226,
-      "forks": 28,
+      "name": "0xhype/hyperliquid-tracker",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "url": "https://github.com/0xhype/hyperliquid-tracker",
+      "stars": 510,
+      "forks": 1,
       "language": "TypeScript",
-      "updated_at": "2026-07-25T00:44:59Z"
+      "updated_at": "2026-07-25T18:40:24Z"
     },
     {
-      "name": "chenjin-cmd/xhs-virtual-product",
-      "description": "xhs-virtual-product",
-      "url": "https://github.com/chenjin-cmd/xhs-virtual-product",
-      "stars": 224,
-      "forks": 29,
+      "name": "Charles-0509/Grok-Register",
+      "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
+      "url": "https://github.com/Charles-0509/Grok-Register",
+      "stars": 460,
+      "forks": 161,
+      "language": "Go",
+      "updated_at": "2026-07-25T19:40:08Z"
+    },
+    {
+      "name": "berabuddies/redis-poc",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+      "url": "https://github.com/berabuddies/redis-poc",
+      "stars": 416,
+      "forks": 107,
+      "language": "Python",
+      "updated_at": "2026-07-26T01:00:30Z"
+    },
+    {
+      "name": "AdelanSoulX/PM-Sniper",
+      "description": null,
+      "url": "https://github.com/AdelanSoulX/PM-Sniper",
+      "stars": 410,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-07-25T08:08:47Z"
+    },
+    {
+      "name": "AdelanSupport/adelan-support",
+      "description": null,
+      "url": "https://github.com/AdelanSupport/adelan-support",
+      "stars": 408,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-07-25T08:08:28Z"
+    },
+    {
+      "name": "Kritt-ai/open-kritt",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "stars": 391,
+      "forks": 79,
+      "language": "JavaScript",
+      "updated_at": "2026-07-25T23:22:32Z"
+    },
+    {
+      "name": "melloworchid8rr6g/TG-Polymarket-bot",
+      "description": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
+      "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
+      "stars": 390,
+      "forks": 238,
+      "language": "JavaScript",
+      "updated_at": "2026-07-26T01:20:33Z"
+    },
+    {
+      "name": "dacnay816y62-hub/cinema-dna-21x9x3",
+      "description": "高级感电影画面生成",
+      "url": "https://github.com/dacnay816y62-hub/cinema-dna-21x9x3",
+      "stars": 346,
+      "forks": 32,
       "language": null,
-      "updated_at": "2026-07-24T14:43:32Z"
+      "updated_at": "2026-07-26T01:14:24Z"
+    },
+    {
+      "name": "mikehasa/agentacct",
+      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "url": "https://github.com/mikehasa/agentacct",
+      "stars": 320,
+      "forks": 2,
+      "language": "Python",
+      "updated_at": "2026-07-26T00:53:49Z"
+    },
+    {
+      "name": "realfishsam/agent-notch",
+      "description": "The open-source alternative to vibe-island",
+      "url": "https://github.com/realfishsam/agent-notch",
+      "stars": 271,
+      "forks": 33,
+      "language": "Swift",
+      "updated_at": "2026-07-26T00:12:50Z"
+    },
+    {
+      "name": "RongleCat/grok-app",
+      "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+      "url": "https://github.com/RongleCat/grok-app",
+      "stars": 262,
+      "forks": 26,
+      "language": "TypeScript",
+      "updated_at": "2026-07-25T21:48:25Z"
+    },
+    {
+      "name": "danilo-znamerovszkij/draw-your-font",
+      "description": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
+      "url": "https://github.com/danilo-znamerovszkij/draw-your-font",
+      "stars": 248,
+      "forks": 25,
+      "language": "JavaScript",
+      "updated_at": "2026-07-26T00:35:09Z"
     },
     {
       "name": "TryCaspian/caspian-sdk",
       "description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
       "url": "https://github.com/TryCaspian/caspian-sdk",
-      "stars": 216,
-      "forks": 74,
+      "stars": 236,
+      "forks": 107,
       "language": "Python",
-      "updated_at": "2026-07-24T22:20:40Z"
+      "updated_at": "2026-07-25T18:59:18Z"
+    },
+    {
+      "name": "rustyharbor308774/Ethereum-bot",
+      "description": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
+      "url": "https://github.com/rustyharbor308774/Ethereum-bot",
+      "stars": 234,
+      "forks": 169,
+      "language": "Solidity",
+      "updated_at": "2026-07-26T01:21:04Z"
+    },
+    {
+      "name": "anton-hq96g4/Meccha-Medusa",
+      "description": "Meccha Chameleon: ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+      "url": "https://github.com/anton-hq96g4/Meccha-Medusa",
+      "stars": 233,
+      "forks": 5,
+      "language": null,
+      "updated_at": "2026-07-25T12:32:47Z"
     },
     {
       "name": "nicechunk/game",
@@ -236,6 +236,15 @@
       "updated_at": "2026-07-24T05:55:26Z"
     },
     {
+      "name": "MobAI-App/simslim",
+      "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
+      "url": "https://github.com/MobAI-App/simslim",
+      "stars": 214,
+      "forks": 10,
+      "language": "Go",
+      "updated_at": "2026-07-26T00:17:16Z"
+    },
+    {
       "name": "paxlabs-inc/machine-genome",
       "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
       "url": "https://github.com/paxlabs-inc/machine-genome",
@@ -245,31 +254,22 @@
       "updated_at": "2026-07-24T21:27:34Z"
     },
     {
-      "name": "duolahypercho/codex-router",
-      "description": "External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.",
-      "url": "https://github.com/duolahypercho/codex-router",
-      "stars": 205,
-      "forks": 26,
-      "language": "JavaScript",
-      "updated_at": "2026-07-25T01:12:15Z"
-    },
-    {
-      "name": "hassancs91/claude-youtube-editor",
-      "description": null,
-      "url": "https://github.com/hassancs91/claude-youtube-editor",
-      "stars": 195,
-      "forks": 77,
+      "name": "davidmokos/expo-glass-tabs",
+      "description": "Floating liquid-glass tab bar for Expo Router — minimize-on-scroll, sliding highlight, finger scrubbing with haptics, progressive edge blur",
+      "url": "https://github.com/davidmokos/expo-glass-tabs",
+      "stars": 213,
+      "forks": 7,
       "language": "TypeScript",
-      "updated_at": "2026-07-25T00:59:40Z"
+      "updated_at": "2026-07-26T01:18:40Z"
     },
     {
-      "name": "yokel1121/muyang-flat-animation",
-      "description": "将中文观点转成纸上钢笔线稿与彩���风格的知识讲解动画素材",
-      "url": "https://github.com/yokel1121/muyang-flat-animation",
-      "stars": 194,
-      "forks": 31,
-      "language": "Python",
-      "updated_at": "2026-07-25T00:59:41Z"
+      "name": "hahhforest/pi-textbook",
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "stars": 212,
+      "forks": 12,
+      "language": "TypeScript",
+      "updated_at": "2026-07-26T00:40:24Z"
     }
   ]
 }
