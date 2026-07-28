@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-07-27T01:25:29.694Z",
+  "fetched_at": "2026-07-28T01:12:59.855Z",
   "repos": [
     {
       "name": "slvDev/esp32-ai",
       "description": null,
       "url": "https://github.com/slvDev/esp32-ai",
-      "stars": 1345,
-      "forks": 139,
+      "stars": 1745,
+      "forks": 183,
       "language": "Python",
-      "updated_at": "2026-07-27T01:22:06Z"
-    },
-    {
-      "name": "Jakubantalik/thinking-orbs",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "stars": 1100,
-      "forks": 82,
-      "language": "TypeScript",
-      "updated_at": "2026-07-27T01:16:21Z"
-    },
-    {
-      "name": "mikiarlo3/ai-copywriter",
-      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "url": "https://github.com/mikiarlo3/ai-copywriter",
-      "stars": 854,
-      "forks": 12,
-      "language": "Python",
-      "updated_at": "2026-07-27T01:08:08Z"
-    },
-    {
-      "name": "mshumer/Claude-of-Duty",
-      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "url": "https://github.com/mshumer/Claude-of-Duty",
-      "stars": 666,
-      "forks": 128,
-      "language": "JavaScript",
-      "updated_at": "2026-07-27T01:21:45Z"
-    },
-    {
-      "name": "gnipbao/story-to-handdrawn-video",
-      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
-      "stars": 653,
-      "forks": 73,
-      "language": "JavaScript",
-      "updated_at": "2026-07-26T21:20:05Z"
-    },
-    {
-      "name": "0xhype/hyperliquid-tracker",
-      "description": "Get notified when big trades happen on Hyperliquid.",
-      "url": "https://github.com/0xhype/hyperliquid-tracker",
-      "stars": 511,
-      "forks": 2,
-      "language": "TypeScript",
-      "updated_at": "2026-07-26T13:45:31Z"
-    },
-    {
-      "name": "makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "url": "https://github.com/makecindy/cindy",
-      "stars": 459,
-      "forks": 47,
-      "language": "TypeScript",
-      "updated_at": "2026-07-27T01:23:59Z"
-    },
-    {
-      "name": "hahhforest/pi-textbook",
-      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "url": "https://github.com/hahhforest/pi-textbook",
-      "stars": 449,
-      "forks": 26,
-      "language": "TypeScript",
-      "updated_at": "2026-07-27T01:25:13Z"
-    },
-    {
-      "name": "berabuddies/redis-poc",
-      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-      "url": "https://github.com/berabuddies/redis-poc",
-      "stars": 436,
-      "forks": 108,
-      "language": "Python",
-      "updated_at": "2026-07-27T01:22:21Z"
-    },
-    {
-      "name": "AdelanSupport/adelan-support",
-      "description": null,
-      "url": "https://github.com/AdelanSupport/adelan-support",
-      "stars": 409,
-      "forks": 413,
-      "language": "Python",
-      "updated_at": "2026-07-26T07:01:18Z"
-    },
-    {
-      "name": "dr-Crimson-Smoke39/Discord-Nitro-Generator",
-      "description": "🚀 Advanced Discord Nitro Generator and Checker (2026). Fast, multi-threaded, and proxy-supported free Discord Nitro gift code generator & checker.",
-      "url": "https://github.com/dr-Crimson-Smoke39/Discord-Nitro-Generator",
-      "stars": 401,
-      "forks": 10,
-      "language": null,
-      "updated_at": "2026-07-26T17:01:59Z"
-    },
-    {
-      "name": "melloworchid8rr6g/TG-Polymarket-bot",
-      "description": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
-      "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
-      "stars": 390,
-      "forks": 238,
-      "language": "JavaScript",
-      "updated_at": "2026-07-27T01:24:36Z"
-    },
-    {
-      "name": "mikehasa/agentacct",
-      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
-      "url": "https://github.com/mikehasa/agentacct",
-      "stars": 376,
-      "forks": 2,
-      "language": "Python",
-      "updated_at": "2026-07-27T00:04:12Z"
+      "updated_at": "2026-07-28T01:01:12Z"
     },
     {
       "name": "vercel-labs/scriptc",
       "description": "TypeScript-to-Native Compiler",
       "url": "https://github.com/vercel-labs/scriptc",
-      "stars": 344,
-      "forks": 3,
+      "stars": 1740,
+      "forks": 28,
       "language": "TypeScript",
-      "updated_at": "2026-07-27T01:21:58Z"
+      "updated_at": "2026-07-28T01:11:26Z"
+    },
+    {
+      "name": "MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "url": "https://github.com/MoonshotAI/Kimi-K3",
+      "stars": 1314,
+      "forks": 101,
+      "language": null,
+      "updated_at": "2026-07-28T01:12:40Z"
+    },
+    {
+      "name": "mshumer/Claude-of-Duty",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "stars": 1027,
+      "forks": 205,
+      "language": "JavaScript",
+      "updated_at": "2026-07-28T01:08:21Z"
+    },
+    {
+      "name": "mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "stars": 937,
+      "forks": 18,
+      "language": "Python",
+      "updated_at": "2026-07-28T01:00:33Z"
+    },
+    {
+      "name": "makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "url": "https://github.com/makecindy/cindy",
+      "stars": 844,
+      "forks": 105,
+      "language": "TypeScript",
+      "updated_at": "2026-07-28T01:01:23Z"
     },
     {
       "name": "VictorTaelin/OptMem",
       "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
       "url": "https://github.com/VictorTaelin/OptMem",
-      "stars": 317,
-      "forks": 18,
+      "stars": 650,
+      "forks": 33,
       "language": "Python",
-      "updated_at": "2026-07-27T01:24:10Z"
+      "updated_at": "2026-07-28T01:12:17Z"
     },
     {
-      "name": "rustyharbor308774/Ethereum-bot",
-      "description": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
-      "url": "https://github.com/rustyharbor308774/Ethereum-bot",
-      "stars": 313,
-      "forks": 230,
-      "language": "Solidity",
-      "updated_at": "2026-07-27T01:25:17Z"
+      "name": "kvcache-ai/AgentENV",
+      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "stars": 641,
+      "forks": 57,
+      "language": "Rust",
+      "updated_at": "2026-07-28T01:11:59Z"
+    },
+    {
+      "name": "mikehasa/agentacct",
+      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "url": "https://github.com/mikehasa/agentacct",
+      "stars": 469,
+      "forks": 4,
+      "language": "Python",
+      "updated_at": "2026-07-27T23:56:29Z"
+    },
+    {
+      "name": "0xwilliamortiz/openclaude-improved",
+      "description": "runs anywhere. uses anything",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "stars": 468,
+      "forks": 72,
+      "language": "TypeScript",
+      "updated_at": "2026-07-28T01:12:39Z"
+    },
+    {
+      "name": "berabuddies/redis-poc",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+      "url": "https://github.com/berabuddies/redis-poc",
+      "stars": 454,
+      "forks": 111,
+      "language": "Python",
+      "updated_at": "2026-07-27T14:33:34Z"
+    },
+    {
+      "name": "MoonshotAI/MoonEP",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "stars": 417,
+      "forks": 43,
+      "language": "Python",
+      "updated_at": "2026-07-28T01:11:30Z"
+    },
+    {
+      "name": "didriksg/Crisp",
+      "description": "Free, open-source macOS alternative to BetterDisplay and Lunar: a lightweight menu bar app with sharp HiDPI/Retina scaling for external monitors (no more blurry or tiny text), plus brightness (DDC), virtual displays, presets, and color.",
+      "url": "https://github.com/didriksg/Crisp",
+      "stars": 403,
+      "forks": 13,
+      "language": "Swift",
+      "updated_at": "2026-07-28T01:12:46Z"
     },
     {
       "name": "danilo-znamerovszkij/draw-your-font",
       "description": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
       "url": "https://github.com/danilo-znamerovszkij/draw-your-font",
-      "stars": 308,
-      "forks": 31,
+      "stars": 403,
+      "forks": 36,
       "language": "JavaScript",
-      "updated_at": "2026-07-27T01:22:27Z"
+      "updated_at": "2026-07-28T00:46:19Z"
+    },
+    {
+      "name": "rustyharbor308774/Ethereum-bot",
+      "description": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
+      "url": "https://github.com/rustyharbor308774/Ethereum-bot",
+      "stars": 359,
+      "forks": 265,
+      "language": "Solidity",
+      "updated_at": "2026-07-28T01:12:35Z"
     },
     {
       "name": "RongleCat/grok-app",
       "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
       "url": "https://github.com/RongleCat/grok-app",
-      "stars": 286,
-      "forks": 31,
+      "stars": 343,
+      "forks": 38,
       "language": "TypeScript",
-      "updated_at": "2026-07-27T01:05:30Z"
+      "updated_at": "2026-07-28T00:24:20Z"
     },
     {
-      "name": "realfishsam/agent-notch",
-      "description": "The open-source alternative to vibe-island",
-      "url": "https://github.com/realfishsam/agent-notch",
-      "stars": 278,
-      "forks": 35,
-      "language": "Swift",
-      "updated_at": "2026-07-26T21:22:31Z"
+      "name": "AARomanov1985/Audio-Cassette-Simulation",
+      "description": "This project simulates cassette tape audio profiles using ffmpeg",
+      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+      "stars": 327,
+      "forks": 17,
+      "language": "Shell",
+      "updated_at": "2026-07-28T01:06:01Z"
     },
     {
-      "name": "didriksg/Crisp",
-      "description": "A free, open-source alternative to BetterDisplay and Lunar. Every display control macOS hides in one menu bar panel: external monitor brightness (DDC or software), HiDPI scaling, XDR presets, virtual displays, color, and arrangement. Feels like it shipped with your Mac.",
-      "url": "https://github.com/didriksg/Crisp",
-      "stars": 244,
-      "forks": 7,
-      "language": "Swift",
-      "updated_at": "2026-07-27T01:13:49Z"
+      "name": "XYZ-AI-Lab/axrl",
+      "description": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
+      "url": "https://github.com/XYZ-AI-Lab/axrl",
+      "stars": 310,
+      "forks": 19,
+      "language": "Python",
+      "updated_at": "2026-07-27T18:16:05Z"
     },
     {
-      "name": "anton-hq96g4/Meccha-Medusa",
-      "description": "Meccha Chameleon: ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
-      "url": "https://github.com/anton-hq96g4/Meccha-Medusa",
-      "stars": 233,
-      "forks": 5,
+      "name": "Eversmile12/leaked-llm-prompts",
+      "description": "collections-of-leaked-prompts",
+      "url": "https://github.com/Eversmile12/leaked-llm-prompts",
+      "stars": 287,
+      "forks": 222,
       "language": null,
-      "updated_at": "2026-07-25T12:32:47Z"
-    },
-    {
-      "name": "davidmokos/expo-glass-tabs",
-      "description": "Floating liquid-glass tab bar for Expo Router — minimize-on-scroll, sliding highlight, finger scrubbing with haptics, progressive edge blur",
-      "url": "https://github.com/davidmokos/expo-glass-tabs",
-      "stars": 225,
-      "forks": 8,
-      "language": "TypeScript",
-      "updated_at": "2026-07-26T23:07:53Z"
-    },
-    {
-      "name": "Role1776/netmon",
-      "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
-      "url": "https://github.com/Role1776/netmon",
-      "stars": 225,
-      "forks": 33,
-      "language": "Python",
-      "updated_at": "2026-07-27T01:23:34Z"
-    },
-    {
-      "name": "finna/Finn-loop",
-      "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-      "url": "https://github.com/finna/Finn-loop",
-      "stars": 217,
-      "forks": 34,
-      "language": "JavaScript",
-      "updated_at": "2026-07-26T20:38:43Z"
-    },
-    {
-      "name": "yokel1121/muyang-flat-animation",
-      "description": "将中文观点转成纸上钢笔线稿与彩铅风格的知识讲解动画素材",
-      "url": "https://github.com/yokel1121/muyang-flat-animation",
-      "stars": 208,
-      "forks": 33,
-      "language": "Python",
-      "updated_at": "2026-07-26T17:20:17Z"
-    },
-    {
-      "name": "aniqfakhrul/CVE-2026-54121",
-      "description": "Certighost POC",
-      "url": "https://github.com/aniqfakhrul/CVE-2026-54121",
-      "stars": 208,
-      "forks": 43,
-      "language": "Python",
-      "updated_at": "2026-07-27T00:03:26Z"
+      "updated_at": "2026-07-28T00:50:28Z"
     },
     {
       "name": "XYZ-AI-Lab/AxisAgentic",
       "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
       "url": "https://github.com/XYZ-AI-Lab/AxisAgentic",
-      "stars": 204,
-      "forks": 24,
+      "stars": 279,
+      "forks": 40,
       "language": "Python",
-      "updated_at": "2026-07-27T01:25:25Z"
+      "updated_at": "2026-07-28T00:36:19Z"
+    },
+    {
+      "name": "MarcosSete/awesome-free-ai-books",
+      "description": "A curated list of free, legitimate AI/ML books",
+      "url": "https://github.com/MarcosSete/awesome-free-ai-books",
+      "stars": 273,
+      "forks": 20,
+      "language": null,
+      "updated_at": "2026-07-28T01:09:26Z"
     },
     {
       "name": "sunny-glow/Auto-BenchMax",
       "description": null,
       "url": "https://github.com/sunny-glow/Auto-BenchMax",
-      "stars": 203,
+      "stars": 260,
       "forks": 28,
       "language": "Python",
-      "updated_at": "2026-07-27T01:05:18Z"
+      "updated_at": "2026-07-28T01:11:28Z"
     },
     {
-      "name": "risa-labs-inc/BossConsole",
-      "description": "Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
-      "url": "https://github.com/risa-labs-inc/BossConsole",
-      "stars": 198,
+      "name": "aniqfakhrul/CVE-2026-54121",
+      "description": "Certighost POC",
+      "url": "https://github.com/aniqfakhrul/CVE-2026-54121",
+      "stars": 258,
+      "forks": 56,
+      "language": "Python",
+      "updated_at": "2026-07-27T23:33:53Z"
+    },
+    {
+      "name": "yanhua1010/self-media-content-workflow",
+      "description": "通用、模块化的自媒体内容生产与经营 Skills / A modular, tool-agnostic self-media content skill suite",
+      "url": "https://github.com/yanhua1010/self-media-content-workflow",
+      "stars": 254,
+      "forks": 38,
+      "language": "Python",
+      "updated_at": "2026-07-28T01:12:59Z"
+    },
+    {
+      "name": "deerwork-ai/deer-workflow",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "stars": 245,
+      "forks": 19,
+      "language": "TypeScript",
+      "updated_at": "2026-07-28T01:03:36Z"
+    },
+    {
+      "name": "edaywalid/undo",
+      "description": "Undo what the last shell command did to the filesystem",
+      "url": "https://github.com/edaywalid/undo",
+      "stars": 239,
       "forks": 5,
-      "language": "Kotlin",
-      "updated_at": "2026-07-27T00:54:02Z"
+      "language": "Go",
+      "updated_at": "2026-07-28T01:02:05Z"
+    },
+    {
+      "name": "davidmokos/expo-glass-tabs",
+      "description": "Floating liquid-glass tab bar for Expo Router — minimize-on-scroll, sliding highlight, finger scrubbing with haptics, progressive edge blur",
+      "url": "https://github.com/davidmokos/expo-glass-tabs",
+      "stars": 235,
+      "forks": 8,
+      "language": "TypeScript",
+      "updated_at": "2026-07-27T22:45:27Z"
+    },
+    {
+      "name": "finna/Finn-loop",
+      "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
+      "url": "https://github.com/finna/Finn-loop",
+      "stars": 227,
+      "forks": 36,
+      "language": "JavaScript",
+      "updated_at": "2026-07-27T18:44:12Z"
+    },
+    {
+      "name": "fuadmefleh/Shared-Claude-Chats",
+      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+      "stars": 223,
+      "forks": 65,
+      "language": "Python",
+      "updated_at": "2026-07-28T01:05:39Z"
     },
     {
       "name": "neural-maze/production-ocr-course",
       "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
       "url": "https://github.com/neural-maze/production-ocr-course",
-      "stars": 184,
-      "forks": 50,
+      "stars": 219,
+      "forks": 58,
       "language": "Rust",
-      "updated_at": "2026-07-27T01:17:43Z"
+      "updated_at": "2026-07-28T00:37:57Z"
     }
   ]
 }
