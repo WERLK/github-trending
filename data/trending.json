@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-08-02T01:20:57.062Z",
+  "fetched_at": "2026-08-03T01:21:07.807Z",
   "repos": [
-    {
-      "name": "MoonshotAI/Kimi-K3",
-      "description": "Open Frontier Intelligence",
-      "url": "https://github.com/MoonshotAI/Kimi-K3",
-      "stars": 7826,
-      "forks": 559,
-      "language": null,
-      "updated_at": "2026-08-02T00:16:28Z"
-    },
     {
       "name": "yc-software/qm",
       "description": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "stars": 5010,
-      "forks": 501,
+      "stars": 7263,
+      "forks": 765,
       "language": "TypeScript",
-      "updated_at": "2026-08-02T01:20:49Z"
+      "updated_at": "2026-08-03T01:20:40Z"
     },
     {
       "name": "bashalarmistalt/decimen-optical-transfer",
       "description": null,
       "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "stars": 3083,
-      "forks": 364,
+      "stars": 3691,
+      "forks": 424,
       "language": "TypeScript",
-      "updated_at": "2026-08-02T01:16:31Z"
+      "updated_at": "2026-08-03T01:20:56Z"
     },
     {
-      "name": "QwenAudio/qwen-audio-agent",
-      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "url": "https://github.com/QwenAudio/qwen-audio-agent",
-      "stars": 1280,
-      "forks": 86,
-      "language": "JavaScript",
-      "updated_at": "2026-08-02T01:20:01Z"
+      "name": "trycompai/crm",
+      "description": "An open-source, agentic-first CRM.",
+      "url": "https://github.com/trycompai/crm",
+      "stars": 1837,
+      "forks": 220,
+      "language": "TypeScript",
+      "updated_at": "2026-08-03T01:18:22Z"
     },
     {
       "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
       "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
       "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "stars": 1003,
-      "forks": 134,
+      "stars": 1573,
+      "forks": 211,
       "language": null,
-      "updated_at": "2026-08-02T01:17:33Z"
+      "updated_at": "2026-08-03T01:19:11Z"
     },
     {
-      "name": "xikhar/persona",
-      "description": "Bringing real-time voice to life.",
-      "url": "https://github.com/xikhar/persona",
-      "stars": 764,
-      "forks": 68,
-      "language": "JavaScript",
-      "updated_at": "2026-08-01T22:22:09Z"
+      "name": "WilonityDev/WilonityLoader",
+      "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
+      "url": "https://github.com/WilonityDev/WilonityLoader",
+      "stars": 1215,
+      "forks": 0,
+      "language": null,
+      "updated_at": "2026-08-02T23:34:06Z"
     },
     {
       "name": "sqliteai/waste",
       "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
       "url": "https://github.com/sqliteai/waste",
-      "stars": 684,
-      "forks": 64,
+      "stars": 1068,
+      "forks": 92,
       "language": "C",
-      "updated_at": "2026-08-02T01:12:35Z"
+      "updated_at": "2026-08-03T01:17:18Z"
     },
     {
-      "name": "trycompai/crm",
-      "description": null,
-      "url": "https://github.com/trycompai/crm",
-      "stars": 619,
-      "forks": 73,
+      "name": "microsoft/skill-recorder",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "url": "https://github.com/microsoft/skill-recorder",
+      "stars": 819,
+      "forks": 87,
       "language": "TypeScript",
-      "updated_at": "2026-08-02T01:20:53Z"
+      "updated_at": "2026-08-03T01:19:48Z"
     },
     {
-      "name": "gavamedia/deltafin",
-      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "url": "https://github.com/gavamedia/deltafin",
-      "stars": 594,
-      "forks": 67,
-      "language": "Python",
-      "updated_at": "2026-08-02T01:12:22Z"
+      "name": "xikhar/persona",
+      "description": "Bringing real-time voice to life.",
+      "url": "https://github.com/xikhar/persona",
+      "stars": 793,
+      "forks": 72,
+      "language": "JavaScript",
+      "updated_at": "2026-08-03T00:36:42Z"
+    },
+    {
+      "name": "DannyMac180/sol-advisor",
+      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "url": "https://github.com/DannyMac180/sol-advisor",
+      "stars": 671,
+      "forks": 41,
+      "language": "Shell",
+      "updated_at": "2026-08-03T01:11:55Z"
     },
     {
       "name": "talivia-group/talivia",
       "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
       "url": "https://github.com/talivia-group/talivia",
-      "stars": 590,
-      "forks": 46,
+      "stars": 651,
+      "forks": 67,
       "language": "TypeScript",
-      "updated_at": "2026-08-01T23:48:47Z"
+      "updated_at": "2026-08-03T00:54:43Z"
+    },
+    {
+      "name": "gavamedia/deltafin",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "url": "https://github.com/gavamedia/deltafin",
+      "stars": 621,
+      "forks": 72,
+      "language": "Rust",
+      "updated_at": "2026-08-03T01:19:58Z"
     },
     {
       "name": "0xwilliamortiz/ponytail-improved",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "stars": 577,
-      "forks": 127,
+      "stars": 580,
+      "forks": 129,
       "language": "JavaScript",
-      "updated_at": "2026-08-01T23:39:40Z"
+      "updated_at": "2026-08-02T18:12:27Z"
     },
     {
-      "name": "WilonityDev/WilonityLoader",
-      "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
-      "url": "https://github.com/WilonityDev/WilonityLoader",
-      "stars": 532,
-      "forks": 0,
-      "language": null,
-      "updated_at": "2026-08-01T11:03:23Z"
+      "name": "0xwilliamortiz/humanizer-cli",
+      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+      "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+      "stars": 541,
+      "forks": 68,
+      "language": "JavaScript",
+      "updated_at": "2026-08-02T20:37:18Z"
     },
     {
       "name": "Noniv/snowflow_demo",
       "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
       "url": "https://github.com/Noniv/snowflow_demo",
-      "stars": 440,
+      "stars": 458,
       "forks": 114,
       "language": "JavaScript",
-      "updated_at": "2026-08-02T00:52:38Z"
-    },
-    {
-      "name": "0xwilliamortiz/ratchet",
-      "description": "Your agent reads the rules. This checks whether it followed them.",
-      "url": "https://github.com/0xwilliamortiz/ratchet",
-      "stars": 408,
-      "forks": 83,
-      "language": "JavaScript",
-      "updated_at": "2026-08-01T23:44:36Z"
-    },
-    {
-      "name": "achimala/TheLongSilence",
-      "description": "A space exploration game built by Claude Opus 5",
-      "url": "https://github.com/achimala/TheLongSilence",
-      "stars": 404,
-      "forks": 58,
-      "language": "JavaScript",
-      "updated_at": "2026-08-02T01:11:07Z"
+      "updated_at": "2026-08-02T23:32:51Z"
     },
     {
       "name": "ddoemonn/interior",
       "description": "micro-interactions for react, built for the half-second after a click",
       "url": "https://github.com/ddoemonn/interior",
-      "stars": 393,
-      "forks": 11,
+      "stars": 427,
+      "forks": 13,
       "language": "TypeScript",
-      "updated_at": "2026-08-01T22:17:46Z"
+      "updated_at": "2026-08-03T01:19:45Z"
+    },
+    {
+      "name": "0xwilliamortiz/ratchet",
+      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "url": "https://github.com/0xwilliamortiz/ratchet",
+      "stars": 411,
+      "forks": 84,
+      "language": "JavaScript",
+      "updated_at": "2026-08-02T19:07:14Z"
+    },
+    {
+      "name": "x4gKing/3x-ui-multi",
+      "description": null,
+      "url": "https://github.com/x4gKing/3x-ui-multi",
+      "stars": 403,
+      "forks": 682,
+      "language": "JavaScript",
+      "updated_at": "2026-08-03T00:26:39Z"
     },
     {
       "name": "lij768423-svg/grok-register-panel",
       "description": "Grok register engine (Camoufox) + live web monitor panel",
       "url": "https://github.com/lij768423-svg/grok-register-panel",
-      "stars": 348,
-      "forks": 109,
+      "stars": 378,
+      "forks": 117,
       "language": "Python",
-      "updated_at": "2026-08-02T01:07:10Z"
+      "updated_at": "2026-08-03T00:53:18Z"
+    },
+    {
+      "name": "s1dashu/animated-voiceover",
+      "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
+      "url": "https://github.com/s1dashu/animated-voiceover",
+      "stars": 378,
+      "forks": 46,
+      "language": null,
+      "updated_at": "2026-08-03T01:14:56Z"
+    },
+    {
+      "name": "deedy/qr-data-transfer",
+      "description": null,
+      "url": "https://github.com/deedy/qr-data-transfer",
+      "stars": 344,
+      "forks": 69,
+      "language": "TypeScript",
+      "updated_at": "2026-08-03T00:21:32Z"
     },
     {
       "name": "Packets/tew",
       "description": null,
       "url": "https://github.com/Packets/tew",
       "stars": 341,
-      "forks": 65,
+      "forks": 75,
       "language": null,
       "updated_at": "2026-08-01T09:52:47Z"
     },
     {
-      "name": "microsoft/skill-recorder",
-      "description": null,
-      "url": "https://github.com/microsoft/skill-recorder",
-      "stars": 337,
-      "forks": 39,
-      "language": "TypeScript",
-      "updated_at": "2026-08-02T01:17:44Z"
+      "name": "openai/ten-proofs",
+      "description": "Lean certificates accompanying proofs in mathematics and theoretical computer science",
+      "url": "https://github.com/openai/ten-proofs",
+      "stars": 341,
+      "forks": 35,
+      "language": "Lean",
+      "updated_at": "2026-08-03T01:19:41Z"
     },
     {
-      "name": "deedy/qr-data-transfer",
-      "description": null,
-      "url": "https://github.com/deedy/qr-data-transfer",
-      "stars": 319,
-      "forks": 69,
+      "name": "thebuggeddev/anatomy",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "stars": 323,
+      "forks": 95,
       "language": "TypeScript",
-      "updated_at": "2026-08-02T01:15:06Z"
-    },
-    {
-      "name": "PipeNetwork/kimi-k3-mlx",
-      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
-      "stars": 316,
-      "forks": 34,
-      "language": "Python",
-      "updated_at": "2026-08-02T00:31:11Z"
+      "updated_at": "2026-08-03T01:21:07Z"
     },
     {
       "name": "Infatoshi/netherite",
       "description": null,
       "url": "https://github.com/Infatoshi/netherite",
-      "stars": 302,
+      "stars": 307,
       "forks": 23,
       "language": "C",
-      "updated_at": "2026-08-02T01:13:36Z"
-    },
-    {
-      "name": "EstebanPdN/zelda-alttp-3ds",
-      "description": "Nintendo 3DS dual-screen port of Zelda A Link to the Past based on zelda3",
-      "url": "https://github.com/EstebanPdN/zelda-alttp-3ds",
-      "stars": 277,
-      "forks": 3,
-      "language": "C",
-      "updated_at": "2026-08-02T01:04:24Z"
-    },
-    {
-      "name": "ChrisMack32/Locus",
-      "description": "Free open-source iPhone location teleport (MIT)",
-      "url": "https://github.com/ChrisMack32/Locus",
-      "stars": 271,
-      "forks": 32,
-      "language": "Swift",
-      "updated_at": "2026-08-01T19:14:27Z"
-    },
-    {
-      "name": "Kenton-GMI/sakura-crossing",
-      "description": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
-      "url": "https://github.com/Kenton-GMI/sakura-crossing",
-      "stars": 260,
-      "forks": 52,
-      "language": "JavaScript",
-      "updated_at": "2026-08-02T00:46:24Z"
+      "updated_at": "2026-08-03T00:31:26Z"
     },
     {
       "name": "elayadesign/ai-design-skills",
       "description": null,
       "url": "https://github.com/elayadesign/ai-design-skills",
-      "stars": 253,
+      "stars": 275,
       "forks": 18,
       "language": null,
-      "updated_at": "2026-08-01T22:15:00Z"
+      "updated_at": "2026-08-03T01:01:33Z"
+    },
+    {
+      "name": "Kenton-GMI/sakura-crossing",
+      "description": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
+      "url": "https://github.com/Kenton-GMI/sakura-crossing",
+      "stars": 274,
+      "forks": 52,
+      "language": "JavaScript",
+      "updated_at": "2026-08-02T19:12:43Z"
     },
     {
       "name": "Audio8-AI/Audio8_TTS",
       "description": "SOTA-Class TTS at Compact Scale",
       "url": "https://github.com/Audio8-AI/Audio8_TTS",
-      "stars": 247,
-      "forks": 24,
+      "stars": 272,
+      "forks": 29,
       "language": "Python",
-      "updated_at": "2026-08-02T01:06:50Z"
+      "updated_at": "2026-08-03T00:44:02Z"
+    },
+    {
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "stars": 261,
+      "forks": 29,
+      "language": "C",
+      "updated_at": "2026-08-03T01:19:38Z"
     },
     {
       "name": "starling-build/starling",
       "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
       "url": "https://github.com/starling-build/starling",
-      "stars": 230,
-      "forks": 14,
+      "stars": 254,
+      "forks": 15,
       "language": "Swift",
-      "updated_at": "2026-08-02T00:50:48Z"
+      "updated_at": "2026-08-02T21:05:00Z"
     },
     {
-      "name": "s1dashu/animated-voiceover",
-      "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
-      "url": "https://github.com/s1dashu/animated-voiceover",
-      "stars": 222,
-      "forks": 27,
+      "name": "WilonityBooster/Wilonity-GameFPS-Booster",
+      "description": "GameFPS Booster – ultimate FPS optimizer for gamers. Boost FPS, reduce input lag, eliminate stutter in CS2, Valorant, Rust, Apex, Fortnite, Warzone, R6S, Tarkov, and more. Advanced CPU/GPU tweaks, process priority, registry optimization, power plan, and real-time performance tuning. Windows 10/11 x64.",
+      "url": "https://github.com/WilonityBooster/Wilonity-GameFPS-Booster",
+      "stars": 253,
+      "forks": 0,
       "language": null,
-      "updated_at": "2026-08-02T01:19:13Z"
-    },
-    {
-      "name": "codermyxiaoc/sub2api-guardian",
-      "description": "sub2api-guardian",
-      "url": "https://github.com/codermyxiaoc/sub2api-guardian",
-      "stars": 221,
-      "forks": 10,
-      "language": "Go",
-      "updated_at": "2026-08-01T17:51:53Z"
+      "updated_at": "2026-08-02T14:44:29Z"
     }
   ]
 }
