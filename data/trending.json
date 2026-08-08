@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-08-07T01:55:11.632Z",
+  "fetched_at": "2026-08-08T00:37:52.279Z",
   "repos": [
     {
       "name": "firecrawl/anydoc",
       "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "url": "https://github.com/firecrawl/anydoc",
-      "stars": 8555,
-      "forks": 404,
+      "stars": 11013,
+      "forks": 513,
       "language": "Rust",
-      "updated_at": "2026-08-07T01:55:06Z"
-    },
-    {
-      "name": "FareedKhan-dev/kimi-k3-in-c",
-      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "stars": 2837,
-      "forks": 472,
-      "language": "C",
-      "updated_at": "2026-08-07T01:53:41Z"
-    },
-    {
-      "name": "imsai-sh/zhuzhiliao",
-      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-      "url": "https://github.com/imsai-sh/zhuzhiliao",
-      "stars": 2301,
-      "forks": 292,
-      "language": "HTML",
-      "updated_at": "2026-08-07T01:55:11Z"
+      "updated_at": "2026-08-08T00:36:32Z"
     },
     {
       "name": "thebuggeddev/anatomy",
       "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
       "url": "https://github.com/thebuggeddev/anatomy",
-      "stars": 1869,
-      "forks": 533,
+      "stars": 1982,
+      "forks": 568,
       "language": "TypeScript",
-      "updated_at": "2026-08-07T01:48:34Z"
-    },
-    {
-      "name": "DannyMac180/sol-advisor",
-      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
-      "url": "https://github.com/DannyMac180/sol-advisor",
-      "stars": 1706,
-      "forks": 122,
-      "language": "Shell",
-      "updated_at": "2026-08-07T01:52:11Z"
+      "updated_at": "2026-08-08T00:36:32Z"
     },
     {
       "name": "KKKKhazix/human-writing",
-      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "description": "让 AI 写的中文读���来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "stars": 1600,
-      "forks": 142,
+      "stars": 1874,
+      "forks": 165,
       "language": "Python",
-      "updated_at": "2026-08-07T01:54:36Z"
+      "updated_at": "2026-08-08T00:35:04Z"
     },
     {
       "name": "Binaryify/open-kimi-ppt-skill",
       "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
       "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-      "stars": 1380,
-      "forks": 358,
-      "language": "Python",
-      "updated_at": "2026-08-07T01:53:18Z"
-    },
-    {
-      "name": "Accio-org/RealReplicaBench",
-      "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
-      "url": "https://github.com/Accio-org/RealReplicaBench",
-      "stars": 1036,
-      "forks": 74,
-      "language": "HTML",
-      "updated_at": "2026-08-06T20:07:24Z"
+      "stars": 1588,
+      "forks": 961,
+      "language": null,
+      "updated_at": "2026-08-08T00:04:30Z"
     },
     {
       "name": "ZzzLc0405/photo-abstract-editorial",
       "description": null,
       "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
-      "stars": 1003,
-      "forks": 55,
+      "stars": 1490,
+      "forks": 76,
       "language": null,
-      "updated_at": "2026-08-07T01:51:01Z"
+      "updated_at": "2026-08-08T00:27:56Z"
     },
     {
-      "name": "x4gKing/3x-ui-multi",
-      "description": null,
-      "url": "https://github.com/x4gKing/3x-ui-multi",
-      "stars": 877,
-      "forks": 2401,
-      "language": "JavaScript",
-      "updated_at": "2026-08-07T01:49:49Z"
-    },
-    {
-      "name": "guillermolg00/morphicons",
-      "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
-      "url": "https://github.com/guillermolg00/morphicons",
-      "stars": 813,
-      "forks": 14,
-      "language": "TypeScript",
-      "updated_at": "2026-08-07T01:49:12Z"
+      "name": "Accio-org/RealReplicaBench",
+      "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+      "url": "https://github.com/Accio-org/RealReplicaBench",
+      "stars": 1040,
+      "forks": 79,
+      "language": "HTML",
+      "updated_at": "2026-08-07T22:40:46Z"
     },
     {
       "name": "mikiarlo3/awesome-growth-hacking-skills",
       "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
       "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
-      "stars": 617,
-      "forks": 3,
+      "stars": 725,
+      "forks": 5,
       "language": "Shell",
-      "updated_at": "2026-08-07T01:45:19Z"
-    },
-    {
-      "name": "sophiamyang/finger-frame-effect-ai",
-      "description": null,
-      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
-      "stars": 589,
-      "forks": 66,
-      "language": "JavaScript",
-      "updated_at": "2026-08-07T00:54:04Z"
-    },
-    {
-      "name": "0xwilliamortiz/humanizer-cli",
-      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-      "stars": 582,
-      "forks": 72,
-      "language": "JavaScript",
-      "updated_at": "2026-08-06T22:42:48Z"
-    },
-    {
-      "name": "brookfacehe2421/flashloan-scalper-bot",
-      "description": "Quick profit scalper using flashloan mechanics",
-      "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
-      "stars": 556,
-      "forks": 401,
-      "language": "JavaScript",
-      "updated_at": "2026-08-07T01:54:14Z"
+      "updated_at": "2026-08-07T23:28:54Z"
     },
     {
       "name": "magicrew/doc7",
       "description": "Turn documents into AI-ready Markdown with visual understanding",
       "url": "https://github.com/magicrew/doc7",
-      "stars": 550,
-      "forks": 10,
-      "language": "Go",
-      "updated_at": "2026-08-07T01:17:37Z"
-    },
-    {
-      "name": "MarcosSete/awesome-free-ai-course-notes",
-      "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-      "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-      "stars": 500,
-      "forks": 38,
-      "language": null,
-      "updated_at": "2026-08-07T01:53:41Z"
-    },
-    {
-      "name": "disler/super-simple-software-factory",
-      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "url": "https://github.com/disler/super-simple-software-factory",
-      "stars": 467,
-      "forks": 112,
-      "language": "Python",
-      "updated_at": "2026-08-07T01:00:40Z"
-    },
-    {
-      "name": "nfzerox/VirtualMacOniPad",
-      "description": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 16 up to 16.3.1.",
-      "url": "https://github.com/nfzerox/VirtualMacOniPad",
-      "stars": 466,
-      "forks": 21,
-      "language": "Objective-C",
-      "updated_at": "2026-08-07T01:53:46Z"
-    },
-    {
-      "name": "Zeejay0/gathered-scenes-zine-skill",
-      "description": null,
-      "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
-      "stars": 454,
-      "forks": 27,
-      "language": null,
-      "updated_at": "2026-08-07T01:48:35Z"
-    },
-    {
-      "name": "leonickson1/Swiftlet",
-      "description": null,
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "stars": 431,
+      "stars": 611,
       "forks": 16,
-      "language": "Swift",
-      "updated_at": "2026-08-07T01:28:32Z"
+      "language": "Go",
+      "updated_at": "2026-08-08T00:27:37Z"
+    },
+    {
+      "name": "sophiamyang/finger-frame-effect-ai",
+      "description": null,
+      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+      "stars": 604,
+      "forks": 70,
+      "language": "JavaScript",
+      "updated_at": "2026-08-07T20:38:40Z"
     },
     {
       "name": "0xwilliamortiz/claude-red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "url": "https://github.com/0xwilliamortiz/claude-red",
-      "stars": 428,
-      "forks": 48,
+      "stars": 559,
+      "forks": 69,
       "language": "JavaScript",
-      "updated_at": "2026-08-07T01:53:33Z"
+      "updated_at": "2026-08-07T23:59:45Z"
     },
     {
-      "name": "fuxicodex/Fuxi",
-      "description": "FuXi is a fast, self-contained AI developer terminal",
-      "url": "https://github.com/fuxicodex/Fuxi",
-      "stars": 427,
-      "forks": 36,
+      "name": "MarcosSete/awesome-free-ai-course-notes",
+      "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+      "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+      "stars": 544,
+      "forks": 45,
       "language": null,
-      "updated_at": "2026-08-06T19:53:43Z"
+      "updated_at": "2026-08-08T00:07:40Z"
     },
     {
-      "name": "zqxwce/vphone-ws",
-      "description": "A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window.",
-      "url": "https://github.com/zqxwce/vphone-ws",
-      "stars": 422,
-      "forks": 23,
-      "language": "Swift",
-      "updated_at": "2026-08-07T01:48:21Z"
+      "name": "nfzerox/VirtualMacOniPad",
+      "description": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 16 up to 16.3.1.",
+      "url": "https://github.com/nfzerox/VirtualMacOniPad",
+      "stars": 497,
+      "forks": 22,
+      "language": "Objective-C",
+      "updated_at": "2026-08-07T22:34:28Z"
     },
     {
-      "name": "criptogus/HermesOffice",
-      "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "url": "https://github.com/criptogus/HermesOffice",
-      "stars": 395,
-      "forks": 49,
-      "language": "TypeScript",
-      "updated_at": "2026-08-07T01:44:02Z"
-    },
-    {
-      "name": "MengTo/complete-shelf",
-      "description": "An original single-file Three.js library of seven interactive clothbound hardcovers.",
-      "url": "https://github.com/MengTo/complete-shelf",
-      "stars": 394,
-      "forks": 74,
-      "language": "HTML",
-      "updated_at": "2026-08-07T01:50:16Z"
-    },
-    {
-      "name": "SandAI-org/MAGI-2-preview",
-      "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
-      "url": "https://github.com/SandAI-org/MAGI-2-preview",
-      "stars": 383,
-      "forks": 6,
+      "name": "disler/super-simple-software-factory",
+      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+      "url": "https://github.com/disler/super-simple-software-factory",
+      "stars": 496,
+      "forks": 120,
       "language": "Python",
-      "updated_at": "2026-08-07T01:30:13Z"
+      "updated_at": "2026-08-07T22:09:36Z"
     },
     {
       "name": "wumingqi60/lingxi",
       "description": "灵犀跨境-开源共建版",
       "url": "https://github.com/wumingqi60/lingxi",
-      "stars": 352,
-      "forks": 3,
+      "stars": 446,
+      "forks": 5,
       "language": "TypeScript",
-      "updated_at": "2026-08-07T01:26:03Z"
+      "updated_at": "2026-08-08T00:13:34Z"
+    },
+    {
+      "name": "leonickson1/Swiftlet",
+      "description": null,
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "stars": 446,
+      "forks": 19,
+      "language": "Swift",
+      "updated_at": "2026-08-07T22:36:53Z"
+    },
+    {
+      "name": "zqxwce/vphone-ws",
+      "description": "A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window.",
+      "url": "https://github.com/zqxwce/vphone-ws",
+      "stars": 435,
+      "forks": 24,
+      "language": "Swift",
+      "updated_at": "2026-08-07T21:17:07Z"
+    },
+    {
+      "name": "fuxicodex/Fuxi",
+      "description": "FuXi is a fast, self-contained AI developer terminal",
+      "url": "https://github.com/fuxicodex/Fuxi",
+      "stars": 430,
+      "forks": 40,
+      "language": null,
+      "updated_at": "2026-08-07T23:48:07Z"
+    },
+    {
+      "name": "yuhuangerdi/InduSecAgent",
+      "description": null,
+      "url": "https://github.com/yuhuangerdi/InduSecAgent",
+      "stars": 422,
+      "forks": 6,
+      "language": "Vue",
+      "updated_at": "2026-08-08T00:31:18Z"
+    },
+    {
+      "name": "SandAI-org/MAGI-2-preview",
+      "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
+      "url": "https://github.com/SandAI-org/MAGI-2-preview",
+      "stars": 418,
+      "forks": 8,
+      "language": "Python",
+      "updated_at": "2026-08-07T16:31:40Z"
+    },
+    {
+      "name": "criptogus/HermesOffice",
+      "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
+      "url": "https://github.com/criptogus/HermesOffice",
+      "stars": 413,
+      "forks": 50,
+      "language": "TypeScript",
+      "updated_at": "2026-08-07T22:59:39Z"
+    },
+    {
+      "name": "google-gemma/gemma-translator",
+      "description": null,
+      "url": "https://github.com/google-gemma/gemma-translator",
+      "stars": 410,
+      "forks": 56,
+      "language": "JavaScript",
+      "updated_at": "2026-08-08T00:27:34Z"
+    },
+    {
+      "name": "jd-opensource/JoyAI-Video-Edit",
+      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+      "stars": 405,
+      "forks": 17,
+      "language": "Python",
+      "updated_at": "2026-08-07T23:28:03Z"
     },
     {
       "name": "AMAP-ML/LongHorizon-Harness",
       "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
       "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-      "stars": 340,
-      "forks": 39,
+      "stars": 388,
+      "forks": 40,
       "language": "Python",
-      "updated_at": "2026-08-07T01:33:04Z"
+      "updated_at": "2026-08-08T00:28:33Z"
+    },
+    {
+      "name": "xmarre/ComfyUI-Spectrum-MiniMax-H3",
+      "description": "Spectrum-based acceleration for ComfyUI’s native MiniMax H3 audio-video model. Forecasts post-transformer features with Chebyshev ridge regression to skip selected transformer evaluations, with adaptive scheduling, sampler-aware safeguards, CPU/VRAM history storage, and native fallbacks.",
+      "url": "https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3",
+      "stars": 355,
+      "forks": 18,
+      "language": "Python",
+      "updated_at": "2026-08-08T00:37:40Z"
+    },
+    {
+      "name": "huangserva/ComfyUI_MiniMaxH3_Director",
+      "description": "ComfyUI MiniMax H3 Director workflow",
+      "url": "https://github.com/huangserva/ComfyUI_MiniMaxH3_Director",
+      "stars": 344,
+      "forks": 41,
+      "language": null,
+      "updated_at": "2026-08-07T23:34:42Z"
     },
     {
       "name": "patchy631/time-to-first-token",
       "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
       "url": "https://github.com/patchy631/time-to-first-token",
-      "stars": 336,
-      "forks": 29,
+      "stars": 343,
+      "forks": 30,
       "language": "HTML",
-      "updated_at": "2026-08-07T00:56:32Z"
+      "updated_at": "2026-08-08T00:14:49Z"
+    },
+    {
+      "name": "joeseesun/qiaomu-seo",
+      "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+      "url": "https://github.com/joeseesun/qiaomu-seo",
+      "stars": 320,
+      "forks": 42,
+      "language": "Python",
+      "updated_at": "2026-08-07T18:29:50Z"
+    },
+    {
+      "name": "T8mars/comfyui-minimax-h3-audio-T8",
+      "description": null,
+      "url": "https://github.com/T8mars/comfyui-minimax-h3-audio-T8",
+      "stars": 318,
+      "forks": 13,
+      "language": "Python",
+      "updated_at": "2026-08-08T00:31:43Z"
+    },
+    {
+      "name": "alexan0618/zkky",
+      "description": "直卡开源",
+      "url": "https://github.com/alexan0618/zkky",
+      "stars": 285,
+      "forks": 196,
+      "language": "Python",
+      "updated_at": "2026-08-07T21:12:19Z"
+    },
+    {
+      "name": "HaidarJbeily7/cargo-frisk",
+      "description": null,
+      "url": "https://github.com/HaidarJbeily7/cargo-frisk",
+      "stars": 279,
+      "forks": 9,
+      "language": "Rust",
+      "updated_at": "2026-08-07T10:19:39Z"
     }
   ]
 }
