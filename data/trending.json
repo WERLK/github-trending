@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-08-12T00:47:39.192Z",
+  "fetched_at": "2026-08-13T00:50:22.020Z",
   "repos": [
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "stars": 2335,
+      "forks": 227,
+      "language": "Python",
+      "updated_at": "2026-08-13T00:49:42Z"
+    },
     {
       "name": "ShawnPana/phone-harness",
       "description": "let your agent control your phone",
       "url": "https://github.com/ShawnPana/phone-harness",
-      "stars": 1499,
-      "forks": 130,
+      "stars": 1636,
+      "forks": 143,
       "language": "Python",
-      "updated_at": "2026-08-12T00:44:01Z"
+      "updated_at": "2026-08-13T00:48:44Z"
     },
     {
       "name": "oil-oil/oil-motion",
       "description": "Create smooth, responsive interactive web animations.",
       "url": "https://github.com/oil-oil/oil-motion",
-      "stars": 1483,
-      "forks": 117,
+      "stars": 1613,
+      "forks": 126,
       "language": "Python",
-      "updated_at": "2026-08-12T00:29:30Z"
-    },
-    {
-      "name": "SMNETSTUDIO/WeChat-AI",
-      "description": null,
-      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-      "stars": 1421,
-      "forks": 1048,
-      "language": "TypeScript",
-      "updated_at": "2026-08-12T00:35:25Z"
+      "updated_at": "2026-08-13T00:46:35Z"
     },
     {
       "name": "antirez/h3.c",
       "description": "MiniMax H3 inference engine for Mac computers",
       "url": "https://github.com/antirez/h3.c",
-      "stars": 1237,
-      "forks": 58,
+      "stars": 1593,
+      "forks": 91,
       "language": "C",
-      "updated_at": "2026-08-12T00:46:14Z"
+      "updated_at": "2026-08-13T00:50:02Z"
     },
     {
-      "name": "eternityspring/shuohao-skills",
-      "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
-      "url": "https://github.com/eternityspring/shuohao-skills",
-      "stars": 891,
-      "forks": 107,
-      "language": "JavaScript",
-      "updated_at": "2026-08-12T00:47:10Z"
-    },
-    {
-      "name": "sohaibdevv/youtube-music",
-      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
-      "url": "https://github.com/sohaibdevv/youtube-music",
-      "stars": 835,
-      "forks": 0,
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "description": null,
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "stars": 1519,
+      "forks": 1123,
       "language": "TypeScript",
-      "updated_at": "2026-08-12T00:41:39Z"
-    },
-    {
-      "name": "MengTo/kage",
-      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
-      "url": "https://github.com/MengTo/kage",
-      "stars": 820,
-      "forks": 144,
-      "language": "HTML",
-      "updated_at": "2026-08-12T00:19:55Z"
-    },
-    {
-      "name": "xoreaxeaxeax/asm-hall-of-shame",
-      "description": "Racing to the bottom of CPU performance",
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "stars": 769,
-      "forks": 10,
-      "language": "C",
-      "updated_at": "2026-08-12T00:41:04Z"
+      "updated_at": "2026-08-12T17:13:21Z"
     },
     {
       "name": "Flaminis/Dalaran",
       "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
       "url": "https://github.com/Flaminis/Dalaran",
-      "stars": 662,
-      "forks": 52,
+      "stars": 887,
+      "forks": 55,
       "language": "Rust",
-      "updated_at": "2026-08-12T00:41:49Z"
+      "updated_at": "2026-08-13T00:04:51Z"
     },
     {
-      "name": "sv-number/mcp-server",
-      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "url": "https://github.com/sv-number/mcp-server",
-      "stars": 615,
+      "name": "MengTo/kage",
+      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "url": "https://github.com/MengTo/kage",
+      "stars": 859,
+      "forks": 154,
+      "language": "HTML",
+      "updated_at": "2026-08-13T00:16:37Z"
+    },
+    {
+      "name": "sohaibdevv/youtube-music",
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "url": "https://github.com/sohaibdevv/youtube-music",
+      "stars": 850,
       "forks": 0,
-      "language": "JavaScript",
-      "updated_at": "2026-08-11T23:29:49Z"
+      "language": "TypeScript",
+      "updated_at": "2026-08-12T22:15:04Z"
     },
     {
       "name": "SaladDay/pi-from-scratch",
       "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
       "url": "https://github.com/SaladDay/pi-from-scratch",
-      "stars": 526,
-      "forks": 35,
+      "stars": 758,
+      "forks": 49,
       "language": "TypeScript",
-      "updated_at": "2026-08-12T00:44:13Z"
-    },
-    {
-      "name": "Appllama/top-welcome-screens",
-      "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
-      "url": "https://github.com/Appllama/top-welcome-screens",
-      "stars": 452,
-      "forks": 44,
-      "language": "TypeScript",
-      "updated_at": "2026-08-11T22:33:30Z"
-    },
-    {
-      "name": "mewamew/my_ai_town",
-      "description": "我的AI小镇",
-      "url": "https://github.com/mewamew/my_ai_town",
-      "stars": 435,
-      "forks": 91,
-      "language": "GDScript",
-      "updated_at": "2026-08-12T00:38:25Z"
+      "updated_at": "2026-08-13T00:48:21Z"
     },
     {
       "name": "gvzdv/claudish-to-english",
       "description": null,
       "url": "https://github.com/gvzdv/claudish-to-english",
-      "stars": 429,
-      "forks": 23,
+      "stars": 624,
+      "forks": 37,
       "language": "Shell",
-      "updated_at": "2026-08-12T00:43:43Z"
+      "updated_at": "2026-08-13T00:49:30Z"
     },
     {
-      "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
-      "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
-      "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
-      "stars": 415,
-      "forks": 39,
-      "language": "Python",
-      "updated_at": "2026-08-12T00:43:29Z"
+      "name": "sv-number/mcp-server",
+      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+      "url": "https://github.com/sv-number/mcp-server",
+      "stars": 594,
+      "forks": 2,
+      "language": "JavaScript",
+      "updated_at": "2026-08-13T00:06:57Z"
     },
     {
       "name": "shadcn-ui/chatbot-template",
       "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
       "url": "https://github.com/shadcn-ui/chatbot-template",
-      "stars": 408,
-      "forks": 38,
+      "stars": 585,
+      "forks": 52,
       "language": "TypeScript",
-      "updated_at": "2026-08-12T00:43:29Z"
+      "updated_at": "2026-08-13T00:44:48Z"
     },
     {
-      "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+      "name": "milind-soni/OpenMausBot",
       "description": null,
-      "url": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
-      "stars": 392,
-      "forks": 26,
-      "language": "Python",
-      "updated_at": "2026-08-11T18:10:01Z"
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "stars": 581,
+      "forks": 99,
+      "language": "TypeScript",
+      "updated_at": "2026-08-13T00:46:33Z"
     },
     {
-      "name": "jmarshall23/Quake_4_Alpha",
-      "description": "Quake 4 alpha released for preservation purposes only. ",
-      "url": "https://github.com/jmarshall23/Quake_4_Alpha",
-      "stars": 371,
+      "name": "mewamew/my_ai_town",
+      "description": "我的AI小镇",
+      "url": "https://github.com/mewamew/my_ai_town",
+      "stars": 482,
+      "forks": 108,
+      "language": "GDScript",
+      "updated_at": "2026-08-13T00:31:13Z"
+    },
+    {
+      "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
+      "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+      "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+      "stars": 477,
       "forks": 47,
-      "language": "C++",
-      "updated_at": "2026-08-12T00:07:13Z"
+      "language": "Python",
+      "updated_at": "2026-08-13T00:23:48Z"
     },
     {
-      "name": "Sateezg/codex-bridge",
-      "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
-      "url": "https://github.com/Sateezg/codex-bridge",
-      "stars": 357,
-      "forks": 3,
-      "language": "Shell",
-      "updated_at": "2026-08-11T16:03:03Z"
+      "name": "Appllama/top-welcome-screens",
+      "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
+      "url": "https://github.com/Appllama/top-welcome-screens",
+      "stars": 460,
+      "forks": 45,
+      "language": "TypeScript",
+      "updated_at": "2026-08-12T21:59:09Z"
+    },
+    {
+      "name": "MSNightmare/ShieldBreak",
+      "description": "Windows Defender 0day vulnerability",
+      "url": "https://github.com/MSNightmare/ShieldBreak",
+      "stars": 405,
+      "forks": 129,
+      "language": "C++",
+      "updated_at": "2026-08-13T00:46:13Z"
+    },
+    {
+      "name": "0xnyn/airship",
+      "description": "Figma like visual editor built for Claude Code, Codex and OpenCode",
+      "url": "https://github.com/0xnyn/airship",
+      "stars": 375,
+      "forks": 33,
+      "language": "TypeScript",
+      "updated_at": "2026-08-13T00:13:39Z"
     },
     {
       "name": "tanishqkancharla/calldiff",
       "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
       "url": "https://github.com/tanishqkancharla/calldiff",
-      "stars": 341,
-      "forks": 13,
+      "stars": 358,
+      "forks": 14,
       "language": "TypeScript",
-      "updated_at": "2026-08-11T23:52:32Z"
-    },
-    {
-      "name": "achrefelouafi/LinearAbiltyCastingThreeJS",
-      "description": null,
-      "url": "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
-      "stars": 326,
-      "forks": 58,
-      "language": "JavaScript",
-      "updated_at": "2026-08-12T00:39:42Z"
-    },
-    {
-      "name": "Kylin010/tcpfit",
-      "description": "按每台机器实测��导的 TCP 调优工具 —— 不套用固定参数，实测 BDP 与限速器拐点",
-      "url": "https://github.com/Kylin010/tcpfit",
-      "stars": 289,
-      "forks": 32,
-      "language": "Shell",
-      "updated_at": "2026-08-12T00:46:26Z"
-    },
-    {
-      "name": "ruudkoeyvoets/polymarket-trading-bot-twap",
-      "description": null,
-      "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
-      "stars": 280,
-      "forks": 1,
-      "language": "JavaScript",
-      "updated_at": "2026-08-12T00:26:30Z"
-    },
-    {
-      "name": "jmarshall23/msword",
-      "description": "Port of Microsoft Word 1.1a to x64 with extra features for research purposes.",
-      "url": "https://github.com/jmarshall23/msword",
-      "stars": 278,
-      "forks": 24,
-      "language": "C",
-      "updated_at": "2026-08-12T00:42:32Z"
-    },
-    {
-      "name": "antinomie-lab/pi-book",
-      "description": "Source-backed architecture notes on building an agent",
-      "url": "https://github.com/antinomie-lab/pi-book",
-      "stars": 254,
-      "forks": 6,
-      "language": "Vue",
-      "updated_at": "2026-08-11T22:44:30Z"
-    },
-    {
-      "name": "JayJokerr/arknights-pixel-autofill",
-      "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
-      "url": "https://github.com/JayJokerr/arknights-pixel-autofill",
-      "stars": 252,
-      "forks": 8,
-      "language": "Python",
-      "updated_at": "2026-08-11T19:51:45Z"
-    },
-    {
-      "name": "pingmike2/freebuff2api-wokers",
-      "description": null,
-      "url": "https://github.com/pingmike2/freebuff2api-wokers",
-      "stars": 238,
-      "forks": 147,
-      "language": "JavaScript",
-      "updated_at": "2026-08-11T20:54:50Z"
+      "updated_at": "2026-08-13T00:49:55Z"
     },
     {
       "name": "ayi-ai/nie-grassroots-logic",
       "description": "聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文）",
       "url": "https://github.com/ayi-ai/nie-grassroots-logic",
-      "stars": 238,
-      "forks": 30,
+      "stars": 351,
+      "forks": 45,
       "language": "HTML",
-      "updated_at": "2026-08-12T00:43:02Z"
+      "updated_at": "2026-08-13T00:19:03Z"
     },
     {
-      "name": "xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-      "description": "A very very very very very very very long interrupt",
-      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-      "stars": 237,
-      "forks": 9,
-      "language": "C",
-      "updated_at": "2026-08-12T00:21:07Z"
+      "name": "dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "stars": 337,
+      "forks": 5,
+      "language": "TypeScript",
+      "updated_at": "2026-08-13T00:27:57Z"
     },
     {
-      "name": "ARMSX2/ARMSX3",
-      "description": "Android port of RPCS3 for ARM64 devices. From one of the founders of ARMSX2.",
-      "url": "https://github.com/ARMSX2/ARMSX3",
-      "stars": 232,
+      "name": "Kylin010/tcpfit",
+      "description": "按每台机器实测推导的 TCP 调优工具 —— 不套用固定参数，实测 BDP 与限速器拐点",
+      "url": "https://github.com/Kylin010/tcpfit",
+      "stars": 323,
+      "forks": 39,
+      "language": "Shell",
+      "updated_at": "2026-08-12T23:26:02Z"
+    },
+    {
+      "name": "Sateezg/codex-bridge",
+      "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
+      "url": "https://github.com/Sateezg/codex-bridge",
+      "stars": 306,
+      "forks": 2,
+      "language": "Shell",
+      "updated_at": "2026-08-12T11:54:12Z"
+    },
+    {
+      "name": "JayJokerr/arknights-pixel-autofill",
+      "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+      "url": "https://github.com/JayJokerr/arknights-pixel-autofill",
+      "stars": 281,
       "forks": 8,
-      "language": "C++",
-      "updated_at": "2026-08-12T00:28:59Z"
+      "language": "Python",
+      "updated_at": "2026-08-12T22:54:51Z"
+    },
+    {
+      "name": "antinomie-lab/pi-book",
+      "description": "Source-backed architecture notes on building an agent",
+      "url": "https://github.com/antinomie-lab/pi-book",
+      "stars": 270,
+      "forks": 7,
+      "language": "Vue",
+      "updated_at": "2026-08-12T22:20:03Z"
+    },
+    {
+      "name": "liyue-aigc/xianxia-visual-director",
+      "description": "Codex Skill for cinematic Eastern xianxia stills, celestial realms and sky megastructures.",
+      "url": "https://github.com/liyue-aigc/xianxia-visual-director",
+      "stars": 250,
+      "forks": 39,
+      "language": null,
+      "updated_at": "2026-08-13T00:42:27Z"
+    },
+    {
+      "name": "keslr/keslr_connect",
+      "description": "Connect your service to Keslr: sign in with Keslr and read the verification claim that proves a user is a real, vouched-for human — plus run services reachable only by Keslr members.",
+      "url": "https://github.com/keslr/keslr_connect",
+      "stars": 230,
+      "forks": 81,
+      "language": "TypeScript",
+      "updated_at": "2026-08-11T20:08:09Z"
+    },
+    {
+      "name": "TheRealYT/git-knife",
+      "description": null,
+      "url": "https://github.com/TheRealYT/git-knife",
+      "stars": 227,
+      "forks": 7,
+      "language": "TypeScript",
+      "updated_at": "2026-08-12T20:17:31Z"
+    },
+    {
+      "name": "Samin100/codex-ios-assistant",
+      "description": "Control and inspect an iPhone from Codex through iMessage and Shortcuts",
+      "url": "https://github.com/Samin100/codex-ios-assistant",
+      "stars": 226,
+      "forks": 30,
+      "language": "Python",
+      "updated_at": "2026-08-12T21:41:47Z"
+    },
+    {
+      "name": "aashaexo/soundshuman",
+      "description": null,
+      "url": "https://github.com/aashaexo/soundshuman",
+      "stars": 223,
+      "forks": 12,
+      "language": "JavaScript",
+      "updated_at": "2026-08-12T20:43:38Z"
     }
   ]
 }
