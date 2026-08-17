@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-08-16T00:27:26.346Z",
+  "fetched_at": "2026-08-17T00:26:02.492Z",
   "repos": [
     {
       "name": "deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "stars": 115269,
-      "forks": 11238,
+      "stars": 131350,
+      "forks": 13164,
       "language": "TypeScript",
-      "updated_at": "2026-08-16T00:27:00Z"
+      "updated_at": "2026-08-17T00:25:54Z"
     },
     {
       "name": "guillaumemeyer/watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "stars": 9736,
-      "forks": 1004,
+      "stars": 11432,
+      "forks": 1191,
       "language": "Python",
-      "updated_at": "2026-08-16T00:26:22Z"
+      "updated_at": "2026-08-17T00:25:58Z"
     },
     {
       "name": "anywhere-labs/deepseek-harness-desktop",
-      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "stars": 5869,
-      "forks": 252,
+      "stars": 8890,
+      "forks": 375,
       "language": "TypeScript",
-      "updated_at": "2026-08-16T00:26:38Z"
+      "updated_at": "2026-08-17T00:24:44Z"
     },
     {
       "name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "stars": 2992,
-      "forks": 603,
+      "stars": 5113,
+      "forks": 874,
       "language": "Python",
-      "updated_at": "2026-08-16T00:27:12Z"
+      "updated_at": "2026-08-17T00:25:48Z"
     },
     {
       "name": "zhu1090093659/dsh-web-ui",
       "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
-      "stars": 2707,
-      "forks": 152,
+      "stars": 3421,
+      "forks": 204,
       "language": "TypeScript",
-      "updated_at": "2026-08-16T00:10:13Z"
+      "updated_at": "2026-08-17T00:17:46Z"
     },
     {
       "name": "xiaobright/dsh-anchored-standard",
       "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
-      "stars": 2186,
-      "forks": 69,
+      "stars": 3021,
+      "forks": 95,
       "language": "JavaScript",
-      "updated_at": "2026-08-16T00:26:07Z"
-    },
-    {
-      "name": "SMNETSTUDIO/WeChat-AI",
-      "description": null,
-      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-      "stars": 1737,
-      "forks": 1243,
-      "language": "TypeScript",
-      "updated_at": "2026-08-16T00:24:23Z"
+      "updated_at": "2026-08-17T00:24:43Z"
     },
     {
       "name": "yjh051108/dsh-routing-suite",
       "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
       "url": "https://github.com/yjh051108/dsh-routing-suite",
-      "stars": 1691,
-      "forks": 42,
+      "stars": 2813,
+      "forks": 67,
       "language": "PowerShell",
-      "updated_at": "2026-08-16T00:26:34Z"
-    },
-    {
-      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
-      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "stars": 1674,
-      "forks": 136,
-      "language": "C",
-      "updated_at": "2026-08-16T00:15:39Z"
+      "updated_at": "2026-08-17T00:25:41Z"
     },
     {
       "name": "cordiverse/paper",
       "description": "A Programming Paradigm for Spatiotemporal Composability",
       "url": "https://github.com/cordiverse/paper",
-      "stars": 1625,
-      "forks": 62,
+      "stars": 1871,
+      "forks": 73,
       "language": null,
-      "updated_at": "2026-08-16T00:23:28Z"
+      "updated_at": "2026-08-17T00:24:12Z"
     },
     {
-      "name": "ccch1mneyyy/dsh-TUI",
-      "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
-      "stars": 1264,
-      "forks": 54,
-      "language": "TypeScript",
-      "updated_at": "2026-08-16T00:22:28Z"
+      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "stars": 1728,
+      "forks": 138,
+      "language": "C",
+      "updated_at": "2026-08-16T23:12:50Z"
     },
     {
       "name": "dmmulroy/anti-slop",
       "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
       "url": "https://github.com/dmmulroy/anti-slop",
-      "stars": 1254,
-      "forks": 18,
+      "stars": 1663,
+      "forks": 26,
       "language": "TypeScript",
-      "updated_at": "2026-08-16T00:25:17Z"
+      "updated_at": "2026-08-17T00:25:41Z"
     },
     {
-      "name": "gvzdv/claudish-to-english",
-      "description": null,
-      "url": "https://github.com/gvzdv/claudish-to-english",
-      "stars": 1192,
-      "forks": 78,
-      "language": "Shell",
-      "updated_at": "2026-08-15T23:42:06Z"
+      "name": "ccch1mneyyy/dsh-TUI",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "stars": 1544,
+      "forks": 66,
+      "language": "TypeScript",
+      "updated_at": "2026-08-17T00:21:31Z"
     },
     {
       "name": "Leutenegger/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "url": "https://github.com/Leutenegger/book-to-skill",
-      "stars": 1126,
+      "stars": 1152,
       "forks": 141,
       "language": "Python",
-      "updated_at": "2026-08-15T23:53:52Z"
+      "updated_at": "2026-08-16T21:06:31Z"
     },
     {
       "name": "milind-soni/OpenMausBot",
-      "description": null,
+      "description": "Open Source Alternative to Grok Bot with a virtual machine that bots can use",
       "url": "https://github.com/milind-soni/OpenMausBot",
-      "stars": 1028,
-      "forks": 185,
+      "stars": 1112,
+      "forks": 202,
       "language": "TypeScript",
-      "updated_at": "2026-08-15T23:17:09Z"
+      "updated_at": "2026-08-17T00:21:04Z"
     },
     {
       "name": "Small-tailqwq/dsh-deep-whale",
       "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
       "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
-      "stars": 905,
-      "forks": 29,
+      "stars": 1092,
+      "forks": 38,
       "language": "TypeScript",
-      "updated_at": "2026-08-15T23:53:12Z"
-    },
-    {
-      "name": "sohaibdevv/youtube-music",
-      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
-      "url": "https://github.com/sohaibdevv/youtube-music",
-      "stars": 858,
-      "forks": 0,
-      "language": "TypeScript",
-      "updated_at": "2026-08-15T22:49:26Z"
+      "updated_at": "2026-08-16T22:59:31Z"
     },
     {
       "name": "Hisn00w/ASu-skills",
       "description": "简历包装",
       "url": "https://github.com/Hisn00w/ASu-skills",
-      "stars": 790,
-      "forks": 64,
+      "stars": 895,
+      "forks": 73,
       "language": "HTML",
-      "updated_at": "2026-08-15T22:50:58Z"
-    },
-    {
-      "name": "vercel-labs/eve-software-factory-template",
-      "description": "Meet Foreman, an eve Software Factory.",
-      "url": "https://github.com/vercel-labs/eve-software-factory-template",
-      "stars": 784,
-      "forks": 51,
-      "language": "TypeScript",
-      "updated_at": "2026-08-16T00:18:02Z"
+      "updated_at": "2026-08-17T00:24:40Z"
     },
     {
       "name": "alchaincyf/deepseek-harness-orange-book",
       "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
       "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
-      "stars": 761,
-      "forks": 71,
+      "stars": 865,
+      "forks": 82,
       "language": "HTML",
-      "updated_at": "2026-08-15T23:26:37Z"
+      "updated_at": "2026-08-17T00:21:43Z"
+    },
+    {
+      "name": "sohaibdevv/youtube-music",
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "url": "https://github.com/sohaibdevv/youtube-music",
+      "stars": 856,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2026-08-16T16:01:38Z"
+    },
+    {
+      "name": "vercel-labs/eve-software-factory-template",
+      "description": "Meet Foreman, an eve Software Factory.",
+      "url": "https://github.com/vercel-labs/eve-software-factory-template",
+      "stars": 834,
+      "forks": 54,
+      "language": "TypeScript",
+      "updated_at": "2026-08-16T23:18:15Z"
     },
     {
       "name": "shadcn-ui/chatbot-template",
       "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
       "url": "https://github.com/shadcn-ui/chatbot-template",
-      "stars": 691,
-      "forks": 64,
+      "stars": 703,
+      "forks": 65,
       "language": "TypeScript",
-      "updated_at": "2026-08-15T22:41:06Z"
-    },
-    {
-      "name": "MSNightmare/ShieldBreak",
-      "description": "Windows Defender 0day vulnerability",
-      "url": "https://github.com/MSNightmare/ShieldBreak",
-      "stars": 560,
-      "forks": 172,
-      "language": "C++",
-      "updated_at": "2026-08-15T22:00:44Z"
+      "updated_at": "2026-08-16T22:00:16Z"
     },
     {
       "name": "shadcn-labs/pdfcn",
       "description": "Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.",
       "url": "https://github.com/shadcn-labs/pdfcn",
-      "stars": 544,
-      "forks": 25,
+      "stars": 639,
+      "forks": 30,
       "language": "TypeScript",
-      "updated_at": "2026-08-15T23:25:16Z"
-    },
-    {
-      "name": "NousResearch/Hermes-Bot-Mode",
-      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
-      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
-      "stars": 498,
-      "forks": 69,
-      "language": "JavaScript",
-      "updated_at": "2026-08-16T00:20:39Z"
+      "updated_at": "2026-08-16T23:28:53Z"
     },
     {
       "name": "0xsline/awesome-deepseek-harness",
       "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
       "url": "https://github.com/0xsline/awesome-deepseek-harness",
-      "stars": 492,
-      "forks": 179,
+      "stars": 604,
+      "forks": 224,
       "language": "Python",
-      "updated_at": "2026-08-15T23:56:35Z"
+      "updated_at": "2026-08-17T00:24:19Z"
     },
     {
-      "name": "DrHazemAli/enterprise-system-design",
-      "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-      "url": "https://github.com/DrHazemAli/enterprise-system-design",
-      "stars": 491,
-      "forks": 104,
-      "language": null,
-      "updated_at": "2026-08-15T23:49:52Z"
+      "name": "NousResearch/Hermes-Bot-Mode",
+      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
+      "stars": 586,
+      "forks": 83,
+      "language": "JavaScript",
+      "updated_at": "2026-08-16T23:48:36Z"
+    },
+    {
+      "name": "MSNightmare/ShieldBreak",
+      "description": "Windows Defender 0day vulnerability",
+      "url": "https://github.com/MSNightmare/ShieldBreak",
+      "stars": 575,
+      "forks": 176,
+      "language": "C++",
+      "updated_at": "2026-08-17T00:09:17Z"
+    },
+    {
+      "name": "dsh-market/dsh-market",
+      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+      "url": "https://github.com/dsh-market/dsh-market",
+      "stars": 562,
+      "forks": 47,
+      "language": "TypeScript",
+      "updated_at": "2026-08-17T00:19:30Z"
+    },
+    {
+      "name": "ZSvirt/zsvirt",
+      "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+      "url": "https://github.com/ZSvirt/zsvirt",
+      "stars": 554,
+      "forks": 70,
+      "language": "Java",
+      "updated_at": "2026-08-17T00:25:57Z"
+    },
+    {
+      "name": "zouyuxuan122/Deepseek-Harness-EAC",
+      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+      "stars": 543,
+      "forks": 14,
+      "language": "JavaScript",
+      "updated_at": "2026-08-17T00:25:29Z"
     },
     {
       "name": "elie222/rakazo",
       "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "url": "https://github.com/elie222/rakazo",
-      "stars": 489,
-      "forks": 55,
+      "stars": 537,
+      "forks": 61,
       "language": "TypeScript",
-      "updated_at": "2026-08-16T00:24:47Z"
+      "updated_at": "2026-08-17T00:20:28Z"
     },
     {
-      "name": "ayi-ai/nie-grassroots-logic",
-      "description": "聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文）",
-      "url": "https://github.com/ayi-ai/nie-grassroots-logic",
-      "stars": 479,
+      "name": "DrHazemAli/enterprise-system-design",
+      "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+      "url": "https://github.com/DrHazemAli/enterprise-system-design",
+      "stars": 531,
+      "forks": 111,
+      "language": null,
+      "updated_at": "2026-08-17T00:17:32Z"
+    },
+    {
+      "name": "Anionex/dsh-vision-toolkit",
+      "description": "让纯文本模型更好地做视觉任��的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "stars": 528,
+      "forks": 26,
+      "language": "TypeScript",
+      "updated_at": "2026-08-17T00:16:32Z"
+    },
+    {
+      "name": "dataelement/dsh-desktop",
+      "description": "Desktop app for DeepSeek Harness",
+      "url": "https://github.com/dataelement/dsh-desktop",
+      "stars": 509,
       "forks": 56,
-      "language": "HTML",
-      "updated_at": "2026-08-15T16:31:43Z"
-    },
-    {
-      "name": "0xnyn/airship",
-      "description": "Figma like visual editor built for Claude Code, Codex and OpenCode",
-      "url": "https://github.com/0xnyn/airship",
-      "stars": 449,
-      "forks": 42,
       "language": "TypeScript",
-      "updated_at": "2026-08-15T22:51:00Z"
-    },
-    {
-      "name": "decionis/agent-safe-pipeline",
-      "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-      "url": "https://github.com/decionis/agent-safe-pipeline",
-      "stars": 443,
-      "forks": 58,
-      "language": "TypeScript",
-      "updated_at": "2026-08-16T00:13:04Z"
+      "updated_at": "2026-08-17T00:22:06Z"
     }
   ]
 }
