@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-08-19T00:26:10.530Z",
+  "fetched_at": "2026-08-20T00:26:35.063Z",
   "repos": [
-    {
-      "name": "deepseek-ai/deepseek-harness",
-      "description": "DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "stars": 160355,
-      "forks": 16792,
-      "language": "TypeScript",
-      "updated_at": "2026-08-19T00:25:57Z"
-    },
-    {
-      "name": "anywhere-labs/deepseek-harness-desktop",
-      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "stars": 13580,
-      "forks": 613,
-      "language": "TypeScript",
-      "updated_at": "2026-08-19T00:25:44Z"
-    },
-    {
-      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "stars": 8891,
-      "forks": 1298,
-      "language": "Python",
-      "updated_at": "2026-08-19T00:25:58Z"
-    },
     {
       "name": "yjh051108/dsh-routing-suite",
       "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
       "url": "https://github.com/yjh051108/dsh-routing-suite",
-      "stars": 6030,
-      "forks": 105,
+      "stars": 6298,
+      "forks": 112,
       "language": "PowerShell",
-      "updated_at": "2026-08-19T00:22:28Z"
+      "updated_at": "2026-08-20T00:15:17Z"
     },
     {
       "name": "xiaobright/dsh-anchored-standard",
       "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
-      "stars": 3559,
-      "forks": 106,
+      "stars": 3639,
+      "forks": 109,
       "language": "JavaScript",
-      "updated_at": "2026-08-18T23:32:31Z"
+      "updated_at": "2026-08-19T23:26:03Z"
     },
     {
       "name": "yetone/cumora",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "stars": 2361,
-      "forks": 259,
+      "stars": 2683,
+      "forks": 306,
       "language": "TypeScript",
-      "updated_at": "2026-08-19T00:21:30Z"
-    },
-    {
-      "name": "cordiverse/paper",
-      "description": "A Programming Paradigm for Spatiotemporal Composability",
-      "url": "https://github.com/cordiverse/paper",
-      "stars": 2293,
-      "forks": 97,
-      "language": null,
-      "updated_at": "2026-08-18T23:59:45Z"
-    },
-    {
-      "name": "ccch1mneyyy/dsh-TUI",
-      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸��顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
-      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
-      "stars": 1970,
-      "forks": 87,
-      "language": "TypeScript",
-      "updated_at": "2026-08-19T00:17:12Z"
-    },
-    {
-      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
-      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "stars": 1824,
-      "forks": 146,
-      "language": "C",
-      "updated_at": "2026-08-19T00:07:37Z"
-    },
-    {
-      "name": "Small-tailqwq/dsh-deep-whale",
-      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
-      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
-      "stars": 1378,
-      "forks": 45,
-      "language": "TypeScript",
-      "updated_at": "2026-08-18T23:17:32Z"
-    },
-    {
-      "name": "Leutenegger/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "url": "https://github.com/Leutenegger/book-to-skill",
-      "stars": 1189,
-      "forks": 142,
-      "language": "Python",
-      "updated_at": "2026-08-18T22:19:11Z"
-    },
-    {
-      "name": "jdshfhds/northcinder",
-      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "url": "https://github.com/jdshfhds/northcinder",
-      "stars": 1136,
-      "forks": 4,
-      "language": "JavaScript",
-      "updated_at": "2026-08-19T00:26:08Z"
-    },
-    {
-      "name": "dsh-market/dsh-market",
-      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
-      "url": "https://github.com/dsh-market/dsh-market",
-      "stars": 1044,
-      "forks": 67,
-      "language": "TypeScript",
-      "updated_at": "2026-08-19T00:23:30Z"
-    },
-    {
-      "name": "alchaincyf/deepseek-harness-orange-book",
-      "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
-      "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
-      "stars": 1021,
-      "forks": 92,
-      "language": "HTML",
-      "updated_at": "2026-08-19T00:20:01Z"
-    },
-    {
-      "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
-      "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
-      "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
-      "stars": 997,
-      "forks": 61,
-      "language": null,
-      "updated_at": "2026-08-19T00:23:20Z"
-    },
-    {
-      "name": "dataelement/dsh-desktop",
-      "description": "DeepSeek Harness Desktop",
-      "url": "https://github.com/dataelement/dsh-desktop",
-      "stars": 935,
-      "forks": 85,
-      "language": "TypeScript",
-      "updated_at": "2026-08-18T23:59:09Z"
-    },
-    {
-      "name": "ZSvirt/zsvirt",
-      "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
-      "url": "https://github.com/ZSvirt/zsvirt",
-      "stars": 921,
-      "forks": 114,
-      "language": "Java",
-      "updated_at": "2026-08-19T00:23:46Z"
-    },
-    {
-      "name": "zouyuxuan122/Deepseek-Harness-EAC",
-      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
-      "stars": 859,
-      "forks": 27,
-      "language": "JavaScript",
-      "updated_at": "2026-08-19T00:05:57Z"
-    },
-    {
-      "name": "elie222/rakazo",
-      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "url": "https://github.com/elie222/rakazo",
-      "stars": 851,
-      "forks": 107,
-      "language": "TypeScript",
-      "updated_at": "2026-08-18T23:52:26Z"
-    },
-    {
-      "name": "ysr666/dsh-vision-router",
-      "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
-      "url": "https://github.com/ysr666/dsh-vision-router",
-      "stars": 759,
-      "forks": 32,
-      "language": "JavaScript",
-      "updated_at": "2026-08-19T00:23:52Z"
-    },
-    {
-      "name": "Anionex/dsh-vision-toolkit",
-      "description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-      "url": "https://github.com/Anionex/dsh-vision-toolkit",
-      "stars": 700,
-      "forks": 31,
-      "language": "TypeScript",
-      "updated_at": "2026-08-18T17:35:23Z"
-    },
-    {
-      "name": "NousResearch/Hermes-Bot-Mode",
-      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
-      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
-      "stars": 616,
-      "forks": 98,
-      "language": "JavaScript",
-      "updated_at": "2026-08-19T00:17:18Z"
-    },
-    {
-      "name": "decionis/agent-safe-pipeline",
-      "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-      "url": "https://github.com/decionis/agent-safe-pipeline",
-      "stars": 533,
-      "forks": 58,
-      "language": "TypeScript",
-      "updated_at": "2026-08-18T23:32:28Z"
+      "updated_at": "2026-08-20T00:21:23Z"
     },
     {
       "name": "s1dashu/ip-as-logo-skill",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "stars": 531,
-      "forks": 22,
+      "stars": 2074,
+      "forks": 93,
       "language": null,
-      "updated_at": "2026-08-19T00:25:27Z"
+      "updated_at": "2026-08-20T00:21:42Z"
+    },
+    {
+      "name": "dsh-market/dsh-market",
+      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+      "url": "https://github.com/dsh-market/dsh-market",
+      "stars": 1245,
+      "forks": 77,
+      "language": "TypeScript",
+      "updated_at": "2026-08-19T23:29:13Z"
+    },
+    {
+      "name": "cinderline/northcinder",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "url": "https://github.com/cinderline/northcinder",
+      "stars": 1193,
+      "forks": 4,
+      "language": "JavaScript",
+      "updated_at": "2026-08-19T21:12:52Z"
+    },
+    {
+      "name": "alchaincyf/deepseek-harness-orange-book",
+      "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "stars": 1071,
+      "forks": 96,
+      "language": "HTML",
+      "updated_at": "2026-08-19T23:14:26Z"
+    },
+    {
+      "name": "ZSvirt/zsvirt",
+      "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+      "url": "https://github.com/ZSvirt/zsvirt",
+      "stars": 1066,
+      "forks": 137,
+      "language": "Java",
+      "updated_at": "2026-08-20T00:11:30Z"
+    },
+    {
+      "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+      "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+      "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+      "stars": 1018,
+      "forks": 66,
+      "language": null,
+      "updated_at": "2026-08-19T23:26:03Z"
+    },
+    {
+      "name": "zouyuxuan122/Deepseek-Harness-EAC",
+      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+      "stars": 958,
+      "forks": 29,
+      "language": "JavaScript",
+      "updated_at": "2026-08-19T23:54:42Z"
+    },
+    {
+      "name": "Leutenegger/watermarks-remover",
+      "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "url": "https://github.com/Leutenegger/watermarks-remover",
+      "stars": 911,
+      "forks": 94,
+      "language": "Python",
+      "updated_at": "2026-08-19T21:50:59Z"
+    },
+    {
+      "name": "wang2122/sprix-sage-router",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "stars": 607,
+      "forks": 10,
+      "language": "Python",
+      "updated_at": "2026-08-20T00:11:38Z"
     },
     {
       "name": "hairyf/deepseek-harness-desktop",
       "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
       "url": "https://github.com/hairyf/deepseek-harness-desktop",
-      "stars": 529,
-      "forks": 31,
+      "stars": 602,
+      "forks": 36,
       "language": "Rust",
-      "updated_at": "2026-08-19T00:18:04Z"
+      "updated_at": "2026-08-19T23:20:11Z"
     },
     {
-      "name": "SheberDavid/v4-flash-godmode-opencode-go",
-      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
-      "stars": 500,
-      "forks": 12,
-      "language": "JavaScript",
-      "updated_at": "2026-08-18T18:54:36Z"
-    },
-    {
-      "name": "Electricitysheep/dsh-handbook",
-      "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "url": "https://github.com/Electricitysheep/dsh-handbook",
-      "stars": 492,
-      "forks": 21,
-      "language": "HTML",
-      "updated_at": "2026-08-18T20:05:47Z"
+      "name": "SigmanticAI/apex-inference-chip",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "stars": 576,
+      "forks": 1,
+      "language": "Python",
+      "updated_at": "2026-08-20T00:13:40Z"
     },
     {
       "name": "Alain00/blobatar",
       "description": null,
       "url": "https://github.com/Alain00/blobatar",
-      "stars": 465,
-      "forks": 29,
+      "stars": 574,
+      "forks": 37,
       "language": "TypeScript",
-      "updated_at": "2026-08-19T00:12:30Z"
+      "updated_at": "2026-08-19T23:50:44Z"
     },
     {
-      "name": "vibeinging/deepseek-harness-desktop-app",
-      "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
-      "stars": 465,
-      "forks": 7,
-      "language": "JavaScript",
-      "updated_at": "2026-08-19T00:25:39Z"
+      "name": "jeremy-prt/bloub",
+      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "url": "https://github.com/jeremy-prt/bloub",
+      "stars": 533,
+      "forks": 58,
+      "language": "TypeScript",
+      "updated_at": "2026-08-20T00:21:53Z"
     },
     {
-      "name": "myYangyunfan/dsh_desktop",
-      "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "url": "https://github.com/myYangyunfan/dsh_desktop",
-      "stars": 465,
-      "forks": 21,
+      "name": "browser-use/macos-harness",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
+      "stars": 525,
+      "forks": 36,
+      "language": "Python",
+      "updated_at": "2026-08-19T23:41:59Z"
+    },
+    {
+      "name": "DenisSergeevitch/desktop-fly",
+      "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "stars": 513,
+      "forks": 30,
+      "language": "Swift",
+      "updated_at": "2026-08-20T00:10:51Z"
+    },
+    {
+      "name": "SheberDavid/v4-flash-godmode-opencode-go",
+      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+      "stars": 498,
+      "forks": 12,
       "language": "JavaScript",
-      "updated_at": "2026-08-18T21:45:45Z"
+      "updated_at": "2026-08-20T00:15:18Z"
+    },
+    {
+      "name": "pg83/solo",
+      "description": "Portable Linux binaries, solved",
+      "url": "https://github.com/pg83/solo",
+      "stars": 488,
+      "forks": 11,
+      "language": "C++",
+      "updated_at": "2026-08-20T00:22:21Z"
+    },
+    {
+      "name": "bowenliang123/dsh-context",
+      "description": "Best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+      "url": "https://github.com/bowenliang123/dsh-context",
+      "stars": 486,
+      "forks": 4,
+      "language": "TypeScript",
+      "updated_at": "2026-08-19T23:30:24Z"
+    },
+    {
+      "name": "CopilotKit/openbot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "url": "https://github.com/CopilotKit/openbot",
+      "stars": 434,
+      "forks": 31,
+      "language": "TypeScript",
+      "updated_at": "2026-08-20T00:26:25Z"
+    },
+    {
+      "name": "Nervercc/gpt_nerver",
+      "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "url": "https://github.com/Nervercc/gpt_nerver",
+      "stars": 425,
+      "forks": 68,
+      "language": "Python",
+      "updated_at": "2026-08-20T00:15:24Z"
+    },
+    {
+      "name": "vvxw/deploy-vercel",
+      "description": "Install Command：npm install",
+      "url": "https://github.com/vvxw/deploy-vercel",
+      "stars": 402,
+      "forks": 76,
+      "language": "JavaScript",
+      "updated_at": "2026-08-20T00:25:59Z"
+    },
+    {
+      "name": "missuo/herdrm",
+      "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+      "url": "https://github.com/missuo/herdrm",
+      "stars": 401,
+      "forks": 22,
+      "language": "Swift",
+      "updated_at": "2026-08-20T00:26:10Z"
+    },
+    {
+      "name": "jaredrhod/barehands",
+      "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
+      "url": "https://github.com/jaredrhod/barehands",
+      "stars": 383,
+      "forks": 72,
+      "language": "HTML",
+      "updated_at": "2026-08-20T00:16:16Z"
+    },
+    {
+      "name": "bawadou/ai-data-extractor",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "url": "https://github.com/bawadou/ai-data-extractor",
+      "stars": 367,
+      "forks": 97,
+      "language": "Python",
+      "updated_at": "2026-08-20T00:25:16Z"
+    },
+    {
+      "name": "b-nnett/codex-subscription-router",
+      "description": null,
+      "url": "https://github.com/b-nnett/codex-subscription-router",
+      "stars": 355,
+      "forks": 34,
+      "language": "Go",
+      "updated_at": "2026-08-19T19:05:37Z"
+    },
+    {
+      "name": "fufankeji/deepseek-harness-studio",
+      "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
+      "url": "https://github.com/fufankeji/deepseek-harness-studio",
+      "stars": 355,
+      "forks": 40,
+      "language": "TypeScript",
+      "updated_at": "2026-08-19T23:56:08Z"
+    },
+    {
+      "name": "Yousuf-developer/Viscose-carousel",
+      "description": "A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
+      "url": "https://github.com/Yousuf-developer/Viscose-carousel",
+      "stars": 348,
+      "forks": 55,
+      "language": "JavaScript",
+      "updated_at": "2026-08-20T00:05:35Z"
     }
   ]
 }
