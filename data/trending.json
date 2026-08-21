@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-08-20T00:26:35.063Z",
+  "fetched_at": "2026-08-21T00:28:59.032Z",
   "repos": [
     {
-      "name": "yjh051108/dsh-routing-suite",
-      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-      "url": "https://github.com/yjh051108/dsh-routing-suite",
-      "stars": 6298,
-      "forks": 112,
-      "language": "PowerShell",
-      "updated_at": "2026-08-20T00:15:17Z"
-    },
-    {
-      "name": "xiaobright/dsh-anchored-standard",
-      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "url": "https://github.com/xiaobright/dsh-anchored-standard",
-      "stars": 3639,
-      "forks": 109,
-      "language": "JavaScript",
-      "updated_at": "2026-08-19T23:26:03Z"
+      "name": "s1dashu/ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "stars": 3087,
+      "forks": 148,
+      "language": null,
+      "updated_at": "2026-08-21T00:27:34Z"
     },
     {
       "name": "yetone/cumora",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "stars": 2683,
-      "forks": 306,
+      "stars": 2774,
+      "forks": 328,
       "language": "TypeScript",
-      "updated_at": "2026-08-20T00:21:23Z"
+      "updated_at": "2026-08-20T23:35:48Z"
     },
     {
-      "name": "s1dashu/ip-as-logo-skill",
-      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "stars": 2074,
-      "forks": 93,
-      "language": null,
-      "updated_at": "2026-08-20T00:21:42Z"
-    },
-    {
-      "name": "dsh-market/dsh-market",
-      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
-      "url": "https://github.com/dsh-market/dsh-market",
-      "stars": 1245,
-      "forks": 77,
+      "name": "CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "stars": 1622,
+      "forks": 168,
       "language": "TypeScript",
-      "updated_at": "2026-08-19T23:29:13Z"
+      "updated_at": "2026-08-21T00:28:55Z"
     },
     {
       "name": "cinderline/northcinder",
       "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
       "url": "https://github.com/cinderline/northcinder",
-      "stars": 1193,
-      "forks": 4,
+      "stars": 1198,
+      "forks": 5,
       "language": "JavaScript",
-      "updated_at": "2026-08-19T21:12:52Z"
-    },
-    {
-      "name": "alchaincyf/deepseek-harness-orange-book",
-      "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
-      "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
-      "stars": 1071,
-      "forks": 96,
-      "language": "HTML",
-      "updated_at": "2026-08-19T23:14:26Z"
-    },
-    {
-      "name": "ZSvirt/zsvirt",
-      "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
-      "url": "https://github.com/ZSvirt/zsvirt",
-      "stars": 1066,
-      "forks": 137,
-      "language": "Java",
-      "updated_at": "2026-08-20T00:11:30Z"
+      "updated_at": "2026-08-20T12:34:32Z"
     },
     {
       "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
       "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
       "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
-      "stars": 1018,
-      "forks": 66,
+      "stars": 1038,
+      "forks": 67,
       "language": null,
-      "updated_at": "2026-08-19T23:26:03Z"
-    },
-    {
-      "name": "zouyuxuan122/Deepseek-Harness-EAC",
-      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
-      "stars": 958,
-      "forks": 29,
-      "language": "JavaScript",
-      "updated_at": "2026-08-19T23:54:42Z"
+      "updated_at": "2026-08-20T22:53:34Z"
     },
     {
       "name": "Leutenegger/watermarks-remover",
       "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
       "url": "https://github.com/Leutenegger/watermarks-remover",
-      "stars": 911,
-      "forks": 94,
+      "stars": 924,
+      "forks": 95,
       "language": "Python",
-      "updated_at": "2026-08-19T21:50:59Z"
-    },
-    {
-      "name": "wang2122/sprix-sage-router",
-      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "url": "https://github.com/wang2122/sprix-sage-router",
-      "stars": 607,
-      "forks": 10,
-      "language": "Python",
-      "updated_at": "2026-08-20T00:11:38Z"
-    },
-    {
-      "name": "hairyf/deepseek-harness-desktop",
-      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
-      "url": "https://github.com/hairyf/deepseek-harness-desktop",
-      "stars": 602,
-      "forks": 36,
-      "language": "Rust",
-      "updated_at": "2026-08-19T23:20:11Z"
-    },
-    {
-      "name": "SigmanticAI/apex-inference-chip",
-      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "url": "https://github.com/SigmanticAI/apex-inference-chip",
-      "stars": 576,
-      "forks": 1,
-      "language": "Python",
-      "updated_at": "2026-08-20T00:13:40Z"
-    },
-    {
-      "name": "Alain00/blobatar",
-      "description": null,
-      "url": "https://github.com/Alain00/blobatar",
-      "stars": 574,
-      "forks": 37,
-      "language": "TypeScript",
-      "updated_at": "2026-08-19T23:50:44Z"
-    },
-    {
-      "name": "jeremy-prt/bloub",
-      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "url": "https://github.com/jeremy-prt/bloub",
-      "stars": 533,
-      "forks": 58,
-      "language": "TypeScript",
-      "updated_at": "2026-08-20T00:21:53Z"
-    },
-    {
-      "name": "browser-use/macos-harness",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "url": "https://github.com/browser-use/macos-harness",
-      "stars": 525,
-      "forks": 36,
-      "language": "Python",
-      "updated_at": "2026-08-19T23:41:59Z"
-    },
-    {
-      "name": "DenisSergeevitch/desktop-fly",
-      "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "stars": 513,
-      "forks": 30,
-      "language": "Swift",
-      "updated_at": "2026-08-20T00:10:51Z"
-    },
-    {
-      "name": "SheberDavid/v4-flash-godmode-opencode-go",
-      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
-      "stars": 498,
-      "forks": 12,
-      "language": "JavaScript",
-      "updated_at": "2026-08-20T00:15:18Z"
-    },
-    {
-      "name": "pg83/solo",
-      "description": "Portable Linux binaries, solved",
-      "url": "https://github.com/pg83/solo",
-      "stars": 488,
-      "forks": 11,
-      "language": "C++",
-      "updated_at": "2026-08-20T00:22:21Z"
-    },
-    {
-      "name": "bowenliang123/dsh-context",
-      "description": "Best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
-      "url": "https://github.com/bowenliang123/dsh-context",
-      "stars": 486,
-      "forks": 4,
-      "language": "TypeScript",
-      "updated_at": "2026-08-19T23:30:24Z"
-    },
-    {
-      "name": "CopilotKit/openbot",
-      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "url": "https://github.com/CopilotKit/openbot",
-      "stars": 434,
-      "forks": 31,
-      "language": "TypeScript",
-      "updated_at": "2026-08-20T00:26:25Z"
-    },
-    {
-      "name": "Nervercc/gpt_nerver",
-      "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
-      "url": "https://github.com/Nervercc/gpt_nerver",
-      "stars": 425,
-      "forks": 68,
-      "language": "Python",
-      "updated_at": "2026-08-20T00:15:24Z"
+      "updated_at": "2026-08-20T23:18:35Z"
     },
     {
       "name": "vvxw/deploy-vercel",
       "description": "Install Command：npm install",
       "url": "https://github.com/vvxw/deploy-vercel",
-      "stars": 402,
-      "forks": 76,
+      "stars": 799,
+      "forks": 164,
       "language": "JavaScript",
-      "updated_at": "2026-08-20T00:25:59Z"
+      "updated_at": "2026-08-21T00:28:23Z"
+    },
+    {
+      "name": "wang2122/sprix-sage-router",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "stars": 678,
+      "forks": 11,
+      "language": "Python",
+      "updated_at": "2026-08-20T16:46:12Z"
+    },
+    {
+      "name": "DenisSergeevitch/desktop-fly",
+      "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "stars": 629,
+      "forks": 37,
+      "language": "Swift",
+      "updated_at": "2026-08-21T00:18:28Z"
+    },
+    {
+      "name": "SigmanticAI/apex-inference-chip",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "stars": 628,
+      "forks": 1,
+      "language": "Python",
+      "updated_at": "2026-08-20T22:46:40Z"
+    },
+    {
+      "name": "Alain00/blobatar",
+      "description": null,
+      "url": "https://github.com/Alain00/blobatar",
+      "stars": 614,
+      "forks": 38,
+      "language": "TypeScript",
+      "updated_at": "2026-08-21T00:16:29Z"
+    },
+    {
+      "name": "Leutenegger/coldcard-airgap",
+      "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "url": "https://github.com/Leutenegger/coldcard-airgap",
+      "stars": 607,
+      "forks": 79,
+      "language": "Python",
+      "updated_at": "2026-08-20T23:45:12Z"
+    },
+    {
+      "name": "jeremy-prt/bloub",
+      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "url": "https://github.com/jeremy-prt/bloub",
+      "stars": 573,
+      "forks": 62,
+      "language": "TypeScript",
+      "updated_at": "2026-08-20T23:44:42Z"
+    },
+    {
+      "name": "browser-use/macos-harness",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
+      "stars": 570,
+      "forks": 38,
+      "language": "Python",
+      "updated_at": "2026-08-21T00:04:23Z"
     },
     {
       "name": "missuo/herdrm",
       "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
       "url": "https://github.com/missuo/herdrm",
-      "stars": 401,
-      "forks": 22,
+      "stars": 560,
+      "forks": 33,
       "language": "Swift",
-      "updated_at": "2026-08-20T00:26:10Z"
-    },
-    {
-      "name": "jaredrhod/barehands",
-      "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
-      "url": "https://github.com/jaredrhod/barehands",
-      "stars": 383,
-      "forks": 72,
-      "language": "HTML",
-      "updated_at": "2026-08-20T00:16:16Z"
+      "updated_at": "2026-08-21T00:24:09Z"
     },
     {
       "name": "bawadou/ai-data-extractor",
       "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "url": "https://github.com/bawadou/ai-data-extractor",
-      "stars": 367,
+      "stars": 528,
       "forks": 97,
       "language": "Python",
-      "updated_at": "2026-08-20T00:25:16Z"
+      "updated_at": "2026-08-20T19:08:12Z"
     },
     {
-      "name": "b-nnett/codex-subscription-router",
-      "description": null,
-      "url": "https://github.com/b-nnett/codex-subscription-router",
-      "stars": 355,
-      "forks": 34,
-      "language": "Go",
-      "updated_at": "2026-08-19T19:05:37Z"
+      "name": "Nervercc/gpt_nerver",
+      "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "url": "https://github.com/Nervercc/gpt_nerver",
+      "stars": 511,
+      "forks": 73,
+      "language": "Python",
+      "updated_at": "2026-08-21T00:22:12Z"
+    },
+    {
+      "name": "SheberDavid/v4-flash-godmode-opencode-go",
+      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+      "stars": 494,
+      "forks": 13,
+      "language": "JavaScript",
+      "updated_at": "2026-08-20T19:16:04Z"
+    },
+    {
+      "name": "jaredrhod/barehands",
+      "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
+      "url": "https://github.com/jaredrhod/barehands",
+      "stars": 472,
+      "forks": 88,
+      "language": "HTML",
+      "updated_at": "2026-08-21T00:11:35Z"
+    },
+    {
+      "name": "flaqai/backlink_skills",
+      "description": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
+      "url": "https://github.com/flaqai/backlink_skills",
+      "stars": 468,
+      "forks": 171,
+      "language": "Python",
+      "updated_at": "2026-08-20T20:05:22Z"
+    },
+    {
+      "name": "Spielewoy/autoprompt-skill",
+      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "url": "https://github.com/Spielewoy/autoprompt-skill",
+      "stars": 446,
+      "forks": 33,
+      "language": "JavaScript",
+      "updated_at": "2026-08-21T00:19:33Z"
     },
     {
       "name": "fufankeji/deepseek-harness-studio",
       "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
       "url": "https://github.com/fufankeji/deepseek-harness-studio",
-      "stars": 355,
-      "forks": 40,
+      "stars": 411,
+      "forks": 43,
       "language": "TypeScript",
-      "updated_at": "2026-08-19T23:56:08Z"
+      "updated_at": "2026-08-21T00:11:49Z"
+    },
+    {
+      "name": "zyrexdz/cyberleek-leak-research",
+      "description": "Full breakdown of the August 2026 GTA 6 gameplay leaks, technical checks, dark web trail, map details, and scam warning.",
+      "url": "https://github.com/zyrexdz/cyberleek-leak-research",
+      "stars": 390,
+      "forks": 35,
+      "language": null,
+      "updated_at": "2026-08-21T00:23:50Z"
     },
     {
       "name": "Yousuf-developer/Viscose-carousel",
       "description": "A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
       "url": "https://github.com/Yousuf-developer/Viscose-carousel",
-      "stars": 348,
-      "forks": 55,
+      "stars": 380,
+      "forks": 64,
       "language": "JavaScript",
-      "updated_at": "2026-08-20T00:05:35Z"
+      "updated_at": "2026-08-20T19:45:50Z"
+    },
+    {
+      "name": "b-nnett/codex-subscription-router",
+      "description": null,
+      "url": "https://github.com/b-nnett/codex-subscription-router",
+      "stars": 363,
+      "forks": 37,
+      "language": "Go",
+      "updated_at": "2026-08-20T17:02:26Z"
+    },
+    {
+      "name": "almendili/skills",
+      "description": null,
+      "url": "https://github.com/almendili/skills",
+      "stars": 342,
+      "forks": 24,
+      "language": "TypeScript",
+      "updated_at": "2026-08-20T22:19:44Z"
+    },
+    {
+      "name": "iAmCorey/Wake",
+      "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+      "url": "https://github.com/iAmCorey/Wake",
+      "stars": 321,
+      "forks": 17,
+      "language": "Rust",
+      "updated_at": "2026-08-21T00:22:58Z"
+    },
+    {
+      "name": "Ariescar/anyCreature",
+      "description": null,
+      "url": "https://github.com/Ariescar/anyCreature",
+      "stars": 284,
+      "forks": 31,
+      "language": "JavaScript",
+      "updated_at": "2026-08-20T23:38:35Z"
+    },
+    {
+      "name": "x4gpanell/X4G",
+      "description": null,
+      "url": "https://github.com/x4gpanell/X4G",
+      "stars": 284,
+      "forks": 718,
+      "language": "Python",
+      "updated_at": "2026-08-20T23:55:51Z"
+    },
+    {
+      "name": "opaxial/CVE-2026-9830",
+      "description": "CVE-2026-9830 Proof of Concept",
+      "url": "https://github.com/opaxial/CVE-2026-9830",
+      "stars": 284,
+      "forks": 2,
+      "language": "Python",
+      "updated_at": "2026-08-20T23:45:06Z"
     }
   ]
 }
