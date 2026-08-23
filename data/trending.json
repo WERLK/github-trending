@@ -1,77 +1,77 @@
 {
-  "fetched_at": "2026-08-22T00:26:01.737Z",
+  "fetched_at": "2026-08-23T00:28:24.763Z",
   "repos": [
     {
       "name": "s1dashu/ip-as-logo-skill",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "stars": 3484,
-      "forks": 171,
+      "stars": 3776,
+      "forks": 180,
       "language": null,
-      "updated_at": "2026-08-22T00:21:18Z"
+      "updated_at": "2026-08-23T00:18:26Z"
     },
     {
       "name": "yetone/cumora",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "stars": 2858,
-      "forks": 346,
+      "stars": 2901,
+      "forks": 350,
       "language": "TypeScript",
-      "updated_at": "2026-08-21T22:49:56Z"
+      "updated_at": "2026-08-23T00:01:30Z"
     },
     {
       "name": "CopilotKit/OpenBot",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
-      "stars": 2118,
-      "forks": 227,
+      "stars": 2323,
+      "forks": 266,
       "language": "TypeScript",
-      "updated_at": "2026-08-22T00:23:00Z"
+      "updated_at": "2026-08-23T00:28:00Z"
     },
     {
-      "name": "cinderline/northcinder",
-      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "url": "https://github.com/cinderline/northcinder",
-      "stars": 1203,
-      "forks": 5,
-      "language": "JavaScript",
-      "updated_at": "2026-08-21T08:31:39Z"
-    },
-    {
-      "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
-      "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
-      "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
-      "stars": 1036,
-      "forks": 67,
-      "language": null,
-      "updated_at": "2026-08-21T22:12:27Z"
+      "name": "MengTo/threeui",
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "url": "https://github.com/MengTo/threeui",
+      "stars": 1875,
+      "forks": 192,
+      "language": "HTML",
+      "updated_at": "2026-08-23T00:25:34Z"
     },
     {
       "name": "wang2122/sprix-sage-router",
       "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "url": "https://github.com/wang2122/sprix-sage-router",
-      "stars": 1009,
+      "stars": 1243,
       "forks": 12,
       "language": "Python",
-      "updated_at": "2026-08-21T18:20:02Z"
+      "updated_at": "2026-08-22T16:02:27Z"
+    },
+    {
+      "name": "cinderline/northcinder",
+      "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
+      "url": "https://github.com/cinderline/northcinder",
+      "stars": 1205,
+      "forks": 6,
+      "language": "JavaScript",
+      "updated_at": "2026-08-22T18:51:06Z"
     },
     {
       "name": "vvxw/deploy-vercel",
       "description": "Install Command：npm install",
       "url": "https://github.com/vvxw/deploy-vercel",
-      "stars": 985,
-      "forks": 197,
+      "stars": 1116,
+      "forks": 233,
       "language": "JavaScript",
-      "updated_at": "2026-08-22T00:25:20Z"
+      "updated_at": "2026-08-23T00:21:08Z"
     },
     {
       "name": "Leutenegger/watermarks-remover",
       "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
       "url": "https://github.com/Leutenegger/watermarks-remover",
-      "stars": 929,
+      "stars": 934,
       "forks": 95,
       "language": "Python",
-      "updated_at": "2026-08-21T09:08:00Z"
+      "updated_at": "2026-08-22T21:16:46Z"
     },
     {
       "name": "Leutenegger/vanity-eth",
@@ -86,35 +86,44 @@
       "name": "browser-use/macos-harness",
       "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "url": "https://github.com/browser-use/macos-harness",
-      "stars": 686,
-      "forks": 45,
+      "stars": 708,
+      "forks": 49,
       "language": "Python",
-      "updated_at": "2026-08-22T00:03:22Z"
+      "updated_at": "2026-08-22T21:50:31Z"
+    },
+    {
+      "name": "Spielewoy/autoprompt-skill",
+      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "url": "https://github.com/Spielewoy/autoprompt-skill",
+      "stars": 706,
+      "forks": 47,
+      "language": "JavaScript",
+      "updated_at": "2026-08-23T00:21:58Z"
     },
     {
       "name": "DenisSergeevitch/desktop-fly",
       "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
       "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "stars": 677,
-      "forks": 39,
+      "stars": 692,
+      "forks": 42,
       "language": "Swift",
-      "updated_at": "2026-08-21T23:42:21Z"
+      "updated_at": "2026-08-22T19:12:47Z"
     },
     {
       "name": "SigmanticAI/apex-inference-chip",
       "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
       "url": "https://github.com/SigmanticAI/apex-inference-chip",
-      "stars": 668,
+      "stars": 680,
       "forks": 1,
       "language": "Python",
-      "updated_at": "2026-08-21T22:20:39Z"
+      "updated_at": "2026-08-22T18:52:03Z"
     },
     {
       "name": "Leutenegger/coldcard-airgap",
       "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
       "url": "https://github.com/Leutenegger/coldcard-airgap",
       "stars": 608,
-      "forks": 79,
+      "forks": 78,
       "language": "Python",
       "updated_at": "2026-08-21T07:00:26Z"
     },
@@ -122,154 +131,145 @@
       "name": "missuo/herdrm",
       "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
       "url": "https://github.com/missuo/herdrm",
-      "stars": 592,
-      "forks": 34,
+      "stars": 604,
+      "forks": 37,
       "language": "Swift",
-      "updated_at": "2026-08-21T21:45:51Z"
-    },
-    {
-      "name": "Spielewoy/autoprompt-skill",
-      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-      "url": "https://github.com/Spielewoy/autoprompt-skill",
-      "stars": 588,
-      "forks": 43,
-      "language": "JavaScript",
-      "updated_at": "2026-08-22T00:00:08Z"
+      "updated_at": "2026-08-22T16:25:25Z"
     },
     {
       "name": "Leutenegger/claudish-to-english",
       "description": "Claude Code plugin that rewrites each assistant message into plain language on screen only. Local ollama by default; also codex CLI, Anthropic, or any OpenAI-compatible API. Fail-open. Optional Markdown rewrite.",
       "url": "https://github.com/Leutenegger/claudish-to-english",
-      "stars": 579,
+      "stars": 580,
       "forks": 61,
       "language": "Shell",
-      "updated_at": "2026-08-21T20:38:48Z"
-    },
-    {
-      "name": "bawadou/ai-data-extractor",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "url": "https://github.com/bawadou/ai-data-extractor",
-      "stars": 537,
-      "forks": 99,
-      "language": "Python",
-      "updated_at": "2026-08-21T23:04:31Z"
-    },
-    {
-      "name": "flaqai/backlink_skills",
-      "description": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
-      "url": "https://github.com/flaqai/backlink_skills",
-      "stars": 508,
-      "forks": 182,
-      "language": "Python",
-      "updated_at": "2026-08-21T20:52:13Z"
-    },
-    {
-      "name": "lanicer/cve-2026-41940-PoC",
-      "description": "A cPanel and WHM authentication bypassing tool",
-      "url": "https://github.com/lanicer/cve-2026-41940-PoC",
-      "stars": 500,
-      "forks": 96,
-      "language": "Python",
-      "updated_at": "2026-08-22T00:24:18Z"
-    },
-    {
-      "name": "MengTo/threeui",
-      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
-      "url": "https://github.com/MengTo/threeui",
-      "stars": 485,
-      "forks": 54,
-      "language": "HTML",
-      "updated_at": "2026-08-22T00:25:40Z"
-    },
-    {
-      "name": "iAmCorey/Wake",
-      "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
-      "url": "https://github.com/iAmCorey/Wake",
-      "stars": 407,
-      "forks": 21,
-      "language": "Rust",
-      "updated_at": "2026-08-22T00:24:25Z"
-    },
-    {
-      "name": "amirh00sain/SpiderPanel",
-      "description": null,
-      "url": "https://github.com/amirh00sain/SpiderPanel",
-      "stars": 374,
-      "forks": 1297,
-      "language": "Python",
-      "updated_at": "2026-08-21T23:37:23Z"
-    },
-    {
-      "name": "b-nnett/codex-subscription-router",
-      "description": null,
-      "url": "https://github.com/b-nnett/codex-subscription-router",
-      "stars": 367,
-      "forks": 38,
-      "language": "Go",
-      "updated_at": "2026-08-21T12:17:08Z"
-    },
-    {
-      "name": "xdreizein666/getcontact-cli",
-      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
-      "url": "https://github.com/xdreizein666/getcontact-cli",
-      "stars": 365,
-      "forks": 83,
-      "language": "Python",
-      "updated_at": "2026-08-22T00:22:17Z"
+      "updated_at": "2026-08-22T14:41:02Z"
     },
     {
       "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
       "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
       "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "stars": 352,
-      "forks": 16,
+      "stars": 553,
+      "forks": 21,
       "language": "JavaScript",
-      "updated_at": "2026-08-22T00:05:31Z"
+      "updated_at": "2026-08-23T00:15:51Z"
     },
     {
-      "name": "almendili/skills",
+      "name": "lanicer/cve-2026-41940-PoC",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+      "stars": 526,
+      "forks": 96,
+      "language": "Python",
+      "updated_at": "2026-08-22T09:14:29Z"
+    },
+    {
+      "name": "flaqai/backlink_skills",
+      "description": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
+      "url": "https://github.com/flaqai/backlink_skills",
+      "stars": 523,
+      "forks": 187,
+      "language": "Python",
+      "updated_at": "2026-08-22T19:43:19Z"
+    },
+    {
+      "name": "amirh00sain/SpiderPanel",
       "description": null,
-      "url": "https://github.com/almendili/skills",
-      "stars": 350,
-      "forks": 24,
-      "language": "TypeScript",
-      "updated_at": "2026-08-21T20:53:30Z"
+      "url": "https://github.com/amirh00sain/SpiderPanel",
+      "stars": 507,
+      "forks": 1716,
+      "language": "Python",
+      "updated_at": "2026-08-23T00:24:22Z"
+    },
+    {
+      "name": "PentagonConure42/youtube-downloader-zen",
+      "description": "Youtube Downloader Zen",
+      "url": "https://github.com/PentagonConure42/youtube-downloader-zen",
+      "stars": 461,
+      "forks": 0,
+      "language": null,
+      "updated_at": "2026-08-22T03:44:46Z"
+    },
+    {
+      "name": "iAmCorey/Wake",
+      "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+      "url": "https://github.com/iAmCorey/Wake",
+      "stars": 460,
+      "forks": 25,
+      "language": "Rust",
+      "updated_at": "2026-08-23T00:27:16Z"
+    },
+    {
+      "name": "xdreizein666/getcontact-cli",
+      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "url": "https://github.com/xdreizein666/getcontact-cli",
+      "stars": 456,
+      "forks": 108,
+      "language": "Python",
+      "updated_at": "2026-08-23T00:24:30Z"
     },
     {
       "name": "Ariescar/anyCreature",
       "description": null,
       "url": "https://github.com/Ariescar/anyCreature",
-      "stars": 294,
+      "stars": 301,
       "forks": 31,
       "language": "JavaScript",
-      "updated_at": "2026-08-22T00:15:31Z"
+      "updated_at": "2026-08-22T22:56:31Z"
     },
     {
       "name": "MengTo/sylva",
       "description": "An interactive Three.js landscape study with a procedural, pointer-responsive moss world.",
       "url": "https://github.com/MengTo/sylva",
-      "stars": 292,
+      "stars": 300,
       "forks": 51,
       "language": "HTML",
-      "updated_at": "2026-08-21T22:21:32Z"
+      "updated_at": "2026-08-22T21:59:19Z"
     },
     {
       "name": "Yuzzyuk/marketing-os",
       "description": "An entire marketing department as one Claude skill. 14 modules: audits scored 0-100, an 18-tactic hook engine, copy graded before you see it, ad diagnosis, GEO, email, launches, pricing. Works in Claude, Codex and Cursor.",
       "url": "https://github.com/Yuzzyuk/marketing-os",
-      "stars": 263,
-      "forks": 60,
+      "stars": 282,
+      "forks": 64,
       "language": null,
-      "updated_at": "2026-08-22T00:18:43Z"
+      "updated_at": "2026-08-22T22:07:47Z"
+    },
+    {
+      "name": "cclank/lanshu-create-ai-presenter-video",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "stars": 277,
+      "forks": 28,
+      "language": "Python",
+      "updated_at": "2026-08-22T21:18:15Z"
+    },
+    {
+      "name": "air-embodied-brain/Zetta-Embodiment",
+      "description": null,
+      "url": "https://github.com/air-embodied-brain/Zetta-Embodiment",
+      "stars": 272,
+      "forks": 20,
+      "language": "Python",
+      "updated_at": "2026-08-23T00:04:59Z"
+    },
+    {
+      "name": "LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
+      "description": "Neural latent upscaler for Minimax H3 (24ch). Bypasses costly 5B-param VAE decode/encode. Upscale low-res latents directly, then refine. Accelerates high-res video gen, outperforms naive interp.",
+      "url": "https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
+      "stars": 271,
+      "forks": 15,
+      "language": "Python",
+      "updated_at": "2026-08-23T00:10:34Z"
     },
     {
       "name": "op7418/pilot-harness",
       "description": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
       "url": "https://github.com/op7418/pilot-harness",
-      "stars": 250,
-      "forks": 13,
+      "stars": 251,
+      "forks": 14,
       "language": "TypeScript",
-      "updated_at": "2026-08-21T15:43:30Z"
+      "updated_at": "2026-08-22T11:02:15Z"
     }
   ]
 }
