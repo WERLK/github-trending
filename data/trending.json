@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-08-26T00:28:16.747Z",
+  "fetched_at": "2026-08-27T05:12:45.739Z",
   "repos": [
     {
       "name": "MengTo/threeui",
       "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
       "url": "https://github.com/MengTo/threeui",
-      "stars": 3907,
-      "forks": 386,
+      "stars": 4221,
+      "forks": 420,
       "language": "HTML",
-      "updated_at": "2026-08-26T00:15:52Z"
+      "updated_at": "2026-08-27T05:05:21Z"
     },
     {
       "name": "b-nnett/grok-bot-0.18-reconstructed",
       "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
       "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "stars": 2542,
-      "forks": 2843,
+      "stars": 3128,
+      "forks": 3159,
       "language": "TypeScript",
-      "updated_at": "2026-08-26T00:23:08Z"
+      "updated_at": "2026-08-27T05:08:56Z"
     },
     {
       "name": "tobi/walgit",
       "description": null,
       "url": "https://github.com/tobi/walgit",
-      "stars": 1543,
-      "forks": 85,
+      "stars": 2082,
+      "forks": 111,
       "language": "Rust",
-      "updated_at": "2026-08-26T00:27:01Z"
+      "updated_at": "2026-08-27T05:09:42Z"
     },
     {
       "name": "duty1g/x64dbg-mcp-server",
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "stars": 1380,
-      "forks": 135,
+      "stars": 1478,
+      "forks": 144,
       "language": "Zig",
-      "updated_at": "2026-08-26T00:24:52Z"
-    },
-    {
-      "name": "cclank/lanshu-create-ai-presenter-video",
-      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-      "stars": 913,
-      "forks": 165,
-      "language": "Python",
-      "updated_at": "2026-08-26T00:10:35Z"
+      "updated_at": "2026-08-27T04:23:44Z"
     },
     {
       "name": "nateherkai/scroll-craft",
       "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
       "url": "https://github.com/nateherkai/scroll-craft",
-      "stars": 907,
-      "forks": 147,
+      "stars": 1027,
+      "forks": 166,
       "language": "JavaScript",
-      "updated_at": "2026-08-26T00:13:22Z"
-    },
-    {
-      "name": "ShadowAqueduct/watermark-remover",
-      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "url": "https://github.com/ShadowAqueduct/watermark-remover",
-      "stars": 791,
-      "forks": 75,
-      "language": "Python",
-      "updated_at": "2026-08-25T22:31:27Z"
+      "updated_at": "2026-08-27T04:56:57Z"
     },
     {
       "name": "ApodexAI/FrontierAgent",
       "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
       "url": "https://github.com/ApodexAI/FrontierAgent",
-      "stars": 565,
-      "forks": 57,
+      "stars": 1019,
+      "forks": 85,
       "language": "Python",
-      "updated_at": "2026-08-26T00:26:20Z"
+      "updated_at": "2026-08-27T05:09:15Z"
     },
     {
       "name": "bryllim/workout-guide",
       "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
       "url": "https://github.com/bryllim/workout-guide",
-      "stars": 516,
-      "forks": 92,
+      "stars": 865,
+      "forks": 135,
       "language": "Astro",
-      "updated_at": "2026-08-25T23:58:44Z"
+      "updated_at": "2026-08-27T05:12:42Z"
     },
     {
-      "name": "Forsy-AI/biosecurity-agent",
-      "description": "AI agent that builds a live biosecurity world around any target.",
-      "url": "https://github.com/Forsy-AI/biosecurity-agent",
-      "stars": 514,
-      "forks": 17,
-      "language": "TypeScript",
-      "updated_at": "2026-08-25T20:03:27Z"
-    },
-    {
-      "name": "xdreizein666/getcontact-cli",
-      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
-      "url": "https://github.com/xdreizein666/getcontact-cli",
-      "stars": 487,
-      "forks": 118,
-      "language": "Python",
-      "updated_at": "2026-08-26T00:17:20Z"
-    },
-    {
-      "name": "localai-org/kimodo.cpp",
-      "description": "NVIDIA Kimodo ported to C++/GGML",
-      "url": "https://github.com/localai-org/kimodo.cpp",
-      "stars": 463,
-      "forks": 39,
-      "language": "C++",
-      "updated_at": "2026-08-25T21:26:48Z"
-    },
-    {
-      "name": "RobertGolds1/Gradient",
-      "description": "Gradient",
-      "url": "https://github.com/RobertGolds1/Gradient",
-      "stars": 391,
-      "forks": 14,
-      "language": "Python",
-      "updated_at": "2026-08-26T00:25:49Z"
-    },
-    {
-      "name": "LB623/no-negative-echo",
-      "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
-      "url": "https://github.com/LB623/no-negative-echo",
-      "stars": 386,
-      "forks": 11,
-      "language": "Python",
-      "updated_at": "2026-08-25T22:01:51Z"
-    },
-    {
-      "name": "kgoedecke/doop",
-      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "url": "https://github.com/kgoedecke/doop",
-      "stars": 363,
-      "forks": 38,
-      "language": "TypeScript",
-      "updated_at": "2026-08-25T23:35:57Z"
-    },
-    {
-      "name": "fzakaria/selfdb",
-      "description": null,
-      "url": "https://github.com/fzakaria/selfdb",
-      "stars": 336,
-      "forks": 7,
-      "language": "Python",
-      "updated_at": "2026-08-26T00:21:55Z"
-    },
-    {
-      "name": "rome-os/rome",
-      "description": "Rome is the agentic OS.",
-      "url": "https://github.com/rome-os/rome",
-      "stars": 333,
-      "forks": 18,
-      "language": "TypeScript",
-      "updated_at": "2026-08-26T00:28:10Z"
-    },
-    {
-      "name": "kunchenguid/backpass",
-      "description": "You don't write AGENTS.md. You train it with gradient descent.",
-      "url": "https://github.com/kunchenguid/backpass",
-      "stars": 329,
-      "forks": 15,
-      "language": "JavaScript",
-      "updated_at": "2026-08-26T00:07:15Z"
-    },
-    {
-      "name": "inkboard/system-atlas",
-      "description": "An agent skill that turns an architecture discussion into an explorable isometric atlas: one data file, an interactive map and a generated SYSTEM.md",
-      "url": "https://github.com/inkboard/system-atlas",
-      "stars": 303,
-      "forks": 13,
-      "language": "HTML",
-      "updated_at": "2026-08-25T22:35:35Z"
-    },
-    {
-      "name": "ChenShuo2004/cs-board",
-      "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
-      "url": "https://github.com/ChenShuo2004/cs-board",
-      "stars": 297,
-      "forks": 58,
-      "language": "Python",
-      "updated_at": "2026-08-25T23:08:15Z"
-    },
-    {
-      "name": "bam-bam-2/solo-skills",
-      "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
-      "url": "https://github.com/bam-bam-2/solo-skills",
-      "stars": 297,
+      "name": "ShadowAqueduct/watermark-remover",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "stars": 808,
       "forks": 76,
       "language": "Python",
-      "updated_at": "2026-08-25T22:12:27Z"
+      "updated_at": "2026-08-27T04:28:45Z"
+    },
+    {
+      "name": "wide-trace/open-higgsfield",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "stars": 608,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2026-08-27T05:11:43Z"
     },
     {
       "name": "themartiano/try-omarchy",
       "description": "Try Omarchy on Apple Silicon without any setup.",
       "url": "https://github.com/themartiano/try-omarchy",
-      "stars": 285,
-      "forks": 8,
+      "stars": 571,
+      "forks": 23,
       "language": "Shell",
-      "updated_at": "2026-08-26T00:25:55Z"
+      "updated_at": "2026-08-27T04:56:27Z"
+    },
+    {
+      "name": "yding-git/personal-edge-proxy",
+      "description": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
+      "url": "https://github.com/yding-git/personal-edge-proxy",
+      "stars": 547,
+      "forks": 60,
+      "language": null,
+      "updated_at": "2026-08-27T05:12:13Z"
+    },
+    {
+      "name": "Forsy-AI/biosecurity-agent",
+      "description": "AI agent that builds a live biosecurity world around any target.",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "stars": 512,
+      "forks": 17,
+      "language": "TypeScript",
+      "updated_at": "2026-08-26T21:30:53Z"
+    },
+    {
+      "name": "LB623/no-negative-echo",
+      "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+      "url": "https://github.com/LB623/no-negative-echo",
+      "stars": 503,
+      "forks": 11,
+      "language": "Python",
+      "updated_at": "2026-08-27T03:48:33Z"
+    },
+    {
+      "name": "localai-org/kimodo.cpp",
+      "description": "NVIDIA Kimodo ported to C++/GGML",
+      "url": "https://github.com/localai-org/kimodo.cpp",
+      "stars": 491,
+      "forks": 43,
+      "language": "C++",
+      "updated_at": "2026-08-27T03:52:51Z"
+    },
+    {
+      "name": "N4darae/anti-mage",
+      "description": "Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters.",
+      "url": "https://github.com/N4darae/anti-mage",
+      "stars": 441,
+      "forks": 32,
+      "language": "Go",
+      "updated_at": "2026-08-27T05:08:23Z"
+    },
+    {
+      "name": "GradientRL/Gradient",
+      "description": "Gradient",
+      "url": "https://github.com/GradientRL/Gradient",
+      "stars": 435,
+      "forks": 16,
+      "language": "Python",
+      "updated_at": "2026-08-27T01:22:52Z"
     },
     {
       "name": "amosblomqvist/learn",
       "description": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
-      "stars": 274,
-      "forks": 33,
+      "stars": 431,
+      "forks": 45,
       "language": "TypeScript",
-      "updated_at": "2026-08-26T00:21:33Z"
+      "updated_at": "2026-08-27T05:07:26Z"
     },
     {
-      "name": "MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark",
-      "description": "DeepSeek v4 Flash EXL3 on one DGX Spark",
-      "url": "https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark",
-      "stars": 260,
-      "forks": 29,
+      "name": "kunchenguid/backpass",
+      "description": "You don't write AGENTS.md. You train it with gradient descent.",
+      "url": "https://github.com/kunchenguid/backpass",
+      "stars": 428,
+      "forks": 19,
+      "language": "JavaScript",
+      "updated_at": "2026-08-27T04:59:18Z"
+    },
+    {
+      "name": "fzakaria/selfdb",
+      "description": null,
+      "url": "https://github.com/fzakaria/selfdb",
+      "stars": 422,
+      "forks": 10,
       "language": "Python",
-      "updated_at": "2026-08-26T00:19:16Z"
+      "updated_at": "2026-08-27T03:56:43Z"
+    },
+    {
+      "name": "kgoedecke/doop",
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "url": "https://github.com/kgoedecke/doop",
+      "stars": 420,
+      "forks": 40,
+      "language": "TypeScript",
+      "updated_at": "2026-08-27T02:57:52Z"
+    },
+    {
+      "name": "halofyai/halofy",
+      "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+      "url": "https://github.com/halofyai/halofy",
+      "stars": 373,
+      "forks": 4,
+      "language": "TypeScript",
+      "updated_at": "2026-08-27T05:05:46Z"
+    },
+    {
+      "name": "rome-os/rome",
+      "description": "Rome is the agentic OS.",
+      "url": "https://github.com/rome-os/rome",
+      "stars": 362,
+      "forks": 19,
+      "language": "TypeScript",
+      "updated_at": "2026-08-27T04:20:36Z"
     },
     {
       "name": "GamePhanes/GamePhanes",
       "description": "An open-source game coding agent environment and benchmark for Godot.",
       "url": "https://github.com/GamePhanes/GamePhanes",
-      "stars": 254,
-      "forks": 6,
+      "stars": 339,
+      "forks": 7,
       "language": "JavaScript",
-      "updated_at": "2026-08-25T20:30:28Z"
+      "updated_at": "2026-08-26T08:39:00Z"
     },
     {
-      "name": "alchaincyf/huashu-excel",
-      "description": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
-      "url": "https://github.com/alchaincyf/huashu-excel",
-      "stars": 253,
-      "forks": 41,
+      "name": "ChenShuo2004/cs-board",
+      "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+      "url": "https://github.com/ChenShuo2004/cs-board",
+      "stars": 334,
+      "forks": 64,
       "language": "Python",
-      "updated_at": "2026-08-26T00:24:53Z"
+      "updated_at": "2026-08-27T03:14:16Z"
     },
     {
       "name": "lxf746/outlook-auto-register",
       "description": "Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
       "url": "https://github.com/lxf746/outlook-auto-register",
-      "stars": 244,
-      "forks": 128,
+      "stars": 324,
+      "forks": 170,
       "language": "Python",
-      "updated_at": "2026-08-25T23:56:21Z"
+      "updated_at": "2026-08-27T04:57:37Z"
     },
     {
-      "name": "thiagotigaz/ocr-it",
-      "description": "Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract.",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "stars": 239,
-      "forks": 14,
-      "language": "JavaScript",
-      "updated_at": "2026-08-25T21:46:15Z"
+      "name": "bam-bam-2/solo-skills",
+      "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+      "url": "https://github.com/bam-bam-2/solo-skills",
+      "stars": 315,
+      "forks": 78,
+      "language": "Python",
+      "updated_at": "2026-08-27T03:48:46Z"
+    },
+    {
+      "name": "alchaincyf/huashu-excel",
+      "description": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
+      "url": "https://github.com/alchaincyf/huashu-excel",
+      "stars": 302,
+      "forks": 46,
+      "language": "Python",
+      "updated_at": "2026-08-27T04:33:18Z"
+    },
+    {
+      "name": "Tencent/WeMM-Embedding",
+      "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+      "url": "https://github.com/Tencent/WeMM-Embedding",
+      "stars": 270,
+      "forks": 13,
+      "language": "Python",
+      "updated_at": "2026-08-27T05:09:29Z"
     },
     {
       "name": "sodiumsun/agenttrail",
       "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
       "url": "https://github.com/sodiumsun/agenttrail",
-      "stars": 231,
-      "forks": 12,
+      "stars": 268,
+      "forks": 15,
       "language": "HTML",
-      "updated_at": "2026-08-25T23:48:18Z"
+      "updated_at": "2026-08-27T03:52:23Z"
     },
     {
-      "name": "TarunTomar122/better-voice",
-      "description": "Voice dictation with the screen context you point at.",
-      "url": "https://github.com/TarunTomar122/better-voice",
-      "stars": 226,
-      "forks": 37,
-      "language": "Swift",
-      "updated_at": "2026-08-26T00:03:51Z"
+      "name": "oboroge0/hayamimi",
+      "description": "早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser dashboard, speaker labels, translation. No GPU, no cloud.",
+      "url": "https://github.com/oboroge0/hayamimi",
+      "stars": 261,
+      "forks": 15,
+      "language": "Python",
+      "updated_at": "2026-08-27T05:03:06Z"
     }
   ]
 }
