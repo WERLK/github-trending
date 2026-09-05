@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-09-04T01:30:03.205Z",
+  "fetched_at": "2026-09-05T01:31:29.672Z",
   "repos": [
+    {
+      "name": "lnkiai/m3e-canvas",
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "stars": 1998,
+      "forks": 136,
+      "language": "TypeScript",
+      "updated_at": "2026-09-05T01:31:01Z"
+    },
     {
       "name": "anthropics/commerce-agents",
       "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
-      "stars": 1570,
-      "forks": 247,
+      "stars": 1931,
+      "forks": 320,
       "language": "Python",
-      "updated_at": "2026-09-04T01:29:58Z"
-    },
-    {
-      "name": "rakanki911/DLSS5-Swapper",
-      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-      "url": "https://github.com/rakanki911/DLSS5-Swapper",
-      "stars": 1098,
-      "forks": 49,
-      "language": "JavaScript",
-      "updated_at": "2026-09-04T01:29:04Z"
-    },
-    {
-      "name": "GangTailorUpgrade/undress-service",
-      "description": "Dress AI Sponsor",
-      "url": "https://github.com/GangTailorUpgrade/undress-service",
-      "stars": 1017,
-      "forks": 1,
-      "language": "Python",
-      "updated_at": "2026-09-04T01:22:22Z"
+      "updated_at": "2026-09-05T01:27:13Z"
     },
     {
       "name": "shadcn-ui/cn",
       "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
       "url": "https://github.com/shadcn-ui/cn",
-      "stars": 962,
+      "stars": 1107,
       "forks": 7,
       "language": "TypeScript",
-      "updated_at": "2026-09-04T01:27:46Z"
+      "updated_at": "2026-09-05T00:51:37Z"
+    },
+    {
+      "name": "GangTailorUpgrade/undress-service",
+      "description": "Dress AI Sponsor",
+      "url": "https://github.com/GangTailorUpgrade/undress-service",
+      "stars": 1055,
+      "forks": 1,
+      "language": "Python",
+      "updated_at": "2026-09-05T01:30:16Z"
     },
     {
       "name": "2akouwu/reverify",
       "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
       "url": "https://github.com/2akouwu/reverify",
-      "stars": 786,
-      "forks": 165,
+      "stars": 883,
+      "forks": 190,
       "language": "Python",
-      "updated_at": "2026-09-04T01:15:24Z"
-    },
-    {
-      "name": "jlrouzies-fr/DLSS5-Feeder",
-      "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
-      "url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
-      "stars": 670,
-      "forks": 31,
-      "language": "C++",
-      "updated_at": "2026-09-04T01:21:49Z"
-    },
-    {
-      "name": "lnkiai/m3e-canvas",
-      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "url": "https://github.com/lnkiai/m3e-canvas",
-      "stars": 487,
-      "forks": 29,
-      "language": "TypeScript",
-      "updated_at": "2026-09-04T01:12:02Z"
-    },
-    {
-      "name": "MSNightmare/FalconFlank",
-      "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
-      "url": "https://github.com/MSNightmare/FalconFlank",
-      "stars": 418,
-      "forks": 106,
-      "language": "C",
-      "updated_at": "2026-09-04T01:21:48Z"
-    },
-    {
-      "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
-      "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
-      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-      "stars": 416,
-      "forks": 9,
-      "language": "Shell",
-      "updated_at": "2026-09-04T01:25:13Z"
-    },
-    {
-      "name": "Merserk/dlss5-visual-enhancer",
-      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
-      "stars": 395,
-      "forks": 36,
-      "language": "Python",
-      "updated_at": "2026-09-04T01:03:40Z"
-    },
-    {
-      "name": "subsy/skill-cabinet",
-      "description": null,
-      "url": "https://github.com/subsy/skill-cabinet",
-      "stars": 381,
-      "forks": 25,
-      "language": "JavaScript",
-      "updated_at": "2026-09-03T17:42:43Z"
-    },
-    {
-      "name": "PhiloLabs/fable51-worlds",
-      "description": "worlds via code, from fable 5.1",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "stars": 379,
-      "forks": 16,
-      "language": "JavaScript",
-      "updated_at": "2026-09-04T01:22:00Z"
-    },
-    {
-      "name": "aimen08/noty",
-      "description": "Sticky notes that live at the edge of your screen. Native macOS, SwiftUI + AppKit, local-only with encrypted note bodies.",
-      "url": "https://github.com/aimen08/noty",
-      "stars": 344,
-      "forks": 54,
-      "language": "HTML",
-      "updated_at": "2026-09-04T01:23:11Z"
-    },
-    {
-      "name": "faisalkindi/DLSS5oneclick",
-      "description": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
-      "url": "https://github.com/faisalkindi/DLSS5oneclick",
-      "stars": 341,
-      "forks": 23,
-      "language": "Rust",
-      "updated_at": "2026-09-04T01:21:58Z"
-    },
-    {
-      "name": "codejunkie99/fable-orchestrator",
-      "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
-      "url": "https://github.com/codejunkie99/fable-orchestrator",
-      "stars": 330,
-      "forks": 55,
-      "language": "Shell",
-      "updated_at": "2026-09-04T01:17:23Z"
-    },
-    {
-      "name": "siknet/FreePEP",
-      "description": "人教社电子教材下载器",
-      "url": "https://github.com/siknet/FreePEP",
-      "stars": 322,
-      "forks": 46,
-      "language": "Python",
-      "updated_at": "2026-09-03T22:43:16Z"
-    },
-    {
-      "name": "Human-Agent-Society/reef",
-      "description": "Continual learning infra for self-improving agents",
-      "url": "https://github.com/Human-Agent-Society/reef",
-      "stars": 283,
-      "forks": 22,
-      "language": "Python",
-      "updated_at": "2026-09-04T00:30:34Z"
-    },
-    {
-      "name": "useagenthq/useagent",
-      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "url": "https://github.com/useagenthq/useagent",
-      "stars": 282,
-      "forks": 58,
-      "language": "TypeScript",
-      "updated_at": "2026-09-04T00:08:51Z"
-    },
-    {
-      "name": "TetreesEX/TetreesAgent_EX",
-      "description": "This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
-      "url": "https://github.com/TetreesEX/TetreesAgent_EX",
-      "stars": 275,
-      "forks": 274,
-      "language": "JavaScript",
-      "updated_at": "2026-09-03T12:17:44Z"
-    },
-    {
-      "name": "LAMDA-NeSy/Research-Starter-Kit",
-      "description": "从0开始，掌握做科研、写论文的基本流程。",
-      "url": "https://github.com/LAMDA-NeSy/Research-Starter-Kit",
-      "stars": 274,
-      "forks": 8,
-      "language": null,
-      "updated_at": "2026-09-04T01:06:05Z"
-    },
-    {
-      "name": "dreamers-laboratory/image-to-3d-pipeline",
-      "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
-      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
-      "stars": 242,
-      "forks": 18,
-      "language": "JavaScript",
-      "updated_at": "2026-09-03T09:55:29Z"
-    },
-    {
-      "name": "mizorewww/course2md",
-      "description": "Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
-      "url": "https://github.com/mizorewww/course2md",
-      "stars": 240,
-      "forks": 12,
-      "language": "Rust",
-      "updated_at": "2026-09-03T23:43:53Z"
+      "updated_at": "2026-09-05T01:27:52Z"
     },
     {
       "name": "nahrek/polyledger",
       "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
       "url": "https://github.com/nahrek/polyledger",
-      "stars": 232,
+      "stars": 614,
+      "forks": 109,
+      "language": "Python",
+      "updated_at": "2026-09-05T01:26:28Z"
+    },
+    {
+      "name": "MSNightmare/FalconFlank",
+      "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+      "url": "https://github.com/MSNightmare/FalconFlank",
+      "stars": 501,
+      "forks": 132,
+      "language": "C",
+      "updated_at": "2026-09-05T01:18:48Z"
+    },
+    {
+      "name": "Merserk/dlss5-visual-enhancer",
+      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+      "stars": 488,
+      "forks": 39,
+      "language": "Python",
+      "updated_at": "2026-09-04T23:12:52Z"
+    },
+    {
+      "name": "codejunkie99/fable-orchestrator",
+      "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+      "url": "https://github.com/codejunkie99/fable-orchestrator",
+      "stars": 467,
       "forks": 84,
-      "language": "Python",
-      "updated_at": "2026-09-04T01:02:41Z"
-    },
-    {
-      "name": "blendi-remade/interdimensional-game",
-      "description": "Create your own adventure with realtime video!",
-      "url": "https://github.com/blendi-remade/interdimensional-game",
-      "stars": 229,
-      "forks": 31,
-      "language": "TypeScript",
-      "updated_at": "2026-09-04T01:16:44Z"
-    },
-    {
-      "name": "yilujian/easy-writing",
-      "description": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
-      "url": "https://github.com/yilujian/easy-writing",
-      "stars": 225,
-      "forks": 50,
-      "language": "Vue",
-      "updated_at": "2026-09-04T01:25:06Z"
-    },
-    {
-      "name": "tsouth89/omakade",
-      "description": "A beautiful, local-first game library built for Omarchy.",
-      "url": "https://github.com/tsouth89/omakade",
-      "stars": 218,
-      "forks": 10,
-      "language": "C++",
-      "updated_at": "2026-09-04T00:27:59Z"
-    },
-    {
-      "name": "LIUFelix2004/God-minmax-H3",
-      "description": null,
-      "url": "https://github.com/LIUFelix2004/God-minmax-H3",
-      "stars": 209,
-      "forks": 26,
       "language": "Shell",
-      "updated_at": "2026-09-04T01:24:51Z"
+      "updated_at": "2026-09-05T01:01:11Z"
     },
     {
-      "name": "reactor-team/infinite-livestream",
-      "description": null,
-      "url": "https://github.com/reactor-team/infinite-livestream",
-      "stars": 207,
-      "forks": 32,
+      "name": "danielblnc/DLSS-NR-on-AMD",
+      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+      "stars": 451,
+      "forks": 15,
+      "language": null,
+      "updated_at": "2026-09-05T01:18:20Z"
+    },
+    {
+      "name": "PhiloLabs/fable51-worlds",
+      "description": "worlds via code, from fable 5.1",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "stars": 425,
+      "forks": 20,
+      "language": "JavaScript",
+      "updated_at": "2026-09-05T01:04:46Z"
+    },
+    {
+      "name": "Human-Agent-Society/reef",
+      "description": "Continual learning infra for self-improving agents",
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "stars": 423,
+      "forks": 33,
       "language": "Python",
-      "updated_at": "2026-09-03T14:09:45Z"
+      "updated_at": "2026-09-05T01:24:41Z"
+    },
+    {
+      "name": "Albert-Weasker/niubigeo",
+      "description": "Open-source AI brand visibility and competitor reports",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "stars": 406,
+      "forks": 30,
+      "language": "TypeScript",
+      "updated_at": "2026-09-05T00:59:41Z"
+    },
+    {
+      "name": "subsy/skill-cabinet",
+      "description": null,
+      "url": "https://github.com/subsy/skill-cabinet",
+      "stars": 389,
+      "forks": 25,
+      "language": "JavaScript",
+      "updated_at": "2026-09-04T21:35:13Z"
+    },
+    {
+      "name": "faisalkindi/DLSS5oneclick",
+      "description": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
+      "url": "https://github.com/faisalkindi/DLSS5oneclick",
+      "stars": 385,
+      "forks": 27,
+      "language": "Rust",
+      "updated_at": "2026-09-05T00:54:47Z"
+    },
+    {
+      "name": "siknet/FreePEP",
+      "description": "人教社电子教材下载器",
+      "url": "https://github.com/siknet/FreePEP",
+      "stars": 333,
+      "forks": 49,
+      "language": "Python",
+      "updated_at": "2026-09-05T01:05:06Z"
+    },
+    {
+      "name": "ahujasid/camera-to-blender",
+      "description": "Take a photo of real objects, and paste them in Blender",
+      "url": "https://github.com/ahujasid/camera-to-blender",
+      "stars": 329,
+      "forks": 39,
+      "language": "JavaScript",
+      "updated_at": "2026-09-05T01:30:04Z"
+    },
+    {
+      "name": "op7418/guizang-yingzao-skill",
+      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "stars": 317,
+      "forks": 27,
+      "language": "Python",
+      "updated_at": "2026-09-05T00:50:39Z"
+    },
+    {
+      "name": "kydlikebtc/awesome-grokbot",
+      "description": "440 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+      "url": "https://github.com/kydlikebtc/awesome-grokbot",
+      "stars": 307,
+      "forks": 16,
+      "language": "Python",
+      "updated_at": "2026-09-04T23:40:01Z"
+    },
+    {
+      "name": "dreamers-laboratory/image-to-3d-pipeline",
+      "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
+      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
+      "stars": 300,
+      "forks": 26,
+      "language": "JavaScript",
+      "updated_at": "2026-09-05T01:05:47Z"
+    },
+    {
+      "name": "anthropics/fermats-last-theorem",
+      "description": null,
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "stars": 300,
+      "forks": 21,
+      "language": "Lean",
+      "updated_at": "2026-09-05T01:29:20Z"
     },
     {
       "name": "LunarXuan/image-prompt-reverse",
       "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
       "url": "https://github.com/LunarXuan/image-prompt-reverse",
-      "stars": 204,
-      "forks": 20,
+      "stars": 281,
+      "forks": 30,
       "language": null,
-      "updated_at": "2026-09-04T00:38:20Z"
+      "updated_at": "2026-09-05T00:54:34Z"
+    },
+    {
+      "name": "yilujian/easy-writing",
+      "description": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
+      "url": "https://github.com/yilujian/easy-writing",
+      "stars": 272,
+      "forks": 54,
+      "language": "Vue",
+      "updated_at": "2026-09-05T01:00:51Z"
+    },
+    {
+      "name": "thisisgm/flea",
+      "description": "A fast, keyboard-first file manager for Omarchy: Quickshell front end, Rust backend.",
+      "url": "https://github.com/thisisgm/flea",
+      "stars": 268,
+      "forks": 21,
+      "language": "Shell",
+      "updated_at": "2026-09-05T01:07:30Z"
+    },
+    {
+      "name": "OpenVDN/vdn-minimax-h3",
+      "description": null,
+      "url": "https://github.com/OpenVDN/vdn-minimax-h3",
+      "stars": 257,
+      "forks": 16,
+      "language": "Python",
+      "updated_at": "2026-09-04T23:24:22Z"
+    },
+    {
+      "name": "btsouth/omakade",
+      "description": "A beautiful, local-first game library built for Omarchy.",
+      "url": "https://github.com/btsouth/omakade",
+      "stars": 254,
+      "forks": 11,
+      "language": "C++",
+      "updated_at": "2026-09-05T01:18:38Z"
+    },
+    {
+      "name": "mizorewww/course2md",
+      "description": "Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
+      "url": "https://github.com/mizorewww/course2md",
+      "stars": 251,
+      "forks": 12,
+      "language": "Rust",
+      "updated_at": "2026-09-05T00:05:08Z"
     },
     {
       "name": "aaronyi97/image-story-video-wizard",
       "description": "A confirmation-gated Codex and WorkBuddy skill for audio-first image-story video production.",
       "url": "https://github.com/aaronyi97/image-story-video-wizard",
-      "stars": 200,
-      "forks": 27,
+      "stars": 243,
+      "forks": 34,
       "language": "Python",
-      "updated_at": "2026-09-04T01:28:11Z"
+      "updated_at": "2026-09-05T01:26:27Z"
+    },
+    {
+      "name": "blendi-remade/interdimensional-game",
+      "description": "Create your own adventure with realtime video!",
+      "url": "https://github.com/blendi-remade/interdimensional-game",
+      "stars": 234,
+      "forks": 33,
+      "language": "TypeScript",
+      "updated_at": "2026-09-04T13:34:07Z"
+    },
+    {
+      "name": "florinp93/hells-gate-recomp",
+      "description": "Xbox 360 to PC port of Dante's Inferno using ReXGlue (static recompilation)",
+      "url": "https://github.com/florinp93/hells-gate-recomp",
+      "stars": 230,
+      "forks": 10,
+      "language": "C#",
+      "updated_at": "2026-09-05T01:05:11Z"
     }
   ]
 }
