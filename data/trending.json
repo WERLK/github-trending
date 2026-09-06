@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-09-05T01:31:29.672Z",
+  "fetched_at": "2026-09-06T01:25:41.661Z",
   "repos": [
     {
       "name": "lnkiai/m3e-canvas",
       "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "url": "https://github.com/lnkiai/m3e-canvas",
-      "stars": 1998,
-      "forks": 136,
+      "stars": 3706,
+      "forks": 310,
       "language": "TypeScript",
-      "updated_at": "2026-09-05T01:31:01Z"
+      "updated_at": "2026-09-06T01:23:14Z"
     },
     {
       "name": "anthropics/commerce-agents",
       "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
-      "stars": 1931,
-      "forks": 320,
+      "stars": 2051,
+      "forks": 347,
       "language": "Python",
-      "updated_at": "2026-09-05T01:27:13Z"
+      "updated_at": "2026-09-06T01:12:30Z"
     },
     {
       "name": "shadcn-ui/cn",
       "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
       "url": "https://github.com/shadcn-ui/cn",
-      "stars": 1107,
-      "forks": 7,
+      "stars": 1170,
+      "forks": 9,
       "language": "TypeScript",
-      "updated_at": "2026-09-05T00:51:37Z"
+      "updated_at": "2026-09-06T00:57:01Z"
     },
     {
       "name": "GangTailorUpgrade/undress-service",
       "description": "Dress AI Sponsor",
       "url": "https://github.com/GangTailorUpgrade/undress-service",
-      "stars": 1055,
+      "stars": 1091,
       "forks": 1,
       "language": "Python",
-      "updated_at": "2026-09-05T01:30:16Z"
+      "updated_at": "2026-09-06T01:03:27Z"
     },
     {
       "name": "2akouwu/reverify",
-      "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+      "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "url": "https://github.com/2akouwu/reverify",
-      "stars": 883,
-      "forks": 190,
+      "stars": 923,
+      "forks": 199,
       "language": "Python",
-      "updated_at": "2026-09-05T01:27:52Z"
+      "updated_at": "2026-09-05T23:15:44Z"
     },
     {
-      "name": "nahrek/polyledger",
-      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "url": "https://github.com/nahrek/polyledger",
-      "stars": 614,
-      "forks": 109,
-      "language": "Python",
-      "updated_at": "2026-09-05T01:26:28Z"
-    },
-    {
-      "name": "MSNightmare/FalconFlank",
-      "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
-      "url": "https://github.com/MSNightmare/FalconFlank",
-      "stars": 501,
-      "forks": 132,
-      "language": "C",
-      "updated_at": "2026-09-05T01:18:48Z"
-    },
-    {
-      "name": "Merserk/dlss5-visual-enhancer",
-      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
-      "stars": 488,
-      "forks": 39,
-      "language": "Python",
-      "updated_at": "2026-09-04T23:12:52Z"
-    },
-    {
-      "name": "codejunkie99/fable-orchestrator",
-      "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
-      "url": "https://github.com/codejunkie99/fable-orchestrator",
-      "stars": 467,
-      "forks": 84,
-      "language": "Shell",
-      "updated_at": "2026-09-05T01:01:11Z"
-    },
-    {
-      "name": "danielblnc/DLSS-NR-on-AMD",
-      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
-      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
-      "stars": 451,
-      "forks": 15,
-      "language": null,
-      "updated_at": "2026-09-05T01:18:20Z"
-    },
-    {
-      "name": "PhiloLabs/fable51-worlds",
-      "description": "worlds via code, from fable 5.1",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "stars": 425,
-      "forks": 20,
+      "name": "yczz/oc-english",
+      "description": "养成类游戏英语学习",
+      "url": "https://github.com/yczz/oc-english",
+      "stars": 822,
+      "forks": 8,
       "language": "JavaScript",
-      "updated_at": "2026-09-05T01:04:46Z"
-    },
-    {
-      "name": "Human-Agent-Society/reef",
-      "description": "Continual learning infra for self-improving agents",
-      "url": "https://github.com/Human-Agent-Society/reef",
-      "stars": 423,
-      "forks": 33,
-      "language": "Python",
-      "updated_at": "2026-09-05T01:24:41Z"
-    },
-    {
-      "name": "Albert-Weasker/niubigeo",
-      "description": "Open-source AI brand visibility and competitor reports",
-      "url": "https://github.com/Albert-Weasker/niubigeo",
-      "stars": 406,
-      "forks": 30,
-      "language": "TypeScript",
-      "updated_at": "2026-09-05T00:59:41Z"
-    },
-    {
-      "name": "subsy/skill-cabinet",
-      "description": null,
-      "url": "https://github.com/subsy/skill-cabinet",
-      "stars": 389,
-      "forks": 25,
-      "language": "JavaScript",
-      "updated_at": "2026-09-04T21:35:13Z"
-    },
-    {
-      "name": "faisalkindi/DLSS5oneclick",
-      "description": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
-      "url": "https://github.com/faisalkindi/DLSS5oneclick",
-      "stars": 385,
-      "forks": 27,
-      "language": "Rust",
-      "updated_at": "2026-09-05T00:54:47Z"
-    },
-    {
-      "name": "siknet/FreePEP",
-      "description": "人教社电子教材下载器",
-      "url": "https://github.com/siknet/FreePEP",
-      "stars": 333,
-      "forks": 49,
-      "language": "Python",
-      "updated_at": "2026-09-05T01:05:06Z"
-    },
-    {
-      "name": "ahujasid/camera-to-blender",
-      "description": "Take a photo of real objects, and paste them in Blender",
-      "url": "https://github.com/ahujasid/camera-to-blender",
-      "stars": 329,
-      "forks": 39,
-      "language": "JavaScript",
-      "updated_at": "2026-09-05T01:30:04Z"
-    },
-    {
-      "name": "op7418/guizang-yingzao-skill",
-      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-      "url": "https://github.com/op7418/guizang-yingzao-skill",
-      "stars": 317,
-      "forks": 27,
-      "language": "Python",
-      "updated_at": "2026-09-05T00:50:39Z"
-    },
-    {
-      "name": "kydlikebtc/awesome-grokbot",
-      "description": "440 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
-      "url": "https://github.com/kydlikebtc/awesome-grokbot",
-      "stars": 307,
-      "forks": 16,
-      "language": "Python",
-      "updated_at": "2026-09-04T23:40:01Z"
-    },
-    {
-      "name": "dreamers-laboratory/image-to-3d-pipeline",
-      "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
-      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
-      "stars": 300,
-      "forks": 26,
-      "language": "JavaScript",
-      "updated_at": "2026-09-05T01:05:47Z"
+      "updated_at": "2026-09-05T19:52:32Z"
     },
     {
       "name": "anthropics/fermats-last-theorem",
       "description": null,
       "url": "https://github.com/anthropics/fermats-last-theorem",
-      "stars": 300,
-      "forks": 21,
+      "stars": 695,
+      "forks": 50,
       "language": "Lean",
-      "updated_at": "2026-09-05T01:29:20Z"
+      "updated_at": "2026-09-06T01:22:43Z"
     },
     {
-      "name": "LunarXuan/image-prompt-reverse",
-      "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
-      "url": "https://github.com/LunarXuan/image-prompt-reverse",
-      "stars": 281,
-      "forks": 30,
+      "name": "danielblnc/DLSS-NR-on-AMD",
+      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+      "stars": 655,
+      "forks": 27,
       "language": null,
-      "updated_at": "2026-09-05T00:54:34Z"
+      "updated_at": "2026-09-06T01:23:48Z"
+    },
+    {
+      "name": "nahrek/polyledger",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "url": "https://github.com/nahrek/polyledger",
+      "stars": 620,
+      "forks": 109,
+      "language": "Python",
+      "updated_at": "2026-09-06T00:03:52Z"
+    },
+    {
+      "name": "MSNightmare/FalconFlank",
+      "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+      "url": "https://github.com/MSNightmare/FalconFlank",
+      "stars": 515,
+      "forks": 136,
+      "language": "C",
+      "updated_at": "2026-09-05T23:02:18Z"
+    },
+    {
+      "name": "codejunkie99/fable-orchestrator",
+      "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+      "url": "https://github.com/codejunkie99/fable-orchestrator",
+      "stars": 512,
+      "forks": 97,
+      "language": "Shell",
+      "updated_at": "2026-09-06T00:25:20Z"
+    },
+    {
+      "name": "Human-Agent-Society/reef",
+      "description": "Continual learning infra for self-improving agents",
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "stars": 481,
+      "forks": 38,
+      "language": "Python",
+      "updated_at": "2026-09-06T00:25:01Z"
+    },
+    {
+      "name": "Albert-Weasker/niubigeo",
+      "description": "Open-source AI brand visibility and competitor reports",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "stars": 459,
+      "forks": 34,
+      "language": "TypeScript",
+      "updated_at": "2026-09-06T00:38:22Z"
+    },
+    {
+      "name": "faisalkindi/DLSS5oneclick",
+      "description": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
+      "url": "https://github.com/faisalkindi/DLSS5oneclick",
+      "stars": 448,
+      "forks": 29,
+      "language": "Rust",
+      "updated_at": "2026-09-06T01:02:27Z"
+    },
+    {
+      "name": "ahujasid/camera-to-blender",
+      "description": "Take a photo of real objects, and paste them in Blender",
+      "url": "https://github.com/ahujasid/camera-to-blender",
+      "stars": 444,
+      "forks": 47,
+      "language": "JavaScript",
+      "updated_at": "2026-09-06T00:28:55Z"
+    },
+    {
+      "name": "PhiloLabs/fable51-worlds",
+      "description": "worlds via code, from fable 5.1",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "stars": 437,
+      "forks": 21,
+      "language": "JavaScript",
+      "updated_at": "2026-09-05T20:41:20Z"
+    },
+    {
+      "name": "Rion-Wu-tech/wechat-intelligence-hub",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "stars": 424,
+      "forks": 178,
+      "language": "Python",
+      "updated_at": "2026-09-06T01:24:57Z"
+    },
+    {
+      "name": "sebbbi/NoGraphicsAPI",
+      "description": "Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.",
+      "url": "https://github.com/sebbbi/NoGraphicsAPI",
+      "stars": 413,
+      "forks": 9,
+      "language": "C++",
+      "updated_at": "2026-09-06T01:24:06Z"
+    },
+    {
+      "name": "siknet/FreePEP",
+      "description": "人教社电子教材下载器",
+      "url": "https://github.com/siknet/FreePEP",
+      "stars": 398,
+      "forks": 57,
+      "language": "Python",
+      "updated_at": "2026-09-06T01:19:10Z"
+    },
+    {
+      "name": "subsy/skill-cabinet",
+      "description": null,
+      "url": "https://github.com/subsy/skill-cabinet",
+      "stars": 393,
+      "forks": 25,
+      "language": "JavaScript",
+      "updated_at": "2026-09-05T17:03:14Z"
+    },
+    {
+      "name": "ashemag/human-atlas",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "url": "https://github.com/ashemag/human-atlas",
+      "stars": 388,
+      "forks": 119,
+      "language": "TypeScript",
+      "updated_at": "2026-09-06T01:25:19Z"
+    },
+    {
+      "name": "op7418/guizang-yingzao-skill",
+      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "stars": 342,
+      "forks": 32,
+      "language": "Python",
+      "updated_at": "2026-09-06T01:05:19Z"
     },
     {
       "name": "yilujian/easy-writing",
       "description": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
       "url": "https://github.com/yilujian/easy-writing",
-      "stars": 272,
-      "forks": 54,
+      "stars": 332,
+      "forks": 63,
       "language": "Vue",
-      "updated_at": "2026-09-05T01:00:51Z"
+      "updated_at": "2026-09-06T00:49:11Z"
+    },
+    {
+      "name": "sonicloudco/recorder",
+      "description": "Recorder Sdk",
+      "url": "https://github.com/sonicloudco/recorder",
+      "stars": 328,
+      "forks": 0,
+      "language": "Objective-C",
+      "updated_at": "2026-09-05T06:07:24Z"
+    },
+    {
+      "name": "kydlikebtc/awesome-grokbot",
+      "description": "532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+      "url": "https://github.com/kydlikebtc/awesome-grokbot",
+      "stars": 325,
+      "forks": 16,
+      "language": "Python",
+      "updated_at": "2026-09-06T00:19:29Z"
+    },
+    {
+      "name": "dreamers-laboratory/image-to-3d-pipeline",
+      "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
+      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
+      "stars": 302,
+      "forks": 27,
+      "language": "JavaScript",
+      "updated_at": "2026-09-05T09:19:43Z"
+    },
+    {
+      "name": "LunarXuan/image-prompt-reverse",
+      "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
+      "url": "https://github.com/LunarXuan/image-prompt-reverse",
+      "stars": 295,
+      "forks": 30,
+      "language": null,
+      "updated_at": "2026-09-06T01:20:43Z"
     },
     {
       "name": "thisisgm/flea",
       "description": "A fast, keyboard-first file manager for Omarchy: Quickshell front end, Rust backend.",
       "url": "https://github.com/thisisgm/flea",
-      "stars": 268,
-      "forks": 21,
+      "stars": 294,
+      "forks": 24,
       "language": "Shell",
-      "updated_at": "2026-09-05T01:07:30Z"
+      "updated_at": "2026-09-06T01:19:48Z"
     },
     {
-      "name": "OpenVDN/vdn-minimax-h3",
-      "description": null,
-      "url": "https://github.com/OpenVDN/vdn-minimax-h3",
-      "stars": 257,
-      "forks": 16,
-      "language": "Python",
-      "updated_at": "2026-09-04T23:24:22Z"
+      "name": "KJGX66F/usque-custom-pro",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "stars": 289,
+      "forks": 499,
+      "language": "JavaScript",
+      "updated_at": "2026-09-06T01:24:01Z"
     },
     {
-      "name": "btsouth/omakade",
-      "description": "A beautiful, local-first game library built for Omarchy.",
-      "url": "https://github.com/btsouth/omakade",
-      "stars": 254,
-      "forks": 11,
-      "language": "C++",
-      "updated_at": "2026-09-05T01:18:38Z"
-    },
-    {
-      "name": "mizorewww/course2md",
-      "description": "Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
-      "url": "https://github.com/mizorewww/course2md",
-      "stars": 251,
-      "forks": 12,
+      "name": "pipicat613/MuToolsProject",
+      "description": "一站式 MuMu12 模拟器安装与优化工具",
+      "url": "https://github.com/pipicat613/MuToolsProject",
+      "stars": 285,
+      "forks": 9,
       "language": "Rust",
-      "updated_at": "2026-09-05T00:05:08Z"
-    },
-    {
-      "name": "aaronyi97/image-story-video-wizard",
-      "description": "A confirmation-gated Codex and WorkBuddy skill for audio-first image-story video production.",
-      "url": "https://github.com/aaronyi97/image-story-video-wizard",
-      "stars": 243,
-      "forks": 34,
-      "language": "Python",
-      "updated_at": "2026-09-05T01:26:27Z"
-    },
-    {
-      "name": "blendi-remade/interdimensional-game",
-      "description": "Create your own adventure with realtime video!",
-      "url": "https://github.com/blendi-remade/interdimensional-game",
-      "stars": 234,
-      "forks": 33,
-      "language": "TypeScript",
-      "updated_at": "2026-09-04T13:34:07Z"
-    },
-    {
-      "name": "florinp93/hells-gate-recomp",
-      "description": "Xbox 360 to PC port of Dante's Inferno using ReXGlue (static recompilation)",
-      "url": "https://github.com/florinp93/hells-gate-recomp",
-      "stars": 230,
-      "forks": 10,
-      "language": "C#",
-      "updated_at": "2026-09-05T01:05:11Z"
+      "updated_at": "2026-09-06T01:15:10Z"
     }
   ]
 }
