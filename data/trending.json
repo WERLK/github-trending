@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-09-07T01:24:02.840Z",
+  "fetched_at": "2026-09-08T01:33:29.699Z",
   "repos": [
     {
       "name": "lnkiai/m3e-canvas",
       "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "url": "https://github.com/lnkiai/m3e-canvas",
-      "stars": 4288,
-      "forks": 369,
+      "stars": 4685,
+      "forks": 405,
       "language": "TypeScript",
-      "updated_at": "2026-09-07T01:22:37Z"
-    },
-    {
-      "name": "anthropics/commerce-agents",
-      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "url": "https://github.com/anthropics/commerce-agents",
-      "stars": 2219,
-      "forks": 379,
-      "language": "Python",
-      "updated_at": "2026-09-07T01:23:52Z"
+      "updated_at": "2026-09-08T01:29:57Z"
     },
     {
       "name": "ashemag/human-atlas",
       "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
       "url": "https://github.com/ashemag/human-atlas",
-      "stars": 1361,
-      "forks": 355,
+      "stars": 2029,
+      "forks": 525,
       "language": "TypeScript",
-      "updated_at": "2026-09-07T01:22:26Z"
+      "updated_at": "2026-09-08T01:29:52Z"
     },
     {
       "name": "Rion-Wu-tech/wechat-intelligence-hub",
       "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
-      "stars": 1065,
-      "forks": 1156,
+      "stars": 1813,
+      "forks": 2352,
       "language": "Python",
-      "updated_at": "2026-09-07T01:23:29Z"
+      "updated_at": "2026-09-08T01:30:44Z"
     },
     {
       "name": "pierrenade/short-video-generator-AI",
       "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
       "url": "https://github.com/pierrenade/short-video-generator-AI",
-      "stars": 886,
-      "forks": 154,
+      "stars": 1176,
+      "forks": 159,
       "language": "Python",
-      "updated_at": "2026-09-07T01:23:16Z"
+      "updated_at": "2026-09-08T01:32:02Z"
     },
     {
       "name": "anthropics/fermats-last-theorem",
       "description": null,
       "url": "https://github.com/anthropics/fermats-last-theorem",
-      "stars": 845,
-      "forks": 71,
+      "stars": 939,
+      "forks": 79,
       "language": "Lean",
-      "updated_at": "2026-09-07T01:18:06Z"
-    },
-    {
-      "name": "yczz/oc-english",
-      "description": "养成类游戏英语学习",
-      "url": "https://github.com/yczz/oc-english",
-      "stars": 832,
-      "forks": 11,
-      "language": "JavaScript",
-      "updated_at": "2026-09-07T01:17:23Z"
-    },
-    {
-      "name": "danielblnc/DLSS-NR-on-AMD",
-      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
-      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
-      "stars": 771,
-      "forks": 33,
-      "language": null,
-      "updated_at": "2026-09-07T01:15:22Z"
+      "updated_at": "2026-09-08T01:24:30Z"
     },
     {
       "name": "vinzdg/codenotch",
       "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
       "url": "https://github.com/vinzdg/codenotch",
-      "stars": 702,
-      "forks": 93,
+      "stars": 939,
+      "forks": 147,
       "language": "Swift",
-      "updated_at": "2026-09-07T01:19:58Z"
+      "updated_at": "2026-09-08T01:29:02Z"
     },
     {
-      "name": "nahrek/polyledger",
-      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "url": "https://github.com/nahrek/polyledger",
-      "stars": 620,
-      "forks": 109,
+      "name": "danielblnc/DLSS-NR-on-AMD",
+      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+      "stars": 858,
+      "forks": 35,
+      "language": null,
+      "updated_at": "2026-09-08T01:11:44Z"
+    },
+    {
+      "name": "EverettFish/holo-card-studio",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "stars": 844,
+      "forks": 134,
       "language": "Python",
-      "updated_at": "2026-09-06T00:03:52Z"
+      "updated_at": "2026-09-08T01:31:48Z"
     },
     {
       "name": "Albert-Weasker/niubigeo",
       "description": "Open-source AI brand visibility and competitor reports",
       "url": "https://github.com/Albert-Weasker/niubigeo",
-      "stars": 608,
-      "forks": 48,
+      "stars": 676,
+      "forks": 52,
       "language": "TypeScript",
-      "updated_at": "2026-09-07T00:46:21Z"
-    },
-    {
-      "name": "codejunkie99/fable-orchestrator",
-      "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
-      "url": "https://github.com/codejunkie99/fable-orchestrator",
-      "stars": 547,
-      "forks": 100,
-      "language": "Shell",
-      "updated_at": "2026-09-06T21:32:18Z"
-    },
-    {
-      "name": "MSNightmare/FalconFlank",
-      "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
-      "url": "https://github.com/MSNightmare/FalconFlank",
-      "stars": 529,
-      "forks": 139,
-      "language": "C",
-      "updated_at": "2026-09-06T21:08:11Z"
-    },
-    {
-      "name": "KJGX66F/usque-custom-pro",
-      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "url": "https://github.com/KJGX66F/usque-custom-pro",
-      "stars": 516,
-      "forks": 758,
-      "language": "JavaScript",
-      "updated_at": "2026-09-07T01:04:17Z"
-    },
-    {
-      "name": "burakgon/stop-stutter",
-      "description": "Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT.",
-      "url": "https://github.com/burakgon/stop-stutter",
-      "stars": 486,
-      "forks": 1,
-      "language": "Swift",
-      "updated_at": "2026-09-07T00:21:22Z"
+      "updated_at": "2026-09-08T01:21:58Z"
     },
     {
       "name": "ahujasid/camera-to-blender",
       "description": "Take a photo of real objects, and paste them in Blender",
       "url": "https://github.com/ahujasid/camera-to-blender",
-      "stars": 467,
-      "forks": 49,
+      "stars": 670,
+      "forks": 70,
       "language": "JavaScript",
-      "updated_at": "2026-09-07T00:18:40Z"
+      "updated_at": "2026-09-08T01:25:56Z"
     },
     {
-      "name": "PhiloLabs/fable51-worlds",
-      "description": "worlds via code, from fable 5.1",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "stars": 448,
-      "forks": 23,
+      "name": "nahrek/polyledger",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "url": "https://github.com/nahrek/polyledger",
+      "stars": 621,
+      "forks": 109,
+      "language": "Python",
+      "updated_at": "2026-09-07T19:57:44Z"
+    },
+    {
+      "name": "KJGX66F/usque-custom-pro",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "stars": 606,
+      "forks": 910,
       "language": "JavaScript",
-      "updated_at": "2026-09-06T22:30:23Z"
+      "updated_at": "2026-09-08T01:31:48Z"
+    },
+    {
+      "name": "codejunkie99/fable-orchestrator",
+      "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+      "url": "https://github.com/codejunkie99/fable-orchestrator",
+      "stars": 568,
+      "forks": 104,
+      "language": "Shell",
+      "updated_at": "2026-09-08T01:28:54Z"
+    },
+    {
+      "name": "Jarvis322/macos-sysdata",
+      "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
+      "url": "https://github.com/Jarvis322/macos-sysdata",
+      "stars": 548,
+      "forks": 28,
+      "language": "Swift",
+      "updated_at": "2026-09-08T01:31:08Z"
+    },
+    {
+      "name": "MSNightmare/FalconFlank",
+      "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+      "url": "https://github.com/MSNightmare/FalconFlank",
+      "stars": 546,
+      "forks": 143,
+      "language": "C",
+      "updated_at": "2026-09-08T01:07:06Z"
     },
     {
       "name": "sonicloudco/recorder",
       "description": "声云录音卡 Recorder 是一套面向开发者和行业客户的智能录音硬件接入方案。 项目以录音卡片硬件为核心，开放 BLE 协议 SDK 及 Android、iOS、鸿蒙、Flutter 接入示例，同时提供 Windows/macOS 桌面端 Demo，支持设备连接、录音控制、实时音频、文件传输、OTA 升级和语音转写等能力，帮助开发者快速将录音硬件接入自己的 App、桌面软件或行业系统。 如需获取硬件规格、样机、完整协议、SDK 资料或定制服务，请联系安徽声云",
       "url": "https://github.com/sonicloudco/recorder",
-      "stars": 444,
-      "forks": 0,
+      "stars": 503,
+      "forks": 57,
       "language": "HTML",
-      "updated_at": "2026-09-06T15:44:58Z"
+      "updated_at": "2026-09-07T16:13:12Z"
+    },
+    {
+      "name": "burakgon/stop-stutter",
+      "description": "Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT.",
+      "url": "https://github.com/burakgon/stop-stutter",
+      "stars": 495,
+      "forks": 1,
+      "language": "Swift",
+      "updated_at": "2026-09-08T00:43:05Z"
+    },
+    {
+      "name": "PhiloLabs/fable51-worlds",
+      "description": "worlds via code, from fable 5.1",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "stars": 465,
+      "forks": 25,
+      "language": "JavaScript",
+      "updated_at": "2026-09-07T23:35:10Z"
     },
     {
       "name": "byJoey/warp-masque-actions",
       "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
       "url": "https://github.com/byJoey/warp-masque-actions",
-      "stars": 362,
-      "forks": 1468,
+      "stars": 461,
+      "forks": 1931,
       "language": "JavaScript",
-      "updated_at": "2026-09-07T01:06:29Z"
-    },
-    {
-      "name": "op7418/guizang-yingzao-skill",
-      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-      "url": "https://github.com/op7418/guizang-yingzao-skill",
-      "stars": 358,
-      "forks": 33,
-      "language": "Python",
-      "updated_at": "2026-09-07T01:14:45Z"
+      "updated_at": "2026-09-08T01:28:36Z"
     },
     {
       "name": "okf-memory/okf-agent-memory",
       "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "url": "https://github.com/okf-memory/okf-agent-memory",
-      "stars": 355,
-      "forks": 17,
+      "stars": 460,
+      "forks": 24,
       "language": "Go",
-      "updated_at": "2026-09-07T01:00:19Z"
+      "updated_at": "2026-09-08T01:16:26Z"
     },
     {
-      "name": "kydlikebtc/awesome-grokbot",
-      "description": "598 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
-      "url": "https://github.com/kydlikebtc/awesome-grokbot",
-      "stars": 328,
-      "forks": 17,
-      "language": "Python",
-      "updated_at": "2026-09-06T14:06:00Z"
-    },
-    {
-      "name": "tigerless-labs/agent-memory",
-      "description": null,
-      "url": "https://github.com/tigerless-labs/agent-memory",
-      "stars": 328,
-      "forks": 20,
-      "language": "Python",
-      "updated_at": "2026-09-07T00:20:05Z"
-    },
-    {
-      "name": "thisisgm/flea",
-      "description": "A fast, keyboard-first file manager for Omarchy: Quickshell front end, Rust backend.",
-      "url": "https://github.com/thisisgm/flea",
-      "stars": 327,
-      "forks": 32,
-      "language": "Shell",
-      "updated_at": "2026-09-07T00:49:43Z"
-    },
-    {
-      "name": "kajisho5/ffmpeg-skill",
-      "description": null,
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "stars": 321,
-      "forks": 18,
-      "language": "Python",
-      "updated_at": "2026-09-07T00:16:38Z"
+      "name": "yang0/handraw-style",
+      "description": "手绘风格编号画廊与双语提示词 Skill",
+      "url": "https://github.com/yang0/handraw-style",
+      "stars": 400,
+      "forks": 57,
+      "language": "HTML",
+      "updated_at": "2026-09-08T01:33:08Z"
     },
     {
       "name": "inclusionAI/Choruz",
       "description": null,
       "url": "https://github.com/inclusionAI/Choruz",
-      "stars": 309,
-      "forks": 6,
+      "stars": 379,
+      "forks": 7,
       "language": "Rust",
-      "updated_at": "2026-09-07T01:02:20Z"
+      "updated_at": "2026-09-08T01:15:55Z"
+    },
+    {
+      "name": "op7418/guizang-yingzao-skill",
+      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "stars": 371,
+      "forks": 34,
+      "language": "Python",
+      "updated_at": "2026-09-07T16:47:01Z"
+    },
+    {
+      "name": "Mantitup-Org/vista",
+      "description": null,
+      "url": "https://github.com/Mantitup-Org/vista",
+      "stars": 358,
+      "forks": 9,
+      "language": "TypeScript",
+      "updated_at": "2026-09-08T01:30:05Z"
+    },
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "description": null,
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "stars": 352,
+      "forks": 19,
+      "language": "Python",
+      "updated_at": "2026-09-08T01:21:42Z"
+    },
+    {
+      "name": "thisisgm/flea",
+      "description": "A fast, keyboard-first file manager for Omarchy: Quickshell front end, Rust backend.",
+      "url": "https://github.com/thisisgm/flea",
+      "stars": 348,
+      "forks": 34,
+      "language": "Shell",
+      "updated_at": "2026-09-07T23:27:51Z"
     },
     {
       "name": "OpenVDN/vdn-minimax-h3",
       "description": "VideoDeltaNet-H3: Live T2VA / I2VA / FL2VA generation based on Minimax H3.",
       "url": "https://github.com/OpenVDN/vdn-minimax-h3",
-      "stars": 305,
+      "stars": 346,
       "forks": 21,
       "language": "Python",
-      "updated_at": "2026-09-07T00:47:55Z"
+      "updated_at": "2026-09-07T23:10:45Z"
     },
     {
-      "name": "adtexterry-lgtm/unigit-ecosystem",
-      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
-      "stars": 304,
-      "forks": 10,
-      "language": "JavaScript",
-      "updated_at": "2026-09-06T23:57:37Z"
+      "name": "0x6rss/instagram-private-graph",
+      "description": "Analyze the followers and following accounts that a private (hidden) Instagram account interacts with.",
+      "url": "https://github.com/0x6rss/instagram-private-graph",
+      "stars": 341,
+      "forks": 49,
+      "language": "Python",
+      "updated_at": "2026-09-08T00:48:28Z"
     },
     {
-      "name": "LunarXuan/image-prompt-reverse",
-      "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
-      "url": "https://github.com/LunarXuan/image-prompt-reverse",
-      "stars": 303,
-      "forks": 30,
-      "language": null,
-      "updated_at": "2026-09-07T00:27:20Z"
+      "name": "donvito/codex-astra-luna-orchestrator",
+      "description": "Use Astra as orchestrator and Luna as implementor",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "stars": 333,
+      "forks": 20,
+      "language": "Python",
+      "updated_at": "2026-09-08T01:12:52Z"
     },
     {
-      "name": "dreamers-laboratory/image-to-3d-pipeline",
-      "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
-      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
-      "stars": 302,
-      "forks": 27,
-      "language": "JavaScript",
-      "updated_at": "2026-09-05T09:19:43Z"
+      "name": "34306/vphone-web",
+      "description": "vphone-cli but you can use your mac as a host and control it over the web",
+      "url": "https://github.com/34306/vphone-web",
+      "stars": 330,
+      "forks": 35,
+      "language": "HTML",
+      "updated_at": "2026-09-08T00:46:35Z"
     }
   ]
 }
