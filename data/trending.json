@@ -1,212 +1,194 @@
 {
-  "fetched_at": "2026-09-10T01:36:03.922Z",
+  "fetched_at": "2026-09-11T01:35:16.220Z",
   "repos": [
     {
       "name": "ashemag/human-atlas",
       "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
       "url": "https://github.com/ashemag/human-atlas",
-      "stars": 2848,
-      "forks": 694,
+      "stars": 3093,
+      "forks": 748,
       "language": "TypeScript",
-      "updated_at": "2026-09-10T01:33:31Z"
-    },
-    {
-      "name": "Rion-Wu-tech/wechat-intelligence-hub",
-      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
-      "stars": 2023,
-      "forks": 2546,
-      "language": "Python",
-      "updated_at": "2026-09-10T01:19:24Z"
+      "updated_at": "2026-09-11T01:21:29Z"
     },
     {
       "name": "openai/NavierStokesAndEuler",
       "description": "Lean certificates accompanying Navier-Stokes and Euler results",
       "url": "https://github.com/openai/NavierStokesAndEuler",
-      "stars": 1564,
-      "forks": 144,
+      "stars": 1718,
+      "forks": 167,
       "language": "Lean",
-      "updated_at": "2026-09-10T01:35:07Z"
-    },
-    {
-      "name": "vinzdg/codenotch",
-      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-      "url": "https://github.com/vinzdg/codenotch",
-      "stars": 1288,
-      "forks": 200,
-      "language": "Swift",
-      "updated_at": "2026-09-10T00:53:07Z"
-    },
-    {
-      "name": "EverettFish/holo-card-studio",
-      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-      "url": "https://github.com/EverettFish/holo-card-studio",
-      "stars": 1239,
-      "forks": 181,
-      "language": "Python",
-      "updated_at": "2026-09-10T01:14:31Z"
-    },
-    {
-      "name": "anthropics/fermats-last-theorem",
-      "description": null,
-      "url": "https://github.com/anthropics/fermats-last-theorem",
-      "stars": 1000,
-      "forks": 83,
-      "language": "Lean",
-      "updated_at": "2026-09-09T22:35:04Z"
-    },
-    {
-      "name": "donvito/codex-astra-luna-orchestrator",
-      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
-      "stars": 746,
-      "forks": 60,
-      "language": "Python",
-      "updated_at": "2026-09-10T01:30:10Z"
-    },
-    {
-      "name": "KJGX66F/usque-custom-pro",
-      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "url": "https://github.com/KJGX66F/usque-custom-pro",
-      "stars": 721,
-      "forks": 1103,
-      "language": "JavaScript",
-      "updated_at": "2026-09-10T01:30:10Z"
+      "updated_at": "2026-09-11T01:27:22Z"
     },
     {
       "name": "sdli1995/dlssg_for_sm86",
       "description": "Here is a dlssg for RTX30 Series GPU ",
       "url": "https://github.com/sdli1995/dlssg_for_sm86",
-      "stars": 710,
-      "forks": 43,
+      "stars": 1430,
+      "forks": 87,
       "language": null,
-      "updated_at": "2026-09-10T01:29:51Z"
+      "updated_at": "2026-09-11T01:35:04Z"
+    },
+    {
+      "name": "vinzdg/codenotch",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "url": "https://github.com/vinzdg/codenotch",
+      "stars": 1385,
+      "forks": 215,
+      "language": "Swift",
+      "updated_at": "2026-09-11T01:30:37Z"
+    },
+    {
+      "name": "EverettFish/holo-card-studio",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "stars": 1335,
+      "forks": 193,
+      "language": "Python",
+      "updated_at": "2026-09-11T01:24:39Z"
+    },
+    {
+      "name": "Edge0-AI/Edge0",
+      "description": null,
+      "url": "https://github.com/Edge0-AI/Edge0",
+      "stars": 1014,
+      "forks": 82,
+      "language": "Python",
+      "updated_at": "2026-09-11T01:33:09Z"
     },
     {
       "name": "yang0/handraw-style",
       "description": "手绘风格编号画廊与双语提示词 Skill",
       "url": "https://github.com/yang0/handraw-style",
-      "stars": 649,
-      "forks": 90,
+      "stars": 983,
+      "forks": 139,
       "language": "HTML",
-      "updated_at": "2026-09-10T01:34:36Z"
+      "updated_at": "2026-09-11T01:35:00Z"
     },
     {
-      "name": "Mantitup-Org/vista",
-      "description": null,
-      "url": "https://github.com/Mantitup-Org/vista",
-      "stars": 614,
-      "forks": 14,
-      "language": "TypeScript",
-      "updated_at": "2026-09-09T17:38:32Z"
-    },
-    {
-      "name": "Jarvis322/macos-sysdata",
-      "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
-      "url": "https://github.com/Jarvis322/macos-sysdata",
-      "stars": 608,
-      "forks": 32,
-      "language": "Swift",
-      "updated_at": "2026-09-09T18:38:46Z"
-    },
-    {
-      "name": "AI-FanGe/Microduck-build-tutorial",
-      "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
-      "url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
-      "stars": 541,
-      "forks": 142,
+      "name": "donvito/codex-astra-luna-orchestrator",
+      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "stars": 923,
+      "forks": 67,
       "language": "Python",
-      "updated_at": "2026-09-10T01:33:44Z"
+      "updated_at": "2026-09-11T00:59:04Z"
     },
     {
-      "name": "byJoey/warp-masque-actions",
-      "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
-      "url": "https://github.com/byJoey/warp-masque-actions",
-      "stars": 538,
-      "forks": 2269,
-      "language": "JavaScript",
-      "updated_at": "2026-09-10T00:28:34Z"
-    },
-    {
-      "name": "okf-memory/okf-agent-memory",
-      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "stars": 520,
-      "forks": 32,
-      "language": "Go",
-      "updated_at": "2026-09-10T01:32:50Z"
-    },
-    {
-      "name": "com-phantom/Phantom-Wallet-Desktop",
-      "description": "Phantom Wallet Desktop app for Windows, macOS and Linux. A lightweight desktop client that brings Phantom crypto wallet experience outside the browser with native desktop access.",
-      "url": "https://github.com/com-phantom/Phantom-Wallet-Desktop",
-      "stars": 499,
-      "forks": 31,
-      "language": "HTML",
-      "updated_at": "2026-09-10T01:34:37Z"
-    },
-    {
-      "name": "burakgon/stop-stutter",
-      "description": "Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT.",
-      "url": "https://github.com/burakgon/stop-stutter",
-      "stars": 498,
-      "forks": 3,
-      "language": "Swift",
-      "updated_at": "2026-09-09T13:09:57Z"
-    },
-    {
-      "name": "gazijarin/itsgiving",
-      "description": "Express yourself in meetings (with memes, of course).",
-      "url": "https://github.com/gazijarin/itsgiving",
-      "stars": 485,
-      "forks": 62,
+      "name": "iamzulx/crypto-rag",
+      "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+      "url": "https://github.com/iamzulx/crypto-rag",
+      "stars": 899,
+      "forks": 0,
       "language": "Python",
-      "updated_at": "2026-09-10T01:09:22Z"
+      "updated_at": "2026-09-11T01:34:37Z"
     },
     {
       "name": "achimala/dream-loop",
       "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "url": "https://github.com/achimala/dream-loop",
-      "stars": 468,
-      "forks": 59,
+      "stars": 734,
+      "forks": 87,
       "language": "JavaScript",
-      "updated_at": "2026-09-10T01:35:25Z"
+      "updated_at": "2026-09-11T01:28:28Z"
     },
     {
-      "name": "OpenWAM-Official/OpenWAM",
-      "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
-      "url": "https://github.com/OpenWAM-Official/OpenWAM",
-      "stars": 414,
-      "forks": 16,
+      "name": "Vincentwei1021/anything2explainer",
+      "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+      "url": "https://github.com/Vincentwei1021/anything2explainer",
+      "stars": 714,
+      "forks": 123,
+      "language": "TypeScript",
+      "updated_at": "2026-09-11T01:29:28Z"
+    },
+    {
+      "name": "Jarvis322/macos-sysdata",
+      "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
+      "url": "https://github.com/Jarvis322/macos-sysdata",
+      "stars": 623,
+      "forks": 33,
+      "language": "Swift",
+      "updated_at": "2026-09-11T01:10:19Z"
+    },
+    {
+      "name": "gazijarin/itsgiving",
+      "description": "Express yourself in meetings (with memes, of course).",
+      "url": "https://github.com/gazijarin/itsgiving",
+      "stars": 597,
+      "forks": 74,
       "language": "Python",
-      "updated_at": "2026-09-10T01:20:22Z"
+      "updated_at": "2026-09-11T01:34:05Z"
     },
     {
       "name": "jtydhr88/screenwriting-skills",
       "description": null,
       "url": "https://github.com/jtydhr88/screenwriting-skills",
-      "stars": 402,
-      "forks": 47,
+      "stars": 571,
+      "forks": 74,
       "language": null,
-      "updated_at": "2026-09-10T01:32:13Z"
+      "updated_at": "2026-09-11T01:33:38Z"
+    },
+    {
+      "name": "okf-memory/okf-agent-memory",
+      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "stars": 549,
+      "forks": 35,
+      "language": "Go",
+      "updated_at": "2026-09-10T21:13:18Z"
+    },
+    {
+      "name": "truanayangi-com/truanayangi",
+      "description": "Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
+      "url": "https://github.com/truanayangi-com/truanayangi",
+      "stars": 537,
+      "forks": 85,
+      "language": "TypeScript",
+      "updated_at": "2026-09-11T01:26:59Z"
+    },
+    {
+      "name": "OpenWAM-Official/OpenWAM",
+      "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+      "url": "https://github.com/OpenWAM-Official/OpenWAM",
+      "stars": 497,
+      "forks": 19,
+      "language": "Python",
+      "updated_at": "2026-09-11T01:23:00Z"
+    },
+    {
+      "name": "sitimas9/cdcrafthh",
+      "description": "CodeCraft-style account farm — OAuth + coupon + API key harvest",
+      "url": "https://github.com/sitimas9/cdcrafthh",
+      "stars": 426,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-09-10T16:29:02Z"
     },
     {
       "name": "Sophomoresty/turnstile-bypass",
       "description": "Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux)",
       "url": "https://github.com/Sophomoresty/turnstile-bypass",
-      "stars": 398,
-      "forks": 150,
+      "stars": 426,
+      "forks": 158,
       "language": "Python",
-      "updated_at": "2026-09-10T01:33:48Z"
+      "updated_at": "2026-09-11T00:49:31Z"
     },
     {
       "name": "lfzk550/fanzha-ai-proxy",
       "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
       "url": "https://github.com/lfzk550/fanzha-ai-proxy",
-      "stars": 387,
-      "forks": 333,
+      "stars": 423,
+      "forks": 339,
       "language": null,
-      "updated_at": "2026-09-10T01:27:34Z"
+      "updated_at": "2026-09-11T01:33:47Z"
+    },
+    {
+      "name": "LBEILC/RhineLabUI",
+      "description": "Rhine Lab archive interface built with TypeScript and Three.js",
+      "url": "https://github.com/LBEILC/RhineLabUI",
+      "stars": 359,
+      "forks": 51,
+      "language": "TypeScript",
+      "updated_at": "2026-09-11T01:20:56Z"
     },
     {
       "name": "henryzawadzki6542/cloudflare-turnstile-bypass",
@@ -218,58 +200,76 @@
       "updated_at": "2026-09-09T19:59:09Z"
     },
     {
+      "name": "BagasRizkyHarySaputra/SIAPIN",
+      "description": null,
+      "url": "https://github.com/BagasRizkyHarySaputra/SIAPIN",
+      "stars": 355,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2026-09-10T22:49:53Z"
+    },
+    {
+      "name": "yureii1996/cek-probe-model",
+      "description": "Untuk cek model apakah maskingan atau bukan",
+      "url": "https://github.com/yureii1996/cek-probe-model",
+      "stars": 354,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-09-10T07:21:55Z"
+    },
+    {
       "name": "34306/vphone-web",
       "description": "vphone-cli but you can use your mac as a host and control it over the web",
       "url": "https://github.com/34306/vphone-web",
-      "stars": 350,
+      "stars": 353,
       "forks": 38,
       "language": "HTML",
-      "updated_at": "2026-09-09T20:41:11Z"
+      "updated_at": "2026-09-10T16:49:02Z"
+    },
+    {
+      "name": "mizzlelover/gongwen-gbt9704-skill",
+      "description": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
+      "stars": 336,
+      "forks": 60,
+      "language": "JavaScript",
+      "updated_at": "2026-09-11T01:31:49Z"
+    },
+    {
+      "name": "jnz/INSLIB",
+      "description": "Open Source Inertial Navigation Library",
+      "url": "https://github.com/jnz/INSLIB",
+      "stars": 333,
+      "forks": 44,
+      "language": "C",
+      "updated_at": "2026-09-11T00:16:29Z"
+    },
+    {
+      "name": "wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+      "description": "A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.",
+      "url": "https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+      "stars": 329,
+      "forks": 18,
+      "language": "C++",
+      "updated_at": "2026-09-11T00:55:45Z"
     },
     {
       "name": "yudaprasetya007/routeVSCODE",
-      "description": null,
+      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
       "url": "https://github.com/yudaprasetya007/routeVSCODE",
       "stars": 326,
       "forks": 0,
       "language": "JavaScript",
-      "updated_at": "2026-09-10T01:31:38Z"
-    },
-    {
-      "name": "biusberline/cloudflare-turnstile-solver",
-      "description": "A small Python library and CLI for working with Cloudflare Turnstile on your own pages - read the sitekey, build the token, verify the result.",
-      "url": "https://github.com/biusberline/cloudflare-turnstile-solver",
-      "stars": 316,
-      "forks": 26,
-      "language": "Python",
-      "updated_at": "2026-09-09T18:06:34Z"
-    },
-    {
-      "name": "truanayangi-com/truanayangi",
-      "description": "Trưa Nay Ăn Gì — standalone community lunch roulette. No login or backend; cookie preferences.",
-      "url": "https://github.com/truanayangi-com/truanayangi",
-      "stars": 315,
-      "forks": 53,
-      "language": "TypeScript",
-      "updated_at": "2026-09-10T01:31:07Z"
-    },
-    {
-      "name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark",
-      "description": "Qwen3.8-Flash-Next on ONE DGX Spark (TP=1)",
-      "url": "https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark",
-      "stars": 299,
-      "forks": 41,
-      "language": "Python",
-      "updated_at": "2026-09-10T00:14:46Z"
+      "updated_at": "2026-09-10T01:40:38Z"
     },
     {
       "name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
       "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
       "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
-      "stars": 296,
-      "forks": 36,
+      "stars": 325,
+      "forks": 37,
       "language": null,
-      "updated_at": "2026-09-10T01:34:18Z"
+      "updated_at": "2026-09-10T23:34:11Z"
     }
   ]
 }
