@@ -1,158 +1,185 @@
 {
-  "fetched_at": "2026-09-11T01:35:16.220Z",
+  "fetched_at": "2026-09-12T01:41:38.712Z",
   "repos": [
     {
-      "name": "ashemag/human-atlas",
-      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-      "url": "https://github.com/ashemag/human-atlas",
-      "stars": 3093,
-      "forks": 748,
-      "language": "TypeScript",
-      "updated_at": "2026-09-11T01:21:29Z"
+      "name": "sdli1995/dlssg_for_sm86",
+      "description": "Here is a dlssg for RTX30 Series GPU ",
+      "url": "https://github.com/sdli1995/dlssg_for_sm86",
+      "stars": 1779,
+      "forks": 108,
+      "language": null,
+      "updated_at": "2026-09-12T01:37:18Z"
     },
     {
       "name": "openai/NavierStokesAndEuler",
       "description": "Lean certificates accompanying Navier-Stokes and Euler results",
       "url": "https://github.com/openai/NavierStokesAndEuler",
-      "stars": 1718,
-      "forks": 167,
+      "stars": 1778,
+      "forks": 177,
       "language": "Lean",
-      "updated_at": "2026-09-11T01:27:22Z"
-    },
-    {
-      "name": "sdli1995/dlssg_for_sm86",
-      "description": "Here is a dlssg for RTX30 Series GPU ",
-      "url": "https://github.com/sdli1995/dlssg_for_sm86",
-      "stars": 1430,
-      "forks": 87,
-      "language": null,
-      "updated_at": "2026-09-11T01:35:04Z"
-    },
-    {
-      "name": "vinzdg/codenotch",
-      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-      "url": "https://github.com/vinzdg/codenotch",
-      "stars": 1385,
-      "forks": 215,
-      "language": "Swift",
-      "updated_at": "2026-09-11T01:30:37Z"
+      "updated_at": "2026-09-12T00:57:48Z"
     },
     {
       "name": "EverettFish/holo-card-studio",
       "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
       "url": "https://github.com/EverettFish/holo-card-studio",
-      "stars": 1335,
-      "forks": 193,
+      "stars": 1445,
+      "forks": 208,
       "language": "Python",
-      "updated_at": "2026-09-11T01:24:39Z"
+      "updated_at": "2026-09-12T01:38:32Z"
     },
     {
       "name": "Edge0-AI/Edge0",
       "description": null,
       "url": "https://github.com/Edge0-AI/Edge0",
-      "stars": 1014,
-      "forks": 82,
+      "stars": 1352,
+      "forks": 109,
       "language": "Python",
-      "updated_at": "2026-09-11T01:33:09Z"
-    },
-    {
-      "name": "yang0/handraw-style",
-      "description": "手绘风格编号画廊与双语提示词 Skill",
-      "url": "https://github.com/yang0/handraw-style",
-      "stars": 983,
-      "forks": 139,
-      "language": "HTML",
-      "updated_at": "2026-09-11T01:35:00Z"
-    },
-    {
-      "name": "donvito/codex-astra-luna-orchestrator",
-      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
-      "stars": 923,
-      "forks": 67,
-      "language": "Python",
-      "updated_at": "2026-09-11T00:59:04Z"
-    },
-    {
-      "name": "iamzulx/crypto-rag",
-      "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
-      "url": "https://github.com/iamzulx/crypto-rag",
-      "stars": 899,
-      "forks": 0,
-      "language": "Python",
-      "updated_at": "2026-09-11T01:34:37Z"
-    },
-    {
-      "name": "achimala/dream-loop",
-      "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
-      "url": "https://github.com/achimala/dream-loop",
-      "stars": 734,
-      "forks": 87,
-      "language": "JavaScript",
-      "updated_at": "2026-09-11T01:28:28Z"
+      "updated_at": "2026-09-12T01:33:47Z"
     },
     {
       "name": "Vincentwei1021/anything2explainer",
       "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
       "url": "https://github.com/Vincentwei1021/anything2explainer",
-      "stars": 714,
-      "forks": 123,
+      "stars": 940,
+      "forks": 172,
       "language": "TypeScript",
-      "updated_at": "2026-09-11T01:29:28Z"
+      "updated_at": "2026-09-12T01:36:10Z"
     },
     {
-      "name": "Jarvis322/macos-sysdata",
-      "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
-      "url": "https://github.com/Jarvis322/macos-sysdata",
-      "stars": 623,
-      "forks": 33,
-      "language": "Swift",
-      "updated_at": "2026-09-11T01:10:19Z"
+      "name": "Faizpi/bank-sampah",
+      "description": null,
+      "url": "https://github.com/Faizpi/bank-sampah",
+      "stars": 919,
+      "forks": 1,
+      "language": "PHP",
+      "updated_at": "2026-09-12T01:40:36Z"
     },
     {
-      "name": "gazijarin/itsgiving",
-      "description": "Express yourself in meetings (with memes, of course).",
-      "url": "https://github.com/gazijarin/itsgiving",
-      "stars": 597,
-      "forks": 74,
-      "language": "Python",
-      "updated_at": "2026-09-11T01:34:05Z"
+      "name": "achimala/dream-loop",
+      "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "url": "https://github.com/achimala/dream-loop",
+      "stars": 851,
+      "forks": 95,
+      "language": "JavaScript",
+      "updated_at": "2026-09-12T01:39:07Z"
     },
     {
       "name": "jtydhr88/screenwriting-skills",
       "description": null,
       "url": "https://github.com/jtydhr88/screenwriting-skills",
-      "stars": 571,
-      "forks": 74,
+      "stars": 748,
+      "forks": 95,
       "language": null,
-      "updated_at": "2026-09-11T01:33:38Z"
+      "updated_at": "2026-09-12T00:44:40Z"
     },
     {
-      "name": "okf-memory/okf-agent-memory",
-      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "stars": 549,
-      "forks": 35,
-      "language": "Go",
-      "updated_at": "2026-09-10T21:13:18Z"
+      "name": "gazijarin/itsgiving",
+      "description": "Express yourself in meetings (with memes, of course).",
+      "url": "https://github.com/gazijarin/itsgiving",
+      "stars": 717,
+      "forks": 81,
+      "language": "Python",
+      "updated_at": "2026-09-12T01:34:25Z"
     },
     {
       "name": "truanayangi-com/truanayangi",
       "description": "Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
       "url": "https://github.com/truanayangi-com/truanayangi",
-      "stars": 537,
-      "forks": 85,
+      "stars": 568,
+      "forks": 95,
       "language": "TypeScript",
-      "updated_at": "2026-09-11T01:26:59Z"
+      "updated_at": "2026-09-11T16:59:25Z"
+    },
+    {
+      "name": "sumimakito/Mac-Duo",
+      "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
+      "url": "https://github.com/sumimakito/Mac-Duo",
+      "stars": 540,
+      "forks": 43,
+      "language": "Swift",
+      "updated_at": "2026-09-12T01:40:52Z"
     },
     {
       "name": "OpenWAM-Official/OpenWAM",
       "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
       "url": "https://github.com/OpenWAM-Official/OpenWAM",
-      "stars": 497,
-      "forks": 19,
+      "stars": 537,
+      "forks": 21,
       "language": "Python",
-      "updated_at": "2026-09-11T01:23:00Z"
+      "updated_at": "2026-09-12T00:36:06Z"
+    },
+    {
+      "name": "angusdevgo/IDM_Pro_Tool",
+      "description": "IDM激活与状态维护工具",
+      "url": "https://github.com/angusdevgo/IDM_Pro_Tool",
+      "stars": 512,
+      "forks": 138,
+      "language": "C#",
+      "updated_at": "2026-09-12T01:35:02Z"
+    },
+    {
+      "name": "SpaceDudem/text-humanizer",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "url": "https://github.com/SpaceDudem/text-humanizer",
+      "stars": 489,
+      "forks": 103,
+      "language": "Python",
+      "updated_at": "2026-09-12T01:37:39Z"
+    },
+    {
+      "name": "mizzlelover/gongwen-gbt9704-skill",
+      "description": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
+      "stars": 482,
+      "forks": 99,
+      "language": "JavaScript",
+      "updated_at": "2026-09-12T01:36:45Z"
+    },
+    {
+      "name": "lfzk550/fanzha-ai-proxy",
+      "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
+      "url": "https://github.com/lfzk550/fanzha-ai-proxy",
+      "stars": 476,
+      "forks": 349,
+      "language": null,
+      "updated_at": "2026-09-11T23:45:13Z"
+    },
+    {
+      "name": "Colafornia/short-video-generator-AI",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "url": "https://github.com/Colafornia/short-video-generator-AI",
+      "stars": 466,
+      "forks": 110,
+      "language": "Python",
+      "updated_at": "2026-09-12T01:16:53Z"
+    },
+    {
+      "name": "Sophomoresty/turnstile-bypass",
+      "description": "Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux)",
+      "url": "https://github.com/Sophomoresty/turnstile-bypass",
+      "stars": 441,
+      "forks": 160,
+      "language": "Python",
+      "updated_at": "2026-09-11T23:04:20Z"
+    },
+    {
+      "name": "crwdla/tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "url": "https://github.com/crwdla/tokentab",
+      "stars": 427,
+      "forks": 161,
+      "language": "Python",
+      "updated_at": "2026-09-12T01:36:18Z"
+    },
+    {
+      "name": "Sadpainy/Stuxnet",
+      "description": "Stuxnet, Here reproduced by me, Only researchs for educations purposes. It set work on Windows XP and Windows 7 only.",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "stars": 427,
+      "forks": 78,
+      "language": "C",
+      "updated_at": "2026-09-12T00:49:28Z"
     },
     {
       "name": "sitimas9/cdcrafthh",
@@ -164,49 +191,40 @@
       "updated_at": "2026-09-10T16:29:02Z"
     },
     {
-      "name": "Sophomoresty/turnstile-bypass",
-      "description": "Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux)",
-      "url": "https://github.com/Sophomoresty/turnstile-bypass",
-      "stars": 426,
-      "forks": 158,
-      "language": "Python",
-      "updated_at": "2026-09-11T00:49:31Z"
-    },
-    {
-      "name": "lfzk550/fanzha-ai-proxy",
-      "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
-      "url": "https://github.com/lfzk550/fanzha-ai-proxy",
-      "stars": 423,
-      "forks": 339,
-      "language": null,
-      "updated_at": "2026-09-11T01:33:47Z"
-    },
-    {
       "name": "LBEILC/RhineLabUI",
       "description": "Rhine Lab archive interface built with TypeScript and Three.js",
       "url": "https://github.com/LBEILC/RhineLabUI",
-      "stars": 359,
-      "forks": 51,
+      "stars": 410,
+      "forks": 54,
       "language": "TypeScript",
-      "updated_at": "2026-09-11T01:20:56Z"
+      "updated_at": "2026-09-12T01:33:39Z"
     },
     {
       "name": "henryzawadzki6542/cloudflare-turnstile-bypass",
       "description": "Work with Cloudflare Turnstile in Python: find the sitekey, get a valid cf-turnstile-response token in seconds. Dependency-free library + CLI, built for CI and automation.",
       "url": "https://github.com/henryzawadzki6542/cloudflare-turnstile-bypass",
-      "stars": 358,
-      "forks": 17,
+      "stars": 408,
+      "forks": 29,
       "language": "Python",
-      "updated_at": "2026-09-09T19:59:09Z"
+      "updated_at": "2026-09-11T21:25:02Z"
     },
     {
-      "name": "BagasRizkyHarySaputra/SIAPIN",
-      "description": null,
-      "url": "https://github.com/BagasRizkyHarySaputra/SIAPIN",
-      "stars": 355,
-      "forks": 0,
-      "language": "TypeScript",
-      "updated_at": "2026-09-10T22:49:53Z"
+      "name": "perseval-BLR/DLSS5-NeuralScreen",
+      "description": "DLSS 5 Neural Rendering on your whole Windows desktop, in real time. RTX 30/40/50, 12 languages, user presets, recording with audio, one-window mode.",
+      "url": "https://github.com/perseval-BLR/DLSS5-NeuralScreen",
+      "stars": 388,
+      "forks": 22,
+      "language": "Python",
+      "updated_at": "2026-09-12T01:39:49Z"
+    },
+    {
+      "name": "jnz/INSLIB",
+      "description": "Open Source Inertial Navigation Library",
+      "url": "https://github.com/jnz/INSLIB",
+      "stars": 385,
+      "forks": 51,
+      "language": "C",
+      "updated_at": "2026-09-12T01:06:21Z"
     },
     {
       "name": "yureii1996/cek-probe-model",
@@ -215,61 +233,43 @@
       "stars": 354,
       "forks": 0,
       "language": "Python",
-      "updated_at": "2026-09-10T07:21:55Z"
+      "updated_at": "2026-09-11T07:01:19Z"
     },
     {
-      "name": "34306/vphone-web",
-      "description": "vphone-cli but you can use your mac as a host and control it over the web",
-      "url": "https://github.com/34306/vphone-web",
-      "stars": 353,
-      "forks": 38,
-      "language": "HTML",
-      "updated_at": "2026-09-10T16:49:02Z"
-    },
-    {
-      "name": "mizzlelover/gongwen-gbt9704-skill",
-      "description": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
-      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
-      "stars": 336,
-      "forks": 60,
-      "language": "JavaScript",
-      "updated_at": "2026-09-11T01:31:49Z"
-    },
-    {
-      "name": "jnz/INSLIB",
-      "description": "Open Source Inertial Navigation Library",
-      "url": "https://github.com/jnz/INSLIB",
+      "name": "kevinzakka/mjbatch",
+      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "url": "https://github.com/kevinzakka/mjbatch",
       "stars": 333,
-      "forks": 44,
-      "language": "C",
-      "updated_at": "2026-09-11T00:16:29Z"
-    },
-    {
-      "name": "wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
-      "description": "A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.",
-      "url": "https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
-      "stars": 329,
-      "forks": 18,
-      "language": "C++",
-      "updated_at": "2026-09-11T00:55:45Z"
+      "forks": 28,
+      "language": "Python",
+      "updated_at": "2026-09-11T23:25:03Z"
     },
     {
       "name": "yudaprasetya007/routeVSCODE",
       "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
       "url": "https://github.com/yudaprasetya007/routeVSCODE",
-      "stars": 326,
+      "stars": 327,
       "forks": 0,
       "language": "JavaScript",
-      "updated_at": "2026-09-10T01:40:38Z"
+      "updated_at": "2026-09-11T05:40:46Z"
     },
     {
-      "name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
-      "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
-      "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
-      "stars": 325,
-      "forks": 37,
+      "name": "biusberline/cloudflare-turnstile-solver",
+      "description": "A small Python library and CLI for working with Cloudflare Turnstile on your own pages - read the sitekey, build the token, verify the result.",
+      "url": "https://github.com/biusberline/cloudflare-turnstile-solver",
+      "stars": 317,
+      "forks": 26,
+      "language": "Python",
+      "updated_at": "2026-09-11T13:25:08Z"
+    },
+    {
+      "name": "kunchenguid/kun",
+      "description": "Think and build like a principal engineer. Leverage Kun's experience, knowledge, tools, workflows, and skills to help you get shit done.",
+      "url": "https://github.com/kunchenguid/kun",
+      "stars": 304,
+      "forks": 21,
       "language": null,
-      "updated_at": "2026-09-10T23:34:11Z"
+      "updated_at": "2026-09-11T22:39:20Z"
     }
   ]
 }
