@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-09-17T01:54:31.497Z",
+  "fetched_at": "2026-09-18T01:41:40.207Z",
   "repos": [
     {
-      "name": "ai-sucks-butt/ai-sucks-butt",
-      "description": "If you think AI sucks, star the repo.",
-      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-      "stars": 1848,
-      "forks": 0,
+      "name": "browser-use/jev-ultrafast",
+      "description": null,
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": 2237,
+      "forks": 123,
       "language": "Python",
-      "updated_at": "2026-09-17T01:54:07Z"
+      "updated_at": "2026-09-18T01:41:19Z"
     },
     {
       "name": "Chuloo/mural",
       "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
       "url": "https://github.com/Chuloo/mural",
-      "stars": 1260,
-      "forks": 245,
+      "stars": 1319,
+      "forks": 257,
       "language": "Kotlin",
-      "updated_at": "2026-09-17T01:50:57Z"
+      "updated_at": "2026-09-18T01:06:13Z"
     },
     {
       "name": "yifanzhang-pro/recurrent-looped-tranformer",
       "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
       "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
-      "stars": 860,
-      "forks": 84,
+      "stars": 871,
+      "forks": 85,
       "language": "HTML",
-      "updated_at": "2026-09-17T01:06:53Z"
-    },
-    {
-      "name": "kruzovic7/ai-data-extractor",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "url": "https://github.com/kruzovic7/ai-data-extractor",
-      "stars": 826,
-      "forks": 132,
-      "language": "Python",
-      "updated_at": "2026-09-16T23:33:32Z"
+      "updated_at": "2026-09-18T01:35:06Z"
     },
     {
       "name": "zjwzcx/Awesome-Astra-Embodied-AI",
       "description": "GPT-6 Astra for embodied AI and robotics.",
       "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-      "stars": 770,
-      "forks": 14,
+      "stars": 825,
+      "forks": 16,
       "language": null,
-      "updated_at": "2026-09-17T01:45:04Z"
+      "updated_at": "2026-09-17T23:53:47Z"
     },
     {
-      "name": "eternityspring/reelbench-skills",
-      "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-      "url": "https://github.com/eternityspring/reelbench-skills",
-      "stars": 709,
-      "forks": 93,
-      "language": "HTML",
-      "updated_at": "2026-09-17T01:30:27Z"
+      "name": "TheoLeeCJ/openjev",
+      "description": "Can we run something like Jev on a 3090 at home?",
+      "url": "https://github.com/TheoLeeCJ/openjev",
+      "stars": 821,
+      "forks": 60,
+      "language": "Python",
+      "updated_at": "2026-09-18T01:36:25Z"
     },
     {
       "name": "agentverse-os/AgentVerse-OS",
       "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
       "url": "https://github.com/agentverse-os/AgentVerse-OS",
-      "stars": 680,
-      "forks": 18,
+      "stars": 750,
+      "forks": 21,
       "language": "Rust",
-      "updated_at": "2026-09-17T00:49:28Z"
-    },
-    {
-      "name": "rizqinrr/viserys-agent",
-      "description": null,
-      "url": "https://github.com/rizqinrr/viserys-agent",
-      "stars": 659,
-      "forks": 2,
-      "language": "JavaScript",
-      "updated_at": "2026-09-17T00:48:51Z"
-    },
-    {
-      "name": "Faizpi/bank-sampah",
-      "description": null,
-      "url": "https://github.com/Faizpi/bank-sampah",
-      "stars": 646,
-      "forks": 1,
-      "language": "PHP",
-      "updated_at": "2026-09-13T09:31:50Z"
-    },
-    {
-      "name": "nilbuild/page-mascot",
-      "description": "A mascot that watches the cursor and blinks when you poke it",
-      "url": "https://github.com/nilbuild/page-mascot",
-      "stars": 632,
-      "forks": 55,
-      "language": "Python",
-      "updated_at": "2026-09-17T01:12:13Z"
+      "updated_at": "2026-09-18T01:22:28Z"
     },
     {
       "name": "youngyangyang04/llm-master",
       "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
       "url": "https://github.com/youngyangyang04/llm-master",
-      "stars": 568,
-      "forks": 53,
+      "stars": 688,
+      "forks": 66,
       "language": null,
-      "updated_at": "2026-09-17T01:52:30Z"
+      "updated_at": "2026-09-18T01:41:03Z"
     },
     {
-      "name": "letorig/video-generator-client",
-      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
-      "url": "https://github.com/letorig/video-generator-client",
-      "stars": 520,
-      "forks": 83,
+      "name": "nilbuild/page-mascot",
+      "description": "A mascot that watches the cursor and blinks when you poke it",
+      "url": "https://github.com/nilbuild/page-mascot",
+      "stars": 685,
+      "forks": 61,
       "language": "Python",
-      "updated_at": "2026-09-17T00:29:01Z"
-    },
-    {
-      "name": "saragordic/window-sweaters",
-      "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
-      "url": "https://github.com/saragordic/window-sweaters",
-      "stars": 432,
-      "forks": 13,
-      "language": "C",
-      "updated_at": "2026-09-17T01:38:25Z"
-    },
-    {
-      "name": "atria-asi/Atria-Dawn-Preview",
-      "description": null,
-      "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
-      "stars": 421,
-      "forks": 21,
-      "language": null,
-      "updated_at": "2026-09-16T23:38:28Z"
-    },
-    {
-      "name": "anonymous-report-421/GPT-as-Policy",
-      "description": "GPT as Policy",
-      "url": "https://github.com/anonymous-report-421/GPT-as-Policy",
-      "stars": 401,
-      "forks": 10,
-      "language": "HTML",
-      "updated_at": "2026-09-17T01:50:00Z"
-    },
-    {
-      "name": "cobanov/awesome-fly",
-      "description": "A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools.",
-      "url": "https://github.com/cobanov/awesome-fly",
-      "stars": 401,
-      "forks": 31,
-      "language": null,
-      "updated_at": "2026-09-17T01:07:15Z"
-    },
-    {
-      "name": "DefiLeoo/YOINK",
-      "description": null,
-      "url": "https://github.com/DefiLeoo/YOINK",
-      "stars": 379,
-      "forks": 22,
-      "language": "Python",
-      "updated_at": "2026-09-16T06:35:19Z"
-    },
-    {
-      "name": "nhovongoc0-max/meme-radar",
-      "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
-      "url": "https://github.com/nhovongoc0-max/meme-radar",
-      "stars": 350,
-      "forks": 147,
-      "language": "JavaScript",
-      "updated_at": "2026-09-17T01:37:40Z"
-    },
-    {
-      "name": "linguo2625469/workbuddy2api-panel",
-      "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
-      "url": "https://github.com/linguo2625469/workbuddy2api-panel",
-      "stars": 331,
-      "forks": 63,
-      "language": "Go",
-      "updated_at": "2026-09-17T01:54:06Z"
-    },
-    {
-      "name": "FSECDEV/Threat-Intelligence-Hackers-Forums",
-      "description": "A directory of hacker forums",
-      "url": "https://github.com/FSECDEV/Threat-Intelligence-Hackers-Forums",
-      "stars": 331,
-      "forks": 19,
-      "language": null,
-      "updated_at": "2026-09-17T01:52:50Z"
-    },
-    {
-      "name": "Qiuner/birdview",
-      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "url": "https://github.com/Qiuner/birdview",
-      "stars": 318,
-      "forks": 22,
-      "language": "JavaScript",
-      "updated_at": "2026-09-17T01:38:17Z"
-    },
-    {
-      "name": "zhengkid/Dream-RSI",
-      "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
-      "url": "https://github.com/zhengkid/Dream-RSI",
-      "stars": 311,
-      "forks": 15,
-      "language": null,
-      "updated_at": "2026-09-17T01:47:55Z"
-    },
-    {
-      "name": "browser-use/life-recorder",
-      "description": null,
-      "url": "https://github.com/browser-use/life-recorder",
-      "stars": 304,
-      "forks": 36,
-      "language": "Swift",
-      "updated_at": "2026-09-16T22:04:51Z"
-    },
-    {
-      "name": "tqmane/gunshot",
-      "description": "Google Photo tweak",
-      "url": "https://github.com/tqmane/gunshot",
-      "stars": 287,
-      "forks": 23,
-      "language": "Objective-C",
-      "updated_at": "2026-09-17T01:21:40Z"
-    },
-    {
-      "name": "theoephraim/awesome-cloudflare-selfhosted",
-      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
-      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
-      "stars": 281,
-      "forks": 8,
-      "language": "JavaScript",
-      "updated_at": "2026-09-17T01:51:52Z"
-    },
-    {
-      "name": "999sian/melee-pc",
-      "description": "Native PC port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/melee on aurora. No game data; bring your own disc.",
-      "url": "https://github.com/999sian/melee-pc",
-      "stars": 275,
-      "forks": 11,
-      "language": "C",
-      "updated_at": "2026-09-16T23:57:40Z"
-    },
-    {
-      "name": "AetherLabsAI/RSIAgent",
-      "description": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.",
-      "url": "https://github.com/AetherLabsAI/RSIAgent",
-      "stars": 258,
-      "forks": 28,
-      "language": "Python",
-      "updated_at": "2026-09-17T01:51:42Z"
-    },
-    {
-      "name": "groundboxerrespect/Dlls5-auto",
-      "description": "🎮 Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render — bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
-      "url": "https://github.com/groundboxerrespect/Dlls5-auto",
-      "stars": 255,
-      "forks": 1,
-      "language": "Python",
-      "updated_at": "2026-09-16T19:53:06Z"
+      "updated_at": "2026-09-18T01:31:44Z"
     },
     {
       "name": "vinnylarouge/jevlike",
       "description": null,
       "url": "https://github.com/vinnylarouge/jevlike",
-      "stars": 241,
-      "forks": 25,
+      "stars": 680,
+      "forks": 65,
       "language": "Python",
-      "updated_at": "2026-09-17T01:51:06Z"
+      "updated_at": "2026-09-18T01:39:44Z"
     },
     {
-      "name": "FLModel/flybook",
-      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "url": "https://github.com/FLModel/flybook",
-      "stars": 234,
-      "forks": 43,
+      "name": "rizqinrr/viserys-agent",
+      "description": null,
+      "url": "https://github.com/rizqinrr/viserys-agent",
+      "stars": 662,
+      "forks": 2,
+      "language": "JavaScript",
+      "updated_at": "2026-09-17T10:09:21Z"
+    },
+    {
+      "name": "shinthink/blitzstrike",
+      "description": "⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
+      "url": "https://github.com/shinthink/blitzstrike",
+      "stars": 634,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2026-09-17T13:05:34Z"
+    },
+    {
+      "name": "zhengkid/Dream-RSI",
+      "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+      "url": "https://github.com/zhengkid/Dream-RSI",
+      "stars": 561,
+      "forks": 52,
       "language": null,
-      "updated_at": "2026-09-15T02:49:46Z"
+      "updated_at": "2026-09-18T01:39:51Z"
+    },
+    {
+      "name": "theoephraim/awesome-cloudflare-selfhosted",
+      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+      "stars": 555,
+      "forks": 34,
+      "language": "JavaScript",
+      "updated_at": "2026-09-18T01:27:14Z"
+    },
+    {
+      "name": "saragordic/window-sweaters",
+      "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "stars": 541,
+      "forks": 16,
+      "language": "C",
+      "updated_at": "2026-09-18T00:52:48Z"
+    },
+    {
+      "name": "letorig/video-generator-client",
+      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "url": "https://github.com/letorig/video-generator-client",
+      "stars": 533,
+      "forks": 84,
+      "language": "Python",
+      "updated_at": "2026-09-17T23:22:23Z"
+    },
+    {
+      "name": "jarrodwatts/jev-trader",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "stars": 520,
+      "forks": 108,
+      "language": "TypeScript",
+      "updated_at": "2026-09-18T01:35:48Z"
+    },
+    {
+      "name": "atria-asi/Atria-Dawn-Preview",
+      "description": null,
+      "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+      "stars": 469,
+      "forks": 23,
+      "language": null,
+      "updated_at": "2026-09-18T01:41:10Z"
+    },
+    {
+      "name": "cobanov/awesome-fly",
+      "description": "A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools.",
+      "url": "https://github.com/cobanov/awesome-fly",
+      "stars": 462,
+      "forks": 35,
+      "language": null,
+      "updated_at": "2026-09-18T00:28:14Z"
+    },
+    {
+      "name": "anonymous-report-421/GPT-as-Policy",
+      "description": "GPT as Policy",
+      "url": "https://github.com/anonymous-report-421/GPT-as-Policy",
+      "stars": 441,
+      "forks": 18,
+      "language": "HTML",
+      "updated_at": "2026-09-17T16:41:30Z"
+    },
+    {
+      "name": "linguo2625469/workbuddy2api-panel",
+      "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
+      "url": "https://github.com/linguo2625469/workbuddy2api-panel",
+      "stars": 423,
+      "forks": 77,
+      "language": "Go",
+      "updated_at": "2026-09-18T01:19:05Z"
+    },
+    {
+      "name": "tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "stars": 423,
+      "forks": 17,
+      "language": "TypeScript",
+      "updated_at": "2026-09-18T01:41:39Z"
+    },
+    {
+      "name": "ctdal/cve-2026-41940-PoC",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "url": "https://github.com/ctdal/cve-2026-41940-PoC",
+      "stars": 408,
+      "forks": 53,
+      "language": "Python",
+      "updated_at": "2026-09-18T01:39:02Z"
+    },
+    {
+      "name": "korcarc/text-humanizer",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "url": "https://github.com/korcarc/text-humanizer",
+      "stars": 387,
+      "forks": 82,
+      "language": "Python",
+      "updated_at": "2026-09-18T01:39:10Z"
+    },
+    {
+      "name": "Qiuner/birdview",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "url": "https://github.com/Qiuner/birdview",
+      "stars": 378,
+      "forks": 31,
+      "language": "JavaScript",
+      "updated_at": "2026-09-18T01:38:18Z"
+    },
+    {
+      "name": "FSECDEV/Threat-Intelligence-Hackers-Forums",
+      "description": "A directory of hacker forums",
+      "url": "https://github.com/FSECDEV/Threat-Intelligence-Hackers-Forums",
+      "stars": 364,
+      "forks": 24,
+      "language": null,
+      "updated_at": "2026-09-17T19:55:35Z"
+    },
+    {
+      "name": "AetherLabsAI/RSIAgent",
+      "description": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.",
+      "url": "https://github.com/AetherLabsAI/RSIAgent",
+      "stars": 309,
+      "forks": 34,
+      "language": "Python",
+      "updated_at": "2026-09-18T01:35:54Z"
+    },
+    {
+      "name": "999sian/melee-pc",
+      "description": "Native PC port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/melee on aurora. No game data; bring your own disc.",
+      "url": "https://github.com/999sian/melee-pc",
+      "stars": 306,
+      "forks": 13,
+      "language": "C",
+      "updated_at": "2026-09-18T01:17:59Z"
+    },
+    {
+      "name": "apple/xcode-project-format",
+      "description": "A Swift library for reading, writing, and manipulating Xcode's JSON-based project.xcproj format. ",
+      "url": "https://github.com/apple/xcode-project-format",
+      "stars": 301,
+      "forks": 7,
+      "language": "Swift",
+      "updated_at": "2026-09-18T01:38:10Z"
+    },
+    {
+      "name": "lingyired/status-trio",
+      "description": "Status Trio — a native macOS app that combines Wi-Fi, battery, and volume into one compact, configurable status icon for the menu bar, the Dock, or both, inspired by the iPhone Duo combined status bar.",
+      "url": "https://github.com/lingyired/status-trio",
+      "stars": 284,
+      "forks": 18,
+      "language": "Swift",
+      "updated_at": "2026-09-18T01:31:21Z"
+    },
+    {
+      "name": "Marcos66236/github-stars-history",
+      "description": "Track and visualize the stars history of any GitHub repository. Open-source growth analytics and velocity tracking.",
+      "url": "https://github.com/Marcos66236/github-stars-history",
+      "stars": 276,
+      "forks": 30,
+      "language": "Python",
+      "updated_at": "2026-09-17T23:42:52Z"
     }
   ]
 }
