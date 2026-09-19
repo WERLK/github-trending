@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-09-18T01:41:40.207Z",
+  "fetched_at": "2026-09-19T01:46:31.791Z",
   "repos": [
     {
       "name": "browser-use/jev-ultrafast",
-      "description": null,
+      "description": "i. am. speed.",
       "url": "https://github.com/browser-use/jev-ultrafast",
-      "stars": 2237,
-      "forks": 123,
+      "stars": 5621,
+      "forks": 358,
       "language": "Python",
-      "updated_at": "2026-09-18T01:41:19Z"
-    },
-    {
-      "name": "Chuloo/mural",
-      "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
-      "url": "https://github.com/Chuloo/mural",
-      "stars": 1319,
-      "forks": 257,
-      "language": "Kotlin",
-      "updated_at": "2026-09-18T01:06:13Z"
-    },
-    {
-      "name": "yifanzhang-pro/recurrent-looped-tranformer",
-      "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
-      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
-      "stars": 871,
-      "forks": 85,
-      "language": "HTML",
-      "updated_at": "2026-09-18T01:35:06Z"
-    },
-    {
-      "name": "zjwzcx/Awesome-Astra-Embodied-AI",
-      "description": "GPT-6 Astra for embodied AI and robotics.",
-      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-      "stars": 825,
-      "forks": 16,
-      "language": null,
-      "updated_at": "2026-09-17T23:53:47Z"
-    },
-    {
-      "name": "TheoLeeCJ/openjev",
-      "description": "Can we run something like Jev on a 3090 at home?",
-      "url": "https://github.com/TheoLeeCJ/openjev",
-      "stars": 821,
-      "forks": 60,
-      "language": "Python",
-      "updated_at": "2026-09-18T01:36:25Z"
-    },
-    {
-      "name": "agentverse-os/AgentVerse-OS",
-      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "url": "https://github.com/agentverse-os/AgentVerse-OS",
-      "stars": 750,
-      "forks": 21,
-      "language": "Rust",
-      "updated_at": "2026-09-18T01:22:28Z"
-    },
-    {
-      "name": "youngyangyang04/llm-master",
-      "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
-      "url": "https://github.com/youngyangyang04/llm-master",
-      "stars": 688,
-      "forks": 66,
-      "language": null,
-      "updated_at": "2026-09-18T01:41:03Z"
-    },
-    {
-      "name": "nilbuild/page-mascot",
-      "description": "A mascot that watches the cursor and blinks when you poke it",
-      "url": "https://github.com/nilbuild/page-mascot",
-      "stars": 685,
-      "forks": 61,
-      "language": "Python",
-      "updated_at": "2026-09-18T01:31:44Z"
-    },
-    {
-      "name": "vinnylarouge/jevlike",
-      "description": null,
-      "url": "https://github.com/vinnylarouge/jevlike",
-      "stars": 680,
-      "forks": 65,
-      "language": "Python",
-      "updated_at": "2026-09-18T01:39:44Z"
-    },
-    {
-      "name": "rizqinrr/viserys-agent",
-      "description": null,
-      "url": "https://github.com/rizqinrr/viserys-agent",
-      "stars": 662,
-      "forks": 2,
-      "language": "JavaScript",
-      "updated_at": "2026-09-17T10:09:21Z"
-    },
-    {
-      "name": "shinthink/blitzstrike",
-      "description": "⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
-      "url": "https://github.com/shinthink/blitzstrike",
-      "stars": 634,
-      "forks": 0,
-      "language": "TypeScript",
-      "updated_at": "2026-09-17T13:05:34Z"
-    },
-    {
-      "name": "zhengkid/Dream-RSI",
-      "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
-      "url": "https://github.com/zhengkid/Dream-RSI",
-      "stars": 561,
-      "forks": 52,
-      "language": null,
-      "updated_at": "2026-09-18T01:39:51Z"
-    },
-    {
-      "name": "theoephraim/awesome-cloudflare-selfhosted",
-      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
-      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
-      "stars": 555,
-      "forks": 34,
-      "language": "JavaScript",
-      "updated_at": "2026-09-18T01:27:14Z"
-    },
-    {
-      "name": "saragordic/window-sweaters",
-      "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
-      "url": "https://github.com/saragordic/window-sweaters",
-      "stars": 541,
-      "forks": 16,
-      "language": "C",
-      "updated_at": "2026-09-18T00:52:48Z"
-    },
-    {
-      "name": "letorig/video-generator-client",
-      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
-      "url": "https://github.com/letorig/video-generator-client",
-      "stars": 533,
-      "forks": 84,
-      "language": "Python",
-      "updated_at": "2026-09-17T23:22:23Z"
-    },
-    {
-      "name": "jarrodwatts/jev-trader",
-      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "url": "https://github.com/jarrodwatts/jev-trader",
-      "stars": 520,
-      "forks": 108,
-      "language": "TypeScript",
-      "updated_at": "2026-09-18T01:35:48Z"
-    },
-    {
-      "name": "atria-asi/Atria-Dawn-Preview",
-      "description": null,
-      "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
-      "stars": 469,
-      "forks": 23,
-      "language": null,
-      "updated_at": "2026-09-18T01:41:10Z"
-    },
-    {
-      "name": "cobanov/awesome-fly",
-      "description": "A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools.",
-      "url": "https://github.com/cobanov/awesome-fly",
-      "stars": 462,
-      "forks": 35,
-      "language": null,
-      "updated_at": "2026-09-18T00:28:14Z"
-    },
-    {
-      "name": "anonymous-report-421/GPT-as-Policy",
-      "description": "GPT as Policy",
-      "url": "https://github.com/anonymous-report-421/GPT-as-Policy",
-      "stars": 441,
-      "forks": 18,
-      "language": "HTML",
-      "updated_at": "2026-09-17T16:41:30Z"
-    },
-    {
-      "name": "linguo2625469/workbuddy2api-panel",
-      "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
-      "url": "https://github.com/linguo2625469/workbuddy2api-panel",
-      "stars": 423,
-      "forks": 77,
-      "language": "Go",
-      "updated_at": "2026-09-18T01:19:05Z"
+      "updated_at": "2026-09-19T01:46:08Z"
     },
     {
       "name": "tamaratran/fast-jev-compaction",
       "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
       "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "stars": 423,
-      "forks": 17,
+      "stars": 3291,
+      "forks": 163,
       "language": "TypeScript",
-      "updated_at": "2026-09-18T01:41:39Z"
+      "updated_at": "2026-09-19T01:46:27Z"
     },
     {
-      "name": "ctdal/cve-2026-41940-PoC",
-      "description": "A cPanel and WHM authentication bypassing tool",
-      "url": "https://github.com/ctdal/cve-2026-41940-PoC",
-      "stars": 408,
-      "forks": 53,
+      "name": "TheoLeeCJ/SemIf",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "stars": 1606,
+      "forks": 105,
       "language": "Python",
-      "updated_at": "2026-09-18T01:39:02Z"
+      "updated_at": "2026-09-19T01:32:53Z"
+    },
+    {
+      "name": "mcncarl/jianying-headless",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "stars": 1045,
+      "forks": 507,
+      "language": "Python",
+      "updated_at": "2026-09-19T01:40:47Z"
+    },
+    {
+      "name": "vinnylarouge/jevlike",
+      "description": null,
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "stars": 896,
+      "forks": 75,
+      "language": "Python",
+      "updated_at": "2026-09-19T01:26:45Z"
+    },
+    {
+      "name": "jarrodwatts/jev-trader",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "stars": 882,
+      "forks": 168,
+      "language": "TypeScript",
+      "updated_at": "2026-09-19T01:42:36Z"
+    },
+    {
+      "name": "zhengkid/Dream-RSI",
+      "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+      "url": "https://github.com/zhengkid/Dream-RSI",
+      "stars": 762,
+      "forks": 66,
+      "language": null,
+      "updated_at": "2026-09-19T01:45:53Z"
     },
     {
       "name": "korcarc/text-humanizer",
       "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
       "url": "https://github.com/korcarc/text-humanizer",
-      "stars": 387,
+      "stars": 725,
       "forks": 82,
       "language": "Python",
-      "updated_at": "2026-09-18T01:39:10Z"
+      "updated_at": "2026-09-18T23:13:19Z"
     },
     {
-      "name": "Qiuner/birdview",
-      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "url": "https://github.com/Qiuner/birdview",
-      "stars": 378,
-      "forks": 31,
+      "name": "nilbuild/page-mascot",
+      "description": "A mascot that watches the cursor and blinks when you poke it",
+      "url": "https://github.com/nilbuild/page-mascot",
+      "stars": 711,
+      "forks": 67,
+      "language": "Python",
+      "updated_at": "2026-09-19T00:43:54Z"
+    },
+    {
+      "name": "robbietilton/Compositor",
+      "description": "The Photoshop alternative for Mac",
+      "url": "https://github.com/robbietilton/Compositor",
+      "stars": 669,
+      "forks": 77,
+      "language": "Swift",
+      "updated_at": "2026-09-19T01:45:57Z"
+    },
+    {
+      "name": "theoephraim/awesome-cloudflare-selfhosted",
+      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+      "stars": 645,
+      "forks": 39,
       "language": "JavaScript",
-      "updated_at": "2026-09-18T01:38:18Z"
+      "updated_at": "2026-09-19T00:27:23Z"
+    },
+    {
+      "name": "saragordic/window-sweaters",
+      "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "stars": 577,
+      "forks": 16,
+      "language": "C",
+      "updated_at": "2026-09-19T00:04:27Z"
+    },
+    {
+      "name": "letorig/video-generator-client",
+      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "url": "https://github.com/letorig/video-generator-client",
+      "stars": 535,
+      "forks": 84,
+      "language": "Python",
+      "updated_at": "2026-09-18T07:22:55Z"
+    },
+    {
+      "name": "ctdal/cve-2026-41940-PoC",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "url": "https://github.com/ctdal/cve-2026-41940-PoC",
+      "stars": 526,
+      "forks": 54,
+      "language": "Python",
+      "updated_at": "2026-09-18T08:51:32Z"
+    },
+    {
+      "name": "yynxxxxx/gpt_sub_analysis",
+      "description": "Security analysis of the ChatGPT iOS subscription / entitlement flow (internal draft, coordinated disclosure WIP)",
+      "url": "https://github.com/yynxxxxx/gpt_sub_analysis",
+      "stars": 517,
+      "forks": 286,
+      "language": null,
+      "updated_at": "2026-09-19T01:40:21Z"
+    },
+    {
+      "name": "anonymous-report-421/GPT-as-Policy",
+      "description": "GPT as Policy",
+      "url": "https://github.com/anonymous-report-421/GPT-as-Policy",
+      "stars": 460,
+      "forks": 20,
+      "language": "HTML",
+      "updated_at": "2026-09-18T23:53:31Z"
+    },
+    {
+      "name": "TianyuCodings/NanoJev",
+      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "url": "https://github.com/TianyuCodings/NanoJev",
+      "stars": 388,
+      "forks": 36,
+      "language": "Python",
+      "updated_at": "2026-09-19T01:34:54Z"
+    },
+    {
+      "name": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "description": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
+      "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "stars": 378,
+      "forks": 36,
+      "language": "Python",
+      "updated_at": "2026-09-19T01:46:19Z"
     },
     {
       "name": "FSECDEV/Threat-Intelligence-Hackers-Forums",
       "description": "A directory of hacker forums",
       "url": "https://github.com/FSECDEV/Threat-Intelligence-Hackers-Forums",
-      "stars": 364,
+      "stars": 370,
       "forks": 24,
       "language": null,
-      "updated_at": "2026-09-17T19:55:35Z"
-    },
-    {
-      "name": "AetherLabsAI/RSIAgent",
-      "description": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.",
-      "url": "https://github.com/AetherLabsAI/RSIAgent",
-      "stars": 309,
-      "forks": 34,
-      "language": "Python",
-      "updated_at": "2026-09-18T01:35:54Z"
-    },
-    {
-      "name": "999sian/melee-pc",
-      "description": "Native PC port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/melee on aurora. No game data; bring your own disc.",
-      "url": "https://github.com/999sian/melee-pc",
-      "stars": 306,
-      "forks": 13,
-      "language": "C",
-      "updated_at": "2026-09-18T01:17:59Z"
+      "updated_at": "2026-09-18T23:03:34Z"
     },
     {
       "name": "apple/xcode-project-format",
       "description": "A Swift library for reading, writing, and manipulating Xcode's JSON-based project.xcproj format. ",
       "url": "https://github.com/apple/xcode-project-format",
-      "stars": 301,
-      "forks": 7,
+      "stars": 361,
+      "forks": 10,
       "language": "Swift",
-      "updated_at": "2026-09-18T01:38:10Z"
+      "updated_at": "2026-09-18T23:56:48Z"
     },
     {
-      "name": "lingyired/status-trio",
-      "description": "Status Trio — a native macOS app that combines Wi-Fi, battery, and volume into one compact, configurable status icon for the menu bar, the Dock, or both, inspired by the iPhone Duo combined status bar.",
-      "url": "https://github.com/lingyired/status-trio",
-      "stars": 284,
-      "forks": 18,
+      "name": "Mak5er/AirCard",
+      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "url": "https://github.com/Mak5er/AirCard",
+      "stars": 351,
+      "forks": 12,
       "language": "Swift",
-      "updated_at": "2026-09-18T01:31:21Z"
+      "updated_at": "2026-09-19T00:58:34Z"
+    },
+    {
+      "name": "AetherLabsAI/RSIAgent",
+      "description": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.",
+      "url": "https://github.com/AetherLabsAI/RSIAgent",
+      "stars": 337,
+      "forks": 37,
+      "language": "Python",
+      "updated_at": "2026-09-19T01:40:19Z"
+    },
+    {
+      "name": "999sian/melee-pc",
+      "description": "Native PC port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/melee on aurora. No game data; bring your own disc.",
+      "url": "https://github.com/999sian/melee-pc",
+      "stars": 321,
+      "forks": 12,
+      "language": "C",
+      "updated_at": "2026-09-19T01:38:27Z"
+    },
+    {
+      "name": "thruwire/foreman",
+      "description": "Software factory foreman based on TypeSafe's Jev model",
+      "url": "https://github.com/thruwire/foreman",
+      "stars": 302,
+      "forks": 17,
+      "language": "Python",
+      "updated_at": "2026-09-19T01:44:44Z"
     },
     {
       "name": "Marcos66236/github-stars-history",
       "description": "Track and visualize the stars history of any GitHub repository. Open-source growth analytics and velocity tracking.",
       "url": "https://github.com/Marcos66236/github-stars-history",
-      "stars": 276,
+      "stars": 277,
       "forks": 30,
       "language": "Python",
-      "updated_at": "2026-09-17T23:42:52Z"
+      "updated_at": "2026-09-18T20:14:10Z"
+    },
+    {
+      "name": "devagrawal09/jev-review",
+      "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "url": "https://github.com/devagrawal09/jev-review",
+      "stars": 274,
+      "forks": 13,
+      "language": "TypeScript",
+      "updated_at": "2026-09-19T01:43:18Z"
+    },
+    {
+      "name": "KazamaDono/taoxd",
+      "description": "The Art of Exploit Development companion code.",
+      "url": "https://github.com/KazamaDono/taoxd",
+      "stars": 273,
+      "forks": 61,
+      "language": "Makefile",
+      "updated_at": "2026-09-18T20:13:30Z"
+    },
+    {
+      "name": "jackwener/wx-cli-again",
+      "description": "WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli",
+      "url": "https://github.com/jackwener/wx-cli-again",
+      "stars": 270,
+      "forks": 751,
+      "language": "Rust",
+      "updated_at": "2026-09-19T01:42:41Z"
+    },
+    {
+      "name": "Speedstu/CUDA-for-AMD-Windows",
+      "description": "Run CUDA-targeted Windows applications on AMD GPUs with ZLUDA + ROCm/HIP.",
+      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+      "stars": 266,
+      "forks": 25,
+      "language": "PowerShell",
+      "updated_at": "2026-09-18T23:14:40Z"
+    },
+    {
+      "name": "fhshaik/typesafe-mario",
+      "description": "A TypeSafe/Jev agent that plays Super Mario Bros. from structured emulator state.",
+      "url": "https://github.com/fhshaik/typesafe-mario",
+      "stars": 262,
+      "forks": 27,
+      "language": "Python",
+      "updated_at": "2026-09-19T00:49:50Z"
     }
   ]
 }
