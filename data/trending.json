@@ -1,185 +1,185 @@
 {
-  "fetched_at": "2026-09-27T01:59:34.374Z",
+  "fetched_at": "2026-09-28T02:04:59.528Z",
   "repos": [
-    {
-      "name": "jev-chat/jev-chat-jarvis",
-      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给���候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "stars": 6677,
-      "forks": 1154,
-      "language": "Kotlin",
-      "updated_at": "2026-09-27T01:54:16Z"
-    },
-    {
-      "name": "unreallabsai/unreal-agent",
-      "description": "Async-first agent harness",
-      "url": "https://github.com/unreallabsai/unreal-agent",
-      "stars": 1969,
-      "forks": 103,
-      "language": "Go",
-      "updated_at": "2026-09-27T01:33:41Z"
-    },
     {
       "name": "Contrastive-LM/CLM",
       "description": null,
       "url": "https://github.com/Contrastive-LM/CLM",
-      "stars": 1603,
-      "forks": 126,
+      "stars": 1932,
+      "forks": 172,
       "language": "Python",
-      "updated_at": "2026-09-27T01:56:22Z"
+      "updated_at": "2026-09-28T02:00:11Z"
     },
     {
       "name": "tobi/disktree",
       "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
       "url": "https://github.com/tobi/disktree",
-      "stars": 1304,
-      "forks": 87,
-      "language": "Rust",
-      "updated_at": "2026-09-27T01:49:32Z"
-    },
-    {
-      "name": "JohnHeibel/PDoomVideo",
-      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
-      "url": "https://github.com/JohnHeibel/PDoomVideo",
-      "stars": 1054,
+      "stars": 1618,
       "forks": 107,
-      "language": "JavaScript",
-      "updated_at": "2026-09-27T01:50:42Z"
-    },
-    {
-      "name": "deepopen-com/deepopen",
-      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-      "url": "https://github.com/deepopen-com/deepopen",
-      "stars": 1037,
-      "forks": 111,
-      "language": "Python",
-      "updated_at": "2026-09-27T01:29:12Z"
+      "language": "Rust",
+      "updated_at": "2026-09-28T02:01:51Z"
     },
     {
       "name": "yetone/magpie",
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "url": "https://github.com/yetone/magpie",
-      "stars": 1037,
-      "forks": 63,
+      "stars": 1268,
+      "forks": 70,
       "language": "Go",
-      "updated_at": "2026-09-27T01:56:59Z"
+      "updated_at": "2026-09-28T02:02:26Z"
+    },
+    {
+      "name": "JohnHeibel/PDoomVideo",
+      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "url": "https://github.com/JohnHeibel/PDoomVideo",
+      "stars": 1261,
+      "forks": 133,
+      "language": "JavaScript",
+      "updated_at": "2026-09-28T02:02:55Z"
+    },
+    {
+      "name": "mexicat/pdoom-video",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "url": "https://github.com/mexicat/pdoom-video",
+      "stars": 1173,
+      "forks": 122,
+      "language": "TypeScript",
+      "updated_at": "2026-09-28T02:04:32Z"
     },
     {
       "name": "mikehasa/golive-skill",
-      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve ��� apply → verify. No GoLive account, backend or telemetry.",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
       "url": "https://github.com/mikehasa/golive-skill",
-      "stars": 980,
-      "forks": 68,
+      "stars": 1014,
+      "forks": 75,
       "language": "TypeScript",
-      "updated_at": "2026-09-27T01:25:39Z"
+      "updated_at": "2026-09-28T01:32:26Z"
     },
     {
       "name": "kryvora-network/kryvora-node",
       "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
       "url": "https://github.com/kryvora-network/kryvora-node",
-      "stars": 890,
-      "forks": 25,
+      "stars": 978,
+      "forks": 26,
       "language": "Go",
-      "updated_at": "2026-09-27T01:52:51Z"
+      "updated_at": "2026-09-28T01:45:19Z"
     },
     {
       "name": "riba2534/claude-opus-5-5-demo",
       "description": "claude-opus-5-5-demo",
       "url": "https://github.com/riba2534/claude-opus-5-5-demo",
-      "stars": 809,
-      "forks": 120,
+      "stars": 829,
+      "forks": 122,
       "language": "JavaScript",
-      "updated_at": "2026-09-27T01:14:04Z"
-    },
-    {
-      "name": "nokia-applied-research/AnyJev",
-      "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
-      "url": "https://github.com/nokia-applied-research/AnyJev",
-      "stars": 799,
-      "forks": 105,
-      "language": "Python",
-      "updated_at": "2026-09-27T01:47:41Z"
-    },
-    {
-      "name": "freestylefly/WeChatBridge",
-      "description": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
-      "url": "https://github.com/freestylefly/WeChatBridge",
-      "stars": 794,
-      "forks": 301,
-      "language": "Swift",
-      "updated_at": "2026-09-27T01:54:49Z"
+      "updated_at": "2026-09-28T01:59:26Z"
     },
     {
       "name": "dgreenheck/tidewater",
       "description": "Coastal town built with Opus 5.5",
       "url": "https://github.com/dgreenheck/tidewater",
-      "stars": 743,
-      "forks": 179,
+      "stars": 825,
+      "forks": 199,
       "language": "JavaScript",
-      "updated_at": "2026-09-27T01:51:36Z"
-    },
-    {
-      "name": "asokurasu/text-humanizer",
-      "description": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
-      "url": "https://github.com/asokurasu/text-humanizer",
-      "stars": 731,
-      "forks": 83,
-      "language": "Python",
-      "updated_at": "2026-09-27T01:36:37Z"
-    },
-    {
-      "name": "yukitorido/short-video-generator-AI",
-      "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-      "url": "https://github.com/yukitorido/short-video-generator-AI",
-      "stars": 717,
-      "forks": 82,
-      "language": "Python",
-      "updated_at": "2026-09-26T21:35:14Z"
-    },
-    {
-      "name": "anishfn/shapeshift",
-      "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
-      "url": "https://github.com/anishfn/shapeshift",
-      "stars": 683,
-      "forks": 75,
-      "language": "TypeScript",
-      "updated_at": "2026-09-26T23:33:41Z"
+      "updated_at": "2026-09-28T01:59:50Z"
     },
     {
       "name": "852wa/JIZURA",
       "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
       "url": "https://github.com/852wa/JIZURA",
-      "stars": 628,
-      "forks": 109,
+      "stars": 804,
+      "forks": 124,
       "language": "HTML",
-      "updated_at": "2026-09-27T01:58:39Z"
+      "updated_at": "2026-09-28T01:57:40Z"
     },
     {
-      "name": "Rizzo-AI-Academy/rizzo-flow",
-      "description": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
-      "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
-      "stars": 621,
-      "forks": 37,
-      "language": "Python",
-      "updated_at": "2026-09-27T00:28:13Z"
+      "name": "dzhng/jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "url": "https://github.com/dzhng/jevgrep",
+      "stars": 790,
+      "forks": 48,
+      "language": "TypeScript",
+      "updated_at": "2026-09-28T02:03:32Z"
     },
     {
-      "name": "jev-chat/jev-chat-windows",
-      "description": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
-      "url": "https://github.com/jev-chat/jev-chat-windows",
-      "stars": 593,
-      "forks": 130,
+      "name": "asokurasu/text-humanizer",
+      "description": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
+      "url": "https://github.com/asokurasu/text-humanizer",
+      "stars": 739,
+      "forks": 83,
       "language": "Python",
-      "updated_at": "2026-09-27T01:07:21Z"
+      "updated_at": "2026-09-27T20:27:28Z"
+    },
+    {
+      "name": "yukitorido/short-video-generator-AI",
+      "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+      "url": "https://github.com/yukitorido/short-video-generator-AI",
+      "stars": 724,
+      "forks": 82,
+      "language": "Python",
+      "updated_at": "2026-09-27T22:50:13Z"
+    },
+    {
+      "name": "anishfn/shapeshift",
+      "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
+      "url": "https://github.com/anishfn/shapeshift",
+      "stars": 709,
+      "forks": 79,
+      "language": "TypeScript",
+      "updated_at": "2026-09-28T00:52:10Z"
+    },
+    {
+      "name": "ollaya-dev/ollaya",
+      "description": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
+      "url": "https://github.com/ollaya-dev/ollaya",
+      "stars": 702,
+      "forks": 33,
+      "language": "Rust",
+      "updated_at": "2026-09-28T01:59:59Z"
     },
     {
       "name": "supermemoryai/company-brain",
       "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
       "url": "https://github.com/supermemoryai/company-brain",
-      "stars": 517,
-      "forks": 69,
+      "stars": 672,
+      "forks": 99,
       "language": "TypeScript",
-      "updated_at": "2026-09-27T01:59:09Z"
+      "updated_at": "2026-09-28T01:27:03Z"
+    },
+    {
+      "name": "alexgreensh/anidoodle",
+      "description": "Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
+      "url": "https://github.com/alexgreensh/anidoodle",
+      "stars": 569,
+      "forks": 47,
+      "language": "TypeScript",
+      "updated_at": "2026-09-28T01:58:57Z"
+    },
+    {
+      "name": "feitangyuan/onetake",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "url": "https://github.com/feitangyuan/onetake",
+      "stars": 552,
+      "forks": 40,
+      "language": "Python",
+      "updated_at": "2026-09-28T01:47:43Z"
+    },
+    {
+      "name": "kydlikebtc/awesome-jev",
+      "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+      "url": "https://github.com/kydlikebtc/awesome-jev",
+      "stars": 520,
+      "forks": 13,
+      "language": "Python",
+      "updated_at": "2026-09-28T02:04:33Z"
+    },
+    {
+      "name": "Niko1221/Strata",
+      "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "url": "https://github.com/Niko1221/Strata",
+      "stars": 508,
+      "forks": 55,
+      "language": "C++",
+      "updated_at": "2026-09-28T02:04:51Z"
     },
     {
       "name": "rgem227/knoweldge-base",
@@ -191,85 +191,85 @@
       "updated_at": "2026-09-26T09:00:56Z"
     },
     {
-      "name": "kydlikebtc/awesome-jev",
-      "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
-      "url": "https://github.com/kydlikebtc/awesome-jev",
-      "stars": 486,
-      "forks": 11,
-      "language": "Python",
-      "updated_at": "2026-09-27T01:59:12Z"
-    },
-    {
-      "name": "alexgreensh/anidoodle",
-      "description": "Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
-      "url": "https://github.com/alexgreensh/anidoodle",
-      "stars": 479,
-      "forks": 36,
-      "language": "TypeScript",
-      "updated_at": "2026-09-27T01:57:14Z"
-    },
-    {
       "name": "samyost1/3dicon",
       "description": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
       "url": "https://github.com/samyost1/3dicon",
-      "stars": 465,
+      "stars": 487,
       "forks": 43,
       "language": "Python",
-      "updated_at": "2026-09-27T00:07:15Z"
-    },
-    {
-      "name": "Aureliengmz/clearwater",
-      "description": "Real-time, photoreal shallow water in a single HTML file. WebGL2, no libraries, no build step.",
-      "url": "https://github.com/Aureliengmz/clearwater",
-      "stars": 454,
-      "forks": 83,
-      "language": "HTML",
-      "updated_at": "2026-09-27T01:54:25Z"
-    },
-    {
-      "name": "SpecterLouse/CapCut-Pro-macOS-Windows",
-      "description": "Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS)",
-      "url": "https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows",
-      "stars": 433,
-      "forks": 0,
-      "language": null,
-      "updated_at": "2026-09-26T23:49:13Z"
-    },
-    {
-      "name": "ollaya-dev/ollaya",
-      "description": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
-      "url": "https://github.com/ollaya-dev/ollaya",
-      "stars": 425,
-      "forks": 16,
-      "language": "Rust",
-      "updated_at": "2026-09-27T01:44:05Z"
-    },
-    {
-      "name": "amitshekhariitbhu/ai-system-design",
-      "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-      "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-      "stars": 412,
-      "forks": 48,
-      "language": "Markdown",
-      "updated_at": "2026-09-27T01:49:55Z"
-    },
-    {
-      "name": "jev-chat/jev-chat-jarvis-mac",
-      "description": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
-      "stars": 410,
-      "forks": 120,
-      "language": "Python",
-      "updated_at": "2026-09-27T00:45:13Z"
+      "updated_at": "2026-09-28T00:46:54Z"
     },
     {
       "name": "JohnHeibel/ClaudeAnimationBase",
       "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
       "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
-      "stars": 390,
+      "stars": 475,
+      "forks": 56,
+      "language": "JavaScript",
+      "updated_at": "2026-09-28T01:50:02Z"
+    },
+    {
+      "name": "Aureliengmz/clearwater",
+      "description": "Real-time, photoreal shallow water in a single HTML file. WebGL2, no libraries, no build step.",
+      "url": "https://github.com/Aureliengmz/clearwater",
+      "stars": 474,
+      "forks": 89,
+      "language": "HTML",
+      "updated_at": "2026-09-28T01:27:53Z"
+    },
+    {
+      "name": "amitshekhariitbhu/ai-system-design",
+      "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+      "url": "https://github.com/amitshekhariitbhu/ai-system-design",
+      "stars": 450,
+      "forks": 54,
+      "language": "Markdown",
+      "updated_at": "2026-09-28T00:57:32Z"
+    },
+    {
+      "name": "SpecterLouse/CapCut-Pro-macOS-Windows",
+      "description": "Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS)",
+      "url": "https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows",
+      "stars": 443,
+      "forks": 2,
+      "language": null,
+      "updated_at": "2026-09-27T22:41:07Z"
+    },
+    {
+      "name": "amitshekhariitbhu/ai-engineering-course",
+      "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+      "stars": 399,
+      "forks": 69,
+      "language": "Markdown",
+      "updated_at": "2026-09-28T00:36:27Z"
+    },
+    {
+      "name": "lemomo-ai/lemo-opuscar",
+      "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "stars": 365,
       "forks": 45,
       "language": "JavaScript",
-      "updated_at": "2026-09-27T01:51:20Z"
+      "updated_at": "2026-09-28T02:01:17Z"
+    },
+    {
+      "name": "angusdevgo/Seep-Reverse-Lab",
+      "description": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+      "url": "https://github.com/angusdevgo/Seep-Reverse-Lab",
+      "stars": 360,
+      "forks": 115,
+      "language": "Python",
+      "updated_at": "2026-09-28T01:56:03Z"
+    },
+    {
+      "name": "yihui-dev/awesome-opus5-5-videos",
+      "description": "282 viral videos made with Claude Opus 5.5, each with the exact prompt. Watch every original next to a live remake on Skillry.",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "stars": 343,
+      "forks": 47,
+      "language": null,
+      "updated_at": "2026-09-28T02:04:50Z"
     }
   ]
 }
