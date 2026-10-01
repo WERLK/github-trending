@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-09-30T02:32:55.863Z",
+  "fetched_at": "2026-10-01T02:35:18.124Z",
   "repos": [
     {
       "name": "KKKKhazix/AIHOT",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，��就是你的行业热点站。",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，���就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "stars": 3297,
-      "forks": 950,
+      "stars": 4120,
+      "forks": 1190,
       "language": "TypeScript",
-      "updated_at": "2026-09-30T02:32:26Z"
+      "updated_at": "2026-10-01T02:33:59Z"
     },
     {
-      "name": "mexicat/pdoom-video",
-      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
-      "url": "https://github.com/mexicat/pdoom-video",
-      "stars": 1988,
-      "forks": 206,
-      "language": "TypeScript",
-      "updated_at": "2026-09-30T02:12:18Z"
-    },
-    {
-      "name": "tobi/disktree",
-      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
-      "url": "https://github.com/tobi/disktree",
-      "stars": 1915,
-      "forks": 122,
-      "language": "Rust",
-      "updated_at": "2026-09-30T01:28:37Z"
-    },
-    {
-      "name": "Niko1221/Strata",
-      "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-      "url": "https://github.com/Niko1221/Strata",
-      "stars": 1822,
-      "forks": 206,
-      "language": "C++",
-      "updated_at": "2026-09-30T02:32:33Z"
+      "name": "feder-cr/dots",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "url": "https://github.com/feder-cr/dots",
+      "stars": 1936,
+      "forks": 320,
+      "language": "Python",
+      "updated_at": "2026-10-01T02:24:36Z"
     },
     {
       "name": "dzhng/jevgrep",
       "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
       "url": "https://github.com/dzhng/jevgrep",
-      "stars": 1785,
-      "forks": 114,
+      "stars": 1908,
+      "forks": 127,
       "language": "TypeScript",
-      "updated_at": "2026-09-30T02:19:14Z"
+      "updated_at": "2026-10-01T02:21:10Z"
+    },
+    {
+      "name": "Louis-CFM/coucou",
+      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "stars": 1408,
+      "forks": 170,
+      "language": "Swift",
+      "updated_at": "2026-10-01T02:34:33Z"
     },
     {
       "name": "firelex/jeff",
       "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
       "url": "https://github.com/firelex/jeff",
-      "stars": 1054,
-      "forks": 42,
+      "stars": 1197,
+      "forks": 51,
       "language": "Python",
-      "updated_at": "2026-09-30T02:24:35Z"
-    },
-    {
-      "name": "shihabal3amri/DiPlay",
-      "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
-      "url": "https://github.com/shihabal3amri/DiPlay",
-      "stars": 1013,
-      "forks": 169,
-      "language": "Kotlin",
-      "updated_at": "2026-09-30T02:28:44Z"
-    },
-    {
-      "name": "feitangyuan/onetake",
-      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-      "url": "https://github.com/feitangyuan/onetake",
-      "stars": 982,
-      "forks": 64,
-      "language": "Python",
-      "updated_at": "2026-09-30T02:19:20Z"
-    },
-    {
-      "name": "yihui-dev/awesome-opus5-5-videos",
-      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
-      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
-      "stars": 921,
-      "forks": 111,
-      "language": null,
-      "updated_at": "2026-09-30T02:23:25Z"
+      "updated_at": "2026-10-01T01:57:43Z"
     },
     {
       "name": "kaankiziltug/logo-design-skill",
       "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
       "url": "https://github.com/kaankiziltug/logo-design-skill",
-      "stars": 852,
-      "forks": 40,
+      "stars": 1132,
+      "forks": 63,
       "language": "HTML",
-      "updated_at": "2026-09-30T02:27:18Z"
+      "updated_at": "2026-10-01T02:35:02Z"
     },
     {
-      "name": "supermemoryai/company-brain",
-      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-      "url": "https://github.com/supermemoryai/company-brain",
-      "stars": 849,
-      "forks": 118,
-      "language": "TypeScript",
-      "updated_at": "2026-09-30T02:23:55Z"
+      "name": "yihui-dev/awesome-opus5-5-videos",
+      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "stars": 1100,
+      "forks": 126,
+      "language": null,
+      "updated_at": "2026-10-01T02:34:32Z"
     },
     {
-      "name": "lemomo-ai/lemo-opuscar",
-      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-      "url": "https://github.com/lemomo-ai/lemo-opuscar",
-      "stars": 617,
-      "forks": 81,
-      "language": "JavaScript",
-      "updated_at": "2026-09-30T02:26:21Z"
-    },
-    {
-      "name": "glanderness/BeefTV",
-      "description": "Local-first, lightweight, AI-native video workspace.",
-      "url": "https://github.com/glanderness/BeefTV",
-      "stars": 545,
-      "forks": 102,
-      "language": "TypeScript",
-      "updated_at": "2026-09-30T02:27:10Z"
+      "name": "feitangyuan/onetake",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "url": "https://github.com/feitangyuan/onetake",
+      "stars": 1059,
+      "forks": 67,
+      "language": "Python",
+      "updated_at": "2026-10-01T02:24:52Z"
     },
     {
       "name": "wy51ai/floorplan-3d",
       "description": null,
       "url": "https://github.com/wy51ai/floorplan-3d",
-      "stars": 538,
-      "forks": 130,
+      "stars": 974,
+      "forks": 213,
       "language": "HTML",
-      "updated_at": "2026-09-30T02:27:47Z"
+      "updated_at": "2026-10-01T02:29:26Z"
     },
     {
-      "name": "amitshekhariitbhu/ai-system-design",
-      "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-      "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-      "stars": 469,
-      "forks": 56,
-      "language": "Markdown",
-      "updated_at": "2026-09-30T01:58:33Z"
+      "name": "rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "stars": 882,
+      "forks": 60,
+      "language": "Python",
+      "updated_at": "2026-10-01T02:34:30Z"
     },
     {
-      "name": "SpecterLouse/CapCut-Pro-macOS-Windows",
-      "description": "Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS)",
-      "url": "https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows",
-      "stars": 454,
-      "forks": 1,
-      "language": null,
-      "updated_at": "2026-09-30T02:03:53Z"
+      "name": "supermemoryai/company-brain",
+      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "url": "https://github.com/supermemoryai/company-brain",
+      "stars": 873,
+      "forks": 124,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T22:38:49Z"
     },
     {
-      "name": "xikhar/spiderbench",
-      "description": null,
-      "url": "https://github.com/xikhar/spiderbench",
-      "stars": 437,
-      "forks": 78,
+      "name": "lemomo-ai/lemo-opuscar",
+      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "stars": 685,
+      "forks": 86,
       "language": "JavaScript",
-      "updated_at": "2026-09-29T23:56:00Z"
+      "updated_at": "2026-10-01T02:09:30Z"
     },
     {
-      "name": "zouyuxuan122/dsh-our-free-model",
-      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
-      "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-      "stars": 425,
-      "forks": 21,
-      "language": "JavaScript",
-      "updated_at": "2026-09-30T01:20:05Z"
+      "name": "echris6/motion-video-kit",
+      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "url": "https://github.com/echris6/motion-video-kit",
+      "stars": 593,
+      "forks": 47,
+      "language": "Python",
+      "updated_at": "2026-10-01T02:29:11Z"
     },
     {
-      "name": "wangmingxuan666/Tiersense",
-      "description": null,
-      "url": "https://github.com/wangmingxuan666/Tiersense",
-      "stars": 425,
-      "forks": 81,
-      "language": null,
-      "updated_at": "2026-09-30T02:10:38Z"
+      "name": "OpSafari/hypoarena",
+      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "url": "https://github.com/OpSafari/hypoarena",
+      "stars": 545,
+      "forks": 28,
+      "language": "Python",
+      "updated_at": "2026-09-30T18:06:57Z"
     },
     {
       "name": "JoasASantos/Offensive-Security-AI-Models",
       "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
       "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-      "stars": 417,
-      "forks": 37,
+      "stars": 484,
+      "forks": 46,
       "language": null,
-      "updated_at": "2026-09-30T02:00:35Z"
+      "updated_at": "2026-10-01T01:45:43Z"
     },
     {
-      "name": "bjarneo/flux",
-      "description": "Connect an Omarchy computer to your phone: files, clipboard, notifications, media, camera, and more",
-      "url": "https://github.com/bjarneo/flux",
-      "stars": 399,
-      "forks": 27,
-      "language": "Swift",
-      "updated_at": "2026-09-30T01:36:48Z"
+      "name": "openai/mcp-extensions",
+      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "url": "https://github.com/openai/mcp-extensions",
+      "stars": 480,
+      "forks": 18,
+      "language": "TypeScript",
+      "updated_at": "2026-10-01T02:21:49Z"
     },
     {
-      "name": "LuwuDynamics/xgoduck_hardware",
+      "name": "amitshekhariitbhu/ai-system-design",
+      "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+      "url": "https://github.com/amitshekhariitbhu/ai-system-design",
+      "stars": 476,
+      "forks": 58,
+      "language": "Markdown",
+      "updated_at": "2026-09-30T20:52:30Z"
+    },
+    {
+      "name": "SpecterLouse/CapCut-Pro-macOS-Windows",
+      "description": "Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS)",
+      "url": "https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows",
+      "stars": 458,
+      "forks": 1,
+      "language": null,
+      "updated_at": "2026-09-30T19:45:58Z"
+    },
+    {
+      "name": "xikhar/spiderbench",
       "description": null,
-      "url": "https://github.com/LuwuDynamics/xgoduck_hardware",
-      "stars": 397,
-      "forks": 54,
-      "language": null,
-      "updated_at": "2026-09-30T00:59:24Z"
+      "url": "https://github.com/xikhar/spiderbench",
+      "stars": 451,
+      "forks": 80,
+      "language": "JavaScript",
+      "updated_at": "2026-10-01T01:06:03Z"
     },
     {
       "name": "AgentSystemLabs/agent-office",
       "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
       "url": "https://github.com/AgentSystemLabs/agent-office",
-      "stars": 392,
-      "forks": 85,
+      "stars": 443,
+      "forks": 104,
       "language": "TypeScript",
-      "updated_at": "2026-09-30T02:32:02Z"
+      "updated_at": "2026-10-01T02:24:55Z"
+    },
+    {
+      "name": "chasmlol/2010-rust-rewrite-mashup",
+      "description": "MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
+      "url": "https://github.com/chasmlol/2010-rust-rewrite-mashup",
+      "stars": 438,
+      "forks": 26,
+      "language": "Rust",
+      "updated_at": "2026-10-01T02:33:09Z"
+    },
+    {
+      "name": "fsiaonma/elpis",
+      "description": "elpis",
+      "url": "https://github.com/fsiaonma/elpis",
+      "stars": 430,
+      "forks": 3,
+      "language": "TypeScript",
+      "updated_at": "2026-10-01T01:51:44Z"
+    },
+    {
+      "name": "bjarneo/flux",
+      "description": "Connect an Omarchy computer to your phone: files, clipboard, notifications, media, camera, and more",
+      "url": "https://github.com/bjarneo/flux",
+      "stars": 416,
+      "forks": 28,
+      "language": "Swift",
+      "updated_at": "2026-10-01T01:54:52Z"
+    },
+    {
+      "name": "nanaism/yomiyasu",
+      "description": "AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "stars": 411,
+      "forks": 6,
+      "language": "Python",
+      "updated_at": "2026-10-01T02:33:05Z"
+    },
+    {
+      "name": "deepseek-ai/DeepGEMM-Ascend",
+      "description": "DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs",
+      "url": "https://github.com/deepseek-ai/DeepGEMM-Ascend",
+      "stars": 401,
+      "forks": 24,
+      "language": "C++",
+      "updated_at": "2026-10-01T02:30:05Z"
     },
     {
       "name": "CaptureGrubEnchant/SolidWorks",
       "description": "SolidWorks MCP Server connects an AI assistant to a running SolidWorks instance. Sketch, extrude, fillet, export STEP/STL, generate macros.",
       "url": "https://github.com/CaptureGrubEnchant/SolidWorks",
-      "stars": 372,
+      "stars": 381,
       "forks": 0,
       "language": "TypeScript",
-      "updated_at": "2026-09-29T20:01:13Z"
+      "updated_at": "2026-10-01T00:23:22Z"
     },
     {
       "name": "Rieranthony/product-film-skill",
       "description": null,
       "url": "https://github.com/Rieranthony/product-film-skill",
-      "stars": 370,
-      "forks": 26,
+      "stars": 378,
+      "forks": 27,
       "language": "TypeScript",
-      "updated_at": "2026-09-30T00:42:24Z"
+      "updated_at": "2026-10-01T01:28:23Z"
     },
     {
       "name": "athemeroy/awesome-opus-5-5-videos",
       "description": "Source-linked guide to 1,000+ videos people made with Claude Opus 5.5: what they're about, how they look, how the frames were made.",
       "url": "https://github.com/athemeroy/awesome-opus-5-5-videos",
-      "stars": 342,
-      "forks": 24,
+      "stars": 375,
+      "forks": 28,
       "language": "Python",
-      "updated_at": "2026-09-30T02:17:16Z"
-    },
-    {
-      "name": "bridge-mind/bridgeclip",
-      "description": "Open-source AI video clipping desktop app by BridgeMind",
-      "url": "https://github.com/bridge-mind/bridgeclip",
-      "stars": 338,
-      "forks": 73,
-      "language": "Python",
-      "updated_at": "2026-09-30T01:48:21Z"
+      "updated_at": "2026-09-30T22:14:35Z"
     },
     {
       "name": "Barty-Bart/motion-graphics",
       "description": "Motion-graphics skills for Claude Code and Codex.",
       "url": "https://github.com/Barty-Bart/motion-graphics",
-      "stars": 337,
-      "forks": 54,
+      "stars": 364,
+      "forks": 59,
       "language": "HTML",
-      "updated_at": "2026-09-30T01:23:59Z"
+      "updated_at": "2026-10-01T01:29:00Z"
     },
     {
-      "name": "jaydendavisnc/inkwave",
-      "description": "Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
-      "url": "https://github.com/jaydendavisnc/inkwave",
-      "stars": 328,
-      "forks": 123,
+      "name": "edenfunf/reelmimic",
+      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "url": "https://github.com/edenfunf/reelmimic",
+      "stars": 352,
+      "forks": 73,
       "language": "JavaScript",
-      "updated_at": "2026-09-30T02:19:39Z"
-    },
-    {
-      "name": "moguzbulbul/blueprint-animation",
-      "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
-      "url": "https://github.com/moguzbulbul/blueprint-animation",
-      "stars": 322,
-      "forks": 17,
-      "language": "JavaScript",
-      "updated_at": "2026-09-30T01:40:02Z"
+      "updated_at": "2026-10-01T02:11:46Z"
     }
   ]
 }
