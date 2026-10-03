@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-10-02T02:40:45.366Z",
+  "fetched_at": "2026-10-03T02:27:55.135Z",
   "repos": [
     {
       "name": "KKKKhazix/AIHOT",
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，��就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "stars": 4688,
-      "forks": 1296,
+      "stars": 4983,
+      "forks": 1357,
       "language": "TypeScript",
-      "updated_at": "2026-10-02T02:39:24Z"
+      "updated_at": "2026-10-03T02:21:43Z"
     },
     {
       "name": "Louis-CFM/coucou",
-      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Gemini CLI, Antigravity and more.",
+      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
       "url": "https://github.com/Louis-CFM/coucou",
-      "stars": 2498,
-      "forks": 370,
+      "stars": 2998,
+      "forks": 456,
       "language": "Swift",
-      "updated_at": "2026-10-02T02:40:30Z"
+      "updated_at": "2026-10-03T02:27:51Z"
     },
     {
       "name": "feder-cr/dots",
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "url": "https://github.com/feder-cr/dots",
-      "stars": 2389,
-      "forks": 418,
+      "stars": 2503,
+      "forks": 434,
       "language": "Python",
-      "updated_at": "2026-10-02T02:40:11Z"
-    },
-    {
-      "name": "dzhng/jevgrep",
-      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-      "url": "https://github.com/dzhng/jevgrep",
-      "stars": 2003,
-      "forks": 131,
-      "language": "TypeScript",
-      "updated_at": "2026-10-02T02:37:14Z"
+      "updated_at": "2026-10-03T02:27:01Z"
     },
     {
       "name": "rehan-remade/universal-modder",
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "url": "https://github.com/rehan-remade/universal-modder",
-      "stars": 1597,
-      "forks": 119,
+      "stars": 2167,
+      "forks": 166,
       "language": "Python",
-      "updated_at": "2026-10-02T02:40:26Z"
-    },
-    {
-      "name": "kaankiziltug/logo-design-skill",
-      "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-      "url": "https://github.com/kaankiziltug/logo-design-skill",
-      "stars": 1359,
-      "forks": 76,
-      "language": "HTML",
-      "updated_at": "2026-10-02T02:32:09Z"
-    },
-    {
-      "name": "firelex/jeff",
-      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "url": "https://github.com/firelex/jeff",
-      "stars": 1269,
-      "forks": 56,
-      "language": "Python",
-      "updated_at": "2026-10-02T02:33:21Z"
-    },
-    {
-      "name": "yihui-dev/awesome-opus5-5-videos",
-      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
-      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
-      "stars": 1258,
-      "forks": 137,
-      "language": null,
-      "updated_at": "2026-10-02T02:40:25Z"
-    },
-    {
-      "name": "wy51ai/floorplan-3d",
-      "description": null,
-      "url": "https://github.com/wy51ai/floorplan-3d",
-      "stars": 1173,
-      "forks": 248,
-      "language": "HTML",
-      "updated_at": "2026-10-02T02:36:50Z"
-    },
-    {
-      "name": "feitangyuan/onetake",
-      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-      "url": "https://github.com/feitangyuan/onetake",
-      "stars": 1145,
-      "forks": 74,
-      "language": "Python",
-      "updated_at": "2026-10-02T02:27:09Z"
-    },
-    {
-      "name": "nanaism/yomiyasu",
-      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "url": "https://github.com/nanaism/yomiyasu",
-      "stars": 1001,
-      "forks": 20,
-      "language": "Python",
-      "updated_at": "2026-10-02T02:39:08Z"
-    },
-    {
-      "name": "echris6/motion-video-kit",
-      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "url": "https://github.com/echris6/motion-video-kit",
-      "stars": 900,
-      "forks": 76,
-      "language": "Python",
-      "updated_at": "2026-10-02T02:33:03Z"
-    },
-    {
-      "name": "lemomo-ai/lemo-opuscar",
-      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-      "url": "https://github.com/lemomo-ai/lemo-opuscar",
-      "stars": 772,
-      "forks": 93,
-      "language": "JavaScript",
-      "updated_at": "2026-10-02T02:21:08Z"
-    },
-    {
-      "name": "edenfunf/reelmimic",
-      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "url": "https://github.com/edenfunf/reelmimic",
-      "stars": 691,
-      "forks": 116,
-      "language": "JavaScript",
-      "updated_at": "2026-10-02T02:27:41Z"
-    },
-    {
-      "name": "openai/mcp-extensions",
-      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
-      "url": "https://github.com/openai/mcp-extensions",
-      "stars": 628,
-      "forks": 32,
-      "language": "TypeScript",
-      "updated_at": "2026-10-02T02:20:50Z"
-    },
-    {
-      "name": "OpSafari/hypoarena",
-      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
-      "url": "https://github.com/OpSafari/hypoarena",
-      "stars": 554,
-      "forks": 28,
-      "language": "Python",
-      "updated_at": "2026-10-02T01:43:01Z"
-    },
-    {
-      "name": "chasmlol/2010-rust-rewrite-mashup",
-      "description": "MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
-      "url": "https://github.com/chasmlol/2010-rust-rewrite-mashup",
-      "stars": 531,
-      "forks": 33,
-      "language": "Rust",
-      "updated_at": "2026-10-02T02:12:28Z"
-    },
-    {
-      "name": "JoasASantos/Offensive-Security-AI-Models",
-      "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-      "stars": 525,
-      "forks": 57,
-      "language": null,
-      "updated_at": "2026-10-02T02:11:02Z"
-    },
-    {
-      "name": "Edwardxlai/easyread",
-      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "url": "https://github.com/Edwardxlai/easyread",
-      "stars": 501,
-      "forks": 35,
-      "language": "JavaScript",
-      "updated_at": "2026-10-02T02:40:06Z"
-    },
-    {
-      "name": "AgentSystemLabs/agent-office",
-      "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
-      "url": "https://github.com/AgentSystemLabs/agent-office",
-      "stars": 478,
-      "forks": 121,
-      "language": "TypeScript",
-      "updated_at": "2026-10-02T02:40:21Z"
-    },
-    {
-      "name": "fsiaonma/elpis",
-      "description": "elpis",
-      "url": "https://github.com/fsiaonma/elpis",
-      "stars": 470,
-      "forks": 4,
-      "language": "TypeScript",
-      "updated_at": "2026-10-01T21:26:24Z"
+      "updated_at": "2026-10-03T02:26:59Z"
     },
     {
       "name": "CopilotKit/OpenDots",
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
-      "stars": 467,
-      "forks": 56,
+      "stars": 1518,
+      "forks": 183,
       "language": "TypeScript",
-      "updated_at": "2026-10-02T02:39:45Z"
+      "updated_at": "2026-10-03T02:27:15Z"
+    },
+    {
+      "name": "yihui-dev/awesome-opus5-5-videos",
+      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "stars": 1433,
+      "forks": 152,
+      "language": null,
+      "updated_at": "2026-10-03T02:22:45Z"
+    },
+    {
+      "name": "firelex/jeff",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "url": "https://github.com/firelex/jeff",
+      "stars": 1325,
+      "forks": 61,
+      "language": "Python",
+      "updated_at": "2026-10-03T02:18:16Z"
+    },
+    {
+      "name": "wy51ai/floorplan-3d",
+      "description": null,
+      "url": "https://github.com/wy51ai/floorplan-3d",
+      "stars": 1318,
+      "forks": 272,
+      "language": "HTML",
+      "updated_at": "2026-10-03T02:22:46Z"
+    },
+    {
+      "name": "nanaism/yomiyasu",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "stars": 1192,
+      "forks": 27,
+      "language": "Python",
+      "updated_at": "2026-10-03T02:18:09Z"
+    },
+    {
+      "name": "edenfunf/reelmimic",
+      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "url": "https://github.com/edenfunf/reelmimic",
+      "stars": 964,
+      "forks": 126,
+      "language": "JavaScript",
+      "updated_at": "2026-10-03T01:47:58Z"
+    },
+    {
+      "name": "echris6/motion-video-kit",
+      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "url": "https://github.com/echris6/motion-video-kit",
+      "stars": 963,
+      "forks": 82,
+      "language": "Python",
+      "updated_at": "2026-10-03T01:58:12Z"
+    },
+    {
+      "name": "CAPCOM-TD-OSS/REDox",
+      "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+      "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+      "stars": 860,
+      "forks": 22,
+      "language": "C#",
+      "updated_at": "2026-10-03T02:22:14Z"
+    },
+    {
+      "name": "openai/mcp-extensions",
+      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "url": "https://github.com/openai/mcp-extensions",
+      "stars": 701,
+      "forks": 41,
+      "language": "TypeScript",
+      "updated_at": "2026-10-03T01:55:35Z"
+    },
+    {
+      "name": "chasmlol/2010-rust-rewrite-mashup",
+      "description": "MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
+      "url": "https://github.com/chasmlol/2010-rust-rewrite-mashup",
+      "stars": 626,
+      "forks": 44,
+      "language": "Rust",
+      "updated_at": "2026-10-03T02:11:09Z"
+    },
+    {
+      "name": "Edwardxlai/easyread",
+      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "stars": 610,
+      "forks": 46,
+      "language": "Python",
+      "updated_at": "2026-10-03T02:27:25Z"
+    },
+    {
+      "name": "OpSafari/hypoarena",
+      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "url": "https://github.com/OpSafari/hypoarena",
+      "stars": 556,
+      "forks": 29,
+      "language": "Python",
+      "updated_at": "2026-10-02T16:01:06Z"
+    },
+    {
+      "name": "chasmlol/SkyCraft",
+      "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+      "url": "https://github.com/chasmlol/SkyCraft",
+      "stars": 552,
+      "forks": 27,
+      "language": "C++",
+      "updated_at": "2026-10-03T02:06:28Z"
+    },
+    {
+      "name": "JoasASantos/Offensive-Security-AI-Models",
+      "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+      "stars": 550,
+      "forks": 61,
+      "language": null,
+      "updated_at": "2026-10-03T01:55:18Z"
+    },
+    {
+      "name": "fsiaonma/elpis",
+      "description": "elpis",
+      "url": "https://github.com/fsiaonma/elpis",
+      "stars": 476,
+      "forks": 4,
+      "language": "TypeScript",
+      "updated_at": "2026-10-03T02:26:10Z"
     },
     {
       "name": "xikhar/spiderbench",
       "description": null,
       "url": "https://github.com/xikhar/spiderbench",
-      "stars": 457,
-      "forks": 82,
+      "stars": 473,
+      "forks": 86,
       "language": "JavaScript",
-      "updated_at": "2026-10-02T02:37:30Z"
+      "updated_at": "2026-10-02T21:50:16Z"
     },
     {
       "name": "deepseek-ai/DeepGEMM-Ascend",
       "description": "DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs",
       "url": "https://github.com/deepseek-ai/DeepGEMM-Ascend",
-      "stars": 452,
+      "stars": 467,
       "forks": 33,
       "language": "C++",
-      "updated_at": "2026-10-02T02:16:21Z"
+      "updated_at": "2026-10-03T02:06:47Z"
     },
     {
       "name": "PSRben/VisionHOPE",
       "description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
       "url": "https://github.com/PSRben/VisionHOPE",
-      "stars": 415,
-      "forks": 8,
+      "stars": 464,
+      "forks": 10,
       "language": "Python",
-      "updated_at": "2026-10-02T02:26:51Z"
+      "updated_at": "2026-10-03T01:32:51Z"
     },
     {
       "name": "composio-community/open-dot",
       "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
       "url": "https://github.com/composio-community/open-dot",
-      "stars": 390,
-      "forks": 42,
+      "stars": 427,
+      "forks": 48,
       "language": "TypeScript",
-      "updated_at": "2026-10-02T02:07:50Z"
+      "updated_at": "2026-10-03T00:22:10Z"
+    },
+    {
+      "name": "ESPARGOS/esp-sdr",
+      "description": "ESP-SDR uses the undocumented raw I/Q capture functionality of ESP32 family chips to turn them into (low-duty-cycle) Software Defined Radios",
+      "url": "https://github.com/ESPARGOS/esp-sdr",
+      "stars": 400,
+      "forks": 44,
+      "language": "C",
+      "updated_at": "2026-10-03T01:48:32Z"
     },
     {
       "name": "PostHog/jeeves",
       "description": "Jeeves – Reasoning improves Jev-like decision models",
       "url": "https://github.com/PostHog/jeeves",
-      "stars": 387,
-      "forks": 17,
+      "stars": 399,
+      "forks": 20,
       "language": "Python",
-      "updated_at": "2026-10-02T02:12:21Z"
-    },
-    {
-      "name": "Rieranthony/product-film-skill",
-      "description": null,
-      "url": "https://github.com/Rieranthony/product-film-skill",
-      "stars": 384,
-      "forks": 28,
-      "language": "TypeScript",
-      "updated_at": "2026-10-01T20:52:38Z"
+      "updated_at": "2026-10-02T22:56:36Z"
     },
     {
       "name": "moguzbulbul/blueprint-animation",
       "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
       "url": "https://github.com/moguzbulbul/blueprint-animation",
-      "stars": 372,
+      "stars": 384,
       "forks": 18,
       "language": "JavaScript",
-      "updated_at": "2026-10-01T23:39:56Z"
+      "updated_at": "2026-10-02T22:46:04Z"
     },
     {
       "name": "zhuyansen/awesome-claude-video-skills",
       "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.",
       "url": "https://github.com/zhuyansen/awesome-claude-video-skills",
-      "stars": 356,
+      "stars": 378,
       "forks": 39,
       "language": null,
-      "updated_at": "2026-10-02T01:52:07Z"
+      "updated_at": "2026-10-03T00:30:56Z"
+    },
+    {
+      "name": "amywork777/lipflow",
+      "description": "Wispr Flow for your lips: hold a key, silently mouth words, and they're typed at your cursor. Runs locally on your Mac.",
+      "url": "https://github.com/amywork777/lipflow",
+      "stars": 378,
+      "forks": 40,
+      "language": "Python",
+      "updated_at": "2026-10-03T02:06:04Z"
+    },
+    {
+      "name": "elliotttate/Wind-Waker-Recomp",
+      "description": "Personal source fork of BlueWake for The Wind Waker on iPhone and iPad",
+      "url": "https://github.com/elliotttate/Wind-Waker-Recomp",
+      "stars": 375,
+      "forks": 16,
+      "language": "C",
+      "updated_at": "2026-10-03T01:15:50Z"
+    },
+    {
+      "name": "ng-native/ng-native",
+      "description": "Angular apps, rendered as real native iOS and Android views, on React Native's Fabric renderer.",
+      "url": "https://github.com/ng-native/ng-native",
+      "stars": 371,
+      "forks": 13,
+      "language": "TypeScript",
+      "updated_at": "2026-10-03T01:28:31Z"
     }
   ]
 }
