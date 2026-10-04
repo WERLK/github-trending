@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-10-03T02:27:55.135Z",
+  "fetched_at": "2026-10-04T02:57:01.309Z",
   "repos": [
     {
       "name": "KKKKhazix/AIHOT",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，��就是你的行业热点站。",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "stars": 4983,
-      "forks": 1357,
+      "stars": 5452,
+      "forks": 1430,
       "language": "TypeScript",
-      "updated_at": "2026-10-03T02:21:43Z"
-    },
-    {
-      "name": "Louis-CFM/coucou",
-      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
-      "url": "https://github.com/Louis-CFM/coucou",
-      "stars": 2998,
-      "forks": 456,
-      "language": "Swift",
-      "updated_at": "2026-10-03T02:27:51Z"
-    },
-    {
-      "name": "feder-cr/dots",
-      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "url": "https://github.com/feder-cr/dots",
-      "stars": 2503,
-      "forks": 434,
-      "language": "Python",
-      "updated_at": "2026-10-03T02:27:01Z"
+      "updated_at": "2026-10-04T02:53:47Z"
     },
     {
       "name": "rehan-remade/universal-modder",
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "url": "https://github.com/rehan-remade/universal-modder",
-      "stars": 2167,
-      "forks": 166,
+      "stars": 2650,
+      "forks": 231,
       "language": "Python",
-      "updated_at": "2026-10-03T02:26:59Z"
+      "updated_at": "2026-10-04T02:53:20Z"
     },
     {
       "name": "CopilotKit/OpenDots",
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
-      "stars": 1518,
-      "forks": 183,
+      "stars": 2579,
+      "forks": 319,
       "language": "TypeScript",
-      "updated_at": "2026-10-03T02:27:15Z"
+      "updated_at": "2026-10-04T02:54:26Z"
     },
     {
-      "name": "yihui-dev/awesome-opus5-5-videos",
-      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
-      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
-      "stars": 1433,
-      "forks": 152,
-      "language": null,
-      "updated_at": "2026-10-03T02:22:45Z"
-    },
-    {
-      "name": "firelex/jeff",
-      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "url": "https://github.com/firelex/jeff",
-      "stars": 1325,
-      "forks": 61,
+      "name": "feder-cr/dots",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "url": "https://github.com/feder-cr/dots",
+      "stars": 2575,
+      "forks": 436,
       "language": "Python",
-      "updated_at": "2026-10-03T02:18:16Z"
+      "updated_at": "2026-10-04T02:52:02Z"
     },
     {
       "name": "wy51ai/floorplan-3d",
       "description": null,
       "url": "https://github.com/wy51ai/floorplan-3d",
-      "stars": 1318,
-      "forks": 272,
+      "stars": 1362,
+      "forks": 279,
       "language": "HTML",
-      "updated_at": "2026-10-03T02:22:46Z"
+      "updated_at": "2026-10-04T01:26:40Z"
+    },
+    {
+      "name": "firelex/jeff",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "url": "https://github.com/firelex/jeff",
+      "stars": 1351,
+      "forks": 64,
+      "language": "Python",
+      "updated_at": "2026-10-04T00:47:11Z"
     },
     {
       "name": "nanaism/yomiyasu",
       "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "url": "https://github.com/nanaism/yomiyasu",
-      "stars": 1192,
-      "forks": 27,
+      "stars": 1325,
+      "forks": 28,
       "language": "Python",
-      "updated_at": "2026-10-03T02:18:09Z"
+      "updated_at": "2026-10-04T02:48:12Z"
     },
     {
       "name": "edenfunf/reelmimic",
       "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
       "url": "https://github.com/edenfunf/reelmimic",
-      "stars": 964,
-      "forks": 126,
+      "stars": 1118,
+      "forks": 147,
       "language": "JavaScript",
-      "updated_at": "2026-10-03T01:47:58Z"
-    },
-    {
-      "name": "echris6/motion-video-kit",
-      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "url": "https://github.com/echris6/motion-video-kit",
-      "stars": 963,
-      "forks": 82,
-      "language": "Python",
-      "updated_at": "2026-10-03T01:58:12Z"
+      "updated_at": "2026-10-04T02:53:44Z"
     },
     {
       "name": "CAPCOM-TD-OSS/REDox",
       "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
       "url": "https://github.com/CAPCOM-TD-OSS/REDox",
-      "stars": 860,
-      "forks": 22,
+      "stars": 989,
+      "forks": 27,
       "language": "C#",
-      "updated_at": "2026-10-03T02:22:14Z"
+      "updated_at": "2026-10-04T02:32:12Z"
     },
     {
-      "name": "openai/mcp-extensions",
-      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
-      "url": "https://github.com/openai/mcp-extensions",
-      "stars": 701,
-      "forks": 41,
-      "language": "TypeScript",
-      "updated_at": "2026-10-03T01:55:35Z"
-    },
-    {
-      "name": "chasmlol/2010-rust-rewrite-mashup",
-      "description": "MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
-      "url": "https://github.com/chasmlol/2010-rust-rewrite-mashup",
-      "stars": 626,
-      "forks": 44,
-      "language": "Rust",
-      "updated_at": "2026-10-03T02:11:09Z"
-    },
-    {
-      "name": "Edwardxlai/easyread",
-      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "url": "https://github.com/Edwardxlai/easyread",
-      "stars": 610,
-      "forks": 46,
-      "language": "Python",
-      "updated_at": "2026-10-03T02:27:25Z"
-    },
-    {
-      "name": "OpSafari/hypoarena",
-      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
-      "url": "https://github.com/OpSafari/hypoarena",
-      "stars": 556,
-      "forks": 29,
-      "language": "Python",
-      "updated_at": "2026-10-02T16:01:06Z"
+      "name": "facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "stars": 898,
+      "forks": 148,
+      "language": "C",
+      "updated_at": "2026-10-04T02:53:34Z"
     },
     {
       "name": "chasmlol/SkyCraft",
       "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
       "url": "https://github.com/chasmlol/SkyCraft",
-      "stars": 552,
-      "forks": 27,
+      "stars": 769,
+      "forks": 45,
       "language": "C++",
-      "updated_at": "2026-10-03T02:06:28Z"
+      "updated_at": "2026-10-04T02:56:46Z"
     },
     {
-      "name": "JoasASantos/Offensive-Security-AI-Models",
-      "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-      "stars": 550,
-      "forks": 61,
-      "language": null,
-      "updated_at": "2026-10-03T01:55:18Z"
+      "name": "openai/mcp-extensions",
+      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "url": "https://github.com/openai/mcp-extensions",
+      "stars": 729,
+      "forks": 43,
+      "language": "TypeScript",
+      "updated_at": "2026-10-04T02:50:27Z"
+    },
+    {
+      "name": "nykooi1/vibe-wise",
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "stars": 728,
+      "forks": 41,
+      "language": "Python",
+      "updated_at": "2026-10-04T02:56:27Z"
+    },
+    {
+      "name": "Edwardxlai/easyread",
+      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "stars": 679,
+      "forks": 50,
+      "language": "Python",
+      "updated_at": "2026-10-04T02:47:17Z"
+    },
+    {
+      "name": "OpSafari/hypoarena",
+      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "url": "https://github.com/OpSafari/hypoarena",
+      "stars": 560,
+      "forks": 29,
+      "language": "Python",
+      "updated_at": "2026-10-03T23:14:44Z"
     },
     {
       "name": "fsiaonma/elpis",
       "description": "elpis",
       "url": "https://github.com/fsiaonma/elpis",
-      "stars": 476,
+      "stars": 543,
       "forks": 4,
       "language": "TypeScript",
-      "updated_at": "2026-10-03T02:26:10Z"
-    },
-    {
-      "name": "xikhar/spiderbench",
-      "description": null,
-      "url": "https://github.com/xikhar/spiderbench",
-      "stars": 473,
-      "forks": 86,
-      "language": "JavaScript",
-      "updated_at": "2026-10-02T21:50:16Z"
-    },
-    {
-      "name": "deepseek-ai/DeepGEMM-Ascend",
-      "description": "DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs",
-      "url": "https://github.com/deepseek-ai/DeepGEMM-Ascend",
-      "stars": 467,
-      "forks": 33,
-      "language": "C++",
-      "updated_at": "2026-10-03T02:06:47Z"
-    },
-    {
-      "name": "PSRben/VisionHOPE",
-      "description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
-      "url": "https://github.com/PSRben/VisionHOPE",
-      "stars": 464,
-      "forks": 10,
-      "language": "Python",
-      "updated_at": "2026-10-03T01:32:51Z"
+      "updated_at": "2026-10-04T02:29:24Z"
     },
     {
       "name": "composio-community/open-dot",
       "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
       "url": "https://github.com/composio-community/open-dot",
-      "stars": 427,
-      "forks": 48,
+      "stars": 518,
+      "forks": 70,
       "language": "TypeScript",
-      "updated_at": "2026-10-03T00:22:10Z"
+      "updated_at": "2026-10-04T02:30:41Z"
+    },
+    {
+      "name": "deepseek-ai/DeepGEMM-Ascend",
+      "description": "DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs",
+      "url": "https://github.com/deepseek-ai/DeepGEMM-Ascend",
+      "stars": 492,
+      "forks": 34,
+      "language": "C++",
+      "updated_at": "2026-10-04T01:36:22Z"
     },
     {
       "name": "ESPARGOS/esp-sdr",
       "description": "ESP-SDR uses the undocumented raw I/Q capture functionality of ESP32 family chips to turn them into (low-duty-cycle) Software Defined Radios",
       "url": "https://github.com/ESPARGOS/esp-sdr",
-      "stars": 400,
-      "forks": 44,
+      "stars": 463,
+      "forks": 53,
       "language": "C",
-      "updated_at": "2026-10-03T01:48:32Z"
-    },
-    {
-      "name": "PostHog/jeeves",
-      "description": "Jeeves – Reasoning improves Jev-like decision models",
-      "url": "https://github.com/PostHog/jeeves",
-      "stars": 399,
-      "forks": 20,
-      "language": "Python",
-      "updated_at": "2026-10-02T22:56:36Z"
-    },
-    {
-      "name": "moguzbulbul/blueprint-animation",
-      "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
-      "url": "https://github.com/moguzbulbul/blueprint-animation",
-      "stars": 384,
-      "forks": 18,
-      "language": "JavaScript",
-      "updated_at": "2026-10-02T22:46:04Z"
-    },
-    {
-      "name": "zhuyansen/awesome-claude-video-skills",
-      "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.",
-      "url": "https://github.com/zhuyansen/awesome-claude-video-skills",
-      "stars": 378,
-      "forks": 39,
-      "language": null,
-      "updated_at": "2026-10-03T00:30:56Z"
+      "updated_at": "2026-10-04T02:50:29Z"
     },
     {
       "name": "amywork777/lipflow",
       "description": "Wispr Flow for your lips: hold a key, silently mouth words, and they're typed at your cursor. Runs locally on your Mac.",
       "url": "https://github.com/amywork777/lipflow",
-      "stars": 378,
-      "forks": 40,
+      "stars": 453,
+      "forks": 48,
       "language": "Python",
-      "updated_at": "2026-10-03T02:06:04Z"
+      "updated_at": "2026-10-04T01:50:20Z"
     },
     {
       "name": "elliotttate/Wind-Waker-Recomp",
       "description": "Personal source fork of BlueWake for The Wind Waker on iPhone and iPad",
       "url": "https://github.com/elliotttate/Wind-Waker-Recomp",
-      "stars": 375,
-      "forks": 16,
+      "stars": 450,
+      "forks": 20,
       "language": "C",
-      "updated_at": "2026-10-03T01:15:50Z"
+      "updated_at": "2026-10-04T02:28:01Z"
     },
     {
-      "name": "ng-native/ng-native",
-      "description": "Angular apps, rendered as real native iOS and Android views, on React Native's Fabric renderer.",
-      "url": "https://github.com/ng-native/ng-native",
-      "stars": 371,
-      "forks": 13,
-      "language": "TypeScript",
-      "updated_at": "2026-10-03T01:28:31Z"
+      "name": "ZacharyZhang-NY/Ely-GPUI-Components",
+      "description": "A component library for GPUI, in light and dark. Every component runs live in the browser.",
+      "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
+      "stars": 411,
+      "forks": 25,
+      "language": "Rust",
+      "updated_at": "2026-10-04T02:54:19Z"
+    },
+    {
+      "name": "PostHog/jeeves",
+      "description": "Jeeves – Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "stars": 402,
+      "forks": 20,
+      "language": "Python",
+      "updated_at": "2026-10-03T21:38:32Z"
+    },
+    {
+      "name": "storytold/photocraft",
+      "description": null,
+      "url": "https://github.com/storytold/photocraft",
+      "stars": 395,
+      "forks": 46,
+      "language": "Rust",
+      "updated_at": "2026-10-04T02:55:34Z"
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "stars": 395,
+      "forks": 34,
+      "language": "JavaScript",
+      "updated_at": "2026-10-04T02:55:47Z"
+    },
+    {
+      "name": "fulldiagnose/antigravity-fixer",
+      "description": "Fix Antigravity 'not eligible' error - diagnose, clean credentials, auto-fix",
+      "url": "https://github.com/fulldiagnose/antigravity-fixer",
+      "stars": 381,
+      "forks": 42,
+      "language": "Python",
+      "updated_at": "2026-10-04T02:07:10Z"
+    },
+    {
+      "name": "sganggs/Stronghold-Protocol",
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "stars": 357,
+      "forks": 82,
+      "language": "JavaScript",
+      "updated_at": "2026-10-04T02:54:23Z"
+    },
+    {
+      "name": "pengchujin/livecanvas",
+      "description": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
+      "url": "https://github.com/pengchujin/livecanvas",
+      "stars": 348,
+      "forks": 24,
+      "language": "Swift",
+      "updated_at": "2026-10-04T02:48:27Z"
+    },
+    {
+      "name": "MisakaZentai/world-execute-me-dsh-pv",
+      "description": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
+      "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
+      "stars": 343,
+      "forks": 32,
+      "language": "Python",
+      "updated_at": "2026-10-04T02:35:43Z"
+    },
+    {
+      "name": "oil-oil/oil-ui",
+      "description": "把 AI 的 UI 设计能力推到极限。",
+      "url": "https://github.com/oil-oil/oil-ui",
+      "stars": 341,
+      "forks": 16,
+      "language": "Python",
+      "updated_at": "2026-10-04T02:56:28Z"
     }
   ]
 }
