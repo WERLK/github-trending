@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-10-06T03:25:15.033Z",
+  "fetched_at": "2026-10-07T02:49:03.176Z",
   "repos": [
     {
-      "name": "rehan-remade/universal-modder",
-      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-      "url": "https://github.com/rehan-remade/universal-modder",
-      "stars": 3884,
-      "forks": 348,
-      "language": "Python",
-      "updated_at": "2026-10-06T03:19:48Z"
-    },
-    {
-      "name": "storytold/photocraft",
-      "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
-      "url": "https://github.com/storytold/photocraft",
-      "stars": 2179,
-      "forks": 224,
-      "language": "Rust",
-      "updated_at": "2026-10-06T03:22:17Z"
-    },
-    {
-      "name": "nanaism/yomiyasu",
-      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "url": "https://github.com/nanaism/yomiyasu",
-      "stars": 1527,
-      "forks": 34,
-      "language": "Python",
-      "updated_at": "2026-10-06T03:22:23Z"
+      "name": "openai/math",
+      "description": null,
+      "url": "https://github.com/openai/math",
+      "stars": 2924,
+      "forks": 252,
+      "language": "Lean",
+      "updated_at": "2026-10-07T02:48:48Z"
     },
     {
       "name": "QingYunA/answer-me-with-html",
       "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "url": "https://github.com/QingYunA/answer-me-with-html",
-      "stars": 1506,
-      "forks": 106,
+      "stars": 1805,
+      "forks": 128,
       "language": "JavaScript",
-      "updated_at": "2026-10-06T03:24:59Z"
+      "updated_at": "2026-10-07T02:41:41Z"
     },
     {
       "name": "kargulstudio/sales-crm",
       "description": null,
       "url": "https://github.com/kargulstudio/sales-crm",
-      "stars": 1475,
-      "forks": 304,
+      "stars": 1590,
+      "forks": 333,
       "language": "TypeScript",
-      "updated_at": "2026-10-06T03:06:23Z"
+      "updated_at": "2026-10-07T02:48:48Z"
     },
     {
       "name": "facebookincubator/muse-gadget-sdk",
       "description": "Open source SDK to build Muse gadgets",
       "url": "https://github.com/facebookincubator/muse-gadget-sdk",
-      "stars": 1447,
-      "forks": 276,
+      "stars": 1563,
+      "forks": 302,
       "language": "C",
-      "updated_at": "2026-10-06T03:20:25Z"
-    },
-    {
-      "name": "CAPCOM-TD-OSS/REDox",
-      "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
-      "url": "https://github.com/CAPCOM-TD-OSS/REDox",
-      "stars": 1085,
-      "forks": 29,
-      "language": "C#",
-      "updated_at": "2026-10-06T03:20:33Z"
-    },
-    {
-      "name": "chasmlol/SkyCraft",
-      "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
-      "url": "https://github.com/chasmlol/SkyCraft",
-      "stars": 982,
-      "forks": 63,
-      "language": "C++",
-      "updated_at": "2026-10-06T03:25:05Z"
-    },
-    {
-      "name": "Edwardxlai/easyread",
-      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "url": "https://github.com/Edwardxlai/easyread",
-      "stars": 806,
-      "forks": 56,
-      "language": "Python",
-      "updated_at": "2026-10-06T02:19:55Z"
+      "updated_at": "2026-10-07T02:42:52Z"
     },
     {
       "name": "deadinside28/bloodborne_pc",
       "description": null,
       "url": "https://github.com/deadinside28/bloodborne_pc",
-      "stars": 748,
-      "forks": 71,
+      "stars": 1282,
+      "forks": 105,
       "language": "C++",
-      "updated_at": "2026-10-06T03:24:26Z"
-    },
-    {
-      "name": "sganggs/Stronghold-Protocol",
-      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "url": "https://github.com/sganggs/Stronghold-Protocol",
-      "stars": 732,
-      "forks": 161,
-      "language": "JavaScript",
-      "updated_at": "2026-10-06T03:24:00Z"
-    },
-    {
-      "name": "StayLameBro/backburner",
-      "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-      "url": "https://github.com/StayLameBro/backburner",
-      "stars": 685,
-      "forks": 65,
-      "language": "Python",
-      "updated_at": "2026-10-06T03:20:18Z"
-    },
-    {
-      "name": "storytold/filmcraft",
-      "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
-      "url": "https://github.com/storytold/filmcraft",
-      "stars": 646,
-      "forks": 123,
-      "language": "Rust",
-      "updated_at": "2026-10-06T03:20:45Z"
-    },
-    {
-      "name": "oil-oil/oil-ui",
-      "description": "把 AI 的 UI 设计能力推到极限。",
-      "url": "https://github.com/oil-oil/oil-ui",
-      "stars": 640,
-      "forks": 37,
-      "language": "Python",
-      "updated_at": "2026-10-06T03:20:44Z"
-    },
-    {
-      "name": "ythx-101/live-panel-skill",
-      "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
-      "url": "https://github.com/ythx-101/live-panel-skill",
-      "stars": 590,
-      "forks": 79,
-      "language": "HTML",
-      "updated_at": "2026-10-06T03:16:58Z"
-    },
-    {
-      "name": "lucasmarkes/hairline",
-      "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
-      "url": "https://github.com/lucasmarkes/hairline",
-      "stars": 581,
-      "forks": 32,
-      "language": "TypeScript",
-      "updated_at": "2026-10-06T03:23:58Z"
-    },
-    {
-      "name": "OpSafari/hypoarena",
-      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
-      "url": "https://github.com/OpSafari/hypoarena",
-      "stars": 557,
-      "forks": 29,
-      "language": "Python",
-      "updated_at": "2026-10-05T22:22:20Z"
-    },
-    {
-      "name": "rauchg/gdp-ts",
-      "description": null,
-      "url": "https://github.com/rauchg/gdp-ts",
-      "stars": 537,
-      "forks": 15,
-      "language": "TypeScript",
-      "updated_at": "2026-10-06T03:14:15Z"
-    },
-    {
-      "name": "Jakeschincariol/replica-skill",
-      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "url": "https://github.com/Jakeschincariol/replica-skill",
-      "stars": 537,
-      "forks": 48,
-      "language": "Python",
-      "updated_at": "2026-10-06T03:08:11Z"
-    },
-    {
-      "name": "ZacharyZhang-NY/Ely-GPUI-Components",
-      "description": "A component library for GPUI, in light and dark. Every component runs live in the browser.",
-      "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
-      "stars": 533,
-      "forks": 29,
-      "language": "Rust",
-      "updated_at": "2026-10-06T01:59:15Z"
-    },
-    {
-      "name": "storytold/lightcraft",
-      "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
-      "url": "https://github.com/storytold/lightcraft",
-      "stars": 498,
-      "forks": 104,
-      "language": "Rust",
-      "updated_at": "2026-10-06T02:57:56Z"
-    },
-    {
-      "name": "storytold/vectorcraft",
-      "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
-      "url": "https://github.com/storytold/vectorcraft",
-      "stars": 486,
-      "forks": 100,
-      "language": "Rust",
-      "updated_at": "2026-10-06T03:08:44Z"
-    },
-    {
-      "name": "whirlchat/whirl",
-      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "url": "https://github.com/whirlchat/whirl",
-      "stars": 481,
-      "forks": 42,
-      "language": "TypeScript",
-      "updated_at": "2026-10-06T03:20:42Z"
-    },
-    {
-      "name": "storytold/printcraft",
-      "description": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
-      "url": "https://github.com/storytold/printcraft",
-      "stars": 472,
-      "forks": 102,
-      "language": "Rust",
-      "updated_at": "2026-10-06T03:14:52Z"
-    },
-    {
-      "name": "zzzz7788990213-ops/EvoVLM",
-      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
-      "stars": 435,
-      "forks": 5,
-      "language": "Python",
-      "updated_at": "2026-10-06T03:24:31Z"
-    },
-    {
-      "name": "Dingo-Shenanigans/ReSkate",
-      "description": null,
-      "url": "https://github.com/Dingo-Shenanigans/ReSkate",
-      "stars": 406,
-      "forks": 61,
-      "language": "C++",
-      "updated_at": "2026-10-06T02:51:09Z"
+      "updated_at": "2026-10-07T02:43:46Z"
     },
     {
       "name": "storytold/effectcraft",
       "description": null,
       "url": "https://github.com/storytold/effectcraft",
-      "stars": 399,
-      "forks": 89,
+      "stars": 879,
+      "forks": 319,
       "language": "Rust",
-      "updated_at": "2026-10-06T02:47:47Z"
+      "updated_at": "2026-10-07T02:48:18Z"
     },
     {
-      "name": "blackbearreloaded/ProsperoEden",
-      "description": "Experimental Eden port for PS5",
-      "url": "https://github.com/blackbearreloaded/ProsperoEden",
-      "stars": 395,
-      "forks": 41,
+      "name": "sganggs/Stronghold-Protocol",
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "stars": 835,
+      "forks": 180,
+      "language": "JavaScript",
+      "updated_at": "2026-10-07T02:29:47Z"
+    },
+    {
+      "name": "lucasmarkes/hairline",
+      "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+      "url": "https://github.com/lucasmarkes/hairline",
+      "stars": 825,
+      "forks": 48,
+      "language": "TypeScript",
+      "updated_at": "2026-10-07T02:38:44Z"
+    },
+    {
+      "name": "StayLameBro/backburner",
+      "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "url": "https://github.com/StayLameBro/backburner",
+      "stars": 778,
+      "forks": 77,
+      "language": "Python",
+      "updated_at": "2026-10-07T02:41:23Z"
+    },
+    {
+      "name": "alchaincyf/huashu-art-motion",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "stars": 737,
+      "forks": 99,
+      "language": "JavaScript",
+      "updated_at": "2026-10-07T02:48:21Z"
+    },
+    {
+      "name": "rauchg/gdp-ts",
+      "description": null,
+      "url": "https://github.com/rauchg/gdp-ts",
+      "stars": 707,
+      "forks": 19,
+      "language": "TypeScript",
+      "updated_at": "2026-10-07T02:39:16Z"
+    },
+    {
+      "name": "Jakeschincariol/replica-skill",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "stars": 705,
+      "forks": 76,
+      "language": "Python",
+      "updated_at": "2026-10-07T02:47:40Z"
+    },
+    {
+      "name": "mizorewww/x_gift_bot",
+      "description": "X Premium gift CLI and redemption site",
+      "url": "https://github.com/mizorewww/x_gift_bot",
+      "stars": 681,
+      "forks": 258,
+      "language": "Go",
+      "updated_at": "2026-10-07T02:44:38Z"
+    },
+    {
+      "name": "elstongun/leviathan",
+      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "url": "https://github.com/elstongun/leviathan",
+      "stars": 640,
+      "forks": 31,
+      "language": "Rust",
+      "updated_at": "2026-10-07T02:16:30Z"
+    },
+    {
+      "name": "ythx-101/live-panel-skill",
+      "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
+      "url": "https://github.com/ythx-101/live-panel-skill",
+      "stars": 626,
+      "forks": 84,
+      "language": "HTML",
+      "updated_at": "2026-10-07T02:17:23Z"
+    },
+    {
+      "name": "AgentMemoryRepo/agentmemoryrepo",
+      "description": "Spec for Agent Memory Repo",
+      "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+      "stars": 570,
+      "forks": 29,
+      "language": null,
+      "updated_at": "2026-10-07T02:34:56Z"
+    },
+    {
+      "name": "storytold/designcraft",
+      "description": null,
+      "url": "https://github.com/storytold/designcraft",
+      "stars": 557,
+      "forks": 265,
+      "language": "Rust",
+      "updated_at": "2026-10-07T02:46:56Z"
+    },
+    {
+      "name": "zzzz7788990213-ops/EvoVLM",
+      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+      "stars": 506,
+      "forks": 5,
+      "language": "Python",
+      "updated_at": "2026-10-07T02:30:45Z"
+    },
+    {
+      "name": "whirlchat/whirl",
+      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "url": "https://github.com/whirlchat/whirl",
+      "stars": 490,
+      "forks": 45,
+      "language": "TypeScript",
+      "updated_at": "2026-10-06T23:18:00Z"
+    },
+    {
+      "name": "Dingo-Shenanigans/ReSkate",
+      "description": null,
+      "url": "https://github.com/Dingo-Shenanigans/ReSkate",
+      "stars": 466,
+      "forks": 72,
       "language": "C++",
-      "updated_at": "2026-10-06T02:42:50Z"
+      "updated_at": "2026-10-07T02:38:59Z"
     },
     {
-      "name": "gangmoonrotation/Discord-Quest-Completer",
-      "description": "Discord Quest Completer optimizes your gaming experience by providing a comprehensive solution to auto-completing quests in popular games directly through...",
-      "url": "https://github.com/gangmoonrotation/Discord-Quest-Completer",
-      "stars": 392,
-      "forks": 0,
-      "language": null,
-      "updated_at": "2026-10-05T21:41:00Z"
+      "name": "DozenTwelve/Papermorph",
+      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "url": "https://github.com/DozenTwelve/Papermorph",
+      "stars": 456,
+      "forks": 53,
+      "language": "HTML",
+      "updated_at": "2026-10-07T02:43:06Z"
     },
     {
-      "name": "HectoTeacher56/Adobe-Substance-3d",
-      "description": "Adobe Substance 3D optimizes professional desktop software utility configurations by providing a seamless and advanced platform that unlocks powerful...",
-      "url": "https://github.com/HectoTeacher56/Adobe-Substance-3d",
-      "stars": 392,
-      "forks": 0,
+      "name": "blendi-remade/agentcraft",
+      "description": null,
+      "url": "https://github.com/blendi-remade/agentcraft",
+      "stars": 420,
+      "forks": 64,
+      "language": "Java",
+      "updated_at": "2026-10-07T02:36:46Z"
+    },
+    {
+      "name": "allenv0/SCM",
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "stars": 411,
+      "forks": 29,
+      "language": "JavaScript",
+      "updated_at": "2026-10-07T01:43:43Z"
+    },
+    {
+      "name": "shinshin86/mesh-avatar-studio",
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "stars": 398,
+      "forks": 50,
+      "language": "TypeScript",
+      "updated_at": "2026-10-07T02:36:22Z"
+    },
+    {
+      "name": "saawant12/orbit-store-ps5",
+      "description": "A modern PS5 download manager with resumable downloads and phone controls",
+      "url": "https://github.com/saawant12/orbit-store-ps5",
+      "stars": 385,
+      "forks": 19,
       "language": null,
-      "updated_at": "2026-10-05T21:38:57Z"
+      "updated_at": "2026-10-07T02:44:59Z"
+    },
+    {
+      "name": "genex-games/genex-desktop",
+      "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+      "url": "https://github.com/genex-games/genex-desktop",
+      "stars": 377,
+      "forks": 48,
+      "language": "TypeScript",
+      "updated_at": "2026-10-07T02:42:07Z"
+    },
+    {
+      "name": "x4gpanell/SuperJinX",
+      "description": null,
+      "url": "https://github.com/x4gpanell/SuperJinX",
+      "stars": 374,
+      "forks": 822,
+      "language": "HTML",
+      "updated_at": "2026-10-06T21:40:19Z"
+    },
+    {
+      "name": "noahdunnagan/mcopt",
+      "description": "mcopt, a Minecraft mod: a native Metal renderer for Minecraft: Java Edition on Apple Silicon Macs (alpha)",
+      "url": "https://github.com/noahdunnagan/mcopt",
+      "stars": 362,
+      "forks": 18,
+      "language": "Java",
+      "updated_at": "2026-10-06T21:57:16Z"
+    },
+    {
+      "name": "YXBwbWFya2V0/AppMarket",
+      "description": null,
+      "url": "https://github.com/YXBwbWFya2V0/AppMarket",
+      "stars": 346,
+      "forks": 166,
+      "language": "Kotlin",
+      "updated_at": "2026-10-06T19:32:56Z"
+    },
+    {
+      "name": "Vincentwei1021/mg-styles-15",
+      "description": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
+      "url": "https://github.com/Vincentwei1021/mg-styles-15",
+      "stars": 345,
+      "forks": 62,
+      "language": "Python",
+      "updated_at": "2026-10-07T02:27:27Z"
     }
   ]
 }
