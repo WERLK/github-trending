@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-10-07T02:49:03.176Z",
+  "fetched_at": "2026-10-08T03:06:59.807Z",
   "repos": [
     {
       "name": "openai/math",
       "description": null,
       "url": "https://github.com/openai/math",
-      "stars": 2924,
-      "forks": 252,
+      "stars": 9920,
+      "forks": 982,
       "language": "Lean",
-      "updated_at": "2026-10-07T02:48:48Z"
+      "updated_at": "2026-10-08T03:06:42Z"
     },
     {
       "name": "QingYunA/answer-me-with-html",
       "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "url": "https://github.com/QingYunA/answer-me-with-html",
-      "stars": 1805,
-      "forks": 128,
+      "stars": 2104,
+      "forks": 143,
       "language": "JavaScript",
-      "updated_at": "2026-10-07T02:41:41Z"
-    },
-    {
-      "name": "kargulstudio/sales-crm",
-      "description": null,
-      "url": "https://github.com/kargulstudio/sales-crm",
-      "stars": 1590,
-      "forks": 333,
-      "language": "TypeScript",
-      "updated_at": "2026-10-07T02:48:48Z"
-    },
-    {
-      "name": "facebookincubator/muse-gadget-sdk",
-      "description": "Open source SDK to build Muse gadgets",
-      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
-      "stars": 1563,
-      "forks": 302,
-      "language": "C",
-      "updated_at": "2026-10-07T02:42:52Z"
-    },
-    {
-      "name": "deadinside28/bloodborne_pc",
-      "description": null,
-      "url": "https://github.com/deadinside28/bloodborne_pc",
-      "stars": 1282,
-      "forks": 105,
-      "language": "C++",
-      "updated_at": "2026-10-07T02:43:46Z"
-    },
-    {
-      "name": "storytold/effectcraft",
-      "description": null,
-      "url": "https://github.com/storytold/effectcraft",
-      "stars": 879,
-      "forks": 319,
-      "language": "Rust",
-      "updated_at": "2026-10-07T02:48:18Z"
-    },
-    {
-      "name": "sganggs/Stronghold-Protocol",
-      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "url": "https://github.com/sganggs/Stronghold-Protocol",
-      "stars": 835,
-      "forks": 180,
-      "language": "JavaScript",
-      "updated_at": "2026-10-07T02:29:47Z"
-    },
-    {
-      "name": "lucasmarkes/hairline",
-      "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
-      "url": "https://github.com/lucasmarkes/hairline",
-      "stars": 825,
-      "forks": 48,
-      "language": "TypeScript",
-      "updated_at": "2026-10-07T02:38:44Z"
-    },
-    {
-      "name": "StayLameBro/backburner",
-      "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-      "url": "https://github.com/StayLameBro/backburner",
-      "stars": 778,
-      "forks": 77,
-      "language": "Python",
-      "updated_at": "2026-10-07T02:41:23Z"
+      "updated_at": "2026-10-08T03:04:59Z"
     },
     {
       "name": "alchaincyf/huashu-art-motion",
       "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
-      "stars": 737,
-      "forks": 99,
+      "stars": 1777,
+      "forks": 203,
       "language": "JavaScript",
-      "updated_at": "2026-10-07T02:48:21Z"
+      "updated_at": "2026-10-08T03:06:53Z"
     },
     {
-      "name": "rauchg/gdp-ts",
+      "name": "facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "stars": 1670,
+      "forks": 336,
+      "language": "C",
+      "updated_at": "2026-10-08T03:01:53Z"
+    },
+    {
+      "name": "kargulstudio/sales-crm",
       "description": null,
-      "url": "https://github.com/rauchg/gdp-ts",
-      "stars": 707,
-      "forks": 19,
+      "url": "https://github.com/kargulstudio/sales-crm",
+      "stars": 1637,
+      "forks": 356,
       "language": "TypeScript",
-      "updated_at": "2026-10-07T02:39:16Z"
-    },
-    {
-      "name": "Jakeschincariol/replica-skill",
-      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "url": "https://github.com/Jakeschincariol/replica-skill",
-      "stars": 705,
-      "forks": 76,
-      "language": "Python",
-      "updated_at": "2026-10-07T02:47:40Z"
+      "updated_at": "2026-10-08T01:59:58Z"
     },
     {
       "name": "mizorewww/x_gift_bot",
       "description": "X Premium gift CLI and redemption site",
       "url": "https://github.com/mizorewww/x_gift_bot",
-      "stars": 681,
-      "forks": 258,
+      "stars": 957,
+      "forks": 324,
       "language": "Go",
-      "updated_at": "2026-10-07T02:44:38Z"
+      "updated_at": "2026-10-08T03:05:19Z"
+    },
+    {
+      "name": "sganggs/Stronghold-Protocol",
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "stars": 928,
+      "forks": 204,
+      "language": "JavaScript",
+      "updated_at": "2026-10-08T03:03:43Z"
+    },
+    {
+      "name": "Jakeschincariol/replica-skill",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "stars": 895,
+      "forks": 104,
+      "language": "Python",
+      "updated_at": "2026-10-08T03:04:23Z"
+    },
+    {
+      "name": "rauchg/gdp-ts",
+      "description": null,
+      "url": "https://github.com/rauchg/gdp-ts",
+      "stars": 740,
+      "forks": 19,
+      "language": "TypeScript",
+      "updated_at": "2026-10-08T01:37:26Z"
     },
     {
       "name": "elstongun/leviathan",
       "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
       "url": "https://github.com/elstongun/leviathan",
-      "stars": 640,
-      "forks": 31,
+      "stars": 672,
+      "forks": 35,
       "language": "Rust",
-      "updated_at": "2026-10-07T02:16:30Z"
+      "updated_at": "2026-10-08T02:55:23Z"
     },
     {
       "name": "ythx-101/live-panel-skill",
       "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
       "url": "https://github.com/ythx-101/live-panel-skill",
-      "stars": 626,
-      "forks": 84,
+      "stars": 649,
+      "forks": 86,
       "language": "HTML",
-      "updated_at": "2026-10-07T02:17:23Z"
+      "updated_at": "2026-10-08T03:06:03Z"
     },
     {
       "name": "AgentMemoryRepo/agentmemoryrepo",
       "description": "Spec for Agent Memory Repo",
       "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
-      "stars": 570,
-      "forks": 29,
+      "stars": 615,
+      "forks": 31,
       "language": null,
-      "updated_at": "2026-10-07T02:34:56Z"
+      "updated_at": "2026-10-08T02:09:29Z"
     },
     {
-      "name": "storytold/designcraft",
-      "description": null,
-      "url": "https://github.com/storytold/designcraft",
-      "stars": 557,
-      "forks": 265,
-      "language": "Rust",
-      "updated_at": "2026-10-07T02:46:56Z"
+      "name": "alejandrobujan/tendedero",
+      "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+      "url": "https://github.com/alejandrobujan/tendedero",
+      "stars": 553,
+      "forks": 43,
+      "language": "Swift",
+      "updated_at": "2026-10-08T03:06:27Z"
     },
     {
-      "name": "zzzz7788990213-ops/EvoVLM",
-      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
-      "stars": 506,
-      "forks": 5,
-      "language": "Python",
-      "updated_at": "2026-10-07T02:30:45Z"
-    },
-    {
-      "name": "whirlchat/whirl",
-      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "url": "https://github.com/whirlchat/whirl",
-      "stars": 490,
-      "forks": 45,
-      "language": "TypeScript",
-      "updated_at": "2026-10-06T23:18:00Z"
-    },
-    {
-      "name": "Dingo-Shenanigans/ReSkate",
-      "description": null,
-      "url": "https://github.com/Dingo-Shenanigans/ReSkate",
-      "stars": 466,
-      "forks": 72,
+      "name": "LoreanXavier/pt-pc",
+      "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+      "url": "https://github.com/LoreanXavier/pt-pc",
+      "stars": 540,
+      "forks": 37,
       "language": "C++",
-      "updated_at": "2026-10-07T02:38:59Z"
+      "updated_at": "2026-10-08T03:06:35Z"
     },
     {
       "name": "DozenTwelve/Papermorph",
       "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
       "url": "https://github.com/DozenTwelve/Papermorph",
-      "stars": 456,
-      "forks": 53,
+      "stars": 534,
+      "forks": 68,
       "language": "HTML",
-      "updated_at": "2026-10-07T02:43:06Z"
+      "updated_at": "2026-10-08T03:04:57Z"
+    },
+    {
+      "name": "Dingo-Shenanigans/ReSkate",
+      "description": null,
+      "url": "https://github.com/Dingo-Shenanigans/ReSkate",
+      "stars": 516,
+      "forks": 80,
+      "language": "C++",
+      "updated_at": "2026-10-08T02:44:23Z"
+    },
+    {
+      "name": "zzzz7788990213-ops/EvoVLM",
+      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+      "stars": 507,
+      "forks": 5,
+      "language": "Python",
+      "updated_at": "2026-10-07T03:58:06Z"
+    },
+    {
+      "name": "pingdotgg/ts-rust",
+      "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "stars": 501,
+      "forks": 27,
+      "language": "Rust",
+      "updated_at": "2026-10-08T03:03:48Z"
+    },
+    {
+      "name": "whirlchat/whirl",
+      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "url": "https://github.com/whirlchat/whirl",
+      "stars": 496,
+      "forks": 45,
+      "language": "TypeScript",
+      "updated_at": "2026-10-08T02:20:09Z"
     },
     {
       "name": "blendi-remade/agentcraft",
       "description": null,
       "url": "https://github.com/blendi-remade/agentcraft",
-      "stars": 420,
-      "forks": 64,
+      "stars": 494,
+      "forks": 67,
       "language": "Java",
-      "updated_at": "2026-10-07T02:36:46Z"
+      "updated_at": "2026-10-08T03:05:47Z"
     },
     {
-      "name": "allenv0/SCM",
-      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "stars": 411,
-      "forks": 29,
-      "language": "JavaScript",
-      "updated_at": "2026-10-07T01:43:43Z"
+      "name": "szabadkai/c64-keyboard-font",
+      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "url": "https://github.com/szabadkai/c64-keyboard-font",
+      "stars": 491,
+      "forks": 11,
+      "language": "Python",
+      "updated_at": "2026-10-08T02:50:37Z"
     },
     {
       "name": "shinshin86/mesh-avatar-studio",
       "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
       "url": "https://github.com/shinshin86/mesh-avatar-studio",
-      "stars": 398,
-      "forks": 50,
+      "stars": 463,
+      "forks": 61,
       "language": "TypeScript",
-      "updated_at": "2026-10-07T02:36:22Z"
+      "updated_at": "2026-10-08T02:44:56Z"
+    },
+    {
+      "name": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
+      "description": "Real-time browser demo for Talk Like You",
+      "url": "https://github.com/BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
+      "stars": 447,
+      "forks": 2,
+      "language": "Python",
+      "updated_at": "2026-10-08T03:06:33Z"
+    },
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "stars": 443,
+      "forks": 45,
+      "language": "Rust",
+      "updated_at": "2026-10-08T03:04:11Z"
     },
     {
       "name": "saawant12/orbit-store-ps5",
       "description": "A modern PS5 download manager with resumable downloads and phone controls",
       "url": "https://github.com/saawant12/orbit-store-ps5",
-      "stars": 385,
-      "forks": 19,
+      "stars": 441,
+      "forks": 20,
       "language": null,
-      "updated_at": "2026-10-07T02:44:59Z"
+      "updated_at": "2026-10-08T02:26:37Z"
     },
     {
-      "name": "genex-games/genex-desktop",
-      "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
-      "url": "https://github.com/genex-games/genex-desktop",
-      "stars": 377,
-      "forks": 48,
-      "language": "TypeScript",
-      "updated_at": "2026-10-07T02:42:07Z"
-    },
-    {
-      "name": "x4gpanell/SuperJinX",
-      "description": null,
-      "url": "https://github.com/x4gpanell/SuperJinX",
-      "stars": 374,
-      "forks": 822,
-      "language": "HTML",
-      "updated_at": "2026-10-06T21:40:19Z"
-    },
-    {
-      "name": "noahdunnagan/mcopt",
-      "description": "mcopt, a Minecraft mod: a native Metal renderer for Minecraft: Java Edition on Apple Silicon Macs (alpha)",
-      "url": "https://github.com/noahdunnagan/mcopt",
-      "stars": 362,
-      "forks": 18,
-      "language": "Java",
-      "updated_at": "2026-10-06T21:57:16Z"
-    },
-    {
-      "name": "YXBwbWFya2V0/AppMarket",
-      "description": null,
-      "url": "https://github.com/YXBwbWFya2V0/AppMarket",
-      "stars": 346,
-      "forks": 166,
-      "language": "Kotlin",
-      "updated_at": "2026-10-06T19:32:56Z"
+      "name": "allenv0/SCM",
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "stars": 428,
+      "forks": 30,
+      "language": "JavaScript",
+      "updated_at": "2026-10-08T02:46:49Z"
     },
     {
       "name": "Vincentwei1021/mg-styles-15",
       "description": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
       "url": "https://github.com/Vincentwei1021/mg-styles-15",
-      "stars": 345,
-      "forks": 62,
+      "stars": 419,
+      "forks": 73,
       "language": "Python",
-      "updated_at": "2026-10-07T02:27:27Z"
+      "updated_at": "2026-10-08T03:01:45Z"
+    },
+    {
+      "name": "genex-games/genex-desktop",
+      "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+      "url": "https://github.com/genex-games/genex-desktop",
+      "stars": 417,
+      "forks": 53,
+      "language": "TypeScript",
+      "updated_at": "2026-10-08T01:38:26Z"
+    },
+    {
+      "name": "x4gpanell/SuperJinX",
+      "description": null,
+      "url": "https://github.com/x4gpanell/SuperJinX",
+      "stars": 395,
+      "forks": 901,
+      "language": "HTML",
+      "updated_at": "2026-10-07T21:36:19Z"
+    },
+    {
+      "name": "GTKottman/mortiflix-oss",
+      "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
+      "url": "https://github.com/GTKottman/mortiflix-oss",
+      "stars": 393,
+      "forks": 11,
+      "language": "JavaScript",
+      "updated_at": "2026-10-08T03:05:57Z"
     }
   ]
 }
