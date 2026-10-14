@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-10-13T04:02:26.107Z",
+  "fetched_at": "2026-10-14T02:16:45.323Z",
   "repos": [
-    {
-      "name": "storytold/wordcraft",
-      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "url": "https://github.com/storytold/wordcraft",
-      "stars": 9445,
-      "forks": 2470,
-      "language": "Rust",
-      "updated_at": "2026-10-13T04:02:01Z"
-    },
     {
       "name": "wheresryan22/anatomy",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "url": "https://github.com/wheresryan22/anatomy",
-      "stars": 6566,
-      "forks": 474,
+      "stars": 8331,
+      "forks": 603,
       "language": "JavaScript",
-      "updated_at": "2026-10-13T04:01:03Z"
-    },
-    {
-      "name": "storytold/gridcraft",
-      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-      "url": "https://github.com/storytold/gridcraft",
-      "stars": 3923,
-      "forks": 1703,
-      "language": "Rust",
-      "updated_at": "2026-10-13T03:59:56Z"
+      "updated_at": "2026-10-14T02:14:17Z"
     },
     {
       "name": "mhtsec/ARTEX",
       "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "url": "https://github.com/mhtsec/ARTEX",
-      "stars": 3645,
-      "forks": 6038,
+      "stars": 3889,
+      "forks": 6218,
       "language": "Go",
-      "updated_at": "2026-10-13T03:55:00Z"
-    },
-    {
-      "name": "storytold/cadcraft",
-      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-      "url": "https://github.com/storytold/cadcraft",
-      "stars": 3564,
-      "forks": 1657,
-      "language": "Rust",
-      "updated_at": "2026-10-13T03:58:30Z"
-    },
-    {
-      "name": "nullmoth/nvidia-macos-driver",
-      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
-      "url": "https://github.com/nullmoth/nvidia-macos-driver",
-      "stars": 2772,
-      "forks": 255,
-      "language": "Rust",
-      "updated_at": "2026-10-13T03:57:41Z"
-    },
-    {
-      "name": "storytold/deckcraft",
-      "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
-      "url": "https://github.com/storytold/deckcraft",
-      "stars": 2651,
-      "forks": 1415,
-      "language": "Rust",
-      "updated_at": "2026-10-13T04:01:52Z"
+      "updated_at": "2026-10-14T02:16:44Z"
     },
     {
       "name": "t4t5/omdrop-owl",
       "description": "airdrop for non-apple devices",
       "url": "https://github.com/t4t5/omdrop-owl",
-      "stars": 2463,
-      "forks": 180,
+      "stars": 2593,
+      "forks": 194,
       "language": "Shell",
-      "updated_at": "2026-10-13T03:54:42Z"
-    },
-    {
-      "name": "storytold/soundcraft",
-      "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
-      "url": "https://github.com/storytold/soundcraft",
-      "stars": 2296,
-      "forks": 1402,
-      "language": "Rust",
-      "updated_at": "2026-10-13T03:58:25Z"
-    },
-    {
-      "name": "alejandrobujan/tendedero",
-      "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
-      "url": "https://github.com/alejandrobujan/tendedero",
-      "stars": 2026,
-      "forks": 166,
-      "language": "Swift",
-      "updated_at": "2026-10-13T03:54:37Z"
-    },
-    {
-      "name": "noahdunnagan/fsearch",
-      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
-      "url": "https://github.com/noahdunnagan/fsearch",
-      "stars": 1982,
-      "forks": 130,
-      "language": "Rust",
-      "updated_at": "2026-10-13T03:55:09Z"
+      "updated_at": "2026-10-14T02:09:28Z"
     },
     {
       "name": "ARahim3/DigUp",
       "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
       "url": "https://github.com/ARahim3/DigUp",
-      "stars": 1946,
-      "forks": 147,
+      "stars": 2498,
+      "forks": 182,
       "language": "Swift",
-      "updated_at": "2026-10-13T03:57:48Z"
+      "updated_at": "2026-10-14T02:16:29Z"
     },
     {
       "name": "storytold/craft-launcher",
       "description": "The Craft App Launcher",
       "url": "https://github.com/storytold/craft-launcher",
-      "stars": 1853,
-      "forks": 630,
+      "stars": 2329,
+      "forks": 783,
       "language": "Rust",
-      "updated_at": "2026-10-13T04:01:22Z"
+      "updated_at": "2026-10-14T02:11:33Z"
     },
     {
       "name": "liseami/CCBaga",
       "description": null,
       "url": "https://github.com/liseami/CCBaga",
-      "stars": 1744,
-      "forks": 167,
+      "stars": 2070,
+      "forks": 210,
       "language": "Rust",
-      "updated_at": "2026-10-13T04:01:39Z"
+      "updated_at": "2026-10-14T02:15:03Z"
     },
     {
-      "name": "LoreanXavier/pt-pc",
-      "description": "Native PC port of P.T. (runs from your own PS4 game files)",
-      "url": "https://github.com/LoreanXavier/pt-pc",
-      "stars": 1571,
-      "forks": 103,
-      "language": "C++",
-      "updated_at": "2026-10-13T03:53:09Z"
-    },
-    {
-      "name": "shadany7824/playgta5",
-      "description": "A source code for playgta5.com.",
-      "url": "https://github.com/shadany7824/playgta5",
-      "stars": 1502,
-      "forks": 733,
-      "language": "JavaScript",
-      "updated_at": "2026-10-13T03:59:09Z"
-    },
-    {
-      "name": "Fei2411/DeepSeek-Bot",
-      "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
-      "url": "https://github.com/Fei2411/DeepSeek-Bot",
-      "stars": 1442,
-      "forks": 139,
-      "language": "JavaScript",
-      "updated_at": "2026-10-13T04:01:35Z"
-    },
-    {
-      "name": "HelixDB/helix-foundry",
-      "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
-      "url": "https://github.com/HelixDB/helix-foundry",
-      "stars": 1342,
-      "forks": 205,
-      "language": "TypeScript",
-      "updated_at": "2026-10-13T03:34:09Z"
-    },
-    {
-      "name": "bherbruck/solidcraft",
-      "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
-      "url": "https://github.com/bherbruck/solidcraft",
-      "stars": 1133,
-      "forks": 113,
+      "name": "noahdunnagan/fsearch",
+      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "url": "https://github.com/noahdunnagan/fsearch",
+      "stars": 2031,
+      "forks": 132,
       "language": "Rust",
-      "updated_at": "2026-10-13T04:01:19Z"
-    },
-    {
-      "name": "pingdotgg/ts-rust",
-      "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
-      "url": "https://github.com/pingdotgg/ts-rust",
-      "stars": 1127,
-      "forks": 75,
-      "language": "Rust",
-      "updated_at": "2026-10-13T03:59:05Z"
-    },
-    {
-      "name": "wesbos/photo-frame-dashboard",
-      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-      "url": "https://github.com/wesbos/photo-frame-dashboard",
-      "stars": 961,
-      "forks": 116,
-      "language": "Python",
-      "updated_at": "2026-10-13T03:40:13Z"
-    },
-    {
-      "name": "anthropics/oss-scanner",
-      "description": null,
-      "url": "https://github.com/anthropics/oss-scanner",
-      "stars": 913,
-      "forks": 467,
-      "language": "Dockerfile",
-      "updated_at": "2026-10-13T03:58:59Z"
-    },
-    {
-      "name": "rociiu/talorys",
-      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "url": "https://github.com/rociiu/talorys",
-      "stars": 911,
-      "forks": 79,
-      "language": "TypeScript",
-      "updated_at": "2026-10-13T03:54:10Z"
-    },
-    {
-      "name": "marclou/mailcheap",
-      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
-      "url": "https://github.com/marclou/mailcheap",
-      "stars": 841,
-      "forks": 209,
-      "language": "JavaScript",
-      "updated_at": "2026-10-13T02:41:56Z"
-    },
-    {
-      "name": "shaongitbd/doory",
-      "description": "Open source canva alternative",
-      "url": "https://github.com/shaongitbd/doory",
-      "stars": 839,
-      "forks": 37,
-      "language": "TypeScript",
-      "updated_at": "2026-10-13T04:01:54Z"
+      "updated_at": "2026-10-14T01:38:42Z"
     },
     {
       "name": "onehumanbeing/esp32-iphone-agent",
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "stars": 825,
-      "forks": 105,
+      "stars": 1577,
+      "forks": 197,
       "language": "Python",
-      "updated_at": "2026-10-13T04:00:26Z"
+      "updated_at": "2026-10-14T02:16:32Z"
     },
     {
-      "name": "bas3line/ascii",
-      "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
-      "url": "https://github.com/bas3line/ascii",
-      "stars": 808,
-      "forks": 49,
-      "language": "TypeScript",
-      "updated_at": "2026-10-13T03:20:03Z"
+      "name": "trhhubsd/ARTEXX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+      "url": "https://github.com/trhhubsd/ARTEXX",
+      "stars": 1188,
+      "forks": 10,
+      "language": "Go",
+      "updated_at": "2026-10-14T02:16:28Z"
+    },
+    {
+      "name": "NVIDIA-Omniverse/usd-brep",
+      "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
+      "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
+      "stars": 1180,
+      "forks": 133,
+      "language": "C++",
+      "updated_at": "2026-10-14T02:10:54Z"
     },
     {
       "name": "jhaizhou-ops/d2r-mobile",
-      "description": "Open-source iOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone and iPad — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS 兼容层",
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "stars": 791,
-      "forks": 331,
+      "stars": 1172,
+      "forks": 414,
       "language": "C",
-      "updated_at": "2026-10-13T04:00:39Z"
+      "updated_at": "2026-10-14T02:14:22Z"
     },
     {
-      "name": "ThariqS/ai-newtab",
-      "description": "Claude generates a daily new tab page based on your browser history.",
-      "url": "https://github.com/ThariqS/ai-newtab",
-      "stars": 773,
-      "forks": 76,
+      "name": "wesbos/photo-frame-dashboard",
+      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "url": "https://github.com/wesbos/photo-frame-dashboard",
+      "stars": 1078,
+      "forks": 139,
+      "language": "Python",
+      "updated_at": "2026-10-14T02:10:22Z"
+    },
+    {
+      "name": "shaongitbd/doory",
+      "description": "Open source canva alternative",
+      "url": "https://github.com/shaongitbd/doory",
+      "stars": 1055,
+      "forks": 55,
       "language": "TypeScript",
-      "updated_at": "2026-10-13T02:38:56Z"
+      "updated_at": "2026-10-14T02:00:15Z"
+    },
+    {
+      "name": "anthropics/oss-scanner",
+      "description": null,
+      "url": "https://github.com/anthropics/oss-scanner",
+      "stars": 966,
+      "forks": 500,
+      "language": "Dockerfile",
+      "updated_at": "2026-10-14T02:04:50Z"
+    },
+    {
+      "name": "rociiu/talorys",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "url": "https://github.com/rociiu/talorys",
+      "stars": 961,
+      "forks": 86,
+      "language": "TypeScript",
+      "updated_at": "2026-10-14T01:54:43Z"
+    },
+    {
+      "name": "marclou/mailcheap",
+      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "url": "https://github.com/marclou/mailcheap",
+      "stars": 897,
+      "forks": 225,
+      "language": "JavaScript",
+      "updated_at": "2026-10-14T02:15:59Z"
+    },
+    {
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "stars": 885,
+      "forks": 193,
+      "language": "Python",
+      "updated_at": "2026-10-14T02:14:38Z"
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "stars": 870,
+      "forks": 354,
+      "language": "Python",
+      "updated_at": "2026-10-14T02:12:38Z"
+    },
+    {
+      "name": "T-Auto/dsh-ops",
+      "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+      "url": "https://github.com/T-Auto/dsh-ops",
+      "stars": 864,
+      "forks": 10,
+      "language": "JavaScript",
+      "updated_at": "2026-10-14T01:32:45Z"
+    },
+    {
+      "name": "opengeos/RustGIS",
+      "description": "A fast, free and open-source GIS in pure Rust.",
+      "url": "https://github.com/opengeos/RustGIS",
+      "stars": 816,
+      "forks": 114,
+      "language": "Rust",
+      "updated_at": "2026-10-14T02:11:39Z"
     },
     {
       "name": "ToiCF/CF-Workers-TGProxy",
       "description": "基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstrap/session 令牌、多 lane WS 复用、AES-CTR 加密、自定义帧、流控与严格 CSP。",
       "url": "https://github.com/ToiCF/CF-Workers-TGProxy",
-      "stars": 766,
-      "forks": 274,
+      "stars": 793,
+      "forks": 293,
       "language": null,
-      "updated_at": "2026-10-13T03:58:54Z"
+      "updated_at": "2026-10-14T02:06:21Z"
+    },
+    {
+      "name": "ThariqS/ai-newtab",
+      "description": "Claude generates a daily new tab page based on your browser history.",
+      "url": "https://github.com/ThariqS/ai-newtab",
+      "stars": 788,
+      "forks": 77,
+      "language": "TypeScript",
+      "updated_at": "2026-10-14T01:30:25Z"
+    },
+    {
+      "name": "jwuthri-cloud/Tracely-ai",
+      "description": null,
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "stars": 754,
+      "forks": 107,
+      "language": "Python",
+      "updated_at": "2026-10-14T02:08:17Z"
+    },
+    {
+      "name": "Hinln/ARTEX",
+      "description": "ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
+      "url": "https://github.com/Hinln/ARTEX",
+      "stars": 752,
+      "forks": 1154,
+      "language": "Go",
+      "updated_at": "2026-10-14T02:01:40Z"
+    },
+    {
+      "name": "tcchen2026/VibeOffice",
+      "description": "A free office suite that runs in your browser, in the style of Office 2003. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer.",
+      "url": "https://github.com/tcchen2026/VibeOffice",
+      "stars": 743,
+      "forks": 116,
+      "language": "JavaScript",
+      "updated_at": "2026-10-14T02:06:28Z"
+    },
+    {
+      "name": "snuri00/ps2-web-recomp",
+      "description": "PS2 games in the browser: static recompilation to WebAssembly with a native runtime",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "stars": 719,
+      "forks": 63,
+      "language": "C++",
+      "updated_at": "2026-10-14T01:47:14Z"
+    },
+    {
+      "name": "franzenzenhofer/big-arrow-on-the-screen",
+      "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "stars": 712,
+      "forks": 19,
+      "language": "Swift",
+      "updated_at": "2026-10-14T01:32:41Z"
+    },
+    {
+      "name": "n1tr00-10/tiktok-web-signature",
+      "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+      "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+      "stars": 712,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-10-13T14:07:51Z"
+    },
+    {
+      "name": "h0m3us3r/w1700k-sdr",
+      "description": null,
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "stars": 661,
+      "forks": 64,
+      "language": "C",
+      "updated_at": "2026-10-14T02:02:28Z"
+    },
+    {
+      "name": "zeusinsight/FinderSearch",
+      "description": "A native macOS file browser with fast fuzzy filename search, powered by fsearch.",
+      "url": "https://github.com/zeusinsight/FinderSearch",
+      "stars": 659,
+      "forks": 18,
+      "language": "Swift",
+      "updated_at": "2026-10-13T23:42:44Z"
     }
   ]
 }
