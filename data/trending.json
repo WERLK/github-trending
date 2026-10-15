@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-10-14T02:16:45.323Z",
+  "fetched_at": "2026-10-15T01:57:47.736Z",
   "repos": [
-    {
-      "name": "wheresryan22/anatomy",
-      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "stars": 8331,
-      "forks": 603,
-      "language": "JavaScript",
-      "updated_at": "2026-10-14T02:14:17Z"
-    },
-    {
-      "name": "mhtsec/ARTEX",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "url": "https://github.com/mhtsec/ARTEX",
-      "stars": 3889,
-      "forks": 6218,
-      "language": "Go",
-      "updated_at": "2026-10-14T02:16:44Z"
-    },
-    {
-      "name": "t4t5/omdrop-owl",
-      "description": "airdrop for non-apple devices",
-      "url": "https://github.com/t4t5/omdrop-owl",
-      "stars": 2593,
-      "forks": 194,
-      "language": "Shell",
-      "updated_at": "2026-10-14T02:09:28Z"
-    },
-    {
-      "name": "ARahim3/DigUp",
-      "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
-      "url": "https://github.com/ARahim3/DigUp",
-      "stars": 2498,
-      "forks": 182,
-      "language": "Swift",
-      "updated_at": "2026-10-14T02:16:29Z"
-    },
     {
       "name": "storytold/craft-launcher",
       "description": "The Craft App Launcher",
       "url": "https://github.com/storytold/craft-launcher",
-      "stars": 2329,
-      "forks": 783,
+      "stars": 2663,
+      "forks": 888,
       "language": "Rust",
-      "updated_at": "2026-10-14T02:11:33Z"
+      "updated_at": "2026-10-15T01:51:31Z"
     },
     {
       "name": "liseami/CCBaga",
       "description": null,
       "url": "https://github.com/liseami/CCBaga",
-      "stars": 2070,
-      "forks": 210,
+      "stars": 2257,
+      "forks": 223,
       "language": "Rust",
-      "updated_at": "2026-10-14T02:15:03Z"
-    },
-    {
-      "name": "noahdunnagan/fsearch",
-      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
-      "url": "https://github.com/noahdunnagan/fsearch",
-      "stars": 2031,
-      "forks": 132,
-      "language": "Rust",
-      "updated_at": "2026-10-14T01:38:42Z"
-    },
-    {
-      "name": "onehumanbeing/esp32-iphone-agent",
-      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "stars": 1577,
-      "forks": 197,
-      "language": "Python",
-      "updated_at": "2026-10-14T02:16:32Z"
-    },
-    {
-      "name": "trhhubsd/ARTEXX",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-      "url": "https://github.com/trhhubsd/ARTEXX",
-      "stars": 1188,
-      "forks": 10,
-      "language": "Go",
-      "updated_at": "2026-10-14T02:16:28Z"
-    },
-    {
-      "name": "NVIDIA-Omniverse/usd-brep",
-      "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
-      "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
-      "stars": 1180,
-      "forks": 133,
-      "language": "C++",
-      "updated_at": "2026-10-14T02:10:54Z"
+      "updated_at": "2026-10-15T01:53:31Z"
     },
     {
       "name": "jhaizhou-ops/d2r-mobile",
       "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "stars": 1172,
-      "forks": 414,
+      "stars": 2188,
+      "forks": 705,
       "language": "C",
-      "updated_at": "2026-10-14T02:14:22Z"
+      "updated_at": "2026-10-15T01:56:57Z"
     },
     {
-      "name": "wesbos/photo-frame-dashboard",
-      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-      "url": "https://github.com/wesbos/photo-frame-dashboard",
-      "stars": 1078,
-      "forks": 139,
-      "language": "Python",
-      "updated_at": "2026-10-14T02:10:22Z"
-    },
-    {
-      "name": "shaongitbd/doory",
-      "description": "Open source canva alternative",
-      "url": "https://github.com/shaongitbd/doory",
-      "stars": 1055,
-      "forks": 55,
-      "language": "TypeScript",
-      "updated_at": "2026-10-14T02:00:15Z"
-    },
-    {
-      "name": "anthropics/oss-scanner",
-      "description": null,
-      "url": "https://github.com/anthropics/oss-scanner",
-      "stars": 966,
-      "forks": 500,
-      "language": "Dockerfile",
-      "updated_at": "2026-10-14T02:04:50Z"
-    },
-    {
-      "name": "rociiu/talorys",
-      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "url": "https://github.com/rociiu/talorys",
-      "stars": 961,
-      "forks": 86,
-      "language": "TypeScript",
-      "updated_at": "2026-10-14T01:54:43Z"
-    },
-    {
-      "name": "marclou/mailcheap",
-      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
-      "url": "https://github.com/marclou/mailcheap",
-      "stars": 897,
-      "forks": 225,
-      "language": "JavaScript",
-      "updated_at": "2026-10-14T02:15:59Z"
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "stars": 2102,
+      "forks": 280,
+      "language": "C",
+      "updated_at": "2026-10-15T01:56:50Z"
     },
     {
       "name": "Arekejoker/qwen21-nsfw-pose-skill",
       "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "stars": 885,
-      "forks": 193,
+      "stars": 1268,
+      "forks": 284,
       "language": "Python",
-      "updated_at": "2026-10-14T02:14:38Z"
+      "updated_at": "2026-10-15T01:56:35Z"
     },
     {
-      "name": "zhuyansen/new-term-radar",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "stars": 870,
-      "forks": 354,
-      "language": "Python",
-      "updated_at": "2026-10-14T02:12:38Z"
-    },
-    {
-      "name": "T-Auto/dsh-ops",
-      "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
-      "url": "https://github.com/T-Auto/dsh-ops",
-      "stars": 864,
-      "forks": 10,
-      "language": "JavaScript",
-      "updated_at": "2026-10-14T01:32:45Z"
+      "name": "shaongitbd/doory",
+      "description": "Open source canva alternative",
+      "url": "https://github.com/shaongitbd/doory",
+      "stars": 1206,
+      "forks": 72,
+      "language": "TypeScript",
+      "updated_at": "2026-10-15T01:39:13Z"
     },
     {
       "name": "opengeos/RustGIS",
       "description": "A fast, free and open-source GIS in pure Rust.",
       "url": "https://github.com/opengeos/RustGIS",
-      "stars": 816,
-      "forks": 114,
+      "stars": 1064,
+      "forks": 145,
       "language": "Rust",
-      "updated_at": "2026-10-14T02:11:39Z"
+      "updated_at": "2026-10-15T01:55:26Z"
     },
     {
-      "name": "ToiCF/CF-Workers-TGProxy",
-      "description": "基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstrap/session 令牌、多 lane WS 复用、AES-CTR 加密、自定义帧、流控与严格 CSP。",
-      "url": "https://github.com/ToiCF/CF-Workers-TGProxy",
-      "stars": 793,
-      "forks": 293,
-      "language": null,
-      "updated_at": "2026-10-14T02:06:21Z"
-    },
-    {
-      "name": "ThariqS/ai-newtab",
-      "description": "Claude generates a daily new tab page based on your browser history.",
-      "url": "https://github.com/ThariqS/ai-newtab",
-      "stars": 788,
-      "forks": 77,
+      "name": "rociiu/talorys",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "url": "https://github.com/rociiu/talorys",
+      "stars": 1002,
+      "forks": 90,
       "language": "TypeScript",
-      "updated_at": "2026-10-14T01:30:25Z"
+      "updated_at": "2026-10-15T01:35:18Z"
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "stars": 963,
+      "forks": 384,
+      "language": "Python",
+      "updated_at": "2026-10-15T01:41:51Z"
+    },
+    {
+      "name": "storytold/figcraft",
+      "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+      "url": "https://github.com/storytold/figcraft",
+      "stars": 946,
+      "forks": 428,
+      "language": "Rust",
+      "updated_at": "2026-10-15T01:49:42Z"
+    },
+    {
+      "name": "marclou/mailcheap",
+      "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
+      "url": "https://github.com/marclou/mailcheap",
+      "stars": 933,
+      "forks": 233,
+      "language": "JavaScript",
+      "updated_at": "2026-10-15T01:00:19Z"
     },
     {
       "name": "jwuthri-cloud/Tracely-ai",
       "description": null,
       "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-      "stars": 754,
+      "stars": 817,
       "forks": 107,
       "language": "Python",
-      "updated_at": "2026-10-14T02:08:17Z"
+      "updated_at": "2026-10-14T15:24:11Z"
     },
     {
-      "name": "Hinln/ARTEX",
-      "description": "ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
-      "url": "https://github.com/Hinln/ARTEX",
-      "stars": 752,
-      "forks": 1154,
-      "language": "Go",
-      "updated_at": "2026-10-14T02:01:40Z"
+      "name": "YeonwooSung/my-claude-code-mods",
+      "description": "Custom Claude Code Mods that I need",
+      "url": "https://github.com/YeonwooSung/my-claude-code-mods",
+      "stars": 778,
+      "forks": 1,
+      "language": "TypeScript",
+      "updated_at": "2026-10-15T01:33:49Z"
     },
     {
-      "name": "tcchen2026/VibeOffice",
-      "description": "A free office suite that runs in your browser, in the style of Office 2003. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer.",
-      "url": "https://github.com/tcchen2026/VibeOffice",
-      "stars": 743,
-      "forks": 116,
+      "name": "HeyPuter/everything",
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "url": "https://github.com/HeyPuter/everything",
+      "stars": 773,
+      "forks": 111,
       "language": "JavaScript",
-      "updated_at": "2026-10-14T02:06:28Z"
-    },
-    {
-      "name": "snuri00/ps2-web-recomp",
-      "description": "PS2 games in the browser: static recompilation to WebAssembly with a native runtime",
-      "url": "https://github.com/snuri00/ps2-web-recomp",
-      "stars": 719,
-      "forks": 63,
-      "language": "C++",
-      "updated_at": "2026-10-14T01:47:14Z"
-    },
-    {
-      "name": "franzenzenhofer/big-arrow-on-the-screen",
-      "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 712,
-      "forks": 19,
-      "language": "Swift",
-      "updated_at": "2026-10-14T01:32:41Z"
-    },
-    {
-      "name": "n1tr00-10/tiktok-web-signature",
-      "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
-      "url": "https://github.com/n1tr00-10/tiktok-web-signature",
-      "stars": 712,
-      "forks": 0,
-      "language": "Python",
-      "updated_at": "2026-10-13T14:07:51Z"
+      "updated_at": "2026-10-15T01:50:49Z"
     },
     {
       "name": "h0m3us3r/w1700k-sdr",
       "description": null,
       "url": "https://github.com/h0m3us3r/w1700k-sdr",
-      "stars": 661,
-      "forks": 64,
+      "stars": 751,
+      "forks": 73,
       "language": "C",
-      "updated_at": "2026-10-14T02:02:28Z"
+      "updated_at": "2026-10-15T01:48:34Z"
+    },
+    {
+      "name": "CoolkHz/gptibo",
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "stars": 750,
+      "forks": 451,
+      "language": "TypeScript",
+      "updated_at": "2026-10-15T01:53:42Z"
+    },
+    {
+      "name": "n1tr00-10/tiktok-web-signature",
+      "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+      "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+      "stars": 710,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-10-14T15:25:34Z"
+    },
+    {
+      "name": "SubmitGame/awesome-decomp-games",
+      "description": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
+      "url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "stars": 665,
+      "forks": 28,
+      "language": "Python",
+      "updated_at": "2026-10-15T01:37:24Z"
     },
     {
       "name": "zeusinsight/FinderSearch",
       "description": "A native macOS file browser with fast fuzzy filename search, powered by fsearch.",
       "url": "https://github.com/zeusinsight/FinderSearch",
-      "stars": 659,
-      "forks": 18,
+      "stars": 663,
+      "forks": 19,
       "language": "Swift",
-      "updated_at": "2026-10-13T23:42:44Z"
+      "updated_at": "2026-10-14T16:49:07Z"
+    },
+    {
+      "name": "outcrawlai/scout",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "stars": 658,
+      "forks": 22,
+      "language": "TypeScript",
+      "updated_at": "2026-10-15T01:46:01Z"
+    },
+    {
+      "name": "deeplethe/solid-glass",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "stars": 604,
+      "forks": 6,
+      "language": "TypeScript",
+      "updated_at": "2026-10-15T01:42:44Z"
+    },
+    {
+      "name": "c22dev/muguet",
+      "description": "A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
+      "url": "https://github.com/c22dev/muguet",
+      "stars": 598,
+      "forks": 190,
+      "language": "Rust",
+      "updated_at": "2026-10-14T23:00:48Z"
+    },
+    {
+      "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+      "description": "Introduction to Semiconductor Manufacturing",
+      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+      "stars": 591,
+      "forks": 58,
+      "language": "Python",
+      "updated_at": "2026-10-15T01:56:58Z"
+    },
+    {
+      "name": "nateherkai/roast-room",
+      "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+      "url": "https://github.com/nateherkai/roast-room",
+      "stars": 535,
+      "forks": 118,
+      "language": "JavaScript",
+      "updated_at": "2026-10-15T01:50:33Z"
+    },
+    {
+      "name": "npwitk/Macintosh-Skeletal-Filled",
+      "description": "helllllllllloooo font! Turns out it's called Macintosh Skeleton",
+      "url": "https://github.com/npwitk/Macintosh-Skeletal-Filled",
+      "stars": 521,
+      "forks": 65,
+      "language": null,
+      "updated_at": "2026-10-14T15:33:40Z"
+    },
+    {
+      "name": "morluto/awesome-reverse-engineering",
+      "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
+      "url": "https://github.com/morluto/awesome-reverse-engineering",
+      "stars": 508,
+      "forks": 105,
+      "language": null,
+      "updated_at": "2026-10-15T01:07:17Z"
+    },
+    {
+      "name": "overdriveps5/overdrive-releases",
+      "description": "Overdrive releases for jailbroken PS5",
+      "url": "https://github.com/overdriveps5/overdrive-releases",
+      "stars": 489,
+      "forks": 85,
+      "language": null,
+      "updated_at": "2026-10-15T01:56:30Z"
+    },
+    {
+      "name": "StoopwenpueNq/jackie-fmri-sim",
+      "description": "jackie-fmri-sim",
+      "url": "https://github.com/StoopwenpueNq/jackie-fmri-sim",
+      "stars": 469,
+      "forks": 47,
+      "language": "Python",
+      "updated_at": "2026-10-14T14:48:48Z"
+    },
+    {
+      "name": "LordixDemon/apple_watch_connector",
+      "description": null,
+      "url": "https://github.com/LordixDemon/apple_watch_connector",
+      "stars": 462,
+      "forks": 45,
+      "language": "Java",
+      "updated_at": "2026-10-15T01:56:03Z"
+    },
+    {
+      "name": "nikgrbn/finder-menu",
+      "description": "Right-click menu for macOS Finder: New File, Open Terminal Here, Copy Path, Go to Parent Folder",
+      "url": "https://github.com/nikgrbn/finder-menu",
+      "stars": 430,
+      "forks": 27,
+      "language": "Swift",
+      "updated_at": "2026-10-15T01:23:49Z"
     }
   ]
 }
