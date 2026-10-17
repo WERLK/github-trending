@@ -1,266 +1,221 @@
 {
-  "fetched_at": "2026-10-16T01:47:55.584Z",
+  "fetched_at": "2026-10-17T01:42:10.076Z",
   "repos": [
     {
       "name": "jhaizhou-ops/d2r-mobile",
       "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "stars": 3168,
-      "forks": 952,
+      "stars": 3541,
+      "forks": 1024,
       "language": "C",
-      "updated_at": "2026-10-16T01:46:59Z"
+      "updated_at": "2026-10-17T01:23:01Z"
     },
     {
       "name": "onehumanbeing/esp32-iphone-agent",
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "stars": 2493,
-      "forks": 330,
+      "stars": 2862,
+      "forks": 370,
       "language": "C",
-      "updated_at": "2026-10-16T01:47:16Z"
+      "updated_at": "2026-10-17T01:19:41Z"
+    },
+    {
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "stars": 2524,
+      "forks": 494,
+      "language": "Python",
+      "updated_at": "2026-10-17T01:41:49Z"
     },
     {
       "name": "liseami/CCBaga",
       "description": null,
       "url": "https://github.com/liseami/CCBaga",
-      "stars": 2341,
-      "forks": 234,
+      "stars": 2403,
+      "forks": 240,
       "language": "Rust",
-      "updated_at": "2026-10-16T01:44:33Z"
-    },
-    {
-      "name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制���适用 Claude Code / Codex / Cursor / OpenClaw",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "stars": 2064,
-      "forks": 421,
-      "language": "Python",
-      "updated_at": "2026-10-16T01:45:20Z"
+      "updated_at": "2026-10-17T01:27:02Z"
     },
     {
       "name": "HeyPuter/everything",
       "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "url": "https://github.com/HeyPuter/everything",
-      "stars": 1326,
-      "forks": 179,
+      "stars": 1747,
+      "forks": 256,
       "language": "JavaScript",
-      "updated_at": "2026-10-16T01:46:23Z"
-    },
-    {
-      "name": "shaongitbd/doory",
-      "description": "Open source canva alternative",
-      "url": "https://github.com/shaongitbd/doory",
-      "stars": 1312,
-      "forks": 86,
-      "language": "TypeScript",
-      "updated_at": "2026-10-16T01:41:24Z"
-    },
-    {
-      "name": "opengeos/RustGIS",
-      "description": "A fast, free and open-source GIS in pure Rust.",
-      "url": "https://github.com/opengeos/RustGIS",
-      "stars": 1226,
-      "forks": 166,
-      "language": "Rust",
-      "updated_at": "2026-10-16T01:34:18Z"
+      "updated_at": "2026-10-17T01:40:02Z"
     },
     {
       "name": "ahwootech/BRUTAL",
       "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
       "url": "https://github.com/ahwootech/BRUTAL",
-      "stars": 1182,
-      "forks": 58,
+      "stars": 1574,
+      "forks": 80,
       "language": "C#",
-      "updated_at": "2026-10-16T01:42:13Z"
-    },
-    {
-      "name": "rociiu/talorys",
-      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "url": "https://github.com/rociiu/talorys",
-      "stars": 1160,
-      "forks": 103,
-      "language": "TypeScript",
-      "updated_at": "2026-10-16T01:47:49Z"
+      "updated_at": "2026-10-17T01:40:51Z"
     },
     {
       "name": "chenglou/handwired",
       "description": "Turn your regular JavaScript code into a neural net.",
       "url": "https://github.com/chenglou/handwired",
-      "stars": 1086,
-      "forks": 80,
+      "stars": 1563,
+      "forks": 123,
       "language": "TypeScript",
-      "updated_at": "2026-10-16T01:47:51Z"
-    },
-    {
-      "name": "marclou/mailcheap",
-      "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-      "url": "https://github.com/marclou/mailcheap",
-      "stars": 1055,
-      "forks": 273,
-      "language": "JavaScript",
-      "updated_at": "2026-10-16T01:13:42Z"
-    },
-    {
-      "name": "zhuyansen/new-term-radar",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "stars": 1026,
-      "forks": 401,
-      "language": "Python",
-      "updated_at": "2026-10-16T01:21:05Z"
+      "updated_at": "2026-10-17T01:33:43Z"
     },
     {
       "name": "deeplethe/solid-glass",
       "description": "A design system for AI applications. Material, physical, tactile, technical.",
       "url": "https://github.com/deeplethe/solid-glass",
-      "stars": 1016,
-      "forks": 16,
+      "stars": 1408,
+      "forks": 21,
       "language": "TypeScript",
-      "updated_at": "2026-10-16T01:42:09Z"
+      "updated_at": "2026-10-17T01:42:08Z"
     },
     {
-      "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
-      "description": "Introduction to Semiconductor Manufacturing",
-      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
-      "stars": 920,
-      "forks": 87,
+      "name": "zhuyansen/new-term-radar",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "stars": 1066,
+      "forks": 418,
       "language": "Python",
-      "updated_at": "2026-10-16T01:47:16Z"
+      "updated_at": "2026-10-17T00:32:45Z"
     },
     {
-      "name": "outcrawlai/scout",
-      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "url": "https://github.com/outcrawlai/scout",
-      "stars": 832,
-      "forks": 26,
-      "language": "TypeScript",
-      "updated_at": "2026-10-16T01:33:26Z"
-    },
-    {
-      "name": "jwuthri-cloud/Tracely-ai",
-      "description": null,
-      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-      "stars": 824,
-      "forks": 107,
-      "language": "Python",
-      "updated_at": "2026-10-15T23:59:15Z"
-    },
-    {
-      "name": "h0m3us3r/w1700k-sdr",
-      "description": null,
-      "url": "https://github.com/h0m3us3r/w1700k-sdr",
-      "stars": 798,
-      "forks": 80,
-      "language": "C",
-      "updated_at": "2026-10-16T01:10:44Z"
-    },
-    {
-      "name": "CoolkHz/gptibo",
-      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
-      "url": "https://github.com/CoolkHz/gptibo",
-      "stars": 796,
-      "forks": 473,
-      "language": "TypeScript",
-      "updated_at": "2026-10-16T01:10:48Z"
-    },
-    {
-      "name": "fyzugx/DEsk",
-      "description": null,
-      "url": "https://github.com/fyzugx/DEsk",
-      "stars": 784,
-      "forks": 22,
-      "language": "C",
-      "updated_at": "2026-10-16T01:44:45Z"
-    },
-    {
-      "name": "Caho1/open-claude-ui",
-      "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。纯手写 30 个独立 React 组件与 8 项硬核交互���理算法，附带 3000+ 行逆向分析手册。",
-      "url": "https://github.com/Caho1/open-claude-ui",
-      "stars": 751,
-      "forks": 176,
-      "language": "TypeScript",
-      "updated_at": "2026-10-16T01:46:49Z"
-    },
-    {
-      "name": "feder-cr/open_scion",
-      "description": "Open-source version of Scion: version control built for coding agents.",
-      "url": "https://github.com/feder-cr/open_scion",
-      "stars": 714,
-      "forks": 60,
+      "name": "feder-cr/git-ai",
+      "description": "Git designed for AI agents.",
+      "url": "https://github.com/feder-cr/git-ai",
+      "stars": 1062,
+      "forks": 112,
       "language": "Go",
-      "updated_at": "2026-10-16T01:42:28Z"
+      "updated_at": "2026-10-17T01:34:06Z"
     },
     {
       "name": "Supermedo/uncharted_pc",
       "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
       "url": "https://github.com/Supermedo/uncharted_pc",
-      "stars": 679,
-      "forks": 27,
+      "stars": 1024,
+      "forks": 48,
       "language": "C++",
-      "updated_at": "2026-10-16T01:47:41Z"
+      "updated_at": "2026-10-17T01:35:29Z"
+    },
+    {
+      "name": "Caho1/open-claude-ui",
+      "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "url": "https://github.com/Caho1/open-claude-ui",
+      "stars": 1018,
+      "forks": 229,
+      "language": "TypeScript",
+      "updated_at": "2026-10-17T01:42:05Z"
+    },
+    {
+      "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+      "description": "Introduction to Semiconductor Manufacturing",
+      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+      "stars": 1000,
+      "forks": 96,
+      "language": "Python",
+      "updated_at": "2026-10-17T01:02:38Z"
+    },
+    {
+      "name": "outcrawlai/scout",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "stars": 895,
+      "forks": 28,
+      "language": "TypeScript",
+      "updated_at": "2026-10-17T00:59:44Z"
     },
     {
       "name": "AjncSystem/ShadowOfTheColossus-PC",
       "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
       "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
-      "stars": 663,
-      "forks": 31,
+      "stars": 879,
+      "forks": 39,
       "language": "C++",
-      "updated_at": "2026-10-16T01:35:02Z"
+      "updated_at": "2026-10-17T01:16:40Z"
     },
     {
-      "name": "nateherkai/roast-room",
-      "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "url": "https://github.com/nateherkai/roast-room",
-      "stars": 625,
+      "name": "jwuthri-cloud/Tracely-ai",
+      "description": null,
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "stars": 829,
       "forks": 139,
-      "language": "JavaScript",
-      "updated_at": "2026-10-16T01:40:19Z"
+      "language": "Python",
+      "updated_at": "2026-10-16T12:27:45Z"
     },
     {
-      "name": "c22dev/muguet",
-      "description": "A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
-      "url": "https://github.com/c22dev/muguet",
-      "stars": 620,
-      "forks": 197,
-      "language": "Rust",
-      "updated_at": "2026-10-16T01:03:34Z"
+      "name": "h0m3us3r/w1700k-sdr",
+      "description": null,
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "stars": 815,
+      "forks": 82,
+      "language": "C",
+      "updated_at": "2026-10-17T00:32:43Z"
     },
     {
-      "name": "overdriveps5/overdrive-releases",
-      "description": "Overdrive releases for jailbroken PS5",
-      "url": "https://github.com/overdriveps5/overdrive-releases",
-      "stars": 559,
-      "forks": 102,
-      "language": null,
-      "updated_at": "2026-10-16T01:41:17Z"
+      "name": "CoolkHz/gptibo",
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "stars": 811,
+      "forks": 486,
+      "language": "TypeScript",
+      "updated_at": "2026-10-17T01:18:04Z"
     },
     {
       "name": "threerocks/sweety-handdraw-video",
       "description": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
       "url": "https://github.com/threerocks/sweety-handdraw-video",
-      "stars": 538,
-      "forks": 102,
+      "stars": 642,
+      "forks": 119,
       "language": "JavaScript",
-      "updated_at": "2026-10-16T01:41:19Z"
-    },
-    {
-      "name": "npwitk/Macintosh-Skeletal-Filled",
-      "description": "helllllllllloooo font! Turns out it's called Macintosh Skeleton",
-      "url": "https://github.com/npwitk/Macintosh-Skeletal-Filled",
-      "stars": 530,
-      "forks": 66,
-      "language": null,
-      "updated_at": "2026-10-15T21:22:13Z"
+      "updated_at": "2026-10-17T01:28:25Z"
     },
     {
       "name": "Zfinix/eleven",
       "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
       "url": "https://github.com/Zfinix/eleven",
-      "stars": 482,
-      "forks": 74,
+      "stars": 614,
+      "forks": 98,
       "language": "TypeScript",
-      "updated_at": "2026-10-16T01:47:30Z"
+      "updated_at": "2026-10-17T01:37:42Z"
+    },
+    {
+      "name": "overdriveps5/overdrive-releases",
+      "description": "Overdrive releases for jailbroken PS5",
+      "url": "https://github.com/overdriveps5/overdrive-releases",
+      "stars": 586,
+      "forks": 113,
+      "language": null,
+      "updated_at": "2026-10-16T23:39:01Z"
+    },
+    {
+      "name": "0xProbabillity/house-control",
+      "description": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.",
+      "url": "https://github.com/0xProbabillity/house-control",
+      "stars": 527,
+      "forks": 71,
+      "language": "Swift",
+      "updated_at": "2026-10-17T01:26:53Z"
+    },
+    {
+      "name": "MyLuxy/overdrive",
+      "description": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+      "url": "https://github.com/MyLuxy/overdrive",
+      "stars": 502,
+      "forks": 135,
+      "language": "C++",
+      "updated_at": "2026-10-17T01:27:23Z"
+    },
+    {
+      "name": "rayytor/desktop_gifs",
+      "description": "Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
+      "url": "https://github.com/rayytor/desktop_gifs",
+      "stars": 471,
+      "forks": 77,
+      "language": "JavaScript",
+      "updated_at": "2026-10-16T22:37:34Z"
     },
     {
       "name": "StoopwenpueNq/jackie-fmri-sim",
@@ -270,6 +225,51 @@
       "forks": 47,
       "language": "Python",
       "updated_at": "2026-10-15T13:31:22Z"
+    },
+    {
+      "name": "i12bp8/decomp.wtf",
+      "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+      "url": "https://github.com/i12bp8/decomp.wtf",
+      "stars": 463,
+      "forks": 174,
+      "language": "Python",
+      "updated_at": "2026-10-17T01:24:36Z"
+    },
+    {
+      "name": "PS5Dev/Byepervisor-Reborn",
+      "description": "Somehow, Byepervisor returned...",
+      "url": "https://github.com/PS5Dev/Byepervisor-Reborn",
+      "stars": 458,
+      "forks": 98,
+      "language": "C",
+      "updated_at": "2026-10-16T23:17:11Z"
+    },
+    {
+      "name": "datalab-to/indra",
+      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "url": "https://github.com/datalab-to/indra",
+      "stars": 454,
+      "forks": 35,
+      "language": "Python",
+      "updated_at": "2026-10-17T01:29:39Z"
+    },
+    {
+      "name": "solana-classic/solana-classic",
+      "description": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
+      "url": "https://github.com/solana-classic/solana-classic",
+      "stars": 445,
+      "forks": 57,
+      "language": "Rust",
+      "updated_at": "2026-10-17T01:24:36Z"
+    },
+    {
+      "name": "yeyuxin777/baoyan-agent-benchmark",
+      "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+      "stars": 408,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-10-16T12:36:11Z"
     }
   ]
 }
