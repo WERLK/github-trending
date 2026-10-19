@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-10-18T01:38:54.788Z",
+  "fetched_at": "2026-10-19T01:56:40.937Z",
   "repos": [
-    {
-      "name": "jhaizhou-ops/d2r-mobile",
-      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "stars": 3714,
-      "forks": 1055,
-      "language": "C",
-      "updated_at": "2026-10-18T01:38:46Z"
-    },
     {
       "name": "Arekejoker/qwen21-nsfw-pose-skill",
       "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "stars": 2645,
-      "forks": 509,
+      "stars": 2857,
+      "forks": 538,
       "language": "Python",
-      "updated_at": "2026-10-18T01:33:27Z"
-    },
-    {
-      "name": "HeyPuter/everything",
-      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
-      "url": "https://github.com/HeyPuter/everything",
-      "stars": 2055,
-      "forks": 294,
-      "language": "JavaScript",
-      "updated_at": "2026-10-18T01:09:36Z"
-    },
-    {
-      "name": "ahwootech/BRUTAL",
-      "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
-      "url": "https://github.com/ahwootech/BRUTAL",
-      "stars": 1795,
-      "forks": 94,
-      "language": "C#",
-      "updated_at": "2026-10-18T01:28:39Z"
-    },
-    {
-      "name": "deeplethe/solid-glass",
-      "description": "A design system for AI applications. Material, physical, tactile, technical.",
-      "url": "https://github.com/deeplethe/solid-glass",
-      "stars": 1731,
-      "forks": 22,
-      "language": "TypeScript",
-      "updated_at": "2026-10-18T01:30:35Z"
-    },
-    {
-      "name": "chenglou/handwired",
-      "description": "Turn your regular JavaScript code into a neural net.",
-      "url": "https://github.com/chenglou/handwired",
-      "stars": 1677,
-      "forks": 135,
-      "language": "TypeScript",
-      "updated_at": "2026-10-18T01:22:16Z"
-    },
-    {
-      "name": "Supermedo/uncharted_pc",
-      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-      "url": "https://github.com/Supermedo/uncharted_pc",
-      "stars": 1265,
-      "forks": 68,
-      "language": "C++",
-      "updated_at": "2026-10-18T01:34:10Z"
-    },
-    {
-      "name": "Caho1/open-claude-ui",
-      "description": "��于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
-      "url": "https://github.com/Caho1/open-claude-ui",
-      "stars": 1138,
-      "forks": 251,
-      "language": "TypeScript",
-      "updated_at": "2026-10-18T01:07:03Z"
+      "updated_at": "2026-10-19T01:56:08Z"
     },
     {
       "name": "feder-cr/git-ai",
       "description": "Git designed for AI agents.",
       "url": "https://github.com/feder-cr/git-ai",
-      "stars": 1137,
-      "forks": 123,
+      "stars": 2300,
+      "forks": 258,
       "language": "Go",
-      "updated_at": "2026-10-18T01:26:24Z"
+      "updated_at": "2026-10-19T01:40:28Z"
     },
     {
-      "name": "zhuyansen/new-term-radar",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "stars": 1082,
-      "forks": 422,
-      "language": "Python",
-      "updated_at": "2026-10-18T00:59:23Z"
+      "name": "HeyPuter/everything",
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "url": "https://github.com/HeyPuter/everything",
+      "stars": 2222,
+      "forks": 316,
+      "language": "JavaScript",
+      "updated_at": "2026-10-19T01:56:10Z"
     },
     {
-      "name": "AjncSystem/ShadowOfTheColossus-PC",
-      "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
-      "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
-      "stars": 986,
-      "forks": 48,
+      "name": "Gathin23/tv-vibehack",
+      "description": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
+      "url": "https://github.com/Gathin23/tv-vibehack",
+      "stars": 2086,
+      "forks": 248,
+      "language": "Java",
+      "updated_at": "2026-10-19T01:55:53Z"
+    },
+    {
+      "name": "ahwootech/BRUTAL",
+      "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+      "url": "https://github.com/ahwootech/BRUTAL",
+      "stars": 1904,
+      "forks": 102,
+      "language": "C#",
+      "updated_at": "2026-10-19T01:55:07Z"
+    },
+    {
+      "name": "chenglou/handwired",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "url": "https://github.com/chenglou/handwired",
+      "stars": 1732,
+      "forks": 144,
+      "language": "TypeScript",
+      "updated_at": "2026-10-19T01:49:37Z"
+    },
+    {
+      "name": "Supermedo/uncharted_pc",
+      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "url": "https://github.com/Supermedo/uncharted_pc",
+      "stars": 1456,
+      "forks": 75,
       "language": "C++",
-      "updated_at": "2026-10-18T01:36:46Z"
+      "updated_at": "2026-10-19T01:54:13Z"
+    },
+    {
+      "name": "Caho1/open-claude-ui",
+      "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "url": "https://github.com/Caho1/open-claude-ui",
+      "stars": 1210,
+      "forks": 260,
+      "language": "TypeScript",
+      "updated_at": "2026-10-19T01:42:21Z"
     },
     {
       "name": "outcrawlai/scout",
       "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
       "url": "https://github.com/outcrawlai/scout",
-      "stars": 939,
-      "forks": 28,
+      "stars": 945,
+      "forks": 29,
       "language": "TypeScript",
-      "updated_at": "2026-10-18T00:33:35Z"
-    },
-    {
-      "name": "CoolkHz/gptibo",
-      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
-      "url": "https://github.com/CoolkHz/gptibo",
-      "stars": 821,
-      "forks": 495,
-      "language": "TypeScript",
-      "updated_at": "2026-10-17T17:25:38Z"
-    },
-    {
-      "name": "rohit267/net-merge",
-      "description": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
-      "url": "https://github.com/rohit267/net-merge",
-      "stars": 800,
-      "forks": 30,
-      "language": "Go",
-      "updated_at": "2026-10-18T01:34:53Z"
+      "updated_at": "2026-10-19T00:59:37Z"
     },
     {
       "name": "xscreensaver-official/xscreensaver",
       "description": "There is no official XScreenSaver GitHub repository.",
       "url": "https://github.com/xscreensaver-official/xscreensaver",
-      "stars": 717,
-      "forks": 20,
+      "stars": 867,
+      "forks": 24,
       "language": null,
-      "updated_at": "2026-10-18T01:34:36Z"
+      "updated_at": "2026-10-19T01:54:48Z"
+    },
+    {
+      "name": "ly05010419/MacNativeGames",
+      "description": null,
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "stars": 855,
+      "forks": 125,
+      "language": "C",
+      "updated_at": "2026-10-19T01:56:05Z"
+    },
+    {
+      "name": "CoolkHz/gptibo",
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "stars": 828,
+      "forks": 496,
+      "language": "TypeScript",
+      "updated_at": "2026-10-19T01:46:58Z"
     },
     {
       "name": "Leonxlnx/earshot",
       "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "url": "https://github.com/Leonxlnx/earshot",
-      "stars": 687,
-      "forks": 41,
+      "stars": 822,
+      "forks": 50,
       "language": "Python",
-      "updated_at": "2026-10-18T01:35:36Z"
-    },
-    {
-      "name": "Zfinix/eleven",
-      "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
-      "url": "https://github.com/Zfinix/eleven",
-      "stars": 676,
-      "forks": 107,
-      "language": "TypeScript",
-      "updated_at": "2026-10-18T01:23:10Z"
-    },
-    {
-      "name": "threerocks/sweety-handdraw-video",
-      "description": "从主题或文章制作完整手绘讲解���频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
-      "url": "https://github.com/threerocks/sweety-handdraw-video",
-      "stars": 670,
-      "forks": 128,
-      "language": "JavaScript",
-      "updated_at": "2026-10-18T01:27:53Z"
-    },
-    {
-      "name": "MyLuxy/overdrive",
-      "description": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
-      "url": "https://github.com/MyLuxy/overdrive",
-      "stars": 651,
-      "forks": 157,
-      "language": "C++",
-      "updated_at": "2026-10-18T01:35:42Z"
-    },
-    {
-      "name": "anujasid/blender-ai-mcp-addon",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/anujasid/blender-ai-mcp-addon",
-      "stars": 623,
-      "forks": 135,
-      "language": "Python",
-      "updated_at": "2026-10-18T01:36:55Z"
-    },
-    {
-      "name": "overdriveps5/overdrive-releases",
-      "description": "Overdrive releases for jailbroken PS5",
-      "url": "https://github.com/overdriveps5/overdrive-releases",
-      "stars": 612,
-      "forks": 117,
-      "language": null,
-      "updated_at": "2026-10-18T01:27:23Z"
-    },
-    {
-      "name": "datalab-to/indra",
-      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-      "url": "https://github.com/datalab-to/indra",
-      "stars": 586,
-      "forks": 47,
-      "language": "Python",
-      "updated_at": "2026-10-18T01:27:50Z"
+      "updated_at": "2026-10-19T01:55:40Z"
     },
     {
       "name": "Tencent-Hunyuan/Hy-Memory",
       "description": null,
       "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-      "stars": 578,
-      "forks": 56,
+      "stars": 802,
+      "forks": 68,
       "language": "Python",
-      "updated_at": "2026-10-18T01:38:30Z"
+      "updated_at": "2026-10-19T01:55:48Z"
     },
     {
-      "name": "0xProbabillity/house-control",
-      "description": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.",
-      "url": "https://github.com/0xProbabillity/house-control",
-      "stars": 558,
-      "forks": 77,
-      "language": "Swift",
-      "updated_at": "2026-10-18T01:15:59Z"
+      "name": "MyLuxy/overdrive",
+      "description": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+      "url": "https://github.com/MyLuxy/overdrive",
+      "stars": 794,
+      "forks": 184,
+      "language": "C++",
+      "updated_at": "2026-10-19T01:53:43Z"
     },
     {
-      "name": "yeyuxin777/baoyan-agent-benchmark",
-      "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
-      "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
-      "stars": 504,
-      "forks": 0,
+      "name": "LiCinCan/blender-ai-mcp-addon",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "stars": 787,
+      "forks": 377,
       "language": "Python",
-      "updated_at": "2026-10-17T03:42:14Z"
+      "updated_at": "2026-10-19T00:49:59Z"
     },
     {
-      "name": "solana-classic/solana-classic",
-      "description": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
-      "url": "https://github.com/solana-classic/solana-classic",
-      "stars": 500,
-      "forks": 57,
-      "language": "Rust",
-      "updated_at": "2026-10-18T01:14:54Z"
+      "name": "Zfinix/eleven",
+      "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "url": "https://github.com/Zfinix/eleven",
+      "stars": 759,
+      "forks": 118,
+      "language": "TypeScript",
+      "updated_at": "2026-10-19T01:08:51Z"
+    },
+    {
+      "name": "OpenMOSS/MOSS-Image",
+      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "url": "https://github.com/OpenMOSS/MOSS-Image",
+      "stars": 711,
+      "forks": 34,
+      "language": "Python",
+      "updated_at": "2026-10-19T01:47:30Z"
     },
     {
       "name": "Noniv/web-ocean",
       "description": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from a single 61 KB HTML file in Chrome.",
       "url": "https://github.com/Noniv/web-ocean",
-      "stars": 499,
-      "forks": 83,
+      "stars": 681,
+      "forks": 109,
       "language": "HTML",
-      "updated_at": "2026-10-18T01:36:30Z"
+      "updated_at": "2026-10-19T01:50:56Z"
+    },
+    {
+      "name": "aicodeking/leanrea",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "url": "https://github.com/aicodeking/leanrea",
+      "stars": 646,
+      "forks": 114,
+      "language": "Python",
+      "updated_at": "2026-10-19T01:56:10Z"
+    },
+    {
+      "name": "datalab-to/indra",
+      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "url": "https://github.com/datalab-to/indra",
+      "stars": 629,
+      "forks": 56,
+      "language": "Python",
+      "updated_at": "2026-10-19T01:21:22Z"
+    },
+    {
+      "name": "0xProbabillity/house-control",
+      "description": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.",
+      "url": "https://github.com/0xProbabillity/house-control",
+      "stars": 626,
+      "forks": 88,
+      "language": "Swift",
+      "updated_at": "2026-10-19T01:21:08Z"
     },
     {
       "name": "HayatoG/iss_pc",
       "description": "Native PC port (Linux/Windows) of inFAMOUS Second Son (PS4, CUSA00223) — in development, playable; runs your own game dump; no game or firmware files included. Motion sensor emulation. | Port nativo para PC de inFAMOUS Second Son (em desenvolvimento) — usa o seu próprio dump.",
       "url": "https://github.com/HayatoG/iss_pc",
-      "stars": 499,
-      "forks": 32,
+      "stars": 601,
+      "forks": 38,
       "language": "C++",
-      "updated_at": "2026-10-18T01:31:16Z"
+      "updated_at": "2026-10-19T01:53:33Z"
+    },
+    {
+      "name": "solana-classic/solana-classic",
+      "description": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
+      "url": "https://github.com/solana-classic/solana-classic",
+      "stars": 557,
+      "forks": 57,
+      "language": "Rust",
+      "updated_at": "2026-10-18T23:06:49Z"
     },
     {
       "name": "i12bp8/decomp.wtf",
       "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
       "url": "https://github.com/i12bp8/decomp.wtf",
-      "stars": 490,
-      "forks": 207,
+      "stars": 498,
+      "forks": 228,
       "language": "Python",
-      "updated_at": "2026-10-18T01:35:22Z"
+      "updated_at": "2026-10-19T00:09:26Z"
     },
     {
-      "name": "PS5Dev/Byepervisor-Reborn",
-      "description": "Somehow, Byepervisor returned...",
-      "url": "https://github.com/PS5Dev/Byepervisor-Reborn",
-      "stars": 476,
-      "forks": 102,
+      "name": "StoopwenpueNq/jackie-fmri-sim",
+      "description": "jackie-fmri-sim",
+      "url": "https://github.com/StoopwenpueNq/jackie-fmri-sim",
+      "stars": 468,
+      "forks": 47,
+      "language": "Python",
+      "updated_at": "2026-10-18T04:57:29Z"
+    },
+    {
+      "name": "BreezeSolicitorMap/undress.ai",
+      "description": "Virtual clothing try-on from a single photo — mobile web app. Upload a person and a garment, get a photorealistic result.",
+      "url": "https://github.com/BreezeSolicitorMap/undress.ai",
+      "stars": 450,
+      "forks": 2,
+      "language": null,
+      "updated_at": "2026-10-19T01:27:06Z"
+    },
+    {
+      "name": "reason-machines/reason-network",
+      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "url": "https://github.com/reason-machines/reason-network",
+      "stars": 425,
+      "forks": 31,
+      "language": "Rust",
+      "updated_at": "2026-10-19T01:53:42Z"
+    },
+    {
+      "name": "cranebeaker/coop-anything",
+      "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
+      "url": "https://github.com/cranebeaker/coop-anything",
+      "stars": 420,
+      "forks": 36,
       "language": "C",
-      "updated_at": "2026-10-17T18:43:45Z"
+      "updated_at": "2026-10-19T01:53:43Z"
+    },
+    {
+      "name": "showheyohtaki/motion-prompt",
+      "description": null,
+      "url": "https://github.com/showheyohtaki/motion-prompt",
+      "stars": 414,
+      "forks": 48,
+      "language": "JavaScript",
+      "updated_at": "2026-10-19T01:47:52Z"
     }
   ]
 }
