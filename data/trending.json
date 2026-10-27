@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-10-26T01:53:51.478Z",
+  "fetched_at": "2026-10-27T02:32:00.111Z",
   "repos": [
-    {
-      "name": "pengchujin/aerial-tv",
-      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "stars": 5058,
-      "forks": 400,
-      "language": "Kotlin",
-      "updated_at": "2026-10-26T01:53:24Z"
-    },
     {
       "name": "JustAResearcher/gpu-unlock-ada",
       "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "stars": 2688,
-      "forks": 347,
+      "stars": 3883,
+      "forks": 503,
       "language": "C",
-      "updated_at": "2026-10-26T01:53:29Z"
-    },
-    {
-      "name": "xevrion/hatchzip",
-      "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
-      "url": "https://github.com/xevrion/hatchzip",
-      "stars": 1943,
-      "forks": 51,
-      "language": "Rust",
-      "updated_at": "2026-10-26T01:32:36Z"
+      "updated_at": "2026-10-27T02:30:22Z"
     },
     {
       "name": "wesbos/3d-model-anything",
       "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
       "url": "https://github.com/wesbos/3d-model-anything",
-      "stars": 1932,
-      "forks": 286,
+      "stars": 2083,
+      "forks": 309,
       "language": "Swift",
-      "updated_at": "2026-10-26T01:37:52Z"
+      "updated_at": "2026-10-27T02:16:10Z"
     },
     {
-      "name": "ikow/php2shell-poc",
-      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "stars": 1792,
-      "forks": 621,
-      "language": "Python",
-      "updated_at": "2026-10-26T01:25:11Z"
-    },
-    {
-      "name": "Jakeschincariol/day-trader-skill",
-      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-      "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "stars": 1643,
-      "forks": 360,
-      "language": "Python",
-      "updated_at": "2026-10-26T01:53:21Z"
-    },
-    {
-      "name": "oosexgang/hackios-xnu-kernel",
-      "description": null,
-      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "stars": 1465,
-      "forks": 263,
-      "language": "C",
-      "updated_at": "2026-10-26T01:50:44Z"
-    },
-    {
-      "name": "9bie/php2shell-bypass-aslr-exp",
-      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-      "stars": 1436,
-      "forks": 419,
-      "language": "Python",
-      "updated_at": "2026-10-26T01:42:52Z"
-    },
-    {
-      "name": "openai/php2shell-checker",
-      "description": null,
-      "url": "https://github.com/openai/php2shell-checker",
-      "stars": 1397,
-      "forks": 129,
-      "language": "JavaScript",
-      "updated_at": "2026-10-26T00:26:56Z"
-    },
-    {
-      "name": "colinhacks/reylo",
-      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
-      "url": "https://github.com/colinhacks/reylo",
-      "stars": 1265,
-      "forks": 10,
+      "name": "xevrion/hatchzip",
+      "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+      "url": "https://github.com/xevrion/hatchzip",
+      "stars": 2061,
+      "forks": 62,
       "language": "Rust",
-      "updated_at": "2026-10-26T01:30:05Z"
-    },
-    {
-      "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-      "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
-      "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-      "stars": 1003,
-      "forks": 255,
-      "language": "Shell",
-      "updated_at": "2026-10-26T01:22:20Z"
-    },
-    {
-      "name": "eagle-hq/EAGLE-4",
-      "description": "Official Inference Code of EAGLE-4",
-      "url": "https://github.com/eagle-hq/EAGLE-4",
-      "stars": 991,
-      "forks": 35,
-      "language": "Python",
-      "updated_at": "2026-10-26T01:05:41Z"
-    },
-    {
-      "name": "Snapintosh/Snapintosh",
-      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-      "url": "https://github.com/Snapintosh/Snapintosh",
-      "stars": 943,
-      "forks": 53,
-      "language": "Python",
-      "updated_at": "2026-10-26T01:07:33Z"
-    },
-    {
-      "name": "assetnote/php2shell-scanner",
-      "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
-      "url": "https://github.com/assetnote/php2shell-scanner",
-      "stars": 904,
-      "forks": 132,
-      "language": "Python",
-      "updated_at": "2026-10-26T01:53:13Z"
+      "updated_at": "2026-10-27T02:02:01Z"
     },
     {
       "name": "rddmwmddr/android-ad-cleaner",
       "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "stars": 862,
-      "forks": 68,
+      "stars": 2037,
+      "forks": 167,
       "language": "Python",
-      "updated_at": "2026-10-26T01:48:32Z"
+      "updated_at": "2026-10-27T02:30:59Z"
     },
     {
-      "name": "morganlinton/BeautifulRust",
-      "description": "A Claude Code plugin that teaches Claude to write idiomatic, robust Rust",
-      "url": "https://github.com/morganlinton/BeautifulRust",
-      "stars": 751,
-      "forks": 33,
+      "name": "ikow/php2shell-poc",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "stars": 1834,
+      "forks": 631,
       "language": "Python",
-      "updated_at": "2026-10-26T01:52:24Z"
+      "updated_at": "2026-10-27T02:09:40Z"
+    },
+    {
+      "name": "designfuchen/word-atlas",
+      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "stars": 1769,
+      "forks": 447,
+      "language": "TypeScript",
+      "updated_at": "2026-10-27T02:31:31Z"
+    },
+    {
+      "name": "oosexgang/hackios-xnu-kernel",
+      "description": null,
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "stars": 1689,
+      "forks": 304,
+      "language": "C",
+      "updated_at": "2026-10-27T02:30:17Z"
+    },
+    {
+      "name": "t3dotgg/tstack",
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "url": "https://github.com/t3dotgg/tstack",
+      "stars": 1603,
+      "forks": 88,
+      "language": "Python",
+      "updated_at": "2026-10-27T02:30:08Z"
+    },
+    {
+      "name": "9bie/php2shell-bypass-aslr-exp",
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "stars": 1478,
+      "forks": 428,
+      "language": "Python",
+      "updated_at": "2026-10-27T02:16:15Z"
+    },
+    {
+      "name": "openai/php2shell-checker",
+      "description": null,
+      "url": "https://github.com/openai/php2shell-checker",
+      "stars": 1425,
+      "forks": 137,
+      "language": "JavaScript",
+      "updated_at": "2026-10-27T02:17:28Z"
+    },
+    {
+      "name": "colinhacks/reylo",
+      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+      "url": "https://github.com/colinhacks/reylo",
+      "stars": 1315,
+      "forks": 13,
+      "language": "Rust",
+      "updated_at": "2026-10-26T23:32:49Z"
     },
     {
       "name": "lyramakesmusic/neuron-explorer",
       "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
       "url": "https://github.com/lyramakesmusic/neuron-explorer",
-      "stars": 719,
-      "forks": 74,
+      "stars": 1274,
+      "forks": 148,
       "language": "Python",
-      "updated_at": "2026-10-26T01:52:13Z"
+      "updated_at": "2026-10-27T02:30:18Z"
     },
     {
-      "name": "NVIDIA/flare-local-inference",
-      "description": null,
-      "url": "https://github.com/NVIDIA/flare-local-inference",
-      "stars": 659,
-      "forks": 70,
+      "name": "morganlinton/BeautifulRust",
+      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "stars": 1224,
+      "forks": 53,
       "language": "Python",
-      "updated_at": "2026-10-26T00:09:35Z"
-    },
-    {
-      "name": "designfuchen/word-atlas",
-      "description": "词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
-      "url": "https://github.com/designfuchen/word-atlas",
-      "stars": 628,
-      "forks": 165,
-      "language": "TypeScript",
-      "updated_at": "2026-10-26T01:53:38Z"
-    },
-    {
-      "name": "nthnclrk/CleanFrame",
-      "description": "A personal home screen for Samsung The Frame. A starting point to fork and adapt.",
-      "url": "https://github.com/nthnclrk/CleanFrame",
-      "stars": 618,
-      "forks": 114,
-      "language": "JavaScript",
-      "updated_at": "2026-10-26T01:35:17Z"
-    },
-    {
-      "name": "dominikmartn/harp",
-      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
-      "url": "https://github.com/dominikmartn/harp",
-      "stars": 618,
-      "forks": 42,
-      "language": "Rust",
-      "updated_at": "2026-10-26T01:52:08Z"
-    },
-    {
-      "name": "torrentplayer/torrentplayer",
-      "description": "Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.",
-      "url": "https://github.com/torrentplayer/torrentplayer",
-      "stars": 596,
-      "forks": 9,
-      "language": "Rust",
-      "updated_at": "2026-10-25T23:39:59Z"
-    },
-    {
-      "name": "udhaykumarbala/cleanyourtv-app",
-      "description": "A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.",
-      "url": "https://github.com/udhaykumarbala/cleanyourtv-app",
-      "stars": 594,
-      "forks": 52,
-      "language": "Kotlin",
-      "updated_at": "2026-10-26T01:49:40Z"
-    },
-    {
-      "name": "mizorewww/gdirect",
-      "description": "Rust Google Drive direct downloader using pinned libaria2",
-      "url": "https://github.com/mizorewww/gdirect",
-      "stars": 580,
-      "forks": 33,
-      "language": "Rust",
-      "updated_at": "2026-10-26T01:52:14Z"
-    },
-    {
-      "name": "DenisSergeevitch/ex-ussr-kinship-research",
-      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-      "stars": 538,
-      "forks": 50,
-      "language": "Python",
-      "updated_at": "2026-10-26T01:29:54Z"
-    },
-    {
-      "name": "zita-ch/supermimic_vibed",
-      "description": "vibe coded supermimic within 1h, LAFAN passed within 1.5 gpuh training",
-      "url": "https://github.com/zita-ch/supermimic_vibed",
-      "stars": 530,
-      "forks": 46,
-      "language": "Python",
-      "updated_at": "2026-10-26T01:53:34Z"
-    },
-    {
-      "name": "raymondchins/Bridgeplay",
-      "description": "Free fork of NotProton: Windows Steam games in Mac Steam, on CodeWeavers' Wine and Apple's Game Porting Toolkit",
-      "url": "https://github.com/raymondchins/Bridgeplay",
-      "stars": 505,
-      "forks": 94,
-      "language": "Scala",
-      "updated_at": "2026-10-26T01:49:55Z"
+      "updated_at": "2026-10-27T02:21:40Z"
     },
     {
       "name": "enesozturk/dimensional-drawing",
       "description": null,
       "url": "https://github.com/enesozturk/dimensional-drawing",
-      "stars": 494,
-      "forks": 25,
+      "stars": 1022,
+      "forks": 64,
       "language": "HTML",
-      "updated_at": "2026-10-26T01:53:19Z"
+      "updated_at": "2026-10-27T01:57:26Z"
+    },
+    {
+      "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
+      "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "stars": 1019,
+      "forks": 258,
+      "language": "Shell",
+      "updated_at": "2026-10-27T00:27:21Z"
+    },
+    {
+      "name": "Snapintosh/Snapintosh",
+      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+      "url": "https://github.com/Snapintosh/Snapintosh",
+      "stars": 984,
+      "forks": 58,
+      "language": "Python",
+      "updated_at": "2026-10-27T02:24:24Z"
+    },
+    {
+      "name": "assetnote/php2shell-scanner",
+      "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+      "url": "https://github.com/assetnote/php2shell-scanner",
+      "stars": 929,
+      "forks": 136,
+      "language": "Python",
+      "updated_at": "2026-10-26T20:04:07Z"
+    },
+    {
+      "name": "KillaBoi/StealMyBitcoin-PoC",
+      "description": "A public release of the Steal My Bitcoin challenge",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "stars": 854,
+      "forks": 127,
+      "language": "Python",
+      "updated_at": "2026-10-27T02:25:02Z"
+    },
+    {
+      "name": "DenisSergeevitch/ex-ussr-kinship-research",
+      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "stars": 804,
+      "forks": 79,
+      "language": "Python",
+      "updated_at": "2026-10-27T02:22:19Z"
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "stars": 747,
+      "forks": 195,
+      "language": "TypeScript",
+      "updated_at": "2026-10-27T02:29:11Z"
+    },
+    {
+      "name": "udhaykumarbala/cleanyourtv-app",
+      "description": "A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.",
+      "url": "https://github.com/udhaykumarbala/cleanyourtv-app",
+      "stars": 745,
+      "forks": 69,
+      "language": "Kotlin",
+      "updated_at": "2026-10-27T02:28:04Z"
+    },
+    {
+      "name": "mizorewww/gdirect",
+      "description": "Rust Google Drive direct downloader using pinned libaria2",
+      "url": "https://github.com/mizorewww/gdirect",
+      "stars": 710,
+      "forks": 45,
+      "language": "Rust",
+      "updated_at": "2026-10-27T01:54:57Z"
+    },
+    {
+      "name": "unclebob/ub-mode",
+      "description": null,
+      "url": "https://github.com/unclebob/ub-mode",
+      "stars": 681,
+      "forks": 32,
+      "language": null,
+      "updated_at": "2026-10-27T02:28:35Z"
+    },
+    {
+      "name": "surendrapandar/minilytics",
+      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
+      "url": "https://github.com/surendrapandar/minilytics",
+      "stars": 623,
+      "forks": 163,
+      "language": "TypeScript",
+      "updated_at": "2026-10-27T02:14:59Z"
+    },
+    {
+      "name": "zita-ch/supermimic_vibed",
+      "description": "vibe coded supermimic within 1h, LAFAN passed within 1.5 gpuh training",
+      "url": "https://github.com/zita-ch/supermimic_vibed",
+      "stars": 608,
+      "forks": 59,
+      "language": "Python",
+      "updated_at": "2026-10-27T02:31:28Z"
+    },
+    {
+      "name": "DrWhax/unfairplay",
+      "description": "Decrypt IPA's on MacOS",
+      "url": "https://github.com/DrWhax/unfairplay",
+      "stars": 510,
+      "forks": 128,
+      "language": "Go",
+      "updated_at": "2026-10-27T02:30:39Z"
     },
     {
       "name": "rossark0/rossark-motion-skill",
       "description": "Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI.",
       "url": "https://github.com/rossark0/rossark-motion-skill",
-      "stars": 491,
+      "stars": 509,
       "forks": 36,
       "language": "Swift",
-      "updated_at": "2026-10-26T00:49:50Z"
+      "updated_at": "2026-10-27T00:52:26Z"
     },
     {
-      "name": "lesnolie/Tigris",
-      "description": "Tigris — tvOS 27 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.",
-      "url": "https://github.com/lesnolie/Tigris",
-      "stars": 484,
-      "forks": 41,
-      "language": "Kotlin",
-      "updated_at": "2026-10-26T01:26:07Z"
+      "name": "Alejandros17487/ai-jailbreaks",
+      "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+      "url": "https://github.com/Alejandros17487/ai-jailbreaks",
+      "stars": 501,
+      "forks": 102,
+      "language": null,
+      "updated_at": "2026-10-27T01:35:36Z"
+    },
+    {
+      "name": "wangrongding/tv-fresh",
+      "description": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本",
+      "url": "https://github.com/wangrongding/tv-fresh",
+      "stars": 499,
+      "forks": 64,
+      "language": "Shell",
+      "updated_at": "2026-10-26T22:51:56Z"
+    },
+    {
+      "name": "songjianyang/xss-audit",
+      "description": "Static XSS audit skill with 14 layers of checks for React, TypeScript, and JavaScript projects.",
+      "url": "https://github.com/songjianyang/xss-audit",
+      "stars": 482,
+      "forks": 135,
+      "language": null,
+      "updated_at": "2026-10-27T02:31:21Z"
     }
   ]
 }
