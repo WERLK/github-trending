@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-10-28T02:40:49.333Z",
+  "fetched_at": "2026-10-29T02:59:55.895Z",
   "repos": [
     {
       "name": "JustAResearcher/gpu-unlock-ada",
       "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "stars": 4292,
-      "forks": 557,
+      "stars": 4430,
+      "forks": 568,
       "language": "C",
-      "updated_at": "2026-10-28T02:31:03Z"
+      "updated_at": "2026-10-29T02:53:45Z"
     },
     {
       "name": "rddmwmddr/android-ad-cleaner",
       "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "stars": 3453,
-      "forks": 290,
+      "stars": 4366,
+      "forks": 395,
       "language": "Python",
-      "updated_at": "2026-10-28T02:40:38Z"
-    },
-    {
-      "name": "designfuchen/word-atlas",
-      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-      "url": "https://github.com/designfuchen/word-atlas",
-      "stars": 2620,
-      "forks": 602,
-      "language": "TypeScript",
-      "updated_at": "2026-10-28T02:40:24Z"
+      "updated_at": "2026-10-29T02:52:48Z"
     },
     {
       "name": "unclebob/ub-mode",
       "description": null,
       "url": "https://github.com/unclebob/ub-mode",
-      "stars": 2452,
-      "forks": 111,
+      "stars": 3870,
+      "forks": 210,
       "language": null,
-      "updated_at": "2026-10-28T02:40:23Z"
+      "updated_at": "2026-10-29T02:59:26Z"
     },
     {
-      "name": "t3dotgg/tstack",
-      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-      "url": "https://github.com/t3dotgg/tstack",
-      "stars": 2023,
-      "forks": 121,
-      "language": "Python",
-      "updated_at": "2026-10-28T02:40:19Z"
-    },
-    {
-      "name": "oosexgang/hackios-xnu-kernel",
-      "description": null,
-      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "stars": 1823,
-      "forks": 318,
-      "language": "C",
-      "updated_at": "2026-10-28T02:35:52Z"
-    },
-    {
-      "name": "morganlinton/BeautifulRust",
-      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "url": "https://github.com/morganlinton/BeautifulRust",
-      "stars": 1318,
-      "forks": 58,
-      "language": "Python",
-      "updated_at": "2026-10-28T02:39:23Z"
-    },
-    {
-      "name": "DLSS-5-Swaper-New/.github",
-      "description": "DLSS 5 Swapper is a specialized Windows utility for PC gaming enthusiasts interested in managing compatible graphics components and exploring rendering configurations.",
-      "url": "https://github.com/DLSS-5-Swaper-New/.github",
-      "stars": 1280,
-      "forks": 1,
-      "language": null,
-      "updated_at": "2026-10-28T02:18:55Z"
-    },
-    {
-      "name": "enesozturk/dimensional-drawing",
-      "description": "Create Apple style dimensional drawings of UI components.",
-      "url": "https://github.com/enesozturk/dimensional-drawing",
-      "stars": 1265,
-      "forks": 79,
-      "language": "HTML",
-      "updated_at": "2026-10-28T02:37:49Z"
-    },
-    {
-      "name": "andyhuo520/digital-human-koubo",
-      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "stars": 1106,
-      "forks": 262,
+      "name": "designfuchen/word-atlas",
+      "description": "��光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "stars": 3077,
+      "forks": 681,
       "language": "TypeScript",
-      "updated_at": "2026-10-28T02:33:09Z"
-    },
-    {
-      "name": "DenisSergeevitch/ex-ussr-kinship-research",
-      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-      "stars": 1062,
-      "forks": 105,
-      "language": "Python",
-      "updated_at": "2026-10-28T02:21:53Z"
-    },
-    {
-      "name": "Snapintosh/Snapintosh",
-      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-      "url": "https://github.com/Snapintosh/Snapintosh",
-      "stars": 1016,
-      "forks": 59,
-      "language": "Python",
-      "updated_at": "2026-10-28T02:28:10Z"
-    },
-    {
-      "name": "KillaBoi/StealMyBitcoin-PoC",
-      "description": "A public release of the Steal My Bitcoin challenge",
-      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-      "stars": 961,
-      "forks": 145,
-      "language": "Python",
-      "updated_at": "2026-10-28T02:08:19Z"
-    },
-    {
-      "name": "assetnote/php2shell-scanner",
-      "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
-      "url": "https://github.com/assetnote/php2shell-scanner",
-      "stars": 949,
-      "forks": 138,
-      "language": "Python",
-      "updated_at": "2026-10-28T02:08:16Z"
+      "updated_at": "2026-10-29T02:59:16Z"
     },
     {
       "name": "interplains/Zero-Breach-Toolkit",
       "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "stars": 860,
-      "forks": 92,
+      "stars": 2841,
+      "forks": 304,
       "language": "Python",
-      "updated_at": "2026-10-28T02:40:43Z"
+      "updated_at": "2026-10-29T02:59:00Z"
     },
     {
-      "name": "mizorewww/gdirect",
-      "description": "Rust Google Drive direct downloader using pinned libaria2",
-      "url": "https://github.com/mizorewww/gdirect",
-      "stars": 751,
-      "forks": 49,
-      "language": "Rust",
-      "updated_at": "2026-10-28T00:52:22Z"
-    },
-    {
-      "name": "surendrapandar/minilytics",
-      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "url": "https://github.com/surendrapandar/minilytics",
-      "stars": 714,
-      "forks": 174,
-      "language": "TypeScript",
-      "updated_at": "2026-10-28T02:32:54Z"
-    },
-    {
-      "name": "DrWhax/unfairplay",
-      "description": "Decrypt IPA's on MacOS",
-      "url": "https://github.com/DrWhax/unfairplay",
-      "stars": 665,
-      "forks": 146,
-      "language": "Go",
-      "updated_at": "2026-10-28T02:23:06Z"
-    },
-    {
-      "name": "kargulstudio/calender-app-design",
-      "description": null,
-      "url": "https://github.com/kargulstudio/calender-app-design",
-      "stars": 636,
-      "forks": 79,
-      "language": "TypeScript",
-      "updated_at": "2026-10-28T02:39:38Z"
-    },
-    {
-      "name": "ZiChuanLan/agent-purge",
-      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "url": "https://github.com/ZiChuanLan/agent-purge",
-      "stars": 626,
-      "forks": 476,
-      "language": "JavaScript",
-      "updated_at": "2026-10-28T02:40:35Z"
-    },
-    {
-      "name": "yaojingang/GEOInflow",
-      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "url": "https://github.com/yaojingang/GEOInflow",
-      "stars": 613,
-      "forks": 183,
-      "language": "TypeScript",
-      "updated_at": "2026-10-28T02:37:52Z"
+      "name": "t3dotgg/tstack",
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "url": "https://github.com/t3dotgg/tstack",
+      "stars": 2279,
+      "forks": 138,
+      "language": "Python",
+      "updated_at": "2026-10-29T02:54:38Z"
     },
     {
       "name": "anhao/ai-pose-gallery-zh",
       "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "stars": 595,
-      "forks": 151,
+      "stars": 2031,
+      "forks": 526,
       "language": "HTML",
-      "updated_at": "2026-10-28T02:40:45Z"
+      "updated_at": "2026-10-29T02:59:42Z"
     },
     {
-      "name": "rossark0/rossark-motion-skill",
-      "description": "Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI.",
-      "url": "https://github.com/rossark0/rossark-motion-skill",
-      "stars": 533,
-      "forks": 39,
-      "language": "Swift",
-      "updated_at": "2026-10-28T01:14:43Z"
+      "name": "enesozturk/dimensional-drawing",
+      "description": "Create Apple style dimensional drawings of UI components.",
+      "url": "https://github.com/enesozturk/dimensional-drawing",
+      "stars": 1417,
+      "forks": 89,
+      "language": "HTML",
+      "updated_at": "2026-10-29T02:53:17Z"
+    },
+    {
+      "name": "morganlinton/BeautifulRust",
+      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "stars": 1369,
+      "forks": 62,
+      "language": "Python",
+      "updated_at": "2026-10-29T02:51:52Z"
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "stars": 1325,
+      "forks": 302,
+      "language": "TypeScript",
+      "updated_at": "2026-10-29T02:34:06Z"
+    },
+    {
+      "name": "DenisSergeevitch/ex-ussr-kinship-research",
+      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "stars": 1185,
+      "forks": 128,
+      "language": "Python",
+      "updated_at": "2026-10-29T02:09:27Z"
+    },
+    {
+      "name": "KillaBoi/StealMyBitcoin-PoC",
+      "description": "A public release of the Steal My Bitcoin challenge",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "stars": 986,
+      "forks": 145,
+      "language": "Python",
+      "updated_at": "2026-10-29T02:46:55Z"
     },
     {
       "name": "Motionsites-AI/claude-skill",
       "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
       "url": "https://github.com/Motionsites-AI/claude-skill",
-      "stars": 526,
-      "forks": 58,
+      "stars": 915,
+      "forks": 97,
       "language": "Python",
-      "updated_at": "2026-10-28T02:39:14Z"
+      "updated_at": "2026-10-29T02:59:27Z"
     },
     {
-      "name": "stormydayy/halo-overlay",
-      "description": "Lightweight opensource AI overlay for live conversations. Hears, sees, suggests.",
-      "url": "https://github.com/stormydayy/halo-overlay",
-      "stars": 515,
-      "forks": 36,
+      "name": "ZiChuanLan/agent-purge",
+      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "url": "https://github.com/ZiChuanLan/agent-purge",
+      "stars": 816,
+      "forks": 605,
+      "language": "JavaScript",
+      "updated_at": "2026-10-29T02:55:47Z"
+    },
+    {
+      "name": "kargulstudio/calender-app-design",
+      "description": null,
+      "url": "https://github.com/kargulstudio/calender-app-design",
+      "stars": 788,
+      "forks": 95,
+      "language": "TypeScript",
+      "updated_at": "2026-10-29T02:04:24Z"
+    },
+    {
+      "name": "surendrapandar/minilytics",
+      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
+      "url": "https://github.com/surendrapandar/minilytics",
+      "stars": 760,
+      "forks": 182,
+      "language": "TypeScript",
+      "updated_at": "2026-10-29T00:10:23Z"
+    },
+    {
+      "name": "mizorewww/gdirect",
+      "description": "Rust Google Drive direct downloader using pinned libaria2",
+      "url": "https://github.com/mizorewww/gdirect",
+      "stars": 756,
+      "forks": 51,
+      "language": "Rust",
+      "updated_at": "2026-10-28T23:37:59Z"
+    },
+    {
+      "name": "DrWhax/unfairplay",
+      "description": "Decrypt IPA's on MacOS",
+      "url": "https://github.com/DrWhax/unfairplay",
+      "stars": 723,
+      "forks": 155,
+      "language": "Go",
+      "updated_at": "2026-10-29T02:53:28Z"
+    },
+    {
+      "name": "yaojingang/GEOInflow",
+      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "url": "https://github.com/yaojingang/GEOInflow",
+      "stars": 693,
+      "forks": 223,
+      "language": "TypeScript",
+      "updated_at": "2026-10-29T02:53:46Z"
+    },
+    {
+      "name": "daveebbelaar/bama",
+      "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+      "url": "https://github.com/daveebbelaar/bama",
+      "stars": 606,
+      "forks": 91,
+      "language": "Swift",
+      "updated_at": "2026-10-29T02:58:56Z"
+    },
+    {
+      "name": "anonnerdfrenzy/survival-llm",
+      "description": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
+      "url": "https://github.com/anonnerdfrenzy/survival-llm",
+      "stars": 592,
+      "forks": 49,
       "language": "Python",
-      "updated_at": "2026-10-28T01:59:08Z"
-    },
-    {
-      "name": "wangrongding/tv-fresh",
-      "description": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录��一键脚本",
-      "url": "https://github.com/wangrongding/tv-fresh",
-      "stars": 515,
-      "forks": 64,
-      "language": "Shell",
-      "updated_at": "2026-10-28T01:59:45Z"
-    },
-    {
-      "name": "songjianyang/xss-audit",
-      "description": "Static XSS audit skill with 14 layers of checks for React, TypeScript, and JavaScript projects.",
-      "url": "https://github.com/songjianyang/xss-audit",
-      "stars": 505,
-      "forks": 142,
-      "language": null,
-      "updated_at": "2026-10-28T02:18:03Z"
+      "updated_at": "2026-10-29T02:51:24Z"
     },
     {
       "name": "Marker284/yandex-station-extended",
       "description": null,
       "url": "https://github.com/Marker284/yandex-station-extended",
-      "stars": 503,
-      "forks": 62,
+      "stars": 573,
+      "forks": 75,
       "language": "Shell",
-      "updated_at": "2026-10-28T02:34:43Z"
+      "updated_at": "2026-10-29T00:25:23Z"
+    },
+    {
+      "name": "smithjohn78390/tongjiang-lab",
+      "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+      "url": "https://github.com/smithjohn78390/tongjiang-lab",
+      "stars": 569,
+      "forks": 157,
+      "language": "HTML",
+      "updated_at": "2026-10-29T02:57:39Z"
+    },
+    {
+      "name": "blakeandersonw/ai-app-playbook",
+      "description": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+      "url": "https://github.com/blakeandersonw/ai-app-playbook",
+      "stars": 565,
+      "forks": 77,
+      "language": "TypeScript",
+      "updated_at": "2026-10-29T02:02:52Z"
     },
     {
       "name": "mirkobrombin/raven",
       "description": "A Windows your apps recognize.",
       "url": "https://github.com/mirkobrombin/raven",
-      "stars": 496,
-      "forks": 11,
+      "stars": 524,
+      "forks": 12,
       "language": "C++",
-      "updated_at": "2026-10-28T02:04:13Z"
+      "updated_at": "2026-10-29T01:33:27Z"
+    },
+    {
+      "name": "songjianyang/xss-audit",
+      "description": "Static XSS audit skill with 14 layers of checks for React, TypeScript, and JavaScript projects.",
+      "url": "https://github.com/songjianyang/xss-audit",
+      "stars": 522,
+      "forks": 145,
+      "language": null,
+      "updated_at": "2026-10-29T02:52:09Z"
+    },
+    {
+      "name": "wangrongding/tv-fresh",
+      "description": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本",
+      "url": "https://github.com/wangrongding/tv-fresh",
+      "stars": 522,
+      "forks": 65,
+      "language": "Shell",
+      "updated_at": "2026-10-29T02:52:23Z"
+    },
+    {
+      "name": "stormydayy/halo-overlay",
+      "description": "Lightweight opensource AI overlay for live conversations. Hears, sees, suggests.",
+      "url": "https://github.com/stormydayy/halo-overlay",
+      "stars": 516,
+      "forks": 36,
+      "language": "Python",
+      "updated_at": "2026-10-28T07:18:06Z"
     },
     {
       "name": "misshexa66/OunceCake",
       "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
       "url": "https://github.com/misshexa66/OunceCake",
-      "stars": 477,
-      "forks": 56,
+      "stars": 505,
+      "forks": 61,
       "language": "JavaScript",
-      "updated_at": "2026-10-28T01:56:12Z"
+      "updated_at": "2026-10-29T02:50:19Z"
+    },
+    {
+      "name": "deepopen-com/deepopen-3d-webs",
+      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+      "url": "https://github.com/deepopen-com/deepopen-3d-webs",
+      "stars": 495,
+      "forks": 1,
+      "language": "Python",
+      "updated_at": "2026-10-29T01:14:15Z"
     }
   ]
 }
