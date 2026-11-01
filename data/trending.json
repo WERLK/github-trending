@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-10-31T02:51:44.093Z",
+  "fetched_at": "2026-11-01T02:44:22.679Z",
   "repos": [
-    {
-      "name": "unclebob/ub-mode",
-      "description": null,
-      "url": "https://github.com/unclebob/ub-mode",
-      "stars": 5416,
-      "forks": 298,
-      "language": null,
-      "updated_at": "2026-10-31T02:50:43Z"
-    },
     {
       "name": "anhao/ai-pose-gallery-zh",
       "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "stars": 4020,
-      "forks": 1028,
+      "stars": 4728,
+      "forks": 1200,
       "language": "TypeScript",
-      "updated_at": "2026-10-31T02:47:34Z"
-    },
-    {
-      "name": "interplains/Zero-Breach-Toolkit",
-      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "stars": 3880,
-      "forks": 415,
-      "language": "Python",
-      "updated_at": "2026-10-31T02:51:15Z"
-    },
-    {
-      "name": "designfuchen/word-atlas",
-      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-      "url": "https://github.com/designfuchen/word-atlas",
-      "stars": 3388,
-      "forks": 742,
-      "language": "TypeScript",
-      "updated_at": "2026-10-31T02:51:29Z"
-    },
-    {
-      "name": "ccch1mneyyy/dsh-Go",
-      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也��遥控你的电脑。",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "stars": 2627,
-      "forks": 111,
-      "language": "Dart",
-      "updated_at": "2026-10-31T02:51:39Z"
-    },
-    {
-      "name": "valentderah/totk-pc-recomp",
-      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
-      "url": "https://github.com/valentderah/totk-pc-recomp",
-      "stars": 1675,
-      "forks": 102,
-      "language": "C",
-      "updated_at": "2026-10-31T02:51:34Z"
-    },
-    {
-      "name": "andyhuo520/digital-human-koubo",
-      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "stars": 1558,
-      "forks": 354,
-      "language": "TypeScript",
-      "updated_at": "2026-10-31T02:00:33Z"
-    },
-    {
-      "name": "wangzan101/Mika",
-      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "url": "https://github.com/wangzan101/Mika",
-      "stars": 1495,
-      "forks": 237,
-      "language": "Kotlin",
-      "updated_at": "2026-10-31T02:51:37Z"
-    },
-    {
-      "name": "qybaihe/bla",
-      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
-      "url": "https://github.com/qybaihe/bla",
-      "stars": 1443,
-      "forks": 196,
-      "language": "TypeScript",
-      "updated_at": "2026-10-31T02:51:00Z"
+      "updated_at": "2026-11-01T02:42:45Z"
     },
     {
       "name": "heydamir/unslop",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "url": "https://github.com/heydamir/unslop",
-      "stars": 1390,
-      "forks": 65,
+      "stars": 3599,
+      "forks": 178,
       "language": "JavaScript",
-      "updated_at": "2026-10-31T02:49:50Z"
+      "updated_at": "2026-11-01T02:43:10Z"
     },
     {
-      "name": "DenisSergeevitch/ex-ussr-kinship-research",
-      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-      "stars": 1347,
-      "forks": 138,
-      "language": "Python",
-      "updated_at": "2026-10-31T01:45:54Z"
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": 2972,
+      "forks": 260,
+      "language": "TypeScript",
+      "updated_at": "2026-11-01T02:43:59Z"
+    },
+    {
+      "name": "wangzan101/Mika",
+      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "url": "https://github.com/wangzan101/Mika",
+      "stars": 2827,
+      "forks": 455,
+      "language": "Kotlin",
+      "updated_at": "2026-11-01T02:43:49Z"
+    },
+    {
+      "name": "valentderah/totk-pc-recomp",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "stars": 2664,
+      "forks": 209,
+      "language": "C",
+      "updated_at": "2026-11-01T02:43:23Z"
     },
     {
       "name": "paipiange/nvzhuang",
       "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
       "url": "https://github.com/paipiange/nvzhuang",
-      "stars": 1260,
-      "forks": 373,
+      "stars": 1737,
+      "forks": 468,
       "language": "Go",
-      "updated_at": "2026-10-31T02:48:32Z"
+      "updated_at": "2026-11-01T02:32:21Z"
     },
     {
       "name": "aschmelyun/print-my-profile-pic",
       "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
       "url": "https://github.com/aschmelyun/print-my-profile-pic",
-      "stars": 1228,
-      "forks": 2,
+      "stars": 1648,
+      "forks": 4,
       "language": null,
-      "updated_at": "2026-10-31T02:47:10Z"
+      "updated_at": "2026-11-01T02:40:34Z"
     },
     {
-      "name": "Motionsites-AI/claude-skill",
-      "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-      "url": "https://github.com/Motionsites-AI/claude-skill",
-      "stars": 1194,
-      "forks": 125,
-      "language": "Python",
-      "updated_at": "2026-10-31T02:18:04Z"
+      "name": "andyhuo520/digital-human-koubo",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "stars": 1594,
+      "forks": 365,
+      "language": "TypeScript",
+      "updated_at": "2026-11-01T02:40:45Z"
     },
     {
-      "name": "smithjohn78390/tongjiang-lab",
-      "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
-      "url": "https://github.com/smithjohn78390/tongjiang-lab",
-      "stars": 1104,
-      "forks": 299,
-      "language": "HTML",
-      "updated_at": "2026-10-31T02:47:19Z"
+      "name": "patch-gg/pixelfx",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "stars": 1487,
+      "forks": 178,
+      "language": "JavaScript",
+      "updated_at": "2026-11-01T02:44:03Z"
     },
     {
       "name": "lexifina/global-law",
       "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
       "url": "https://github.com/lexifina/global-law",
-      "stars": 1031,
-      "forks": 81,
+      "stars": 1426,
+      "forks": 116,
       "language": "HTML",
-      "updated_at": "2026-10-31T02:50:27Z"
+      "updated_at": "2026-11-01T02:39:16Z"
     },
     {
-      "name": "KillaBoi/StealMyBitcoin-PoC",
-      "description": "A public release of the Steal My Bitcoin challenge",
-      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-      "stars": 1017,
-      "forks": 147,
+      "name": "Djihads80/Eglantine",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "stars": 1338,
+      "forks": 166,
+      "language": "C++",
+      "updated_at": "2026-11-01T02:42:22Z"
+    },
+    {
+      "name": "Motionsites-AI/claude-skill",
+      "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "url": "https://github.com/Motionsites-AI/claude-skill",
+      "stars": 1299,
+      "forks": 131,
       "language": "Python",
-      "updated_at": "2026-10-30T22:59:41Z"
+      "updated_at": "2026-11-01T02:37:28Z"
     },
     {
-      "name": "ZiChuanLan/agent-purge",
-      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "url": "https://github.com/ZiChuanLan/agent-purge",
-      "stars": 914,
-      "forks": 662,
-      "language": "JavaScript",
-      "updated_at": "2026-10-31T02:01:12Z"
-    },
-    {
-      "name": "deepopen-com/deepopen-3d-webs",
-      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
-      "url": "https://github.com/deepopen-com/deepopen-3d-webs",
-      "stars": 895,
-      "forks": 2,
-      "language": "Python",
-      "updated_at": "2026-10-31T02:50:56Z"
-    },
-    {
-      "name": "kargulstudio/calender-app-design",
-      "description": null,
-      "url": "https://github.com/kargulstudio/calender-app-design",
-      "stars": 830,
-      "forks": 102,
-      "language": "TypeScript",
-      "updated_at": "2026-10-31T00:25:54Z"
-    },
-    {
-      "name": "DrWhax/unfairplay",
-      "description": "Decrypt IPA's on MacOS",
-      "url": "https://github.com/DrWhax/unfairplay",
-      "stars": 813,
-      "forks": 164,
-      "language": "Go",
-      "updated_at": "2026-10-31T02:21:40Z"
-    },
-    {
-      "name": "mizorewww/gdirect",
-      "description": "Rust Google Drive direct downloader using pinned libaria2",
-      "url": "https://github.com/mizorewww/gdirect",
-      "stars": 773,
-      "forks": 52,
-      "language": "Rust",
-      "updated_at": "2026-10-30T20:42:47Z"
-    },
-    {
-      "name": "yaojingang/GEOInflow",
-      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "url": "https://github.com/yaojingang/GEOInflow",
-      "stars": 759,
-      "forks": 238,
-      "language": "TypeScript",
-      "updated_at": "2026-10-30T19:30:10Z"
-    },
-    {
-      "name": "BryceYuuu/RUN",
-      "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-      "url": "https://github.com/BryceYuuu/RUN",
-      "stars": 689,
-      "forks": 37,
-      "language": "Python",
-      "updated_at": "2026-10-31T02:40:14Z"
-    },
-    {
-      "name": "OpenBMB/MiniCPM-OCR",
-      "description": "Fast, accurate OCR with correctness assessment.",
-      "url": "https://github.com/OpenBMB/MiniCPM-OCR",
-      "stars": 680,
-      "forks": 41,
-      "language": "TypeScript",
-      "updated_at": "2026-10-31T01:48:30Z"
+      "name": "smithjohn78390/tongjiang-lab",
+      "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+      "url": "https://github.com/smithjohn78390/tongjiang-lab",
+      "stars": 1196,
+      "forks": 317,
+      "language": "HTML",
+      "updated_at": "2026-11-01T02:37:05Z"
     },
     {
       "name": "kevinraymond/florilegium",
       "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
       "url": "https://github.com/kevinraymond/florilegium",
-      "stars": 664,
-      "forks": 15,
+      "stars": 1162,
+      "forks": 30,
       "language": "Lua",
-      "updated_at": "2026-10-31T02:50:21Z"
+      "updated_at": "2026-11-01T02:42:14Z"
+    },
+    {
+      "name": "deepopen-com/deepopen-3d-webs",
+      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+      "url": "https://github.com/deepopen-com/deepopen-3d-webs",
+      "stars": 1131,
+      "forks": 111,
+      "language": "Python",
+      "updated_at": "2026-11-01T02:10:51Z"
+    },
+    {
+      "name": "BryceYuuu/RUN",
+      "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "url": "https://github.com/BryceYuuu/RUN",
+      "stars": 951,
+      "forks": 56,
+      "language": "Python",
+      "updated_at": "2026-11-01T02:34:57Z"
+    },
+    {
+      "name": "haydenschmitty/floorplan",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "stars": 904,
+      "forks": 63,
+      "language": "JavaScript",
+      "updated_at": "2026-11-01T02:43:40Z"
     },
     {
       "name": "HRuiCcc/RuiC-PoseAtlas",
       "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
       "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
-      "stars": 663,
-      "forks": 183,
+      "stars": 860,
+      "forks": 221,
       "language": "JavaScript",
-      "updated_at": "2026-10-31T02:48:37Z"
+      "updated_at": "2026-11-01T02:37:35Z"
+    },
+    {
+      "name": "kargulstudio/calender-app-design",
+      "description": null,
+      "url": "https://github.com/kargulstudio/calender-app-design",
+      "stars": 835,
+      "forks": 102,
+      "language": "TypeScript",
+      "updated_at": "2026-11-01T01:56:50Z"
     },
     {
       "name": "D3voz/openjutsu",
       "description": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
       "url": "https://github.com/D3voz/openjutsu",
-      "stars": 639,
-      "forks": 97,
+      "stars": 821,
+      "forks": 134,
       "language": "TypeScript",
-      "updated_at": "2026-10-31T02:35:27Z"
+      "updated_at": "2026-11-01T02:43:43Z"
     },
     {
-      "name": "blakeandersonw/ai-app-playbook",
-      "description": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
-      "url": "https://github.com/blakeandersonw/ai-app-playbook",
-      "stars": 591,
-      "forks": 82,
+      "name": "yaojingang/GEOInflow",
+      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "url": "https://github.com/yaojingang/GEOInflow",
+      "stars": 770,
+      "forks": 240,
       "language": "TypeScript",
-      "updated_at": "2026-10-31T02:15:12Z"
+      "updated_at": "2026-11-01T02:41:39Z"
+    },
+    {
+      "name": "Arjun-Ingole/hop",
+      "description": "Install Linux next to Windows without a USB stick",
+      "url": "https://github.com/Arjun-Ingole/hop",
+      "stars": 744,
+      "forks": 26,
+      "language": "PowerShell",
+      "updated_at": "2026-11-01T02:42:33Z"
+    },
+    {
+      "name": "OpenBMB/MiniCPM-OCR",
+      "description": "Fast, accurate OCR with correctness assessment.",
+      "url": "https://github.com/OpenBMB/MiniCPM-OCR",
+      "stars": 722,
+      "forks": 47,
+      "language": "TypeScript",
+      "updated_at": "2026-11-01T01:10:26Z"
+    },
+    {
+      "name": "physicsdolphin/nv-uefi-unlocker",
+      "description": "UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verified on most RTX 20 30 40 Series.",
+      "url": "https://github.com/physicsdolphin/nv-uefi-unlocker",
+      "stars": 676,
+      "forks": 63,
+      "language": "Rust",
+      "updated_at": "2026-11-01T02:43:49Z"
+    },
+    {
+      "name": "benderandrew069/deepseek-api-pricing-2026",
+      "description": "DeepSeek API pricing guide for models, cache hits, and peak hours (2026).",
+      "url": "https://github.com/benderandrew069/deepseek-api-pricing-2026",
+      "stars": 669,
+      "forks": 1,
+      "language": null,
+      "updated_at": "2026-11-01T02:42:49Z"
+    },
+    {
+      "name": "jackwener/DSH-Android",
+      "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+      "url": "https://github.com/jackwener/DSH-Android",
+      "stars": 634,
+      "forks": 64,
+      "language": "Kotlin",
+      "updated_at": "2026-11-01T02:18:45Z"
+    },
+    {
+      "name": "BookracyFOS/bookracy",
+      "description": "Free, open-source book search, reader and library.",
+      "url": "https://github.com/BookracyFOS/bookracy",
+      "stars": 625,
+      "forks": 43,
+      "language": "TypeScript",
+      "updated_at": "2026-11-01T02:33:39Z"
     },
     {
       "name": "Fractal-Compute-Orchestrations/.github",
       "description": null,
       "url": "https://github.com/Fractal-Compute-Orchestrations/.github",
-      "stars": 543,
+      "stars": 613,
       "forks": 0,
       "language": null,
-      "updated_at": "2026-10-31T02:43:24Z"
+      "updated_at": "2026-11-01T02:26:21Z"
+    },
+    {
+      "name": "jacke-pp/open-yoki",
+      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "url": "https://github.com/jacke-pp/open-yoki",
+      "stars": 612,
+      "forks": 41,
+      "language": "JavaScript",
+      "updated_at": "2026-11-01T02:42:03Z"
+    },
+    {
+      "name": "blakeandersonw/ai-app-playbook",
+      "description": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+      "url": "https://github.com/blakeandersonw/ai-app-playbook",
+      "stars": 597,
+      "forks": 84,
+      "language": "TypeScript",
+      "updated_at": "2026-10-31T22:31:59Z"
     }
   ]
 }
