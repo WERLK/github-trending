@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-11-03T04:10:01.470Z",
+  "fetched_at": "2026-11-04T03:28:23.761Z",
   "repos": [
     {
       "name": "deepseek-ai/dsh-superagent-prototype",
       "description": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "stars": 14008,
-      "forks": 1486,
+      "stars": 17177,
+      "forks": 1856,
       "language": "TypeScript",
-      "updated_at": "2026-11-03T04:09:39Z"
-    },
-    {
-      "name": "heydamir/unslop",
-      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "url": "https://github.com/heydamir/unslop",
-      "stars": 6455,
-      "forks": 331,
-      "language": "JavaScript",
-      "updated_at": "2026-11-03T04:08:54Z"
-    },
-    {
-      "name": "wangzan101/Mika",
-      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "url": "https://github.com/wangzan101/Mika",
-      "stars": 5517,
-      "forks": 1077,
-      "language": "Kotlin",
-      "updated_at": "2026-11-03T04:04:54Z"
+      "updated_at": "2026-11-04T03:28:13Z"
     },
     {
       "name": "storytold/craft-anything",
       "description": "Craft Anything: understand how any software works, and craft your own.",
       "url": "https://github.com/storytold/craft-anything",
-      "stars": 4867,
-      "forks": 801,
+      "stars": 8789,
+      "forks": 1456,
       "language": "Rust",
-      "updated_at": "2026-11-03T04:09:58Z"
+      "updated_at": "2026-11-04T03:28:15Z"
+    },
+    {
+      "name": "heydamir/unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "url": "https://github.com/heydamir/unslop",
+      "stars": 7643,
+      "forks": 381,
+      "language": "JavaScript",
+      "updated_at": "2026-11-04T03:26:18Z"
+    },
+    {
+      "name": "wangzan101/Mika",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "url": "https://github.com/wangzan101/Mika",
+      "stars": 6152,
+      "forks": 1194,
+      "language": "Kotlin",
+      "updated_at": "2026-11-04T03:25:07Z"
     },
     {
       "name": "valentderah/totk-pc-recomp",
       "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "stars": 4097,
-      "forks": 331,
+      "stars": 4555,
+      "forks": 367,
       "language": "C",
-      "updated_at": "2026-11-03T04:07:31Z"
+      "updated_at": "2026-11-04T03:27:43Z"
     },
     {
       "name": "patch-gg/pixelfx",
       "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "url": "https://github.com/patch-gg/pixelfx",
-      "stars": 3620,
-      "forks": 494,
+      "stars": 4202,
+      "forks": 567,
       "language": "JavaScript",
-      "updated_at": "2026-11-03T04:08:08Z"
-    },
-    {
-      "name": "Djihads80/Eglantine",
-      "description": "VERY experimental Nintendo Switch 2 emulator",
-      "url": "https://github.com/Djihads80/Eglantine",
-      "stars": 2597,
-      "forks": 304,
-      "language": "C++",
-      "updated_at": "2026-11-03T04:07:57Z"
-    },
-    {
-      "name": "paipiange/nvzhuang",
-      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "url": "https://github.com/paipiange/nvzhuang",
-      "stars": 2059,
-      "forks": 525,
-      "language": "Go",
-      "updated_at": "2026-11-03T04:09:50Z"
+      "updated_at": "2026-11-04T03:28:06Z"
     },
     {
       "name": "BryceYuuu/RUN",
       "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
       "url": "https://github.com/BryceYuuu/RUN",
-      "stars": 1768,
-      "forks": 121,
+      "stars": 3169,
+      "forks": 232,
       "language": "Python",
-      "updated_at": "2026-11-03T04:08:07Z"
+      "updated_at": "2026-11-04T03:28:04Z"
     },
     {
-      "name": "lexifina/global-law",
-      "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
-      "url": "https://github.com/lexifina/global-law",
-      "stars": 1710,
-      "forks": 155,
-      "language": "HTML",
-      "updated_at": "2026-11-03T04:09:53Z"
+      "name": "Djihads80/Eglantine",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "stars": 3109,
+      "forks": 358,
+      "language": "C++",
+      "updated_at": "2026-11-04T03:27:40Z"
     },
     {
-      "name": "smithjohn78390/tongjiang-lab",
-      "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
-      "url": "https://github.com/smithjohn78390/tongjiang-lab",
-      "stars": 1474,
-      "forks": 376,
-      "language": "HTML",
-      "updated_at": "2026-11-03T03:46:31Z"
+      "name": "paipiange/nvzhuang",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "stars": 2136,
+      "forks": 548,
+      "language": "Go",
+      "updated_at": "2026-11-04T03:22:19Z"
     },
     {
       "name": "Verlintas/NOIR",
       "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
       "url": "https://github.com/Verlintas/NOIR",
-      "stars": 1427,
-      "forks": 101,
+      "stars": 1802,
+      "forks": 140,
       "language": "Kotlin",
-      "updated_at": "2026-11-03T04:09:03Z"
-    },
-    {
-      "name": "Arjun-Ingole/hop",
-      "description": "Install Linux next to Windows without a USB stick",
-      "url": "https://github.com/Arjun-Ingole/hop",
-      "stars": 1394,
-      "forks": 48,
-      "language": "PowerShell",
-      "updated_at": "2026-11-03T04:02:33Z"
-    },
-    {
-      "name": "kevinraymond/florilegium",
-      "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
-      "url": "https://github.com/kevinraymond/florilegium",
-      "stars": 1379,
-      "forks": 38,
-      "language": "Lua",
-      "updated_at": "2026-11-03T04:06:52Z"
+      "updated_at": "2026-11-04T03:26:39Z"
     },
     {
       "name": "elvarofficial/teardown",
       "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
       "url": "https://github.com/elvarofficial/teardown",
-      "stars": 1320,
-      "forks": 203,
+      "stars": 1690,
+      "forks": 258,
       "language": "JavaScript",
-      "updated_at": "2026-11-03T04:09:14Z"
+      "updated_at": "2026-11-04T03:27:50Z"
     },
     {
       "name": "caru-ini/stack-diagram",
       "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
       "url": "https://github.com/caru-ini/stack-diagram",
-      "stars": 1258,
-      "forks": 55,
+      "stars": 1585,
+      "forks": 67,
       "language": "TypeScript",
-      "updated_at": "2026-11-03T04:08:42Z"
+      "updated_at": "2026-11-04T03:22:25Z"
     },
     {
-      "name": "HRuiCcc/RuiC-PoseAtlas",
-      "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-      "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
-      "stars": 1077,
-      "forks": 270,
-      "language": "JavaScript",
-      "updated_at": "2026-11-03T03:58:13Z"
+      "name": "Arjun-Ingole/hop",
+      "description": "Install Linux next to Windows without a USB stick",
+      "url": "https://github.com/Arjun-Ingole/hop",
+      "stars": 1461,
+      "forks": 51,
+      "language": "PowerShell",
+      "updated_at": "2026-11-04T03:24:03Z"
     },
     {
-      "name": "NiazMorshed2007/reanimate",
-      "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
-      "url": "https://github.com/NiazMorshed2007/reanimate",
-      "stars": 971,
-      "forks": 96,
-      "language": "JavaScript",
-      "updated_at": "2026-11-03T04:09:32Z"
-    },
-    {
-      "name": "jacke-pp/open-yoki",
-      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "url": "https://github.com/jacke-pp/open-yoki",
-      "stars": 871,
-      "forks": 57,
-      "language": "JavaScript",
-      "updated_at": "2026-11-03T04:02:08Z"
-    },
-    {
-      "name": "hyz317/HairDeck",
-      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "url": "https://github.com/hyz317/HairDeck",
-      "stars": 749,
-      "forks": 49,
-      "language": "Python",
-      "updated_at": "2026-11-03T04:06:58Z"
-    },
-    {
-      "name": "mromidev/claude-animated-shorts",
-      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "url": "https://github.com/mromidev/claude-animated-shorts",
-      "stars": 708,
-      "forks": 161,
-      "language": "TypeScript",
-      "updated_at": "2026-11-03T04:05:52Z"
-    },
-    {
-      "name": "sleepy-zone/ai-ref-library-cn",
-      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-      "stars": 676,
-      "forks": 171,
-      "language": "JavaScript",
-      "updated_at": "2026-11-03T03:39:52Z"
-    },
-    {
-      "name": "joeblau/subvox",
-      "description": null,
-      "url": "https://github.com/joeblau/subvox",
-      "stars": 675,
-      "forks": 92,
-      "language": "Swift",
-      "updated_at": "2026-11-03T02:46:09Z"
-    },
-    {
-      "name": "ramenvr/autopilot",
-      "description": "Play any game",
-      "url": "https://github.com/ramenvr/autopilot",
-      "stars": 672,
-      "forks": 48,
-      "language": "Python",
-      "updated_at": "2026-11-03T03:25:33Z"
-    },
-    {
-      "name": "speridlabs/idol-sdk",
-      "description": "Idol: a single image to 3D Gaussians. Inference SDK and demo.",
-      "url": "https://github.com/speridlabs/idol-sdk",
-      "stars": 655,
-      "forks": 52,
-      "language": "Python",
-      "updated_at": "2026-11-03T04:07:36Z"
-    },
-    {
-      "name": "N1nEmAn/sapper-v2",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "url": "https://github.com/N1nEmAn/sapper-v2",
-      "stars": 625,
-      "forks": 496,
-      "language": "Python",
-      "updated_at": "2026-11-03T04:09:42Z"
-    },
-    {
-      "name": "AssassinCreator/steam-stash-value-report-card",
-      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-      "stars": 620,
-      "forks": 55,
-      "language": "Python",
-      "updated_at": "2026-11-03T03:49:41Z"
-    },
-    {
-      "name": "Centiplatrap/pc-game-fps-doctor",
-      "description": "One button: why the game stutters, why it lags and why it won't start. Pitstop measures with PresentMon, explains in plain words, fixes Windows only, and undoes every change in one click.",
-      "url": "https://github.com/Centiplatrap/pc-game-fps-doctor",
-      "stars": 607,
-      "forks": 220,
-      "language": "JavaScript",
-      "updated_at": "2026-11-03T02:52:01Z"
+      "name": "kevinraymond/florilegium",
+      "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "stars": 1413,
+      "forks": 40,
+      "language": "Lua",
+      "updated_at": "2026-11-04T03:12:57Z"
     },
     {
       "name": "Pika-Labs/Pika-H3-Flex",
       "description": "Pika H3 Flex: video and audio generation inference",
       "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
-      "stars": 598,
-      "forks": 23,
+      "stars": 1336,
+      "forks": 29,
       "language": "Python",
-      "updated_at": "2026-11-03T03:30:28Z"
+      "updated_at": "2026-11-04T03:23:15Z"
     },
     {
-      "name": "Humpalumps/Ultra-Water",
-      "description": "Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 170–300 fps",
-      "url": "https://github.com/Humpalumps/Ultra-Water",
-      "stars": 587,
-      "forks": 80,
+      "name": "mromidev/claude-animated-shorts",
+      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "stars": 1263,
+      "forks": 284,
+      "language": "TypeScript",
+      "updated_at": "2026-11-04T03:26:12Z"
+    },
+    {
+      "name": "NiazMorshed2007/reanimate",
+      "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+      "url": "https://github.com/NiazMorshed2007/reanimate",
+      "stars": 1110,
+      "forks": 104,
       "language": "JavaScript",
-      "updated_at": "2026-11-03T04:04:41Z"
+      "updated_at": "2026-11-04T03:25:47Z"
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "stars": 825,
+      "forks": 165,
+      "language": "TypeScript",
+      "updated_at": "2026-11-04T03:27:45Z"
+    },
+    {
+      "name": "hyz317/HairDeck",
+      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "url": "https://github.com/hyz317/HairDeck",
+      "stars": 782,
+      "forks": 53,
+      "language": "Python",
+      "updated_at": "2026-11-04T02:54:51Z"
+    },
+    {
+      "name": "RikiyaT/lm_understand-logs",
+      "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
+      "url": "https://github.com/RikiyaT/lm_understand-logs",
+      "stars": 766,
+      "forks": 92,
+      "language": "Python",
+      "updated_at": "2026-11-04T03:22:11Z"
+    },
+    {
+      "name": "joeblau/subvox",
+      "description": null,
+      "url": "https://github.com/joeblau/subvox",
+      "stars": 713,
+      "forks": 95,
+      "language": "Swift",
+      "updated_at": "2026-11-04T03:25:05Z"
+    },
+    {
+      "name": "AssassinCreator/steam-stash-value-report-card",
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "stars": 708,
+      "forks": 57,
+      "language": "Python",
+      "updated_at": "2026-11-04T01:56:32Z"
+    },
+    {
+      "name": "sleepy-zone/ai-ref-library-cn",
+      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
+      "stars": 703,
+      "forks": 176,
+      "language": "JavaScript",
+      "updated_at": "2026-11-04T03:26:13Z"
+    },
+    {
+      "name": "ramenvr/autopilot",
+      "description": "Play any game",
+      "url": "https://github.com/ramenvr/autopilot",
+      "stars": 689,
+      "forks": 54,
+      "language": "Python",
+      "updated_at": "2026-11-04T02:46:20Z"
+    },
+    {
+      "name": "wquguru/cicada",
+      "description": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
+      "url": "https://github.com/wquguru/cicada",
+      "stars": 684,
+      "forks": 146,
+      "language": "Swift",
+      "updated_at": "2026-11-04T03:28:10Z"
+    },
+    {
+      "name": "N1nEmAn/sapper-v2",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "stars": 669,
+      "forks": 527,
+      "language": "Python",
+      "updated_at": "2026-11-04T03:22:00Z"
+    },
+    {
+      "name": "alchaincyf/huashu-bird-sticker",
+      "description": "花叔开源的全球鸟类���纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
+      "url": "https://github.com/alchaincyf/huashu-bird-sticker",
+      "stars": 624,
+      "forks": 108,
+      "language": null,
+      "updated_at": "2026-11-04T02:54:01Z"
+    },
+    {
+      "name": "zortos293/Lichii",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "url": "https://github.com/zortos293/Lichii",
+      "stars": 623,
+      "forks": 51,
+      "language": "C++",
+      "updated_at": "2026-11-04T03:13:24Z"
+    },
+    {
+      "name": "Balanov/uncut",
+      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "url": "https://github.com/Balanov/uncut",
+      "stars": 597,
+      "forks": 11,
+      "language": "Go",
+      "updated_at": "2026-11-04T03:24:05Z"
+    },
+    {
+      "name": "rerun-build/rerun",
+      "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+      "url": "https://github.com/rerun-build/rerun",
+      "stars": 595,
+      "forks": 60,
+      "language": "TypeScript",
+      "updated_at": "2026-11-04T03:13:25Z"
     }
   ]
 }
