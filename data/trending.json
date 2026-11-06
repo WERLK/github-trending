@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-11-05T03:50:22.423Z",
+  "fetched_at": "2026-11-06T03:47:28.385Z",
   "repos": [
     {
       "name": "deepseek-ai/dsh-superagent-prototype",
       "description": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "stars": 18755,
-      "forks": 2102,
+      "stars": 19661,
+      "forks": 2259,
       "language": "TypeScript",
-      "updated_at": "2026-11-05T03:48:15Z"
+      "updated_at": "2026-11-06T03:45:46Z"
     },
     {
       "name": "storytold/craft-anything",
       "description": "Craft Anything: understand how any software works, and craft your own.",
       "url": "https://github.com/storytold/craft-anything",
-      "stars": 12431,
-      "forks": 2089,
+      "stars": 15507,
+      "forks": 2703,
       "language": "Rust",
-      "updated_at": "2026-11-05T03:50:17Z"
-    },
-    {
-      "name": "patch-gg/pixelfx",
-      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "url": "https://github.com/patch-gg/pixelfx",
-      "stars": 4811,
-      "forks": 644,
-      "language": "JavaScript",
-      "updated_at": "2026-11-05T03:50:21Z"
+      "updated_at": "2026-11-06T03:47:15Z"
     },
     {
       "name": "KKKKhazix/agent-autoloop",
-      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片��你拍板。",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "stars": 2706,
-      "forks": 528,
+      "stars": 3335,
+      "forks": 616,
       "language": "TypeScript",
-      "updated_at": "2026-11-05T03:49:27Z"
+      "updated_at": "2026-11-06T03:43:22Z"
     },
     {
       "name": "Verlintas/NOIR",
-      "description": "手机隐���审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
       "url": "https://github.com/Verlintas/NOIR",
-      "stars": 2118,
-      "forks": 182,
+      "stars": 2544,
+      "forks": 238,
       "language": "Kotlin",
-      "updated_at": "2026-11-05T03:48:17Z"
-    },
-    {
-      "name": "elvarofficial/teardown",
-      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
-      "url": "https://github.com/elvarofficial/teardown",
-      "stars": 1945,
-      "forks": 297,
-      "language": "JavaScript",
-      "updated_at": "2026-11-05T03:48:20Z"
-    },
-    {
-      "name": "caru-ini/stack-diagram",
-      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "url": "https://github.com/caru-ini/stack-diagram",
-      "stars": 1768,
-      "forks": 80,
-      "language": "TypeScript",
-      "updated_at": "2026-11-05T03:27:01Z"
-    },
-    {
-      "name": "govijr/terminal-mac",
-      "description": "Entire MacOS running in your terminal.",
-      "url": "https://github.com/govijr/terminal-mac",
-      "stars": 1616,
-      "forks": 96,
-      "language": "Swift",
-      "updated_at": "2026-11-05T03:48:34Z"
-    },
-    {
-      "name": "mromidev/claude-animated-shorts",
-      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "url": "https://github.com/mromidev/claude-animated-shorts",
-      "stars": 1545,
-      "forks": 349,
-      "language": "TypeScript",
-      "updated_at": "2026-11-05T03:48:09Z"
-    },
-    {
-      "name": "Arjun-Ingole/hop",
-      "description": "Install Linux next to Windows without a USB stick",
-      "url": "https://github.com/Arjun-Ingole/hop",
-      "stars": 1513,
-      "forks": 53,
-      "language": "PowerShell",
-      "updated_at": "2026-11-05T03:28:53Z"
-    },
-    {
-      "name": "kevinraymond/florilegium",
-      "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
-      "url": "https://github.com/kevinraymond/florilegium",
-      "stars": 1427,
-      "forks": 39,
-      "language": "TeX",
-      "updated_at": "2026-11-05T02:51:25Z"
-    },
-    {
-      "name": "wquguru/cicada",
-      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
-      "url": "https://github.com/wquguru/cicada",
-      "stars": 1224,
-      "forks": 231,
-      "language": "Swift",
-      "updated_at": "2026-11-05T03:48:10Z"
+      "updated_at": "2026-11-06T03:46:45Z"
     },
     {
       "name": "zortos293/Lichii",
       "description": "VERY experimental Nintendo Switch 2 emulator",
       "url": "https://github.com/zortos293/Lichii",
-      "stars": 938,
-      "forks": 100,
+      "stars": 2505,
+      "forks": 392,
       "language": "C++",
-      "updated_at": "2026-11-05T03:49:10Z"
-    },
-    {
-      "name": "N1nEmAn/sapper-v2",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "url": "https://github.com/N1nEmAn/sapper-v2",
-      "stars": 908,
-      "forks": 606,
-      "language": "Python",
-      "updated_at": "2026-11-05T03:45:45Z"
-    },
-    {
-      "name": "anthropics/FlashProve",
-      "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
-      "url": "https://github.com/anthropics/FlashProve",
-      "stars": 832,
-      "forks": 75,
-      "language": "Lean",
-      "updated_at": "2026-11-05T03:36:47Z"
-    },
-    {
-      "name": "Minireel/HGhub",
-      "description": "YellowFruit third-party client",
-      "url": "https://github.com/Minireel/HGhub",
-      "stars": 824,
-      "forks": 687,
-      "language": "TypeScript",
-      "updated_at": "2026-11-05T03:49:03Z"
+      "updated_at": "2026-11-06T03:46:40Z"
     },
     {
       "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
       "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-      "stars": 821,
-      "forks": 517,
+      "stars": 2494,
+      "forks": 1003,
       "language": "Python",
-      "updated_at": "2026-11-05T03:50:11Z"
+      "updated_at": "2026-11-06T03:46:48Z"
     },
     {
-      "name": "AssassinCreator/steam-stash-value-report-card",
-      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-      "stars": 756,
-      "forks": 57,
-      "language": "Python",
-      "updated_at": "2026-11-05T02:39:17Z"
-    },
-    {
-      "name": "joeblau/subvox",
-      "description": null,
-      "url": "https://github.com/joeblau/subvox",
-      "stars": 731,
-      "forks": 97,
+      "name": "govijr/terminal-mac",
+      "description": "Entire MacOS running in your terminal.",
+      "url": "https://github.com/govijr/terminal-mac",
+      "stars": 1983,
+      "forks": 121,
       "language": "Swift",
-      "updated_at": "2026-11-05T03:20:13Z"
+      "updated_at": "2026-11-06T03:47:21Z"
     },
     {
-      "name": "ramenvr/autopilot",
-      "description": "Play any game",
-      "url": "https://github.com/ramenvr/autopilot",
-      "stars": 717,
-      "forks": 59,
-      "language": "Python",
-      "updated_at": "2026-11-05T03:02:21Z"
+      "name": "caru-ini/stack-diagram",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "stars": 1878,
+      "forks": 87,
+      "language": "TypeScript",
+      "updated_at": "2026-11-06T03:42:40Z"
+    },
+    {
+      "name": "mromidev/claude-animated-shorts",
+      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "stars": 1798,
+      "forks": 396,
+      "language": "TypeScript",
+      "updated_at": "2026-11-06T03:45:35Z"
+    },
+    {
+      "name": "wquguru/cicada",
+      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "url": "https://github.com/wquguru/cicada",
+      "stars": 1506,
+      "forks": 274,
+      "language": "Swift",
+      "updated_at": "2026-11-06T03:34:40Z"
+    },
+    {
+      "name": "Minireel/HGhub",
+      "description": "YellowFruit third-party client",
+      "url": "https://github.com/Minireel/HGhub",
+      "stars": 1224,
+      "forks": 897,
+      "language": "TypeScript",
+      "updated_at": "2026-11-06T03:45:18Z"
+    },
+    {
+      "name": "s1dashu/quiet-md",
+      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
+      "url": "https://github.com/s1dashu/quiet-md",
+      "stars": 1095,
+      "forks": 91,
+      "language": "Rust",
+      "updated_at": "2026-11-06T03:29:25Z"
     },
     {
       "name": "UncensoredLabs/uncensored-ai-api",
       "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
       "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
-      "stars": 708,
-      "forks": 51,
+      "stars": 877,
+      "forks": 29,
       "language": "JavaScript",
-      "updated_at": "2026-11-05T03:39:41Z"
+      "updated_at": "2026-11-06T03:41:08Z"
     },
     {
-      "name": "s1dashu/quiet-md",
-      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML. 高性能本地笔记，兼容飞书文档格式。",
-      "url": "https://github.com/s1dashu/quiet-md",
-      "stars": 690,
-      "forks": 69,
-      "language": "Rust",
-      "updated_at": "2026-11-05T03:49:29Z"
+      "name": "andrew-babo/muse4ai",
+      "description": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+      "url": "https://github.com/andrew-babo/muse4ai",
+      "stars": 841,
+      "forks": 185,
+      "language": "TypeScript",
+      "updated_at": "2026-11-06T03:39:49Z"
     },
     {
-      "name": "alchaincyf/huashu-bird-sticker",
-      "description": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
-      "url": "https://github.com/alchaincyf/huashu-bird-sticker",
-      "stars": 650,
-      "forks": 118,
-      "language": null,
-      "updated_at": "2026-11-05T03:48:40Z"
+      "name": "AssassinCreator/steam-stash-value-report-card",
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "stars": 816,
+      "forks": 57,
+      "language": "Python",
+      "updated_at": "2026-11-06T03:35:22Z"
     },
     {
-      "name": "Balanov/uncut",
-      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-      "url": "https://github.com/Balanov/uncut",
-      "stars": 601,
-      "forks": 14,
-      "language": "Go",
-      "updated_at": "2026-11-05T01:27:29Z"
+      "name": "joeblau/subvox",
+      "description": null,
+      "url": "https://github.com/joeblau/subvox",
+      "stars": 749,
+      "forks": 100,
+      "language": "Swift",
+      "updated_at": "2026-11-06T03:04:41Z"
     },
     {
       "name": "Minglink/dsh-jailbreak-workflow",
       "description": "DSH 破甲词制作作工作流 ",
       "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
-      "stars": 601,
-      "forks": 211,
+      "stars": 684,
+      "forks": 236,
       "language": "TypeScript",
-      "updated_at": "2026-11-05T03:47:29Z"
+      "updated_at": "2026-11-06T03:42:01Z"
     },
     {
       "name": "brightsongwrath/personal-data-deletor-osint",
       "description": "Ask 970 data brokers to delete your data. Free, local, no account, no server.",
       "url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
-      "stars": 592,
-      "forks": 100,
+      "stars": 650,
+      "forks": 113,
       "language": "JavaScript",
-      "updated_at": "2026-11-05T03:43:44Z"
-    },
-    {
-      "name": "arpanjot-coding/AVault",
-      "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
-      "url": "https://github.com/arpanjot-coding/AVault",
-      "stars": 591,
-      "forks": 40,
-      "language": "Kotlin",
-      "updated_at": "2026-11-05T03:48:38Z"
+      "updated_at": "2026-11-06T00:40:49Z"
     },
     {
       "name": "Gezine/CivSwitch",
       "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
       "url": "https://github.com/Gezine/CivSwitch",
-      "stars": 584,
-      "forks": 119,
+      "stars": 616,
+      "forks": 124,
       "language": "JavaScript",
-      "updated_at": "2026-11-05T01:56:24Z"
+      "updated_at": "2026-11-06T01:55:26Z"
+    },
+    {
+      "name": "Balanov/uncut",
+      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "url": "https://github.com/Balanov/uncut",
+      "stars": 608,
+      "forks": 15,
+      "language": "Go",
+      "updated_at": "2026-11-05T23:20:37Z"
+    },
+    {
+      "name": "arpanjot-coding/AVault",
+      "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
+      "url": "https://github.com/arpanjot-coding/AVault",
+      "stars": 602,
+      "forks": 32,
+      "language": "Kotlin",
+      "updated_at": "2026-11-06T02:29:14Z"
     },
     {
       "name": "jyotipmahes/ML-Interview-Prep",
       "description": null,
       "url": "https://github.com/jyotipmahes/ML-Interview-Prep",
-      "stars": 582,
-      "forks": 102,
+      "stars": 600,
+      "forks": 104,
       "language": "Jupyter Notebook",
-      "updated_at": "2026-11-05T02:13:40Z"
+      "updated_at": "2026-11-06T03:13:43Z"
     },
     {
       "name": "zhanghao123vip/ai-manju-skills",
       "description": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
       "url": "https://github.com/zhanghao123vip/ai-manju-skills",
-      "stars": 574,
-      "forks": 111,
+      "stars": 591,
+      "forks": 113,
       "language": null,
-      "updated_at": "2026-11-05T03:29:11Z"
+      "updated_at": "2026-11-06T03:43:34Z"
+    },
+    {
+      "name": "jxy333967/jianxunyun",
+      "description": "简讯云  最好的vpn服务",
+      "url": "https://github.com/jxy333967/jianxunyun",
+      "stars": 588,
+      "forks": 0,
+      "language": null,
+      "updated_at": "2026-11-06T03:47:15Z"
+    },
+    {
+      "name": "sqlpxc/airhand",
+      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "url": "https://github.com/sqlpxc/airhand",
+      "stars": 504,
+      "forks": 102,
+      "language": "Rust",
+      "updated_at": "2026-11-06T03:03:49Z"
+    },
+    {
+      "name": "smarkyie/NSP-Box",
+      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "url": "https://github.com/smarkyie/NSP-Box",
+      "stars": 500,
+      "forks": 33,
+      "language": "Python",
+      "updated_at": "2026-11-06T03:39:19Z"
+    },
+    {
+      "name": "kevintngo/looseleaf",
+      "description": "shadcn/ui, drawn by hand: 123 accessible React components that look drawn on paper, with a shadcn registry.",
+      "url": "https://github.com/kevintngo/looseleaf",
+      "stars": 497,
+      "forks": 28,
+      "language": "TypeScript",
+      "updated_at": "2026-11-06T03:45:59Z"
+    },
+    {
+      "name": "chadyi/StudyOnTV",
+      "description": "StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions from the LAN. Learn first. Watch later.",
+      "url": "https://github.com/chadyi/StudyOnTV",
+      "stars": 496,
+      "forks": 107,
+      "language": "Kotlin",
+      "updated_at": "2026-11-06T03:46:24Z"
+    },
+    {
+      "name": "parallelpan/hongguo-downloader",
+      "description": "红果短剧下载工具：红果短剧 / 红果免费短剧 全集下载、批量下载与整剧打包 ZIP，粘贴分享链接即云端处理、按集取件，免安装网页版。Hongguo downloader — short drama downloader for cdrama & duanju: paste a link, fetch every episode online, pay per episode, no install.",
+      "url": "https://github.com/parallelpan/hongguo-downloader",
+      "stars": 474,
+      "forks": 51,
+      "language": null,
+      "updated_at": "2026-11-06T03:22:52Z"
+    },
+    {
+      "name": "Balanov/shim",
+      "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+      "url": "https://github.com/Balanov/shim",
+      "stars": 463,
+      "forks": 10,
+      "language": "Go",
+      "updated_at": "2026-11-05T23:56:11Z"
     }
   ]
 }
