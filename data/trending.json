@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-11-07T03:20:27.659Z",
+  "fetched_at": "2026-11-08T02:50:14.807Z",
   "repos": [
     {
       "name": "KKKKhazix/agent-autoloop",
-      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；���时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "stars": 3722,
-      "forks": 679,
+      "stars": 3970,
+      "forks": 722,
       "language": "TypeScript",
-      "updated_at": "2026-11-07T03:19:34Z"
+      "updated_at": "2026-11-08T02:46:03Z"
     },
     {
       "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
       "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-      "stars": 2909,
-      "forks": 1136,
+      "stars": 3065,
+      "forks": 1179,
       "language": "Python",
-      "updated_at": "2026-11-07T03:04:07Z"
-    },
-    {
-      "name": "govijr/terminal-mac",
-      "description": "Entire MacOS running in your terminal.",
-      "url": "https://github.com/govijr/terminal-mac",
-      "stars": 2163,
-      "forks": 139,
-      "language": "Swift",
-      "updated_at": "2026-11-07T02:42:00Z"
-    },
-    {
-      "name": "mromidev/claude-animated-shorts",
-      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "url": "https://github.com/mromidev/claude-animated-shorts",
-      "stars": 2042,
-      "forks": 433,
-      "language": "TypeScript",
-      "updated_at": "2026-11-07T03:16:53Z"
-    },
-    {
-      "name": "caru-ini/stack-diagram",
-      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "url": "https://github.com/caru-ini/stack-diagram",
-      "stars": 1976,
-      "forks": 89,
-      "language": "TypeScript",
-      "updated_at": "2026-11-07T03:01:58Z"
+      "updated_at": "2026-11-08T02:46:11Z"
     },
     {
       "name": "Minireel/HGhub",
       "description": "YellowFruit third-party client",
       "url": "https://github.com/Minireel/HGhub",
-      "stars": 1742,
-      "forks": 1004,
+      "stars": 2371,
+      "forks": 1139,
       "language": "TypeScript",
-      "updated_at": "2026-11-07T03:19:05Z"
+      "updated_at": "2026-11-08T02:48:41Z"
     },
     {
-      "name": "wquguru/cicada",
-      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
-      "url": "https://github.com/wquguru/cicada",
-      "stars": 1562,
-      "forks": 286,
+      "name": "govijr/terminal-mac",
+      "description": "Entire MacOS running in your terminal.",
+      "url": "https://github.com/govijr/terminal-mac",
+      "stars": 2247,
+      "forks": 146,
       "language": "Swift",
-      "updated_at": "2026-11-07T03:18:07Z"
+      "updated_at": "2026-11-08T01:40:41Z"
     },
     {
-      "name": "s1dashu/quiet-md",
-      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
-      "url": "https://github.com/s1dashu/quiet-md",
-      "stars": 1187,
-      "forks": 105,
-      "language": "Rust",
-      "updated_at": "2026-11-07T03:16:22Z"
-    },
-    {
-      "name": "livliv-dev/player",
-      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-      "url": "https://github.com/livliv-dev/player",
-      "stars": 978,
-      "forks": 103,
-      "language": "TypeScript",
-      "updated_at": "2026-11-07T03:19:52Z"
-    },
-    {
-      "name": "mmdoctor/google-pro-helper",
-      "description": null,
-      "url": "https://github.com/mmdoctor/google-pro-helper",
-      "stars": 925,
-      "forks": 358,
-      "language": "Python",
-      "updated_at": "2026-11-07T03:20:05Z"
+      "name": "NotRexed/Hookshot",
+      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "url": "https://github.com/NotRexed/Hookshot",
+      "stars": 1932,
+      "forks": 177,
+      "language": "C++",
+      "updated_at": "2026-11-08T02:49:35Z"
     },
     {
       "name": "JenkinWoo/sheeridVerify",
       "description": null,
       "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "stars": 924,
-      "forks": 530,
+      "stars": 1684,
+      "forks": 911,
       "language": "JavaScript",
-      "updated_at": "2026-11-07T03:17:16Z"
+      "updated_at": "2026-11-08T02:40:48Z"
+    },
+    {
+      "name": "livliv-dev/player",
+      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "url": "https://github.com/livliv-dev/player",
+      "stars": 1215,
+      "forks": 127,
+      "language": "TypeScript",
+      "updated_at": "2026-11-08T02:43:46Z"
+    },
+    {
+      "name": "mmdoctor/google-pro-helper",
+      "description": null,
+      "url": "https://github.com/mmdoctor/google-pro-helper",
+      "stars": 1150,
+      "forks": 426,
+      "language": "Python",
+      "updated_at": "2026-11-08T02:46:50Z"
     },
     {
       "name": "Sandflow-ai/sand3d",
       "description": "3D modeling in Python, built for LLMs.",
       "url": "https://github.com/Sandflow-ai/sand3d",
-      "stars": 820,
-      "forks": 99,
+      "stars": 1070,
+      "forks": 118,
       "language": "HTML",
-      "updated_at": "2026-11-07T03:15:33Z"
+      "updated_at": "2026-11-08T02:39:19Z"
     },
     {
-      "name": "AssassinCreator/steam-stash-value-report-card",
-      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-      "stars": 786,
-      "forks": 55,
-      "language": "Python",
-      "updated_at": "2026-11-07T02:23:19Z"
-    },
-    {
-      "name": "chadyi/StudyOnTV",
-      "description": "StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions from the LAN. Learn first. Watch later.",
-      "url": "https://github.com/chadyi/StudyOnTV",
-      "stars": 724,
-      "forks": 166,
-      "language": "Kotlin",
-      "updated_at": "2026-11-07T03:16:35Z"
-    },
-    {
-      "name": "Minglink/dsh-jailbreak-workflow",
-      "description": "DSH 破甲词制作作工作流 ",
-      "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
-      "stars": 718,
-      "forks": 244,
-      "language": "TypeScript",
-      "updated_at": "2026-11-07T02:52:13Z"
-    },
-    {
-      "name": "Gezine/CivSwitch",
-      "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
-      "url": "https://github.com/Gezine/CivSwitch",
-      "stars": 634,
-      "forks": 128,
-      "language": "JavaScript",
-      "updated_at": "2026-11-07T02:19:24Z"
+      "name": "voyager-so/vork",
+      "description": "Headless 3D and VFX engine for agents. Research preview.",
+      "url": "https://github.com/voyager-so/vork",
+      "stars": 900,
+      "forks": 59,
+      "language": "Rust",
+      "updated_at": "2026-11-08T02:43:02Z"
     },
     {
       "name": "libracoder/kiri",
       "description": "A small, fast container runtime for macOS, Windows and Linux",
       "url": "https://github.com/libracoder/kiri",
-      "stars": 571,
-      "forks": 44,
+      "stars": 891,
+      "forks": 58,
       "language": "Rust",
-      "updated_at": "2026-11-07T03:10:55Z"
-    },
-    {
-      "name": "WoYun520/pixel-gif-sticker-pack",
-      "description": "A Codex skill for creating and verifying animated GIF sticker packs from character references.",
-      "url": "https://github.com/WoYun520/pixel-gif-sticker-pack",
-      "stars": 565,
-      "forks": 67,
-      "language": "Python",
-      "updated_at": "2026-11-07T03:03:24Z"
-    },
-    {
-      "name": "kevintngo/looseleaf",
-      "description": "shadcn/ui, drawn by hand: 123 accessible React components that look drawn on paper, with a shadcn registry.",
-      "url": "https://github.com/kevintngo/looseleaf",
-      "stars": 520,
-      "forks": 29,
-      "language": "TypeScript",
-      "updated_at": "2026-11-07T00:43:45Z"
+      "updated_at": "2026-11-08T02:49:49Z"
     },
     {
       "name": "sarpstar/cinecode",
       "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
       "url": "https://github.com/sarpstar/cinecode",
-      "stars": 492,
-      "forks": 81,
+      "stars": 875,
+      "forks": 153,
       "language": "Python",
-      "updated_at": "2026-11-07T02:48:02Z"
+      "updated_at": "2026-11-08T02:50:10Z"
     },
     {
-      "name": "drakolordx7/switch2-recomp",
-      "description": "Nintendo Switch 2 games recompiled to run natively on PC.",
-      "url": "https://github.com/drakolordx7/switch2-recomp",
-      "stars": 474,
-      "forks": 46,
-      "language": "C++",
-      "updated_at": "2026-11-07T00:17:54Z"
+      "name": "sostenesfreitas/ocarina-recomp",
+      "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+      "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+      "stars": 816,
+      "forks": 44,
+      "language": "C",
+      "updated_at": "2026-11-08T02:45:12Z"
     },
     {
-      "name": "mhfed/vn-law-check",
-      "description": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
-      "url": "https://github.com/mhfed/vn-law-check",
-      "stars": 463,
-      "forks": 99,
-      "language": "Shell",
-      "updated_at": "2026-11-07T00:08:47Z"
+      "name": "Leviidev/Henge",
+      "description": "Emulate macOS on iOS and iPadOS",
+      "url": "https://github.com/Leviidev/Henge",
+      "stars": 808,
+      "forks": 64,
+      "language": "C",
+      "updated_at": "2026-11-08T02:44:25Z"
     },
     {
-      "name": "zeekk0/OpenAmika",
-      "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
-      "url": "https://github.com/zeekk0/OpenAmika",
-      "stars": 449,
-      "forks": 61,
+      "name": "egoist/mygo-music",
+      "description": "A native music player you extend with plugins",
+      "url": "https://github.com/egoist/mygo-music",
+      "stars": 795,
+      "forks": 122,
+      "language": "Go",
+      "updated_at": "2026-11-08T02:45:16Z"
+    },
+    {
+      "name": "AssassinCreator/steam-stash-value-report-card",
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "stars": 791,
+      "forks": 56,
       "language": "Python",
-      "updated_at": "2026-11-07T03:14:32Z"
+      "updated_at": "2026-11-07T17:46:38Z"
     },
     {
-      "name": "artemnovitckii/claude-animation-skills",
-      "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
-      "url": "https://github.com/artemnovitckii/claude-animation-skills",
-      "stars": 445,
-      "forks": 54,
-      "language": "JavaScript",
-      "updated_at": "2026-11-07T02:58:31Z"
+      "name": "CzJam/gjgjxweb",
+      "description": "《搞机工具箱》Web移植版",
+      "url": "https://github.com/CzJam/gjgjxweb",
+      "stars": 785,
+      "forks": 74,
+      "language": "HTML",
+      "updated_at": "2026-11-08T02:49:41Z"
     },
     {
-      "name": "majorminorlabs/hermes-voice",
-      "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
-      "url": "https://github.com/majorminorlabs/hermes-voice",
-      "stars": 445,
-      "forks": 22,
+      "name": "WoYun520/gif-factory",
+      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "url": "https://github.com/WoYun520/gif-factory",
+      "stars": 626,
+      "forks": 75,
       "language": "Python",
-      "updated_at": "2026-11-07T03:13:53Z"
+      "updated_at": "2026-11-08T02:39:00Z"
     },
     {
-      "name": "Renly1994/xiaotang-daozai",
-      "description": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
-      "url": "https://github.com/Renly1994/xiaotang-daozai",
-      "stars": 430,
-      "forks": 83,
-      "language": "Rust",
-      "updated_at": "2026-11-07T01:58:55Z"
-    },
-    {
-      "name": "TagPhaseArcade/tiktok-uploader",
-      "description": "Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
-      "url": "https://github.com/TagPhaseArcade/tiktok-uploader",
-      "stars": 429,
-      "forks": 336,
+      "name": "shanselman/gputaskman",
+      "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+      "url": "https://github.com/shanselman/gputaskman",
+      "stars": 540,
+      "forks": 24,
       "language": "Python",
-      "updated_at": "2026-11-06T13:47:31Z"
-    },
-    {
-      "name": "dragonwolfshovel/youtube-uploader",
-      "description": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first",
-      "url": "https://github.com/dragonwolfshovel/youtube-uploader",
-      "stars": 429,
-      "forks": 358,
-      "language": "Python",
-      "updated_at": "2026-11-06T13:47:40Z"
-    },
-    {
-      "name": "HerdBuilderEstimate/roblox-studio-mcp",
-      "description": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
-      "url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp",
-      "stars": 427,
-      "forks": 260,
-      "language": "Python",
-      "updated_at": "2026-11-06T15:57:23Z"
+      "updated_at": "2026-11-08T02:49:28Z"
     },
     {
       "name": "JosssphZhou/poki",
       "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
       "url": "https://github.com/JosssphZhou/poki",
-      "stars": 427,
-      "forks": 88,
+      "stars": 519,
+      "forks": 109,
       "language": "JavaScript",
-      "updated_at": "2026-11-07T03:20:21Z"
+      "updated_at": "2026-11-08T02:30:21Z"
+    },
+    {
+      "name": "majorminorlabs/hermes-voice",
+      "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
+      "url": "https://github.com/majorminorlabs/hermes-voice",
+      "stars": 506,
+      "forks": 28,
+      "language": "Python",
+      "updated_at": "2026-11-08T01:04:23Z"
+    },
+    {
+      "name": "zeekk0/OpenAmika",
+      "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
+      "url": "https://github.com/zeekk0/OpenAmika",
+      "stars": 505,
+      "forks": 68,
+      "language": "Python",
+      "updated_at": "2026-11-08T01:30:14Z"
+    },
+    {
+      "name": "Th0rgal/satmux",
+      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "url": "https://github.com/Th0rgal/satmux",
+      "stars": 497,
+      "forks": 24,
+      "language": "Python",
+      "updated_at": "2026-11-08T02:50:10Z"
+    },
+    {
+      "name": "drakolordx7/switch2-recomp",
+      "description": "Nintendo Switch 2 games recompiled to run natively on PC.",
+      "url": "https://github.com/drakolordx7/switch2-recomp",
+      "stars": 493,
+      "forks": 48,
+      "language": "C++",
+      "updated_at": "2026-11-08T02:40:15Z"
+    },
+    {
+      "name": "riyadhHDA/wichforks",
+      "description": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
+      "url": "https://github.com/riyadhHDA/wichforks",
+      "stars": 478,
+      "forks": 3,
+      "language": "Python",
+      "updated_at": "2026-11-08T02:36:45Z"
+    },
+    {
+      "name": "Renly1994/xiaotang-daozai",
+      "description": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
+      "url": "https://github.com/Renly1994/xiaotang-daozai",
+      "stars": 475,
+      "forks": 90,
+      "language": "Rust",
+      "updated_at": "2026-11-08T02:10:14Z"
+    },
+    {
+      "name": "mhfed/vn-law-check",
+      "description": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
+      "url": "https://github.com/mhfed/vn-law-check",
+      "stars": 471,
+      "forks": 102,
+      "language": "Shell",
+      "updated_at": "2026-11-07T17:26:58Z"
+    },
+    {
+      "name": "woniuniuniu/dsh-media-desk",
+      "description": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
+      "url": "https://github.com/woniuniuniu/dsh-media-desk",
+      "stars": 439,
+      "forks": 38,
+      "language": "JavaScript",
+      "updated_at": "2026-11-08T02:45:35Z"
+    },
+    {
+      "name": "TagPhaseArcade/tiktok-uploader",
+      "description": "Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
+      "url": "https://github.com/TagPhaseArcade/tiktok-uploader",
+      "stars": 431,
+      "forks": 336,
+      "language": "Python",
+      "updated_at": "2026-11-08T01:22:22Z"
+    },
+    {
+      "name": "dragonwolfshovel/youtube-uploader",
+      "description": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first",
+      "url": "https://github.com/dragonwolfshovel/youtube-uploader",
+      "stars": 430,
+      "forks": 359,
+      "language": "Python",
+      "updated_at": "2026-11-08T01:24:57Z"
     }
   ]
 }
