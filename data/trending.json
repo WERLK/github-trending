@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-11-09T03:08:32.002Z",
+  "fetched_at": "2026-11-10T04:51:38.501Z",
   "repos": [
-    {
-      "name": "KKKKhazix/agent-autoloop",
-      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "stars": 4140,
-      "forks": 753,
-      "language": "TypeScript",
-      "updated_at": "2026-11-09T03:06:15Z"
-    },
-    {
-      "name": "Minireel/HGhub",
-      "description": "YellowFruit third-party client",
-      "url": "https://github.com/Minireel/HGhub",
-      "stars": 3555,
-      "forks": 1453,
-      "language": "TypeScript",
-      "updated_at": "2026-11-09T03:08:28Z"
-    },
-    {
-      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
-      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-      "stars": 3272,
-      "forks": 1206,
-      "language": "Python",
-      "updated_at": "2026-11-09T03:05:39Z"
-    },
     {
       "name": "NotRexed/Hookshot",
       "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "url": "https://github.com/NotRexed/Hookshot",
-      "stars": 3239,
-      "forks": 309,
+      "stars": 5335,
+      "forks": 476,
       "language": "C++",
-      "updated_at": "2026-11-09T03:07:20Z"
+      "updated_at": "2026-11-10T04:50:46Z"
     },
     {
-      "name": "govijr/terminal-mac",
-      "description": "Entire MacOS running in your terminal.",
-      "url": "https://github.com/govijr/terminal-mac",
-      "stars": 2402,
-      "forks": 164,
+      "name": "huamidev/GestaltX",
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+      "url": "https://github.com/huamidev/GestaltX",
+      "stars": 2570,
+      "forks": 1026,
       "language": "Swift",
-      "updated_at": "2026-11-09T03:06:34Z"
-    },
-    {
-      "name": "JenkinWoo/sheeridVerify",
-      "description": null,
-      "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "stars": 1869,
-      "forks": 1000,
-      "language": "JavaScript",
-      "updated_at": "2026-11-09T02:59:46Z"
-    },
-    {
-      "name": "sarpstar/cinecode",
-      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
-      "url": "https://github.com/sarpstar/cinecode",
-      "stars": 1622,
-      "forks": 294,
-      "language": "Python",
-      "updated_at": "2026-11-09T03:07:09Z"
-    },
-    {
-      "name": "Sandflow-ai/sand3d",
-      "description": "3D modeling in Python, built for LLMs.",
-      "url": "https://github.com/Sandflow-ai/sand3d",
-      "stars": 1440,
-      "forks": 158,
-      "language": "HTML",
-      "updated_at": "2026-11-09T03:04:00Z"
+      "updated_at": "2026-11-10T04:51:05Z"
     },
     {
       "name": "tangerineturtle1/NX2navi",
       "description": null,
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "stars": 1410,
-      "forks": 66,
+      "stars": 2495,
+      "forks": 166,
       "language": "C",
-      "updated_at": "2026-11-09T03:08:02Z"
-    },
-    {
-      "name": "livliv-dev/player",
-      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-      "url": "https://github.com/livliv-dev/player",
-      "stars": 1345,
-      "forks": 142,
-      "language": "TypeScript",
-      "updated_at": "2026-11-09T02:57:28Z"
-    },
-    {
-      "name": "CzJam/gjgjxweb",
-      "description": "《搞机工具箱》Web移植版",
-      "url": "https://github.com/CzJam/gjgjxweb",
-      "stars": 1262,
-      "forks": 106,
-      "language": "HTML",
-      "updated_at": "2026-11-09T03:07:52Z"
-    },
-    {
-      "name": "mmdoctor/google-pro-helper",
-      "description": null,
-      "url": "https://github.com/mmdoctor/google-pro-helper",
-      "stars": 1257,
-      "forks": 448,
-      "language": "Python",
-      "updated_at": "2026-11-09T03:07:13Z"
-    },
-    {
-      "name": "voyager-so/vork",
-      "description": "Headless 3D and VFX engine for agents. Research preview.",
-      "url": "https://github.com/voyager-so/vork",
-      "stars": 1151,
-      "forks": 86,
-      "language": "Rust",
-      "updated_at": "2026-11-09T03:04:31Z"
-    },
-    {
-      "name": "shanselman/gputaskman",
-      "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
-      "url": "https://github.com/shanselman/gputaskman",
-      "stars": 1089,
-      "forks": 57,
-      "language": "Python",
-      "updated_at": "2026-11-09T03:06:17Z"
-    },
-    {
-      "name": "egoist/mygo-music",
-      "description": "A native music player you extend with plugins",
-      "url": "https://github.com/egoist/mygo-music",
-      "stars": 1003,
-      "forks": 162,
-      "language": "Go",
-      "updated_at": "2026-11-09T03:03:59Z"
-    },
-    {
-      "name": "sostenesfreitas/ocarina-recomp",
-      "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
-      "url": "https://github.com/sostenesfreitas/ocarina-recomp",
-      "stars": 977,
-      "forks": 62,
-      "language": "C",
-      "updated_at": "2026-11-09T03:00:34Z"
-    },
-    {
-      "name": "Th0rgal/satmux",
-      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-      "url": "https://github.com/Th0rgal/satmux",
-      "stars": 947,
-      "forks": 44,
-      "language": "Python",
-      "updated_at": "2026-11-09T03:07:38Z"
-    },
-    {
-      "name": "DIYgod/pinky",
-      "description": "Let AI agents use your phone, with you in the loop.",
-      "url": "https://github.com/DIYgod/pinky",
-      "stars": 912,
-      "forks": 73,
-      "language": "Go",
-      "updated_at": "2026-11-09T03:05:42Z"
-    },
-    {
-      "name": "WoYun520/gif-factory",
-      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-      "url": "https://github.com/WoYun520/gif-factory",
-      "stars": 876,
-      "forks": 106,
-      "language": "Python",
-      "updated_at": "2026-11-09T03:07:44Z"
-    },
-    {
-      "name": "IainKay/ram-altman",
-      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
-      "url": "https://github.com/IainKay/ram-altman",
-      "stars": 801,
-      "forks": 18,
-      "language": "Shell",
-      "updated_at": "2026-11-09T02:56:26Z"
-    },
-    {
-      "name": "jamesondh/chimera-vocal-synth",
-      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-      "stars": 700,
-      "forks": 84,
-      "language": "Rust",
-      "updated_at": "2026-11-09T03:06:36Z"
-    },
-    {
-      "name": "sassiestrhihno/boxshelf-beta",
-      "description": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps.",
-      "url": "https://github.com/sassiestrhihno/boxshelf-beta",
-      "stars": 617,
-      "forks": 16,
-      "language": null,
-      "updated_at": "2026-11-09T02:52:18Z"
-    },
-    {
-      "name": "JosssphZhou/poki",
-      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-      "url": "https://github.com/JosssphZhou/poki",
-      "stars": 613,
-      "forks": 126,
-      "language": "JavaScript",
-      "updated_at": "2026-11-09T03:07:17Z"
+      "updated_at": "2026-11-10T04:51:20Z"
     },
     {
       "name": "jhaizhou-ops/S2Arm",
       "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "stars": 585,
-      "forks": 140,
+      "stars": 2017,
+      "forks": 389,
       "language": "C#",
-      "updated_at": "2026-11-09T03:06:45Z"
+      "updated_at": "2026-11-10T04:50:28Z"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "description": null,
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "stars": 1952,
+      "forks": 1045,
+      "language": "JavaScript",
+      "updated_at": "2026-11-10T04:22:07Z"
+    },
+    {
+      "name": "DIYgod/pinky",
+      "description": "Let AI agents use your phone, with you in the loop.",
+      "url": "https://github.com/DIYgod/pinky",
+      "stars": 1494,
+      "forks": 160,
+      "language": "Go",
+      "updated_at": "2026-11-10T04:46:33Z"
+    },
+    {
+      "name": "IainKay/ram-altman",
+      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+      "url": "https://github.com/IainKay/ram-altman",
+      "stars": 1490,
+      "forks": 43,
+      "language": "Shell",
+      "updated_at": "2026-11-10T04:42:22Z"
+    },
+    {
+      "name": "mmdoctor/google-pro-helper",
+      "description": null,
+      "url": "https://github.com/mmdoctor/google-pro-helper",
+      "stars": 1463,
+      "forks": 516,
+      "language": "Python",
+      "updated_at": "2026-11-10T04:36:15Z"
+    },
+    {
+      "name": "livliv-dev/player",
+      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "url": "https://github.com/livliv-dev/player",
+      "stars": 1415,
+      "forks": 147,
+      "language": "TypeScript",
+      "updated_at": "2026-11-10T04:08:57Z"
+    },
+    {
+      "name": "voyager-so/vork",
+      "description": "Headless 3D and VFX engine for agents. Research preview.",
+      "url": "https://github.com/voyager-so/vork",
+      "stars": 1303,
+      "forks": 99,
+      "language": "Rust",
+      "updated_at": "2026-11-10T04:48:21Z"
+    },
+    {
+      "name": "jamesondh/chimera-vocal-synth",
+      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth",
+      "stars": 1293,
+      "forks": 151,
+      "language": "Rust",
+      "updated_at": "2026-11-10T04:51:21Z"
+    },
+    {
+      "name": "egoist/mygo-music",
+      "description": "A native music player you extend with plugins",
+      "url": "https://github.com/egoist/mygo-music",
+      "stars": 1131,
+      "forks": 184,
+      "language": "Go",
+      "updated_at": "2026-11-10T04:29:20Z"
+    },
+    {
+      "name": "sostenesfreitas/ocarina-recomp",
+      "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+      "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+      "stars": 1066,
+      "forks": 71,
+      "language": "C",
+      "updated_at": "2026-11-10T04:46:07Z"
+    },
+    {
+      "name": "WoYun520/gif-factory",
+      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "url": "https://github.com/WoYun520/gif-factory",
+      "stars": 1039,
+      "forks": 126,
+      "language": "Python",
+      "updated_at": "2026-11-10T04:46:41Z"
+    },
+    {
+      "name": "Th0rgal/satmux",
+      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "url": "https://github.com/Th0rgal/satmux",
+      "stars": 1014,
+      "forks": 49,
+      "language": "Python",
+      "updated_at": "2026-11-10T03:36:05Z"
+    },
+    {
+      "name": "JosssphZhou/poki",
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "url": "https://github.com/JosssphZhou/poki",
+      "stars": 791,
+      "forks": 167,
+      "language": "Swift",
+      "updated_at": "2026-11-10T04:50:18Z"
+    },
+    {
+      "name": "yappologistic/CUI",
+      "description": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
+      "url": "https://github.com/yappologistic/CUI",
+      "stars": 744,
+      "forks": 40,
+      "language": "C",
+      "updated_at": "2026-11-10T04:50:18Z"
+    },
+    {
+      "name": "sassiestrhihno/boxshelf-beta",
+      "description": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps.",
+      "url": "https://github.com/sassiestrhihno/boxshelf-beta",
+      "stars": 742,
+      "forks": 19,
+      "language": null,
+      "updated_at": "2026-11-10T03:52:31Z"
     },
     {
       "name": "AtomIllusionistDwell/watson-username-footprint-finder",
       "description": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
       "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
-      "stars": 556,
-      "forks": 74,
+      "stars": 701,
+      "forks": 102,
       "language": "TypeScript",
-      "updated_at": "2026-11-09T02:41:48Z"
+      "updated_at": "2026-11-10T04:44:09Z"
     },
     {
       "name": "majorminorlabs/hermes-voice",
       "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
       "url": "https://github.com/majorminorlabs/hermes-voice",
-      "stars": 545,
-      "forks": 35,
+      "stars": 625,
+      "forks": 38,
       "language": "Python",
-      "updated_at": "2026-11-09T02:53:04Z"
-    },
-    {
-      "name": "zeekk0/OpenAmika",
-      "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
-      "url": "https://github.com/zeekk0/OpenAmika",
-      "stars": 543,
-      "forks": 74,
-      "language": "Python",
-      "updated_at": "2026-11-09T00:13:22Z"
+      "updated_at": "2026-11-10T02:42:55Z"
     },
     {
       "name": "riyadhHDA/wichforks",
       "description": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
       "url": "https://github.com/riyadhHDA/wichforks",
-      "stars": 525,
-      "forks": 5,
+      "stars": 546,
+      "forks": 6,
       "language": "Python",
-      "updated_at": "2026-11-09T01:25:43Z"
-    },
-    {
-      "name": "Renly1994/xiaotang-daozai",
-      "description": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
-      "url": "https://github.com/Renly1994/xiaotang-daozai",
-      "stars": 510,
-      "forks": 97,
-      "language": "Rust",
-      "updated_at": "2026-11-09T03:07:59Z"
+      "updated_at": "2026-11-10T01:40:56Z"
     },
     {
       "name": "CityPulso/PulsoIcon",
       "description": "Animated React icons — every Lucide icon plus extra icons and brand logos, each with its own hand-written motion. Drop-in replacement for lucide-react, built on Motion.",
       "url": "https://github.com/CityPulso/PulsoIcon",
-      "stars": 483,
-      "forks": 13,
+      "stars": 545,
+      "forks": 16,
       "language": "Kotlin",
-      "updated_at": "2026-11-09T03:04:02Z"
+      "updated_at": "2026-11-10T03:22:46Z"
+    },
+    {
+      "name": "lxe/phoneuse",
+      "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+      "url": "https://github.com/lxe/phoneuse",
+      "stars": 541,
+      "forks": 53,
+      "language": "Python",
+      "updated_at": "2026-11-10T04:50:59Z"
+    },
+    {
+      "name": "devvmhq/devvm",
+      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "url": "https://github.com/devvmhq/devvm",
+      "stars": 497,
+      "forks": 21,
+      "language": "Go",
+      "updated_at": "2026-11-10T04:45:10Z"
+    },
+    {
+      "name": "mahmoudtawfik1998/secure-pdf-document-processor",
+      "description": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+      "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
+      "stars": 481,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-11-10T00:05:23Z"
+    },
+    {
+      "name": "abhijot11/fabfilter-total",
+      "description": "Fabfilter Total 2026 security assessment toolkit with full feature validation and installer verifica",
+      "url": "https://github.com/abhijot11/fabfilter-total",
+      "stars": 481,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-11-10T00:53:21Z"
+    },
+    {
+      "name": "dhruvthakur11/youtube-ai-video-editing-system",
+      "description": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
+      "url": "https://github.com/dhruvthakur11/youtube-ai-video-editing-system",
+      "stars": 481,
+      "forks": 1,
+      "language": "HTML",
+      "updated_at": "2026-11-10T04:41:22Z"
+    },
+    {
+      "name": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+      "description": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+      "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
+      "stars": 481,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-11-10T00:54:33Z"
+    },
+    {
+      "name": "AbhramJohn/instagram-engagement-bot",
+      "description": "Community-driven Instagram Liker Bot with advanced automation for desktop",
+      "url": "https://github.com/AbhramJohn/instagram-engagement-bot",
+      "stars": 481,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-11-10T00:02:44Z"
+    },
+    {
+      "name": "shammahcharumbira/universal-neural-injector-center",
+      "description": "Universal Neural DLSS 5 Injector and Game Center for All RTX Titles",
+      "url": "https://github.com/shammahcharumbira/universal-neural-injector-center",
+      "stars": 480,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-11-10T03:09:11Z"
     }
   ]
 }
