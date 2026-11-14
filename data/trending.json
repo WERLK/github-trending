@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-11-13T03:42:42.800Z",
+  "fetched_at": "2026-11-14T03:41:25.956Z",
   "repos": [
     {
       "name": "huamidev/GestaltX",
       "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "url": "https://github.com/huamidev/GestaltX",
-      "stars": 6991,
-      "forks": 2559,
+      "stars": 7365,
+      "forks": 2604,
       "language": "Swift",
-      "updated_at": "2026-11-13T03:41:04Z"
-    },
-    {
-      "name": "tangerineturtle1/NX2navi",
-      "description": null,
-      "url": "https://github.com/tangerineturtle1/NX2navi",
-      "stars": 3605,
-      "forks": 252,
-      "language": "C",
-      "updated_at": "2026-11-13T03:37:56Z"
+      "updated_at": "2026-11-14T03:40:45Z"
     },
     {
       "name": "jhaizhou-ops/S2Arm",
       "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "stars": 2780,
-      "forks": 510,
+      "stars": 2883,
+      "forks": 522,
       "language": "C#",
-      "updated_at": "2026-11-13T03:39:33Z"
+      "updated_at": "2026-11-14T03:26:20Z"
     },
     {
       "name": "Kianuni/Erosion-CN",
       "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
       "url": "https://github.com/Kianuni/Erosion-CN",
-      "stars": 1743,
-      "forks": 377,
+      "stars": 1946,
+      "forks": 409,
       "language": "Swift",
-      "updated_at": "2026-11-13T03:42:09Z"
-    },
-    {
-      "name": "HybridRobotics/supermimic",
-      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
-      "url": "https://github.com/HybridRobotics/supermimic",
-      "stars": 1336,
-      "forks": 87,
-      "language": "Python",
-      "updated_at": "2026-11-13T03:41:44Z"
-    },
-    {
-      "name": "agentes-chat/agentes-chat",
-      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-      "url": "https://github.com/agentes-chat/agentes-chat",
-      "stars": 1219,
-      "forks": 197,
-      "language": "TypeScript",
-      "updated_at": "2026-11-13T03:34:06Z"
-    },
-    {
-      "name": "Th0rgal/satmux",
-      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-      "url": "https://github.com/Th0rgal/satmux",
-      "stars": 1058,
-      "forks": 51,
-      "language": "Python",
-      "updated_at": "2026-11-13T02:05:03Z"
+      "updated_at": "2026-11-14T03:41:23Z"
     },
     {
       "name": "apex-compute/ANR",
       "description": "Apex Neural Rendering (ANR) by Apex Compute",
       "url": "https://github.com/apex-compute/ANR",
-      "stars": 1033,
-      "forks": 10,
+      "stars": 1517,
+      "forks": 22,
       "language": "C++",
-      "updated_at": "2026-11-13T03:36:59Z"
+      "updated_at": "2026-11-14T03:33:01Z"
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "stars": 1448,
+      "forks": 94,
+      "language": "Python",
+      "updated_at": "2026-11-14T03:31:13Z"
+    },
+    {
+      "name": "agentes-chat/agentes-chat",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "stars": 1350,
+      "forks": 234,
+      "language": "TypeScript",
+      "updated_at": "2026-11-14T03:05:10Z"
+    },
+    {
+      "name": "FrigadeHQ/yogurt",
+      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "stars": 1304,
+      "forks": 58,
+      "language": "TypeScript",
+      "updated_at": "2026-11-14T03:41:10Z"
     },
     {
       "name": "HolyArrs/HolyArrs",
       "description": "One self-hosted app for your shows, movies and music.",
       "url": "https://github.com/HolyArrs/HolyArrs",
-      "stars": 991,
-      "forks": 56,
+      "stars": 1106,
+      "forks": 57,
       "language": "Go",
-      "updated_at": "2026-11-13T03:37:24Z"
+      "updated_at": "2026-11-14T03:09:34Z"
     },
     {
-      "name": "FrigadeHQ/yogurt",
-      "description": "Private AI meeting notes. Free and open source.",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "stars": 988,
-      "forks": 35,
+      "name": "deepseek-ai/chat-demo",
+      "description": "Chat Demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "stars": 949,
+      "forks": 157,
       "language": "TypeScript",
-      "updated_at": "2026-11-13T03:39:02Z"
-    },
-    {
-      "name": "Goblinmine/homelab-diagram",
-      "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
-      "url": "https://github.com/Goblinmine/homelab-diagram",
-      "stars": 945,
-      "forks": 78,
-      "language": "Python",
-      "updated_at": "2026-11-13T03:37:35Z"
-    },
-    {
-      "name": "dabingfy-dot/solo-to-team-skills",
-      "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-      "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
-      "stars": 801,
-      "forks": 80,
-      "language": null,
-      "updated_at": "2026-11-13T03:40:07Z"
+      "updated_at": "2026-11-14T03:40:36Z"
     },
     {
       "name": "kolbicz/WQFiles",
       "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
       "url": "https://github.com/kolbicz/WQFiles",
-      "stars": 751,
-      "forks": 54,
+      "stars": 808,
+      "forks": 60,
       "language": "Objective-C",
-      "updated_at": "2026-11-13T03:39:36Z"
-    },
-    {
-      "name": "Goldoire/fefw-recomp",
-      "description": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
-      "url": "https://github.com/Goldoire/fefw-recomp",
-      "stars": 661,
-      "forks": 47,
-      "language": "C++",
-      "updated_at": "2026-11-13T03:31:51Z"
-    },
-    {
-      "name": "lxe/phoneuse",
-      "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "url": "https://github.com/lxe/phoneuse",
-      "stars": 636,
-      "forks": 61,
-      "language": "Python",
-      "updated_at": "2026-11-12T22:31:34Z"
-    },
-    {
-      "name": "alexeyw/lot-map",
-      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
-      "url": "https://github.com/alexeyw/lot-map",
-      "stars": 623,
-      "forks": 72,
-      "language": "TypeScript",
-      "updated_at": "2026-11-13T03:33:36Z"
-    },
-    {
-      "name": "JDhruv14/line-art-animation",
-      "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
-      "url": "https://github.com/JDhruv14/line-art-animation",
-      "stars": 597,
-      "forks": 95,
-      "language": "TypeScript",
-      "updated_at": "2026-11-13T03:25:16Z"
-    },
-    {
-      "name": "forcequitOS/worse_query",
-      "description": "A sandbox escape for iOS 26 and 27, again",
-      "url": "https://github.com/forcequitOS/worse_query",
-      "stars": 592,
-      "forks": 146,
-      "language": "Objective-C",
-      "updated_at": "2026-11-13T03:28:19Z"
-    },
-    {
-      "name": "adriadam10/mkw-recomp",
-      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
-      "url": "https://github.com/adriadam10/mkw-recomp",
-      "stars": 585,
-      "forks": 30,
-      "language": "C",
-      "updated_at": "2026-11-13T03:38:13Z"
+      "updated_at": "2026-11-14T03:07:59Z"
     },
     {
       "name": "serveroshq/panel",
       "description": "The open source ServerOS panel: one place to run the Linux servers you already own.",
       "url": "https://github.com/serveroshq/panel",
-      "stars": 578,
-      "forks": 48,
+      "stars": 757,
+      "forks": 59,
       "language": "PHP",
-      "updated_at": "2026-11-13T03:40:28Z"
+      "updated_at": "2026-11-14T03:33:06Z"
     },
     {
-      "name": "luobinger/PerkRadar",
-      "description": "PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time offers, and discounts from multiple sources every two hours, with source status tracking, expiration handling, and personal bookmarks.",
-      "url": "https://github.com/luobinger/PerkRadar",
-      "stars": 473,
-      "forks": 93,
+      "name": "alexeyw/lot-map",
+      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+      "url": "https://github.com/alexeyw/lot-map",
+      "stars": 744,
+      "forks": 87,
       "language": "TypeScript",
-      "updated_at": "2026-11-13T03:15:29Z"
+      "updated_at": "2026-11-14T03:01:24Z"
     },
     {
-      "name": "TooonyChen/finallyshell",
-      "description": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
-      "url": "https://github.com/TooonyChen/finallyshell",
-      "stars": 466,
-      "forks": 46,
-      "language": "Go",
-      "updated_at": "2026-11-12T16:22:09Z"
+      "name": "adriadam10/mkw-recomp",
+      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+      "url": "https://github.com/adriadam10/mkw-recomp",
+      "stars": 711,
+      "forks": 37,
+      "language": "C",
+      "updated_at": "2026-11-14T03:22:54Z"
     },
     {
-      "name": "21stware/bowel",
-      "description": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
-      "url": "https://github.com/21stware/bowel",
-      "stars": 465,
-      "forks": 24,
-      "language": "Go",
-      "updated_at": "2026-11-13T03:04:53Z"
+      "name": "JDhruv14/line-art-animation",
+      "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+      "url": "https://github.com/JDhruv14/line-art-animation",
+      "stars": 664,
+      "forks": 106,
+      "language": "TypeScript",
+      "updated_at": "2026-11-14T02:27:39Z"
     },
     {
-      "name": "Dodaios/ste80-humanizer",
-      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "url": "https://github.com/Dodaios/ste80-humanizer",
-      "stars": 462,
-      "forks": 29,
-      "language": "Python",
-      "updated_at": "2026-11-13T03:35:10Z"
+      "name": "forcequitOS/worse_query",
+      "description": "A sandbox escape for iOS 26 and 27, again",
+      "url": "https://github.com/forcequitOS/worse_query",
+      "stars": 617,
+      "forks": 152,
+      "language": "Objective-C",
+      "updated_at": "2026-11-14T02:49:05Z"
     },
     {
-      "name": "Robbyant/lingbot-touch",
-      "description": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
-      "url": "https://github.com/Robbyant/lingbot-touch",
-      "stars": 413,
-      "forks": 5,
-      "language": "Python",
-      "updated_at": "2026-11-13T03:41:57Z"
-    },
-    {
-      "name": "imxieyi/Kernarium",
-      "description": "Run real Linux kernel natively on iOS",
-      "url": "https://github.com/imxieyi/Kernarium",
-      "stars": 408,
-      "forks": 46,
-      "language": "C++",
-      "updated_at": "2026-11-13T01:02:44Z"
-    },
-    {
-      "name": "yetone/rewind-for-x",
-      "description": "Chrome extension: look back at posts that scrolled past on your X home timeline",
-      "url": "https://github.com/yetone/rewind-for-x",
-      "stars": 408,
-      "forks": 13,
-      "language": "JavaScript",
-      "updated_at": "2026-11-13T01:03:27Z"
+      "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
+      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+      "stars": 541,
+      "forks": 0,
+      "language": "Visual Basic .NET",
+      "updated_at": "2026-11-13T19:52:21Z"
     },
     {
       "name": "AIRzZ90/study-materials-fork",
       "description": "A cross-platform Tauri 2 interface and interaction practice project",
       "url": "https://github.com/AIRzZ90/study-materials-fork",
-      "stars": 407,
-      "forks": 574,
+      "stars": 500,
+      "forks": 710,
       "language": "TypeScript",
-      "updated_at": "2026-11-13T03:32:55Z"
+      "updated_at": "2026-11-14T03:30:49Z"
+    },
+    {
+      "name": "makepad/relax",
+      "description": "Relax Rust JIT",
+      "url": "https://github.com/makepad/relax",
+      "stars": 497,
+      "forks": 27,
+      "language": "Rust",
+      "updated_at": "2026-11-14T03:32:46Z"
+    },
+    {
+      "name": "Robbyant/lingbot-touch",
+      "description": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "url": "https://github.com/Robbyant/lingbot-touch",
+      "stars": 496,
+      "forks": 5,
+      "language": "Python",
+      "updated_at": "2026-11-14T03:07:34Z"
+    },
+    {
+      "name": "luobinger/PerkRadar",
+      "description": "PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time offers, and discounts from multiple sources every two hours, with source status tracking, expiration handling, and personal bookmarks.",
+      "url": "https://github.com/luobinger/PerkRadar",
+      "stars": 494,
+      "forks": 100,
+      "language": "TypeScript",
+      "updated_at": "2026-11-14T03:15:14Z"
+    },
+    {
+      "name": "Dodaios/ste80-humanizer",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "stars": 492,
+      "forks": 29,
+      "language": "Python",
+      "updated_at": "2026-11-14T03:40:36Z"
+    },
+    {
+      "name": "rivet-dev/open-orange",
+      "description": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
+      "url": "https://github.com/rivet-dev/open-orange",
+      "stars": 449,
+      "forks": 18,
+      "language": "TypeScript",
+      "updated_at": "2026-11-14T03:30:15Z"
     },
     {
       "name": "paulirish/chrome-capture",
       "description": "60-120fps / 2160p tab video/audio capture from Chrome",
       "url": "https://github.com/paulirish/chrome-capture",
-      "stars": 399,
+      "stars": 439,
       "forks": 7,
       "language": "TypeScript",
-      "updated_at": "2026-11-13T03:39:40Z"
+      "updated_at": "2026-11-14T03:11:57Z"
+    },
+    {
+      "name": "yetone/rewind-for-x",
+      "description": "Chrome extension: look back at posts that scrolled past on your X home timeline",
+      "url": "https://github.com/yetone/rewind-for-x",
+      "stars": 412,
+      "forks": 14,
+      "language": "JavaScript",
+      "updated_at": "2026-11-14T02:10:01Z"
     },
     {
       "name": "TomyJan/SnowLuma",
       "description": "Next Remote Protocol Framework.",
       "url": "https://github.com/TomyJan/SnowLuma",
-      "stars": 384,
-      "forks": 842,
+      "stars": 411,
+      "forks": 903,
       "language": "TypeScript",
-      "updated_at": "2026-11-13T03:29:56Z"
+      "updated_at": "2026-11-14T02:57:50Z"
+    },
+    {
+      "name": "faizfahmi77/ScanDot",
+      "description": "Experimental Android 3D scanning and point-cloud viewer",
+      "url": "https://github.com/faizfahmi77/ScanDot",
+      "stars": 391,
+      "forks": 3,
+      "language": "Kotlin",
+      "updated_at": "2026-11-14T03:28:12Z"
+    },
+    {
+      "name": "linknimiball1974/ai-texture-forge",
+      "description": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textures blender · dream textures addon · dream textures ai · dream textures seamless · dream textures pbr",
+      "url": "https://github.com/linknimiball1974/ai-texture-forge",
+      "stars": 389,
+      "forks": 20,
+      "language": null,
+      "updated_at": "2026-11-14T03:35:09Z"
+    },
+    {
+      "name": "aronhy/pibrowse",
+      "description": "Open-source browser profile workspaces",
+      "url": "https://github.com/aronhy/pibrowse",
+      "stars": 366,
+      "forks": 107,
+      "language": "TypeScript",
+      "updated_at": "2026-11-14T01:57:17Z"
+    },
+    {
+      "name": "lizTheDeveloper/flyover-scrub",
+      "description": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
+      "url": "https://github.com/lizTheDeveloper/flyover-scrub",
+      "stars": 357,
+      "forks": 27,
+      "language": "Python",
+      "updated_at": "2026-11-14T03:19:22Z"
+    },
+    {
+      "name": "opencoredev/islandcn",
+      "description": "The open-source Dynamic Island for React, installed with shadcn.",
+      "url": "https://github.com/opencoredev/islandcn",
+      "stars": 353,
+      "forks": 34,
+      "language": "TypeScript",
+      "updated_at": "2026-11-14T03:41:07Z"
     }
   ]
 }
