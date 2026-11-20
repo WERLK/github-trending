@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-11-19T04:39:00.544Z",
+  "fetched_at": "2026-11-20T04:29:30.555Z",
   "repos": [
-    {
-      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
-      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
-      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "stars": 4108,
-      "forks": 356,
-      "language": "C++",
-      "updated_at": "2026-11-19T04:38:40Z"
-    },
     {
       "name": "erkamyaman/rust-anything",
       "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "stars": 3607,
-      "forks": 296,
+      "stars": 5407,
+      "forks": 437,
       "language": "Rust",
-      "updated_at": "2026-11-19T04:38:19Z"
+      "updated_at": "2026-11-20T04:27:42Z"
     },
     {
-      "name": "duwqijlk/muse-protocol",
-      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "url": "https://github.com/duwqijlk/muse-protocol",
-      "stars": 1630,
-      "forks": 641,
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 4729,
+      "forks": 407,
+      "language": "C++",
+      "updated_at": "2026-11-20T04:25:42Z"
+    },
+    {
+      "name": "gylive/google-ultra",
+      "description": null,
+      "url": "https://github.com/gylive/google-ultra",
+      "stars": 2471,
+      "forks": 43,
       "language": "Python",
-      "updated_at": "2026-11-19T04:01:57Z"
-    },
-    {
-      "name": "CzzzzzzJ/mdldm-maitian",
-      "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-      "stars": 1374,
-      "forks": 430,
-      "language": "JavaScript",
-      "updated_at": "2026-11-19T04:33:25Z"
+      "updated_at": "2026-11-20T04:25:45Z"
     },
     {
       "name": "Hut-hzf/ung220z-tool",
       "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "stars": 1354,
-      "forks": 336,
+      "stars": 1800,
+      "forks": 420,
       "language": "Python",
-      "updated_at": "2026-11-19T04:38:48Z"
+      "updated_at": "2026-11-20T04:29:01Z"
     },
     {
-      "name": "sybil-solutions/inference-optimisation-skill",
-      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "stars": 1140,
-      "forks": 107,
+      "name": "duwqijlk/muse-protocol",
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "stars": 1660,
+      "forks": 658,
       "language": "Python",
-      "updated_at": "2026-11-19T04:37:00Z"
+      "updated_at": "2026-11-20T04:18:20Z"
+    },
+    {
+      "name": "CzzzzzzJ/mdldm-maitian",
+      "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+      "stars": 1630,
+      "forks": 480,
+      "language": "JavaScript",
+      "updated_at": "2026-11-20T04:13:22Z"
     },
     {
       "name": "haziqahmedqasmi/PeakCut",
       "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
       "url": "https://github.com/haziqahmedqasmi/PeakCut",
-      "stars": 1113,
-      "forks": 378,
+      "stars": 1370,
+      "forks": 465,
       "language": "Python",
-      "updated_at": "2026-11-19T04:33:24Z"
+      "updated_at": "2026-11-20T04:27:11Z"
+    },
+    {
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "stars": 1271,
+      "forks": 114,
+      "language": "Python",
+      "updated_at": "2026-11-20T04:00:52Z"
     },
     {
       "name": "joshpuckett/allo",
       "description": "Allo is your friendly neighborhood typeface, free and open source",
       "url": "https://github.com/joshpuckett/allo",
-      "stars": 1059,
-      "forks": 28,
+      "stars": 1164,
+      "forks": 31,
       "language": "Python",
-      "updated_at": "2026-11-19T04:01:56Z"
+      "updated_at": "2026-11-20T04:19:01Z"
     },
     {
-      "name": "zephyr4123/snug",
-      "description": "为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在手机上拥有原生级的操作体验。A native-grade iPhone workspace for controlling your Mac over UU Remote.",
-      "url": "https://github.com/zephyr4123/snug",
-      "stars": 998,
-      "forks": 75,
-      "language": "Swift",
-      "updated_at": "2026-11-19T04:27:54Z"
+      "name": "sourmitocand1987/VividFrame-GPU",
+      "description": "Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video · real-time video enhancement · hdr · super-resolution · game-streaming · moonlight · dolby-vision · frame-interpolation · video-player · media-player · video-super-resolution · video-processing · upscaling · rife · vulkan · nvidia · windows · video-enhancement · ncnn",
+      "url": "https://github.com/sourmitocand1987/VividFrame-GPU",
+      "stars": 1064,
+      "forks": 23,
+      "language": null,
+      "updated_at": "2026-11-20T04:27:52Z"
+    },
+    {
+      "name": "bothaggsigym1988/frameglide",
+      "description": "From a 30 fps console stream to 60–120 fps on your PC. · frame-interpolation · frame-generation · nvidia · windows · dlss · super-resolution · vulkan · dlss5 · upscaling · rife · neural-rendering · ps5 · rtx · remote-play · pytorch · video · chiaki · optical-flow · video-frame-interpolation · amd · tensorrt · fsr · rtx-vsr · video-upscaling",
+      "url": "https://github.com/bothaggsigym1988/frameglide",
+      "stars": 1016,
+      "forks": 21,
+      "language": null,
+      "updated_at": "2026-11-20T04:29:29Z"
+    },
+    {
+      "name": "Bodila51/gtavi-claudecode",
+      "description": "Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.",
+      "url": "https://github.com/Bodila51/gtavi-claudecode",
+      "stars": 961,
+      "forks": 214,
+      "language": "Python",
+      "updated_at": "2026-11-20T04:27:11Z"
     },
     {
       "name": "chuanqisun/spaceship",
-      "description": "Steer your ideas in realtime",
+      "description": "Steer ideas like a space pilot!",
       "url": "https://github.com/chuanqisun/spaceship",
-      "stars": 875,
-      "forks": 88,
+      "stars": 954,
+      "forks": 100,
       "language": "HTML",
-      "updated_at": "2026-11-19T04:14:52Z"
-    },
-    {
-      "name": "opencoredev/islandcn",
-      "description": "The open-source Dynamic Island for React, installed with shadcn.",
-      "url": "https://github.com/opencoredev/islandcn",
-      "stars": 814,
-      "forks": 65,
-      "language": "TypeScript",
-      "updated_at": "2026-11-19T04:04:59Z"
+      "updated_at": "2026-11-20T04:20:17Z"
     },
     {
       "name": "n4ze3m/tiny-voca",
       "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
       "url": "https://github.com/n4ze3m/tiny-voca",
-      "stars": 752,
-      "forks": 96,
+      "stars": 774,
+      "forks": 98,
       "language": "Python",
-      "updated_at": "2026-11-19T03:25:23Z"
+      "updated_at": "2026-11-20T02:39:35Z"
+    },
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "stars": 753,
+      "forks": 1,
+      "language": null,
+      "updated_at": "2026-11-20T04:29:19Z"
     },
     {
       "name": "yetanotherbrowser/yab",
       "description": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
       "url": "https://github.com/yetanotherbrowser/yab",
-      "stars": 724,
-      "forks": 68,
+      "stars": 740,
+      "forks": 77,
       "language": "Swift",
-      "updated_at": "2026-11-19T02:53:19Z"
-    },
-    {
-      "name": "mit-han-lab/pear",
-      "description": "Training Reasoning Models in Simulation to Natively Use Real Robots",
-      "url": "https://github.com/mit-han-lab/pear",
-      "stars": 688,
-      "forks": 43,
-      "language": "Python",
-      "updated_at": "2026-11-19T04:27:29Z"
+      "updated_at": "2026-11-20T04:01:55Z"
     },
     {
       "name": "boringmarketer/boring-marketing-skills",
       "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
       "url": "https://github.com/boringmarketer/boring-marketing-skills",
-      "stars": 673,
-      "forks": 250,
+      "stars": 722,
+      "forks": 262,
       "language": "Python",
-      "updated_at": "2026-11-19T04:25:55Z"
-    },
-    {
-      "name": "Illson/RustText",
-      "description": null,
-      "url": "https://github.com/Illson/RustText",
-      "stars": 624,
-      "forks": 2,
-      "language": "Rust",
-      "updated_at": "2026-11-19T04:36:38Z"
+      "updated_at": "2026-11-20T04:07:18Z"
     },
     {
       "name": "siliconjungle/shapeshift-labs-ink-studio",
       "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
       "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-      "stars": 577,
-      "forks": 45,
+      "stars": 717,
+      "forks": 56,
       "language": "JavaScript",
-      "updated_at": "2026-11-19T04:34:54Z"
+      "updated_at": "2026-11-20T04:14:03Z"
     },
     {
-      "name": "faizfahmi77/ScanDot",
-      "description": "Experimental Android 3D scanning and point-cloud viewer",
-      "url": "https://github.com/faizfahmi77/ScanDot",
-      "stars": 545,
-      "forks": 5,
-      "language": "Kotlin",
-      "updated_at": "2026-11-18T06:32:35Z"
+      "name": "0marContreras/gta6recomp",
+      "description": "A GTA VI PC Port",
+      "url": "https://github.com/0marContreras/gta6recomp",
+      "stars": 680,
+      "forks": 38,
+      "language": null,
+      "updated_at": "2026-11-20T04:25:15Z"
     },
     {
-      "name": "quer3q/kraken-mount",
-      "description": "Minimalist PS5 game mounter supporting PKG, folder dumps, zstd and lz4",
-      "url": "https://github.com/quer3q/kraken-mount",
-      "stars": 522,
-      "forks": 44,
-      "language": "Rust",
-      "updated_at": "2026-11-19T04:03:27Z"
+      "name": "mankidev/antialgorithm",
+      "description": "Claude Code skill that steers the model away from its first, most average pick in creative work: names, ideas, posters, UI.",
+      "url": "https://github.com/mankidev/antialgorithm",
+      "stars": 509,
+      "forks": 31,
+      "language": "Python",
+      "updated_at": "2026-11-20T04:11:33Z"
+    },
+    {
+      "name": "nilbuild/stick-scene",
+      "description": "Skill to draw stick figure animated visuals",
+      "url": "https://github.com/nilbuild/stick-scene",
+      "stars": 505,
+      "forks": 54,
+      "language": "JavaScript",
+      "updated_at": "2026-11-20T03:59:33Z"
     },
     {
       "name": "YellowLaborerMarket/Gemini-Config-Checker-",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
-      "stars": 475,
+      "stars": 474,
       "forks": 0,
       "language": "Makefile",
-      "updated_at": "2026-11-17T12:40:13Z"
+      "updated_at": "2026-11-19T09:37:41Z"
     },
     {
       "name": "weightcashiercupola/Gemini-Config-Checker-",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
-      "stars": 474,
+      "stars": 473,
       "forks": 0,
       "language": "Makefile",
-      "updated_at": "2026-11-19T01:55:00Z"
+      "updated_at": "2026-11-19T09:39:50Z"
     },
     {
       "name": "WindGatorRise37/Gemini-Config-Checker-",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
-      "stars": 473,
+      "stars": 472,
       "forks": 0,
       "language": "Makefile",
-      "updated_at": "2026-11-16T17:28:00Z"
+      "updated_at": "2026-11-19T09:39:42Z"
     },
     {
       "name": "WyrmClimberManacle/Gemini-Config-Checker-",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
-      "stars": 473,
+      "stars": 472,
       "forks": 0,
       "language": "Makefile",
-      "updated_at": "2026-11-16T17:27:57Z"
+      "updated_at": "2026-11-19T09:39:34Z"
     },
     {
       "name": "TurtleReside/Gemini-Config-Checker-",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
-      "stars": 473,
+      "stars": 472,
       "forks": 0,
       "language": "Go",
-      "updated_at": "2026-11-16T17:27:49Z"
+      "updated_at": "2026-11-19T09:37:47Z"
     },
     {
       "name": "weldbladesmithwharf/Gemini-Config-Checker-",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
-      "stars": 473,
+      "stars": 472,
       "forks": 0,
       "language": "Makefile",
-      "updated_at": "2026-11-16T17:28:01Z"
-    },
-    {
-      "name": "WindowStaffGate11/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-",
-      "stars": 473,
-      "forks": 0,
-      "language": "Makefile",
-      "updated_at": "2026-11-16T17:27:46Z"
+      "updated_at": "2026-11-19T09:39:49Z"
     },
     {
       "name": "WerewolfEmuHub/Gemini-Config-Checker-",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "url": "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-",
-      "stars": 473,
+      "stars": 472,
       "forks": 0,
       "language": "Go",
-      "updated_at": "2026-11-16T17:27:47Z"
+      "updated_at": "2026-11-19T09:39:44Z"
+    },
+    {
+      "name": "WindowStaffGate11/Gemini-Config-Checker-",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "url": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-",
+      "stars": 472,
+      "forks": 0,
+      "language": "Makefile",
+      "updated_at": "2026-11-19T09:39:41Z"
     },
     {
       "name": "Violetnyudress/Gemini-Config-Checker-",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-      "stars": 473,
+      "stars": 472,
       "forks": 0,
       "language": "Go",
-      "updated_at": "2026-11-16T17:27:52Z"
-    },
-    {
-      "name": "TrooperFilter/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
-      "stars": 473,
-      "forks": 0,
-      "language": "Makefile",
-      "updated_at": "2026-11-16T17:28:02Z"
-    },
-    {
-      "name": "wisemeadowlarkspike/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
-      "stars": 473,
-      "forks": 0,
-      "language": "Go",
-      "updated_at": "2026-11-16T17:27:55Z"
+      "updated_at": "2026-11-19T09:37:47Z"
     }
   ]
 }
