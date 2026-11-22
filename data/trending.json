@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-11-21T04:23:16.421Z",
+  "fetched_at": "2026-11-22T03:37:57.373Z",
   "repos": [
     {
       "name": "erkamyaman/rust-anything",
       "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "stars": 6768,
-      "forks": 536,
+      "stars": 7492,
+      "forks": 599,
       "language": "Rust",
-      "updated_at": "2026-11-21T04:22:23Z"
+      "updated_at": "2026-11-22T03:34:09Z"
+    },
+    {
+      "name": "ItsNotRexed/Leonida",
+      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "stars": 6617,
+      "forks": 500,
+      "language": "Python",
+      "updated_at": "2026-11-22T03:37:44Z"
     },
     {
       "name": "krisgfx9/Wireless-Device-Battery-Monitor",
       "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "stars": 5385,
-      "forks": 449,
+      "stars": 5855,
+      "forks": 492,
       "language": "C++",
-      "updated_at": "2026-11-21T04:07:30Z"
+      "updated_at": "2026-11-22T03:36:20Z"
     },
     {
       "name": "gylive/google-ultra",
       "description": null,
       "url": "https://github.com/gylive/google-ultra",
-      "stars": 2542,
-      "forks": 63,
+      "stars": 2604,
+      "forks": 81,
       "language": "Python",
-      "updated_at": "2026-11-21T03:55:00Z"
-    },
-    {
-      "name": "Hut-hzf/ung220z-tool",
-      "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-      "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "stars": 2049,
-      "forks": 469,
-      "language": "Python",
-      "updated_at": "2026-11-21T04:22:22Z"
+      "updated_at": "2026-11-22T03:22:31Z"
     },
     {
       "name": "bookwjitchieni1986/blender-ai-mcp-addon",
       "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
       "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "stars": 1820,
-      "forks": 18,
+      "stars": 2567,
+      "forks": 35,
       "language": null,
-      "updated_at": "2026-11-21T04:17:21Z"
-    },
-    {
-      "name": "sybil-solutions/inference-optimisation-skill",
-      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "stars": 1360,
-      "forks": 123,
-      "language": "Python",
-      "updated_at": "2026-11-21T04:20:17Z"
+      "updated_at": "2026-11-22T03:36:39Z"
     },
     {
       "name": "iamajmeena/neonclipping",
       "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "url": "https://github.com/iamajmeena/neonclipping",
-      "stars": 1280,
-      "forks": 61,
+      "stars": 1752,
+      "forks": 87,
       "language": "Python",
-      "updated_at": "2026-11-21T04:20:51Z"
+      "updated_at": "2026-11-22T03:30:11Z"
     },
     {
-      "name": "joshpuckett/allo",
-      "description": "Allo is your friendly neighborhood typeface, free and open source",
-      "url": "https://github.com/joshpuckett/allo",
-      "stars": 1259,
-      "forks": 35,
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "stars": 1710,
+      "forks": 153,
       "language": "Python",
-      "updated_at": "2026-11-21T04:16:58Z"
+      "updated_at": "2026-11-22T03:34:29Z"
+    },
+    {
+      "name": "hatsunemiku-ai/google-one-tools",
+      "description": null,
+      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
+      "stars": 1099,
+      "forks": 528,
+      "language": "Python",
+      "updated_at": "2026-11-22T03:35:55Z"
     },
     {
       "name": "chuanqisun/spaceship",
       "description": "Steer ideas like a space pilot!",
       "url": "https://github.com/chuanqisun/spaceship",
-      "stars": 995,
-      "forks": 105,
+      "stars": 1025,
+      "forks": 109,
       "language": "HTML",
-      "updated_at": "2026-11-21T03:40:08Z"
+      "updated_at": "2026-11-22T02:26:53Z"
     },
     {
-      "name": "siliconjungle/shapeshift-labs-ink-studio",
-      "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
-      "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-      "stars": 884,
-      "forks": 72,
-      "language": "JavaScript",
-      "updated_at": "2026-11-21T04:16:50Z"
+      "name": "R0Y00/Xbox2Windows",
+      "description": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures, script-state replay and D3D12/PE checks.",
+      "url": "https://github.com/R0Y00/Xbox2Windows",
+      "stars": 977,
+      "forks": 91,
+      "language": "Python",
+      "updated_at": "2026-11-22T03:31:31Z"
     },
     {
       "name": "Lemxy/WinRust",
       "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
       "url": "https://github.com/Lemxy/WinRust",
-      "stars": 777,
-      "forks": 39,
+      "stars": 969,
+      "forks": 51,
       "language": "Rust",
-      "updated_at": "2026-11-21T04:18:45Z"
+      "updated_at": "2026-11-22T02:54:03Z"
+    },
+    {
+      "name": "siliconjungle/shapeshift-labs-ink-studio",
+      "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
+      "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+      "stars": 967,
+      "forks": 81,
+      "language": "JavaScript",
+      "updated_at": "2026-11-22T03:32:51Z"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "url": "https://github.com/omonkeyz/xbox-emulator",
+      "stars": 852,
+      "forks": 43,
+      "language": "Rust",
+      "updated_at": "2026-11-22T03:35:35Z"
     },
     {
       "name": "boringmarketer/boring-marketing-skills",
       "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
       "url": "https://github.com/boringmarketer/boring-marketing-skills",
-      "stars": 745,
-      "forks": 273,
+      "stars": 778,
+      "forks": 280,
       "language": "Python",
-      "updated_at": "2026-11-21T01:18:51Z"
-    },
-    {
-      "name": "0xkaka/homeport",
-      "description": null,
-      "url": "https://github.com/0xkaka/homeport",
-      "stars": 597,
-      "forks": 102,
-      "language": "HTML",
-      "updated_at": "2026-11-21T04:19:36Z"
+      "updated_at": "2026-11-22T02:53:41Z"
     },
     {
       "name": "MSNightmare/FastUnlock",
       "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
       "url": "https://github.com/MSNightmare/FastUnlock",
-      "stars": 591,
-      "forks": 95,
+      "stars": 651,
+      "forks": 107,
       "language": null,
-      "updated_at": "2026-11-21T04:21:31Z"
+      "updated_at": "2026-11-22T03:30:38Z"
     },
     {
-      "name": "nilbuild/stick-scene",
-      "description": "Skill to draw stick figure animated visuals",
-      "url": "https://github.com/nilbuild/stick-scene",
-      "stars": 538,
-      "forks": 60,
-      "language": "JavaScript",
-      "updated_at": "2026-11-21T02:58:54Z"
+      "name": "0xkaka/homeport",
+      "description": null,
+      "url": "https://github.com/0xkaka/homeport",
+      "stars": 616,
+      "forks": 108,
+      "language": "HTML",
+      "updated_at": "2026-11-22T02:40:31Z"
     },
     {
       "name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
       "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
       "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-      "stars": 512,
-      "forks": 418,
+      "stars": 540,
+      "forks": 440,
       "language": "Python",
-      "updated_at": "2026-11-21T04:19:46Z"
+      "updated_at": "2026-11-22T03:28:42Z"
     },
     {
-      "name": "YellowLaborerMarket/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
-      "stars": 474,
-      "forks": 0,
-      "language": "Makefile",
-      "updated_at": "2026-11-19T09:37:41Z"
+      "name": "replit/datacat",
+      "description": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
+      "url": "https://github.com/replit/datacat",
+      "stars": 495,
+      "forks": 52,
+      "language": "TypeScript",
+      "updated_at": "2026-11-22T01:44:56Z"
     },
     {
-      "name": "weightcashiercupola/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
-      "stars": 473,
-      "forks": 0,
-      "language": "Makefile",
-      "updated_at": "2026-11-19T09:39:50Z"
+      "name": "Illson/RustText",
+      "description": "Portable Windows text editor with Sublime Text-style multi-cursor editing, regex find and replace, split views, and a live viewer for large log files.",
+      "url": "https://github.com/Illson/RustText",
+      "stars": 468,
+      "forks": 2,
+      "language": "C#",
+      "updated_at": "2026-11-22T03:09:54Z"
     },
     {
-      "name": "WindGatorRise37/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
-      "stars": 472,
-      "forks": 0,
-      "language": "Makefile",
-      "updated_at": "2026-11-19T09:39:42Z"
+      "name": "CocoSgt/riemann-hypothesis-lean",
+      "description": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge",
+      "url": "https://github.com/CocoSgt/riemann-hypothesis-lean",
+      "stars": 449,
+      "forks": 71,
+      "language": "Lean",
+      "updated_at": "2026-11-22T02:57:39Z"
     },
     {
-      "name": "WyrmClimberManacle/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
-      "stars": 472,
-      "forks": 0,
-      "language": "Makefile",
-      "updated_at": "2026-11-19T09:39:34Z"
+      "name": "leanprover-community/riemann-hypothesis",
+      "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis",
+      "stars": 427,
+      "forks": 87,
+      "language": "Lean",
+      "updated_at": "2026-11-22T03:26:16Z"
     },
     {
-      "name": "TurtleReside/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
-      "stars": 472,
-      "forks": 0,
-      "language": "Go",
-      "updated_at": "2026-11-19T09:37:47Z"
+      "name": "duwqijlk/google-trial-tool",
+      "description": null,
+      "url": "https://github.com/duwqijlk/google-trial-tool",
+      "stars": 400,
+      "forks": 164,
+      "language": "JavaScript",
+      "updated_at": "2026-11-22T03:16:05Z"
     },
     {
-      "name": "weldbladesmithwharf/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
-      "stars": 472,
-      "forks": 0,
-      "language": "Makefile",
-      "updated_at": "2026-11-19T09:39:49Z"
+      "name": "danielwh2/sprite-stacking",
+      "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "url": "https://github.com/danielwh2/sprite-stacking",
+      "stars": 388,
+      "forks": 27,
+      "language": "HTML",
+      "updated_at": "2026-11-22T03:31:34Z"
     },
     {
-      "name": "WindowStaffGate11/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-",
-      "stars": 472,
-      "forks": 0,
-      "language": "Makefile",
-      "updated_at": "2026-11-19T09:39:41Z"
+      "name": "CoderL98/hghub-plugins",
+      "description": "HGhub HPP 1.0 单文件插件与订阅源",
+      "url": "https://github.com/CoderL98/hghub-plugins",
+      "stars": 385,
+      "forks": 66,
+      "language": "JavaScript",
+      "updated_at": "2026-11-22T03:37:19Z"
     },
     {
-      "name": "WerewolfEmuHub/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-",
-      "stars": 472,
-      "forks": 0,
-      "language": "Go",
-      "updated_at": "2026-11-19T09:39:44Z"
+      "name": "sybil-solutions/skill-distill",
+      "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+      "url": "https://github.com/sybil-solutions/skill-distill",
+      "stars": 380,
+      "forks": 30,
+      "language": "Python",
+      "updated_at": "2026-11-22T03:23:19Z"
     },
     {
-      "name": "Violetnyudress/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-      "stars": 472,
-      "forks": 0,
-      "language": "Go",
-      "updated_at": "2026-11-19T09:37:47Z"
+      "name": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+      "description": "DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+      "url": "https://github.com/kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+      "stars": 361,
+      "forks": 58,
+      "language": "Jupyter Notebook",
+      "updated_at": "2026-11-22T03:33:46Z"
     },
     {
-      "name": "TrooperFilter/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
-      "stars": 472,
-      "forks": 0,
-      "language": "Makefile",
-      "updated_at": "2026-11-19T09:39:55Z"
+      "name": "staryone/motlab",
+      "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
+      "url": "https://github.com/staryone/motlab",
+      "stars": 357,
+      "forks": 44,
+      "language": "JavaScript",
+      "updated_at": "2026-11-22T03:03:44Z"
     },
     {
-      "name": "Watchlespeed/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/Watchlespeed/Gemini-Config-Checker-",
-      "stars": 472,
-      "forks": 0,
-      "language": "Makefile",
-      "updated_at": "2026-11-19T09:39:46Z"
+      "name": "leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64",
+      "description": "GTA 6 Vice City PS5 Remote Play 60FPS FrameGen Enhancer: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+      "url": "https://github.com/leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64",
+      "stars": 353,
+      "forks": 49,
+      "language": "Jupyter Notebook",
+      "updated_at": "2026-11-22T03:17:21Z"
     },
     {
-      "name": "wisemeadowlarkspike/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
-      "stars": 472,
-      "forks": 0,
-      "language": "Go",
-      "updated_at": "2026-11-19T09:39:38Z"
+      "name": "danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64",
+      "description": "War Thunder Realistic Tank Outline & Thermal Sight Mod: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+      "url": "https://github.com/danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64",
+      "stars": 351,
+      "forks": 50,
+      "language": "Jupyter Notebook",
+      "updated_at": "2026-11-22T03:20:24Z"
     },
     {
-      "name": "VortexHostFeel/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
-      "stars": 472,
-      "forks": 0,
-      "language": "Makefile",
-      "updated_at": "2026-11-19T09:39:56Z"
-    },
-    {
-      "name": "WingDataVacuum/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
-      "stars": 472,
-      "forks": 0,
-      "language": "Makefile",
-      "updated_at": "2026-11-19T09:39:39Z"
+      "name": "antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po",
+      "description": "Discord & Local Uncensored AI Discord Activity serial-utility, Quest Auto-Completer & Badge Booster: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+      "url": "https://github.com/antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po",
+      "stars": 348,
+      "forks": 52,
+      "language": "Jupyter Notebook",
+      "updated_at": "2026-11-22T03:11:56Z"
     }
   ]
 }
