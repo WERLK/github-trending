@@ -1,275 +1,275 @@
 {
-  "fetched_at": "2026-11-27T05:29:30.730Z",
+  "fetched_at": "2026-11-28T05:05:05.107Z",
   "repos": [
     {
       "name": "Marvisak/VIctory",
       "description": "An attempt at running GTA VI on PC",
       "url": "https://github.com/Marvisak/VIctory",
-      "stars": 13474,
-      "forks": 2271,
+      "stars": 13861,
+      "forks": 2399,
       "language": "Rust",
-      "updated_at": "2026-11-27T05:27:57Z"
+      "updated_at": "2026-11-28T04:59:33Z"
     },
     {
-      "name": "4lwayz/portwatch-vi",
-      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-      "url": "https://github.com/4lwayz/portwatch-vi",
-      "stars": 6009,
-      "forks": 174,
-      "language": "JavaScript",
-      "updated_at": "2026-11-27T05:29:02Z"
-    },
-    {
-      "name": "EL4CTEO/fast-anything",
-      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-      "url": "https://github.com/EL4CTEO/fast-anything",
-      "stars": 4289,
-      "forks": 308,
+      "name": "trustno1-coder/VIctory-NVIDIA",
+      "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+      "stars": 3976,
+      "forks": 1433,
       "language": "Rust",
-      "updated_at": "2026-11-27T05:29:16Z"
-    },
-    {
-      "name": "Belobug/VIctory-Belobug-AMD",
-      "description": null,
-      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-      "stars": 3342,
-      "forks": 958,
-      "language": "Rust",
-      "updated_at": "2026-11-27T05:28:41Z"
+      "updated_at": "2026-11-28T05:04:22Z"
     },
     {
       "name": "fxceless/victory-fork",
       "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
       "url": "https://github.com/fxceless/victory-fork",
-      "stars": 3294,
-      "forks": 993,
+      "stars": 3363,
+      "forks": 1016,
       "language": "Rust",
-      "updated_at": "2026-11-27T05:29:23Z"
+      "updated_at": "2026-11-28T04:41:12Z"
     },
     {
-      "name": "ubiquitarianism/leonida",
+      "name": "ProjectLeonida/mandy",
       "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
-      "url": "https://github.com/ubiquitarianism/leonida",
-      "stars": 2551,
-      "forks": 584,
+      "url": "https://github.com/ProjectLeonida/mandy",
+      "stars": 2978,
+      "forks": 648,
       "language": "Python",
-      "updated_at": "2026-11-27T05:29:17Z"
-    },
-    {
-      "name": "os6/nospeaker",
-      "description": "make your macbook's trackpad talk using its haptic motor",
-      "url": "https://github.com/os6/nospeaker",
-      "stars": 1963,
-      "forks": 104,
-      "language": "Swift",
-      "updated_at": "2026-11-27T05:18:46Z"
-    },
-    {
-      "name": "avatarmanz/VIctory-7900XTX",
-      "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
-      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
-      "stars": 1869,
-      "forks": 607,
-      "language": "Rust",
-      "updated_at": "2026-11-27T05:29:22Z"
-    },
-    {
-      "name": "omonkeyz/xbox-emulator",
-      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-      "url": "https://github.com/omonkeyz/xbox-emulator",
-      "stars": 1852,
-      "forks": 125,
-      "language": "Rust",
-      "updated_at": "2026-11-27T04:18:10Z"
-    },
-    {
-      "name": "crhywun/g1-acq",
-      "description": null,
-      "url": "https://github.com/crhywun/g1-acq",
-      "stars": 1689,
-      "forks": 386,
-      "language": "JavaScript",
-      "updated_at": "2026-11-27T05:27:03Z"
-    },
-    {
-      "name": "alesha-pro/llm.asm",
-      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-      "url": "https://github.com/alesha-pro/llm.asm",
-      "stars": 1670,
-      "forks": 253,
-      "language": "Assembly",
-      "updated_at": "2026-11-27T05:25:21Z"
-    },
-    {
-      "name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
-      "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
-      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
-      "stars": 1543,
-      "forks": 132,
-      "language": "Rust",
-      "updated_at": "2026-11-27T05:17:39Z"
-    },
-    {
-      "name": "qianyiai/KuroCat",
-      "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
-      "url": "https://github.com/qianyiai/KuroCat",
-      "stars": 1507,
-      "forks": 206,
-      "language": "TypeScript",
-      "updated_at": "2026-11-27T05:25:00Z"
+      "updated_at": "2026-11-28T05:03:53Z"
     },
     {
       "name": "nexu-io/opengame",
       "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
       "url": "https://github.com/nexu-io/opengame",
-      "stars": 1324,
-      "forks": 221,
+      "stars": 2413,
+      "forks": 386,
       "language": "TypeScript",
-      "updated_at": "2026-11-27T05:29:09Z"
+      "updated_at": "2026-11-28T05:02:37Z"
     },
     {
-      "name": "Indigo-0167/universal-game-mod-manager",
-      "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
-      "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
-      "stars": 1301,
-      "forks": 0,
-      "language": "Rust",
-      "updated_at": "2026-11-27T03:07:56Z"
+      "name": "alesha-pro/llm.asm",
+      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "url": "https://github.com/alesha-pro/llm.asm",
+      "stars": 2307,
+      "forks": 357,
+      "language": "Assembly",
+      "updated_at": "2026-11-28T04:56:39Z"
     },
     {
-      "name": "Umbra9179/clipboard-history-manager-windows",
-      "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
-      "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
-      "stars": 1265,
-      "forks": 1,
-      "language": "C#",
-      "updated_at": "2026-11-27T03:07:59Z"
+      "name": "os6/nospeaker",
+      "description": "make your macbook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker",
+      "stars": 1995,
+      "forks": 108,
+      "language": "Swift",
+      "updated_at": "2026-11-28T04:50:42Z"
     },
     {
-      "name": "deterministic-machines/deslop-please",
-      "description": "Bring (back) sanity to your code",
-      "url": "https://github.com/deterministic-machines/deslop-please",
-      "stars": 1163,
-      "forks": 59,
-      "language": "Rust",
-      "updated_at": "2026-11-27T05:25:57Z"
-    },
-    {
-      "name": "zero5122/offline-file-converter-windows",
-      "description": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
-      "url": "https://github.com/zero5122/offline-file-converter-windows",
-      "stars": 1072,
-      "forks": 2,
-      "language": "Python",
-      "updated_at": "2026-11-26T22:17:18Z"
-    },
-    {
-      "name": "solv4626/steam-achievement-manager-windows",
-      "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
-      "url": "https://github.com/solv4626/steam-achievement-manager-windows",
-      "stars": 1058,
-      "forks": 0,
-      "language": "Rust",
-      "updated_at": "2026-11-25T20:08:18Z"
-    },
-    {
-      "name": "kai415-debug/ffmpeg-video-audio-converter",
-      "description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
-      "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
-      "stars": 1020,
-      "forks": 0,
-      "language": "C++",
-      "updated_at": "2026-11-25T20:06:37Z"
+      "name": "crhywun/g1-acq",
+      "description": null,
+      "url": "https://github.com/crhywun/g1-acq",
+      "stars": 1812,
+      "forks": 415,
+      "language": "JavaScript",
+      "updated_at": "2026-11-28T04:59:58Z"
     },
     {
       "name": "Reukix/Reloc",
       "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
       "url": "https://github.com/Reukix/Reloc",
-      "stars": 976,
-      "forks": 176,
+      "stars": 1805,
+      "forks": 368,
       "language": "Swift",
-      "updated_at": "2026-11-27T05:28:26Z"
+      "updated_at": "2026-11-28T05:03:11Z"
     },
     {
-      "name": "sybil-solutions/skill-distill",
-      "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
-      "url": "https://github.com/sybil-solutions/skill-distill",
-      "stars": 939,
-      "forks": 81,
-      "language": "Python",
-      "updated_at": "2026-11-27T05:20:33Z"
-    },
-    {
-      "name": "lsernau/grh-lean",
-      "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
-      "url": "https://github.com/lsernau/grh-lean",
-      "stars": 924,
-      "forks": 102,
-      "language": "Lean",
-      "updated_at": "2026-11-27T05:24:06Z"
-    },
-    {
-      "name": "xikhar/papercraft",
-      "description": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
-      "url": "https://github.com/xikhar/papercraft",
-      "stars": 838,
-      "forks": 91,
-      "language": "JavaScript",
-      "updated_at": "2026-11-27T05:06:02Z"
-    },
-    {
-      "name": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
-      "description": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
-      "url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
-      "stars": 803,
-      "forks": 47,
-      "language": "HTML",
-      "updated_at": "2026-11-27T05:25:02Z"
-    },
-    {
-      "name": "erkamyaman/safe-anything",
-      "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
-      "url": "https://github.com/erkamyaman/safe-anything",
-      "stars": 797,
-      "forks": 87,
+      "name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "stars": 1673,
+      "forks": 150,
       "language": "Rust",
-      "updated_at": "2026-11-27T05:22:14Z"
+      "updated_at": "2026-11-28T05:02:18Z"
     },
     {
-      "name": "zortos293/XSEmu",
-      "description": "Experimental Xbox Series X|S (GDK) title runner for Windows, built on the XCL translation layer: D3D12.X to D3D12, RDNA2 shaders to DXIL.",
-      "url": "https://github.com/zortos293/XSEmu",
-      "stars": 730,
-      "forks": 50,
+      "name": "Pixel679-cmyk/windows-titlebar-blur-customizer",
+      "description": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
+      "url": "https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer",
+      "stars": 1505,
+      "forks": 0,
+      "language": "C++",
+      "updated_at": "2026-11-27T21:38:14Z"
+    },
+    {
+      "name": "Indigo-0167/universal-game-mod-manager",
+      "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+      "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+      "stars": 1371,
+      "forks": 1,
       "language": "Rust",
-      "updated_at": "2026-11-27T05:29:27Z"
+      "updated_at": "2026-11-28T00:59:47Z"
     },
     {
       "name": "ZigZagBoi1/ScarlettPort",
       "description": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
       "url": "https://github.com/ZigZagBoi1/ScarlettPort",
-      "stars": 729,
-      "forks": 65,
+      "stars": 1360,
+      "forks": 194,
       "language": "Rust",
-      "updated_at": "2026-11-27T05:29:14Z"
+      "updated_at": "2026-11-28T04:58:11Z"
     },
     {
-      "name": "DoubleGhosty/cool_fox",
-      "description": "cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV",
-      "url": "https://github.com/DoubleGhosty/cool_fox",
-      "stars": 728,
-      "forks": 423,
+      "name": "deterministic-machines/deslop-please",
+      "description": "Bring (back) sanity to your code",
+      "url": "https://github.com/deterministic-machines/deslop-please",
+      "stars": 1353,
+      "forks": 74,
       "language": "Rust",
-      "updated_at": "2026-11-27T05:25:16Z"
+      "updated_at": "2026-11-28T04:44:25Z"
+    },
+    {
+      "name": "Umbra9179/clipboard-history-manager-windows",
+      "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+      "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+      "stars": 1272,
+      "forks": 1,
+      "language": "C#",
+      "updated_at": "2026-11-28T02:23:24Z"
+    },
+    {
+      "name": "solv4626/steam-achievement-manager-windows",
+      "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+      "url": "https://github.com/solv4626/steam-achievement-manager-windows",
+      "stars": 1236,
+      "forks": 1,
+      "language": "Rust",
+      "updated_at": "2026-11-27T23:26:34Z"
+    },
+    {
+      "name": "Basil0879/steam-game-idler",
+      "description": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
+      "url": "https://github.com/Basil0879/steam-game-idler",
+      "stars": 1171,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2026-11-28T05:04:09Z"
+    },
+    {
+      "name": "kai415-debug/ffmpeg-video-audio-converter",
+      "description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+      "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+      "stars": 1136,
+      "forks": 0,
+      "language": "C++",
+      "updated_at": "2026-11-28T00:55:14Z"
+    },
+    {
+      "name": "Nebula4207/av1-video-encoder-gui",
+      "description": "Free Windows AV1 video encoder GUI for aomenc, rav1e, SVT-AV1, NVENC, Quick Sync and VP9 with parallel encoding.",
+      "url": "https://github.com/Nebula4207/av1-video-encoder-gui",
+      "stars": 1107,
+      "forks": 1,
+      "language": "C#",
+      "updated_at": "2026-11-28T03:18:38Z"
+    },
+    {
+      "name": "umbradev315/ffmpeg-video-audio-converter",
+      "description": "Free open-source FFmpeg GUI for Windows to convert video and audio, batch process media, and analyze quality.",
+      "url": "https://github.com/umbradev315/ffmpeg-video-audio-converter",
+      "stars": 1091,
+      "forks": 0,
+      "language": "Kotlin",
+      "updated_at": "2026-11-28T05:02:36Z"
+    },
+    {
+      "name": "lsernau/grh-lean",
+      "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+      "url": "https://github.com/lsernau/grh-lean",
+      "stars": 1066,
+      "forks": 120,
+      "language": "Lean",
+      "updated_at": "2026-11-28T04:59:08Z"
+    },
+    {
+      "name": "peak85-sketch/stardew-valley-mod-manager",
+      "description": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates and custom profiles.",
+      "url": "https://github.com/peak85-sketch/stardew-valley-mod-manager",
+      "stars": 1048,
+      "forks": 0,
+      "language": "C#",
+      "updated_at": "2026-11-28T05:02:15Z"
     },
     {
       "name": "olive527/steam-library-manager-windows",
       "description": "Free Windows game library manager and backup tool for Steam, Origin and Ubisoft Connect with multi-library support.",
       "url": "https://github.com/olive527/steam-library-manager-windows",
-      "stars": 719,
+      "stars": 1023,
       "forks": 0,
       "language": "C#",
-      "updated_at": "2026-11-25T20:08:17Z"
+      "updated_at": "2026-11-28T00:22:16Z"
+    },
+    {
+      "name": "DeadInternetStudios/100x-engineer-skill",
+      "description": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
+      "url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+      "stars": 1022,
+      "forks": 139,
+      "language": "JavaScript",
+      "updated_at": "2026-11-28T05:03:07Z"
+    },
+    {
+      "name": "zortos293/XSEmu",
+      "description": "Experimental Xbox Series X|S (GDK) title runner for Windows, built on the XCL translation layer: D3D12.X to D3D12, RDNA2 shaders to DXIL.",
+      "url": "https://github.com/zortos293/XSEmu",
+      "stars": 934,
+      "forks": 61,
+      "language": "Rust",
+      "updated_at": "2026-11-28T04:58:42Z"
+    },
+    {
+      "name": "DoubleGhosty/cool_fox",
+      "description": "cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV",
+      "url": "https://github.com/DoubleGhosty/cool_fox",
+      "stars": 861,
+      "forks": 471,
+      "language": "Rust",
+      "updated_at": "2026-11-28T02:58:43Z"
+    },
+    {
+      "name": "erkamyaman/safe-anything",
+      "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+      "url": "https://github.com/erkamyaman/safe-anything",
+      "stars": 836,
+      "forks": 95,
+      "language": "Rust",
+      "updated_at": "2026-11-28T04:06:04Z"
+    },
+    {
+      "name": "gary23w/f-ck_data_brokers",
+      "description": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+      "url": "https://github.com/gary23w/f-ck_data_brokers",
+      "stars": 791,
+      "forks": 62,
+      "language": "Python",
+      "updated_at": "2026-11-28T05:03:40Z"
+    },
+    {
+      "name": "riveran0226/windows-explorer-blur-mica",
+      "description": "Free Windows 10 & 11 Explorer customization tool for Acrylic, Mica, transparency and background blur effects.",
+      "url": "https://github.com/riveran0226/windows-explorer-blur-mica",
+      "stars": 779,
+      "forks": 0,
+      "language": "C++",
+      "updated_at": "2026-11-28T05:04:05Z"
+    },
+    {
+      "name": "chanke17/KuroCat",
+      "description": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
+      "url": "https://github.com/chanke17/KuroCat",
+      "stars": 773,
+      "forks": 83,
+      "language": "C++",
+      "updated_at": "2026-11-28T04:21:32Z"
     }
   ]
 }
